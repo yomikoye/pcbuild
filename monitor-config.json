@@ -1,0 +1,33 @@
+{
+  "project": "Threadripper RTX 5090 AI / Gaming Workstation",
+  "location": "Poland",
+  "currency": "PLN",
+  "start_date": "2026-08-09",
+  "monitor_until": "2026-11-27",
+  "budget": {
+    "one_gpu_target_min_pln": 40000,
+    "one_gpu_target_max_pln": 45000,
+    "reassess_above_pln": 50000,
+    "strong_flag_below_pln": 40000
+  },
+  "products": [
+    {"category":"CPU","primary":"AMD Ryzen Threadripper 9960X","alternative":"AMD Ryzen Threadripper 9970X"},
+    {"category":"Motherboard","primary":"Gigabyte TRX50 AI TOP","alternative":"ASUS Pro WS TRX50-SAGE WiFi"},
+    {"category":"RAM","primary":"G.Skill Zeta R5 Neo 256GB 4x64GB ECC DDR5-6400 RDIMM EXPO","sku":"F5-6400R3239G64GQ4-ZR5NK","alternative":"Kingston FURY Renegade Pro 256GB 4x64GB","alternative_sku":"KF564R32RBEK4-256"},
+    {"category":"GPU","primary":"NVIDIA GeForce RTX 5090 Founders Edition 32GB","alternative":"ASUS ProArt RTX 5090 32GB","alternative_sku":"PROART-RTX5090-O32G","quantity_final":2},
+    {"category":"CPU cooler","primary":"Thermaltake AW420 TR5/SP6 420mm AIO","sku":"CL-W445-PL14BL-A"},
+    {"category":"Case","primary":"Phanteks Enthoo Elite Server","sku":"PH-ES916E_BK02","alternative":"Phanteks Enthoo Pro 2 Server V2","alternative_sku":"PH-ES620PC_BK03"},
+    {"category":"PSU","primary":"Seasonic PRIME PX-2200 ATX 3.1","required_revision":"ATX 3.1","watts":2200},
+    {"category":"SSD","primary":"Samsung 9100 PRO 4TB without heatsink","sku":"MZ-VAP4T0BW","quantity":2},
+    {"category":"Fan 140mm","primary":"Noctua NF-A14x25 G2 PWM chromax.black","quantity":6},
+    {"category":"Fan 120mm","primary":"Noctua NF-A12x25 G2 PWM chromax.black","quantity":6}
+  ],
+  "optional_gpu_watch": ["AMD Radeon AI PRO R9700 32GB", "AMD Radeon PRO W7900 48GB", "newer relevant AMD professional AI GPU"],
+  "seller_policy": {
+    "preferred_poland": ["x-kom", "Morele direct", "Komputronik", "Proline", "Sferis", "Media Expert", "Senetic"],
+    "acceptable_eu": ["Caseking", "Alternate", "established EU component specialists", "manufacturer direct", "Amazon sold directly by Amazon"],
+    "exclude_primary": ["Allegro marketplace", "eBay", "Facebook Marketplace", "unknown shops", "grey market", "used", "refurbished", "random dropshippers"]
+  },
+  "recommendation_classes": ["WAIT", "GOOD PRICE", "VERY GOOD PRICE", "BUY NOW", "EXCEPTIONAL / HISTORIC LOW"],
+  "architecture_changes_must_state": ["change", "reason", "price impact", "performance impact", "reliability impact", "compatibility impact", "dual-GPU impact"]
+}
