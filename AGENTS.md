@@ -12,7 +12,8 @@ Run a complete, evidence-based Poland/EU price check for the workstation in `mon
 8. Audit CPU/BIOS, memory QVL, case/motherboard/AIO/PSU/GPU dimensions, slot spacing/lane allocation, M.2 heatsinks, native 12V-2x6 leads, safe bend radius, EU mains requirements, fan groups, GPU support, and dual-GPU airflow before any BUY NOW recommendation.
 9. Track a comparable full prebuilt with whole-system warranty. Require exact motherboard, RAM kit, GPU, PSU, cooling, storage, VAT, delivery, and cross-border collection/RMA details.
 10. Write `reports/YYYY-MM-DD.md` in the requested report order: headline totals/deltas; detailed rows; BUY NOW / VERY GOOD PRICE / WATCH CLOSELY / WAIT; one- and two-GPU totals; prebuilt premium/savings; compatibility/warranty findings; evidence limitations and sources.
-11. Validate JSON/CSV syntax and run `git diff --check`, then commit the completed weekly data/report changes to `main` with a concise conventional commit and push to `origin/main`. Never push a partial or failed report.
-12. Send the user a concise Telegram summary with headline figures, alerts, missing/blocked parts, the report path, and the pushed commit identifier.
+11. Update the README `Weekly component price matrix`: append one date column per weekly run, show the best verified purchase-compatible gross price for each locked component or `—` when no qualifying offer exists, and preserve seller/source notes below the table. Daily Black Friday countdown observations remain in CSV/reports; add only the final daily low to the matrix unless a major alert warrants another column.
+12. Validate JSON/CSV syntax and run `git diff --check`, then commit the completed weekly data/report/README changes to `main` with a concise conventional commit and push to `origin/main`. Never push a partial or failed report.
+13. Send the user a concise Telegram summary with headline figures, alerts, missing/blocked parts, the report path, and the pushed commit identifier.
 
 Architecture is locked. Never silently turn this into a conventional gaming PC or claim two GPUs automatically provide unified VRAM.

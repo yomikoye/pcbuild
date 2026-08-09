@@ -41,6 +41,26 @@ Established Polish retailers are preferred. Established EU sellers are acceptabl
 
 Reports preserve unavailable fields as `unknown`; they do not invent prices or silently substitute incompatible revisions.
 
+## Weekly component price matrix
+
+Prices are gross PLN prices for the best verified qualifying offer on each observation date. `—` means no exact, purchase-compatible offer was verified. Foreign-currency listings use the cited NBP rate and exclude delivery until a Polish checkout total is available.
+
+| Component | Qty | 2026-08-09 |
+|---|---:|---:|
+| Threadripper 9960X | 1 | 6,573.07 |
+| Gigabyte TRX50 AI TOP | 1 | 4,579.00 |
+| 256GB matched ECC RDIMM | 1 kit | — |
+| RTX 5090 FE / ASUS ProArt | 1 | — |
+| Thermaltake AW420 | 1 | 1,434.40 |
+| Phanteks Enthoo Elite Server | 1 | 1,719.97* |
+| Seasonic PRIME PX-2200 ATX 3.1 | 1 | — |
+| Samsung 9100 PRO 4TB | 2 | 6,379.34 |
+| Noctua NF-A14x25 G2 chromax | 6 | 1,013.82 |
+| Noctua NF-A12x25 G2 chromax | 6 | 941.82 |
+| **Verified compatible total** |  | **Incomplete** |
+
+Sources for 2026-08-09: Amazon.pl direct for the CPU; x-kom for the motherboard; Morele direct for the AIO and fans; Senetic for SSDs; Caseking for the case. `*` Case price is €399.90 converted at NBP EUR/PLN 4.301 (2026-08-07); final Polish VAT treatment and shipping are not included, and stock is a pre-order expected 22 September.
+
 ## Monitoring cadence
 
 - Weekly from 9 August through 8 November 2026.
