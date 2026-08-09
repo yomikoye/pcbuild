@@ -10,19 +10,19 @@ Prices are gross PLN prices for the best verified qualifying offer on each obser
 |---|---:|---:|
 | Threadripper 9960X | 1 | 6,573.07 |
 | Gigabyte TRX50 AI TOP | 1 | 4,579.00 |
-| 256GB matched ECC RDIMM | 1 kit | — |
-| 128GB matched ECC RDIMM fallback | 1 kit | — |
-| Four identical 64GB ECC RDIMMs | 4 | — |
-| RTX 5090 FE / ASUS ProArt | 1 | — |
+| 256GB matched ECC RDIMM | 1 kit | No reputable PL/EU stock; target `F5-6400R3644E64GQ4-T5N` |
+| 128GB matched ECC RDIMM fallback | 1 kit | No reputable PL/EU stock; current target `F5-6400R3239F32GQ4-T5N` |
+| Four identical 64GB ECC RDIMMs | 4 | 28,253.88 `[RAM]` |
+| RTX 5090 FE / ASUS ProArt | 1 | 20,999.00 |
 | Thermaltake AW420 | 1 | 1,434.40 |
-| Phanteks Enthoo Elite Server | 1 | 1,719.97* |
-| Seasonic PRIME PX-2200 ATX 3.1 | 1 | — |
+| Phanteks Enthoo Elite Server | 1 | 1,719.97 `[case]` |
+| Seasonic PRIME PX-2200 ATX 3.1 | 1 | 2,173.14 `[PSU]` |
 | Samsung 9100 PRO 4TB | 2 | 6,379.34 |
 | Noctua NF-A14x25 G2 chromax | 6 | 1,013.82 |
 | Noctua NF-A12x25 G2 chromax | 6 | 941.82 |
-| **Verified compatible total** |  | **Incomplete** |
+| **Provisional one-GPU total** |  | **74,067.44 `[total]`** |
 
-Sources for 2026-08-09: Amazon.pl direct for the CPU; x-kom for the motherboard; Morele direct for the AIO and fans; Senetic for SSDs; Caseking for the case. `*` Case price is €399.90 converted at NBP EUR/PLN 4.301 (2026-08-07); final Polish VAT treatment and shipping are not included, and stock is a pre-order expected 22 September.
+Sources for 2026-08-09: Amazon.pl direct for the CPU; x-kom for the motherboard; NET-S for individual Micron RDIMMs; RTV Euro AGD via Ceneo evidence for the ProArt GPU; Morele direct for the PSU, AIO and fans; Senetic for SSDs; Caseking for the case. `[RAM]` assumes four NET-S modules at 7,063.47 PLN each, but four-unit inventory and identical revision/rank/batch must be confirmed. `[case]` is €399.90 converted at NBP EUR/PLN 4.301; the case is on pre-order and final Polish VAT/shipping is unresolved. `[PSU]` uses the directly purchasable Morele price; CAPS lists the same exact PSU at €468.72 / 2,015.96 PLN before final Polish VAT/shipping checkout verification. `[total]` uses the NET-S RAM configuration, RTV Euro AGD GPU, Morele PSU and Caseking displayed case price; it is not a buy-now total until RAM quantity identity, GPU checkout stock, case delivery, and final shipping/VAT are confirmed.
 
 ## Locked architecture
 
@@ -33,7 +33,7 @@ Sources for 2026-08-09: Amazon.pl direct for the CPU; x-kom for the motherboard;
 - GPU #2: future matching RTX 5090. It is for supported multi-GPU AI/compute workloads, not unified VRAM or ordinary gaming.
 - Cooler: Thermaltake AW420 TR5/SP6 `CL-W445-PL14BL-A`, top-mounted exhaust. No custom loop.
 - Case: Phanteks Enthoo Elite Server `PH-ES916E_BK02`; fallback Enthoo Pro 2 Server V2 `PH-ES620PC_BK03`.
-- PSU: Seasonic PRIME PX-2200, exact ATX 3.1 revision. Do not substitute the ATX 3.0 listing or reduce wattage without a documented full load/transient analysis.
+- PSU: Seasonic PRIME PX-2200 ATX 3.1. Seasonic officially confirms the 2200W ATX 3.1 / PCIe 5.1 model with two native 12V-2x6 cables. Retailer SKU `PRIME-PX-2200-ATX30`, EAN `4711173878414`, is the compatible product despite the legacy-looking `ATX30` suffix and inconsistent retailer title shorthand. Do not reject it based on the suffix alone.
 - Storage: 2x Samsung 9100 PRO 4TB bare drives `MZ-VAP4T0BW` (one initially acceptable if pricing is poor).
 - Fans: 6x Noctua NF-A14x25 G2 PWM chromax.black (4 front intake, 2 rear exhaust) and 6x Noctua NF-A12x25 G2 PWM chromax.black (side GPU intake). AW420's 3x140mm fans are top exhaust. Aim for slight positive pressure.
 - Hubs/support: use included Phanteks hardware first; add Noctua NA-FH1 or extra GPU supports only if proven necessary.
