@@ -11,6 +11,8 @@ Prices are gross PLN prices for the best verified qualifying offer on each obser
 | Threadripper 9960X | 1 | 6,573.07 |
 | Gigabyte TRX50 AI TOP | 1 | 4,579.00 |
 | 256GB matched ECC RDIMM | 1 kit | — |
+| 128GB matched ECC RDIMM fallback | 1 kit | — |
+| Four identical 64GB ECC RDIMMs | 4 | — |
 | RTX 5090 FE / ASUS ProArt | 1 | — |
 | Thermaltake AW420 | 1 | 1,434.40 |
 | Phanteks Enthoo Elite Server | 1 | 1,719.97* |
@@ -26,7 +28,7 @@ Sources for 2026-08-09: Amazon.pl direct for the CPU; x-kom for the motherboard;
 
 - CPU: AMD Ryzen Threadripper 9960X; track 9970X only when the premium becomes unusually compelling.
 - Motherboard: Gigabyte TRX50 AI TOP; compare ASUS Pro WS TRX50-SAGE WiFi, but never substitute silently.
-- RAM: 256GB (4x64GB) matched ECC DDR5 RDIMM kit validated for TRX50. Preferred exact kit: G.Skill Zeta R5 Neo `F5-6400R3239G64GQ4-ZR5NK`; alternative Kingston `KF564R32RBEK4-256` only after QVL validation.
+- RAM: 256GB remains the final target. Prefer a factory-matched 4x64GB ECC DDR5 RDIMM kit validated for TRX50. Also track matched 128GB 4x32GB kits as a temporary lower-cost starting point, plus four individually packaged 64GB RDIMMs when all four have the exact same manufacturer SKU/revision/rank/speed/timings/voltage and are bought together from one reputable seller, ideally from one batch. Never mix brands, SKUs, revisions, capacities, or memory types. The G.Skill Zeta R5 Neo 128GB reference `F5-6400R3239G32GQ4-ZR5NK` is marked EOL by G.Skill, so remaining reputable stock and current alternatives must be compared.
 - GPU #1: RTX 5090 32GB, preferably NVIDIA Founders Edition or ASUS ProArt `PROART-RTX5090-O32G`; compact dual-GPU suitability matters.
 - GPU #2: future matching RTX 5090. It is for supported multi-GPU AI/compute workloads, not unified VRAM or ordinary gaming.
 - Cooler: Thermaltake AW420 TR5/SP6 `CL-W445-PL14BL-A`, top-mounted exhaust. No custom loop.
