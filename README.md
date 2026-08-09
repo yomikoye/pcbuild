@@ -8,19 +8,19 @@ Prices are gross PLN prices for the best verified qualifying offer on each obser
 
 | Component | Qty | 2026-08-09 |
 |---|---:|---:|
-| Threadripper 9960X | 1 | 6,573.07 |
-| Gigabyte TRX50 AI TOP | 1 | 4,579.00 |
-| 256GB matched ECC RDIMM | 1 kit | No reputable PL/EU stock; target `F5-6400R3644E64GQ4-T5N` |
-| 128GB matched ECC RDIMM fallback | 1 kit | No reputable PL/EU stock; current target `F5-6400R3239F32GQ4-T5N` |
-| Four identical 64GB ECC RDIMMs | 4 | 28,253.88 `[RAM]` |
-| RTX 5090 FE / ASUS ProArt | 1 | 20,999.00 |
-| Thermaltake AW420 | 1 | 1,434.40 |
-| Phanteks Enthoo Elite Server | 1 | 1,719.97 `[case]` |
-| Seasonic PRIME PX-2200 ATX 3.1 | 1 | 2,173.14 `[PSU]` |
-| Samsung 9100 PRO 4TB | 2 | 6,379.34 |
-| Noctua NF-A14x25 G2 chromax | 6 | 1,013.82 |
-| Noctua NF-A12x25 G2 chromax | 6 | 941.82 |
-| **Provisional one-GPU total** |  | **74,067.44 `[total]`** |
+| Threadripper 9960X | 1 | [6,573.07](https://www.amazon.pl/gp/product/B0FJ6KKCD5/?smid=A2R2221NX79QZP&psc=1) |
+| Gigabyte TRX50 AI TOP | 1 | [4,579.00](https://www.x-kom.pl/p/1316393-plyta-glowna-socket-str5-gigabyte-trx50-ai-top.html) |
+| 256GB matched ECC RDIMM | 1 kit | [No reputable PL/EU stock; target `F5-6400R3644E64GQ4-T5N`](https://www.gskill.com/configurator?page=2&cls=1529635169&manufacturer=1524715126&chipset=1699949058&model=1724997234) |
+| 128GB matched ECC RDIMM fallback | 1 kit | [No reputable PL/EU stock; current target `F5-6400R3239F32GQ4-T5N`](https://www.gskill.com/product/165/452/1752137627/F5-6400R3239F32GQ4-T5N) |
+| Four identical 64GB ECC RDIMMs | 4 | [28,253.88](https://www.net-s.pl/produkt/micron-pamiec-serwerowa-ddr5-64gb-6400-rdimm-11v-cl52-1880204) `[RAM]` |
+| RTX 5090 FE / ASUS ProArt | 1 | [20,999.00](https://www.euro.com.pl/karty-graficzne/asus-karta-graf-asus-proart-rtx5090-o-32g.bhtml) Euro / [25,140.41](https://www.morele.net/karta-graficzna-asus-proart-geforce-rtx-5090-oc-32gb-gddr7-dlss4-proart-rtx5090-o32g-600147680/) Morele |
+| Thermaltake AW420 | 1 | [1,434.40](https://www.morele.net/chlodzenie-wodne-thermaltake-aio-aw420-cl-w445-pl14bl-a-15342140/) |
+| Phanteks Enthoo Elite Server | 1 | [1,719.97](https://www.caseking.de/en/phanteks-enthoo-elite-server-pc-case-big-tower-ssi-eeb-and-multi-gpu-black/GEPH-222.html) `[case]` |
+| Seasonic PRIME PX-2200 ATX 3.1 | 1 | [2,173.14](https://www.morele.net/zasilacz-seasonic-prime-px-atx-3-2200w-prime-px-2200-atx30-14499536/) Morele / [€468.72](https://www.caps.nl/seasonic-voeding-2200w-prime-px-2200-atx30-modulair-platin-id-990756.html) CAPS `[PSU]` |
+| Samsung 9100 PRO 4TB | 2 | [6,379.34](https://www.senetic.pl/product/MZ-VAP4T0BW) |
+| Noctua NF-A14x25 G2 chromax | 6 | [1,013.82](https://www.morele.net/wentylator-noctua-nf-a14x25-g2-pwm-chromax-black-15645657/) |
+| Noctua NF-A12x25 G2 chromax | 6 | [941.82](https://www.morele.net/wentylator-noctua-nf-a12x25-g2-pwm-chromax-black-600144884/) |
+| **Provisional one-GPU total** |  | **[74,067.44](reports/2026-08-09.md) `[total]`** |
 
 Sources for 2026-08-09: Amazon.pl direct for the CPU; x-kom for the motherboard; NET-S for individual Micron RDIMMs; RTV Euro AGD via Ceneo evidence for the ProArt GPU; Morele direct for the PSU, AIO and fans; Senetic for SSDs; Caseking for the case. `[RAM]` assumes four NET-S modules at 7,063.47 PLN each, but four-unit inventory and identical revision/rank/batch must be confirmed. `[case]` is €399.90 converted at NBP EUR/PLN 4.301; the case is on pre-order and final Polish VAT/shipping is unresolved. `[PSU]` uses the directly purchasable Morele price; CAPS lists the same exact PSU at €468.72 / 2,015.96 PLN before final Polish VAT/shipping checkout verification. `[total]` uses the NET-S RAM configuration, RTV Euro AGD GPU, Morele PSU and Caseking displayed case price; it is not a buy-now total until RAM quantity identity, GPU checkout stock, case delivery, and final shipping/VAT are confirmed.
 
