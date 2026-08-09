@@ -27,8 +27,8 @@
         },
         {
           "category": "RAM",
-          "primary": "256GB 4x64GB factory-matched ECC DDR5 RDIMM kit",
-          "preferred_reference": "G.Skill T5 Neo F5-6400R3644E64GQ4-T5N",
+          "primary": "128GB 4x32GB factory-matched ECC DDR5 RDIMM kit",
+          "preferred_reference": "G.Skill G5 Neo F5-6000R3036G32GQ4-G5N",
           "search_families": [
             "G.Skill T5 Neo",
             "Kingston workstation RDIMM",
@@ -36,7 +36,7 @@
             "Samsung RDIMM",
             "reputable EU workstation-memory suppliers"
           ],
-          "required_fallback": "128GB matched 4x32GB ECC DDR5 RDIMM",
+          "optional_future_upgrade": "256GB 4x64GB factory-matched ECC DDR5 RDIMM kit",
           "validated_128gb_targets": [
             "G.Skill T5 Neo F5-6400R3239F32GQ4-T5N",
             "G.Skill G5 Neo F5-6000R3036G32GQ4-G5N",
@@ -49,13 +49,13 @@
             "status": "price anomaly only; do not recommend without four-unit identity confirmation"
           },
           "rules": [
-            "do not assume expensive individual 64GB modules are the only valid 256GB route",
-            "prefer a factory-matched 4x64GB kit",
+            "128GB is the locked build capacity",
+            "prefer a factory-matched 4x32GB ECC RDIMM kit",
+            "do not include 256GB RAM in current Track A totals",
             "buy separate modules only in one order with identical SKU revision rank speed timings voltage and preferably batch",
             "motherboard QVL or memory-vendor TRX50 validation preferred",
             "run full four-channel memory training and stability testing",
-            "never mix brands SKUs revisions capacities or memory types",
-            "always calculate a 128GB fallback total when the 256GB route is unavailable or irrationally expensive"
+            "never mix brands SKUs revisions capacities or memory types"
           ]
         },
         {
@@ -113,9 +113,12 @@
         },
         {
           "category": "Motherboard",
-          "primary": "ASUS ProArt X870E-CREATOR WIFI",
+          "primary": "GIGABYTE X870E AORUS MASTER X3D ICE",
+          "ean": "4719331876517",
+          "official_url": "https://www.gigabyte.com/Motherboard/X870E-AORUS-MASTER-X3D-ICE",
           "dual_gpu_rule": "Ryzen 9000 CPU-fed GPU slots operate PCIe 5.0 x8/x8 when both are used; not x16/x16",
-          "storage_lane_rule": "leave M.2_2 empty for x8/x8 dual GPU; use M.2_1 plus chipset-connected M.2_4 for storage"
+          "storage_lane_rule": "M.2 does not reduce the CPU GPU pair; use M2A_CPU for the 9100 PRO and M2C_SB for the 990 PRO; avoid M2B_CPU when full USB4 bandwidth matters and avoid M2D_SB when the chipset PCIEX4 slot is needed",
+          "bios_rule": "9950X3D2 requires BIOS F8 or newer; prefer the latest stable BIOS"
         },
         {
           "category": "RAM",
@@ -126,7 +129,7 @@
           "rules": [
             "UDIMM only; never RDIMM",
             "stability is more important than memory overclocking",
-            "verify the exact 2x64GB kit against ASUS QVL or memory-vendor compatibility",
+            "verify the exact 2x64GB kit against GIGABYTE QVL or memory-vendor compatibility",
             "do not make 256GB the default",
             "official 9950X3D and 9950X3D2 memory support is DDR5-5600 with two DIMMs and DDR5-3600 with four DIMMs"
           ]
@@ -136,25 +139,30 @@
           "pricing_source": "same exact FE or ASUS ProArt offers as Track A",
           "quantity_initial": 1,
           "quantity_final": 2,
-          "compromise": "two GPUs operate PCIe 5.0 x8/x8 when M.2_2 is unused"
+          "compromise": "the motherboard operates two GPUs at PCIe 5.0 x8/x8, but the selected HAVN VGPU chassis is one-GPU-oriented and requires removal of the VGPU bracket for any two-GPU horizontal experiment"
         },
         {
           "category": "Case",
-          "primary": "Phanteks Enthoo Pro 2 Server V2",
-          "sku": "PH-ES620PC_BK03",
-          "substitution_rule": "do not silently substitute BK02"
+          "primary": "HAVN HS 420 VGPU White",
+          "sku": "HVN-CA-HS420-07",
+          "ean": "4251442512156",
+          "official_url": "https://havn.global/products/hs-420-vgpu",
+          "dual_gpu_warning": "stock VGPU layout supports one vertical GPU; future two-GPU use requires removing the VGPU assembly and mounting both cards horizontally, with two ProArt cards especially airflow-constrained"
         },
         {
           "category": "CPU cooler",
-          "primary": "Corsair NAUTILUS 360 RS non-RGB",
-          "sku": "CW-9060089-WW",
+          "primary": "TRYX PANORAMA 360 White non-ARGB",
+          "sku": "L-P360N-DS3M-G1W",
+          "ean": "6977029650353",
+          "official_url": "https://www.tryx.com/en/products/cooling/panorama/panorama/white-360",
           "mount": "top exhaust",
-          "fit_rule": "verify combined radiator and fan thickness against case and motherboard clearances"
+          "fit_rule": "55mm radiator-plus-fan stack fits below the HAVN top 65mm no-RAM-overlap limit; dry-fit the large 118x92x92mm pump/display against motherboard VRM heatsinks"
         },
         {
-          "category": "PSU B1 dual-GPU-ready",
+          "category": "PSU B1 dual-GPU-power-ready",
           "primary": "Seasonic PRIME PX-2200 ATX 3.1",
-          "retailer_sku": "PRIME-PX-2200-ATX30"
+          "retailer_sku": "PRIME-PX-2200-ATX30",
+          "case_note": "electrically sized for two GPUs, but the selected HAVN VGPU case is not chassis-ready for two GPUs in its stock layout"
         },
         {
           "category": "PSU B2 one-GPU value",
@@ -164,16 +172,16 @@
         },
         {
           "category": "Storage",
-          "primary": "Samsung 9100 PRO 4TB MZ-VAP4T0BW in M.2_1",
-          "secondary": "Samsung 990 PRO 4TB MZ-V9P4T0BW in chipset-connected M.2_4",
-          "prohibited_slot_for_dual_gpu": "M.2_2"
+          "primary": "Samsung 9100 PRO 4TB MZ-VAP4T0BW in M2A_CPU",
+          "secondary": "Samsung 990 PRO 4TB MZ-V9P4T0BW in M2C_SB",
+          "sharing_rules": "M2B_CPU shares bandwidth with ASMedia USB4; M2D_SB disables chipset PCIEX4; M2E_SB is PCIe 4.0 x2; none of the documented M.2 slots reduces the CPU GPU x8/x8 pair"
         },
         {
           "category": "Case cooling",
-          "fans_140mm": 4,
-          "fans_120mm": 3,
+          "fans_140mm": 8,
+          "fans_120mm": 0,
           "aio_fans_120mm": 3,
-          "layout": "3x140 front intake; 3x120 side GPU intake; 1x140 rear exhaust; AIO 3x120 top exhaust",
+          "layout": "3x140 bottom intake; 3x140 right-side intake; 2x140 rear exhaust; PANORAMA 3x120 top exhaust",
           "pressure_target": "slight positive"
         }
       ]
@@ -198,11 +206,10 @@
       "PSU"
     ],
     "required_totals": [
-      "Track A 256GB current obtainable one-GPU total",
-      "Track A 128GB fallback one-GPU total",
-      "Track B 128GB B1 dual-GPU-ready one-GPU-installed total",
+      "Track A 128GB one-GPU total",
+      "Track B 128GB B1 dual-GPU-power-ready one-GPU-installed total with chassis limitation",
       "Track B 128GB B2 one-GPU-only value total",
-      "final two-GPU totals"
+      "theoretical final two-GPU totals with Track B chassis-conversion warning"
     ],
     "premium_thresholds_pln": {
       "up_to_5000": "Threadripper strongly attractive",
