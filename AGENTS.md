@@ -22,10 +22,10 @@ Run a complete, evidence-based Poland/EU price check for all three locked workst
 13. Track C procedure:
    - Inherit the complete Track A non-GPU platform and locked 128GB factory-matched 4x32GB ECC RDIMM capacity. Do not create a cheaper conventional-gaming platform or mix Track B parts into Track C.
    - Require two matching used or professionally refurbished RTX 3090 24GB cards: same exact model, SKU, revision, cooler geometry and power connectors, available simultaneously. Never construct a qualifying pair total from unrelated marketplace listings.
-   - Prefer slim cards: EVGA XC3 Ultra `24G-P5-3975-KR` at approximately 2.2 slots, Gigabyte Turbo `GV-N3090TURBO-24GD` at two slots, or ASUS Turbo `TURBO-RTX3090-24G` at two slots. A thicker matching pair is a provisional fallback only after motherboard-slot, case-fit and sustained-temperature validation.
+   - Card thickness is conditional, not a primary preference. Thick matching cards are fully acceptable when the selected TRX50 slots provide the required electrical lanes, physical clearance, a meaningful intake gap and validated Enthoo Elite Server airflow. Track thinner EVGA XC3 and two-slot blower cards as geometry options, not mandatory targets.
    - Record whether each offer is private or business, invoice/ownership/serial evidence, warranty and returns, mining/liquid history, repairs or thermal-pad changes, core/hotspot/memory-junction temperatures, VRAM-test results and sustained CUDA stability. Prefer a business seller with at least 12 months warranty; private offers require in-person testing.
    - NVLink is optional and excluded from the base total until the exact RTX 3090 bridge generation, motherboard slot spacing, card connector position, delivered price and application benefit are verified. It may accelerate peer communication but never creates one transparent 48GB device.
-   - Price the current matching-pair configuration, the exact slim target or explicitly mark it incomplete, and savings against Track A's one-RTX-5090 and theoretical two-RTX-5090 configurations.
+   - Price the current matching-pair configuration and the best fit-validated matching pair, or explicitly mark it incomplete, plus savings against Track A's one-RTX-5090 and theoretical two-RTX-5090 configurations.
    - PRIME PX-2200 is sufficient for the nominal 700W pair. Verify four independent 8-pin leads, never daisy-chain high-power connectors, provide direct GPU intake, mechanically support both cards and prefer validated undervolting.
 14. Audit CPU/BIOS, exact memory QVL, case/motherboard/AIO/PSU/GPU dimensions, radiator-plus-fan thickness, slot spacing/lane allocation, M.2 placement, native GPU power leads, safe bend radius, EU mains requirements, fan groups, GPU support and dual-GPU airflow before any BUY NOW recommendation. The 9950X3D2 requires BIOS F8 or newer on the selected GIGABYTE board; prefer the latest stable BIOS.
 15. Calculate only evidence-backed totals. If an exact required component is unavailable, mark the total provisional/incomplete and identify the reference price used; never hide a non-matching revision inside a compatible total.
@@ -36,7 +36,7 @@ Run a complete, evidence-based Poland/EU price check for all three locked workst
    - Table B: complete AM5 value workstation prices, including B1 and B2 PSU totals;
    - a compact comparison covering Track A, Track C and Track B: CPU, motherboard, RAM, case, cooler, fans, storage, PSU, GPU configuration, aggregate physical VRAM, current total and relevant two-GPU caveats;
    - platform-only costs for CPU + motherboard + RAM + cooler + case, excluding GPU/storage/PSU;
-   - Track A 128GB total, Track C 128GB matching-pair and exact-slim-target states, and Track B 128GB B1/B2 totals;
+   - Track A 128GB total, Track C 128GB current and fit-validated matching-pair states, and Track B 128GB B1/B2 totals;
    - Threadripper premium in PLN and percent, with the weekly decision classification and an explanation of what drives it;
    - architecture advantages/compromises;
    - detailed observations, recommendation classes, compatibility/warranty findings and evidence limitations.
@@ -45,7 +45,7 @@ Run a complete, evidence-based Poland/EU price check for all three locked workst
    - AM5 advantages: lower platform price/power, better gaming-focused CPU, cheaper motherboard/RAM/case, a white showcase design, and substantial 128GB capacity.
    - AM5 compromises: dual-channel memory, 128GB preferred configuration, x8/x8 electrical dual GPU, fewer PCIe lanes, chipset/USB4 M.2 sharing, weaker 256GB+ expansion, and a selected HAVN VGPU chassis that is not two-GPU-ready in its stock layout.
    - Track C advantages: Threadripper PCIe/expansion platform, 48GB aggregate physical VRAM, lower acquisition cost and the option to run one distributed model or two independent 24GB workloads.
-   - Track C compromises: used-card condition and warranty risk, separate VRAM devices, multi-GPU software/communication overhead, approximately 700W GPU heat, older Ampere Tensor/RT/media features, and incomplete exact-slim-pair availability.
+   - Track C compromises: used-card condition and warranty risk, separate VRAM devices, multi-GPU software/communication overhead, approximately 700W GPU heat, older Ampere Tensor/RT/media features, and incomplete fit-validated matching-pair evidence.
 18. Maintain first observed, previous, minimum, maximum, weekly change, total change and 30/90-day context independently for each track. Detect fake discounts against repository history.
 19. Track a comparable full prebuilt with whole-system warranty. Require exact CPU, motherboard, RAM, GPU, PSU, cooling, storage, VAT, delivery and cross-border collection/RMA details.
 20. Update all README price matrices. Every displayed component price must be a Markdown link directly to the retailer product page so the numeric price is clickable on GitHub. Link unavailable exact targets to manufacturer/configurator evidence and totals to the corresponding report. Do not leave a bare `—`; state `No exact stock` and the exact validated target or non-matching reference.

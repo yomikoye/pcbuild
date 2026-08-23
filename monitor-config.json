@@ -56,7 +56,15 @@
             "motherboard QVL or memory-vendor TRX50 validation preferred",
             "run full four-channel memory training and stability testing",
             "never mix brands SKUs revisions capacities or memory types"
-          ]
+          ],
+          "preferred_value_alternative": {
+            "product": "Kingston FURY Renegade Pro 128GB 4x32GB DDR5-6000 CL32 ECC RDIMM EXPO",
+            "sku": "KF560R32RBEK4-128",
+            "ean": "0740617340327",
+            "status": "Polish exact listing found at 3535.98 PLN but out of stock; exact TRX50 AI TOP validation and restock required before substitution",
+            "official_url": "https://www.kingston.com/pl/memory/search?partid=KF560R32RBEK4-128",
+            "retailer_url": "https://www.morele.net/pamiec-kingston-fury-renegade-pro-ddr5-128-gb-6000mhz-cl32-kf560r32rbek4-128-13263643/"
+          }
         },
         {
           "category": "GPU",
@@ -197,10 +205,16 @@
           "category": "GPU pair",
           "quantity": 2,
           "required": "two matching NVIDIA GeForce RTX 3090 24GB cards",
-          "primary_slim_target": "EVGA GeForce RTX 3090 XC3 Ultra Gaming",
-          "primary_sku": "24G-P5-3975-KR",
-          "primary_geometry": "285.37mm long; 111.15mm high; 2.2-slot",
-          "slim_alternatives": [
+          "pricing_rule": "Prefer a currently offered matching pair. Otherwise total two individual cards only when exact model SKU revision and simultaneous quantity-two availability are confirmed. Never form a recommended pair from unrelated marketplace listings.",
+          "condition": "used or professionally refurbished",
+          "memory_note": "48GB aggregate physical VRAM across two 24GB devices; never describe it as one transparent unified 48GB GPU",
+          "selection_priority": "matching pair condition, warranty, sustained thermals, price and verified motherboard/case fit; slimness is not intrinsically preferred",
+          "geometry_reference_candidates": [
+            {
+              "product": "EVGA GeForce RTX 3090 XC3 Ultra Gaming",
+              "sku": "24G-P5-3975-KR",
+              "geometry": "285.37mm long; 111.15mm high; 2.2-slot"
+            },
             {
               "product": "Gigabyte GeForce RTX 3090 Turbo 24G",
               "sku": "GV-N3090TURBO-24GD",
@@ -212,15 +226,17 @@
               "geometry": "dual-slot blower; exact dimensions must be verified"
             },
             {
+              "product": "thicker open-air matching pair",
+              "geometry": "approximately 3-slot or greater",
+              "rule": "fully acceptable when selected TRX50 slots provide clearance and a meaningful intake gap and the Enthoo Elite Server airflow is validated"
+            },
+            {
               "product": "water-block RTX 3090 pair",
               "geometry": "typically one-to-two-slot card body",
               "rule": "only with a complete designed and leak-tested custom loop; price pump radiators fittings coolant and maintenance separately"
             }
           ],
-          "market_fallback": "matching Zotac RTX 3090 Trinity pair or another matching air-cooled pair only after exact geometry airflow and sustained-temperature validation",
-          "pricing_rule": "Prefer a currently offered matching pair. Otherwise total two individual cards only when exact model SKU revision and simultaneous quantity-two availability are confirmed. Never form a recommended pair from unrelated marketplace listings.",
-          "condition": "used or professionally refurbished",
-          "memory_note": "48GB aggregate physical VRAM across two 24GB devices; never describe it as one transparent unified 48GB GPU"
+          "market_fallback": "any matching RTX 3090 pair after exact motherboard slot, lane, case-fit, power, airflow and sustained-temperature validation; do not penalize thicker cards solely for slot width"
         },
         {
           "category": "NVLink bridge",
@@ -252,7 +268,7 @@
           "category": "Power and cooling",
           "nominal_gpu_power_watts": 700,
           "psu_rule": "PRIME PX-2200 is sufficient; verify four independent 8-pin GPU leads and never daisy-chain high-power card connectors",
-          "cooling_rule": "Prefer slim blower or approximately 2.2-slot cards; for open-air cards require a meaningful gap direct side intake mechanical support and sustained CUDA hotspot/memory-junction testing; undervolting is preferred"
+          "cooling_rule": "Card thickness is conditional, not a primary preference. Accept thick open-air cards when chosen TRX50 slots leave a meaningful intake gap and direct side airflow; otherwise use blower, slimmer, riser or water-cooled designs. Mechanically support both cards, validate sustained CUDA hotspot/memory-junction temperatures and prefer validated undervolting."
         }
       ],
       "purchase_gates": [
@@ -293,7 +309,7 @@
       "Track B 128GB B2 one-GPU-only value total",
       "theoretical final two-GPU totals with Track B chassis-conversion warning",
       "Track C 128GB dual-RTX-3090 current matching-pair total",
-      "Track C slim exact-target total or explicit incomplete status",
+      "Track C exact matching-pair fit-validated total or explicit incomplete status",
       "Track C savings versus Track A one-RTX-5090 and theoretical two-RTX-5090 totals"
     ],
     "premium_thresholds_pln": {

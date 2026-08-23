@@ -11,6 +11,7 @@ Latest report: **[2026-08-23](reports/2026-08-23.md)**
 | Threadripper 9960X | 1 | [6,573.07 PLN](https://www.amazon.pl/gp/product/B0FJ6KKCD5/?smid=A2R2221NX79QZP&psc=1) | [6,573.07 PLN](https://www.amazon.pl/gp/product/B0FJ6KKCD5/?smid=A2R2221NX79QZP&psc=1) | [6,542.64 PLN](https://www.morele.net/procesor-amd-ryzen-threadripper-9960x-4-2-ghz-128-mb-box-100-100001595wof-15415332/) |
 | Gigabyte TRX50 AI TOP | 1 | [4,579.00 PLN](https://www.x-kom.pl/p/1316393-plyta-glowna-socket-str5-gigabyte-trx50-ai-top.html) | [4,579.00 PLN](https://www.x-kom.pl/p/1316393-plyta-glowna-socket-str5-gigabyte-trx50-ai-top.html) | [3,917.11 PLN](https://www.morele.net/plyta-glowna-gigabyte-trx50-ai-top-13812451/) |
 | G.Skill G5 Neo 128GB ECC RDIMM `F5-6000R3036G32GQ4-G5N` | 4x32GB | [No immediate stock; 24,535.11 PLN PL-VAT reference](https://geizhals.eu/g-skill-zeta-r5-neo-rdimm-kit-128gb-f5-6000r3036g32gq4-g5n-a3480111.html) | [No immediate stock; 24,586.45 PLN PL-VAT reference](https://geizhals.eu/g-skill-zeta-r5-neo-rdimm-kit-128gb-f5-6000r3036g32gq4-g5n-a3480111.html) | [No immediate stock; 24,438.54 PLN PL-VAT reference](https://geizhals.eu/g-skill-zeta-r5-neo-rdimm-kit-128gb-f5-6000r3036g32gq4-g5n-a3480111.html) |
+| **RAM value alternative:** Kingston FURY Renegade Pro EXPO `KF560R32RBEK4-128` | 4x32GB | Not tracked | Not tracked | [3,535.98 PLN exact Polish listing; out of stock, board validation pending](https://www.morele.net/pamiec-kingston-fury-renegade-pro-ddr5-128-gb-6000mhz-cl32-kf560r32rbek4-128-13263643/) |
 | ASUS ProArt RTX 5090 `PROART-RTX5090-O32G` | 1 | [20,999.00 PLN](https://www.euro.com.pl/karty-graficzne/asus-karta-graf-asus-proart-rtx5090-o-32g.bhtml) | [No exact stock; 20,999.00 PLN prior reference](https://www.euro.com.pl/karty-graficzne/asus-karta-graf-asus-proart-rtx5090-o-32g.bhtml) | [No exact stock; 20,999.00 PLN prior reference](https://www.euro.com.pl/karty-graficzne/asus-karta-graf-asus-proart-rtx5090-o-32g.bhtml) / [Morele exact listing out of stock](https://www.morele.net/karta-graficzna-asus-proart-geforce-rtx-5090-oc-32gb-gddr7-dlss4-proart-rtx5090-o32g-600147680/) |
 | Thermaltake AW420 `CL-W445-PL14BL-A` | 1 | [1,434.40 PLN](https://www.morele.net/chlodzenie-wodne-thermaltake-aio-aw420-cl-w445-pl14bl-a-15342140/) | [1,434.40 PLN](https://www.morele.net/chlodzenie-wodne-thermaltake-aio-aw420-cl-w445-pl14bl-a-15342140/) | [1,434.40 PLN](https://www.morele.net/chlodzenie-wodne-thermaltake-aio-aw420-cl-w445-pl14bl-a-15342140/) |
 | Phanteks Enthoo Elite Server `PH-ES916E_BK02` | 1 | [1,719.97 PLN reference](https://www.caseking.de/en/phanteks-enthoo-elite-server-pc-case-big-tower-ssi-eeb-and-multi-gpu-black/GEPH-222.html) | [No exact stock; 1,719.97 PLN prior reference](https://www.caseking.de/en/phanteks-enthoo-elite-server-pc-case-big-tower-ssi-eeb-and-multi-gpu-black/GEPH-222.html) | [No exact stock; 1,719.97 PLN prior reference](https://www.caseking.de/en/phanteks-enthoo-elite-server-pc-case-big-tower-ssi-eeb-and-multi-gpu-black/GEPH-222.html) |
@@ -21,20 +22,21 @@ Latest report: **[2026-08-23](reports/2026-08-23.md)**
 | **A — one-GPU total** |  | **[70,348.67 PLN](reports/2026-08-09.md)** | **[70,545.48 PLN, provisional](reports/2026-08-16.md)** | **[69,881.19 PLN, provisional](reports/2026-08-23.md)** |
 | **A — theoretical two-GPU total** |  | **[91,347.67 PLN](reports/2026-08-09.md)** | **[91,544.48 PLN, provisional](reports/2026-08-16.md)** | **[90,880.19 PLN, provisional](reports/2026-08-23.md)** |
 
-**THREADRIPPER TOTAL CURRENTLY DISTORTED BY RAM AVAILABILITY.** The factory 4x32GB ECC RDIMM reference remains non-immediate and irrationally expensive. Future 256GB is monitored separately and excluded.
+**THREADRIPPER TOTAL CURRENTLY DISTORTED BY RAM AVAILABILITY.** The G.Skill factory 4x32GB ECC RDIMM reference remains non-immediate and irrationally expensive. The Kingston `KF560R32RBEK4-128` value alternative is much cheaper but currently out of stock and pending exact-board validation; future 256GB is monitored separately and excluded.
 
 ## Track C — Threadripper dual-used-RTX-3090 value workstation, 128GB
 
-Track C inherits every non-GPU component and price from Track A. It tracks its GPU evidence and complete total independently. The preferred cards are a matching slim pair: EVGA XC3 Ultra `24G-P5-3975-KR` (~2.2-slot), Gigabyte Turbo `GV-N3090TURBO-24GD` (two-slot blower), or ASUS Turbo `TURBO-RTX3090-24G` (two-slot blower).
+Track C inherits every non-GPU component and price from Track A. It tracks its GPU evidence and complete total independently. Card thickness is conditional rather than a primary preference: any matching pair is eligible when the selected TRX50 slots provide the required lanes, physical clearance, a meaningful intake gap and validated Enthoo Elite Server airflow. EVGA XC3 and two-slot blower models remain useful geometry options.
 
 | Component | Qty | 2026-08-23 inception |
 |---|---:|---:|
 | Threadripper 9960X | 1 | [6,542.64 PLN](https://www.morele.net/procesor-amd-ryzen-threadripper-9960x-4-2-ghz-128-mb-box-100-100001595wof-15415332/) |
 | Gigabyte TRX50 AI TOP | 1 | [3,917.11 PLN](https://www.morele.net/plyta-glowna-gigabyte-trx50-ai-top-13812451/) |
 | G.Skill G5 Neo 128GB ECC RDIMM `F5-6000R3036G32GQ4-G5N` | 4x32GB | [No immediate stock; 24,438.54 PLN PL-VAT reference](https://geizhals.eu/g-skill-zeta-r5-neo-rdimm-kit-128gb-f5-6000r3036g32gq4-g5n-a3480111.html) |
+| **RAM value alternative:** Kingston FURY Renegade Pro EXPO `KF560R32RBEK4-128` | 4x32GB | [3,535.98 PLN exact Polish listing; out of stock, board validation pending](https://www.morele.net/pamiec-kingston-fury-renegade-pro-ddr5-128-gb-6000mhz-cl32-kf560r32rbek4-128-13263643/) |
 | Current matching-pair reference: Zotac RTX 3090 Trinity 24GB | 2 | [7,400.00 PLN pair; private listing, validation required](https://www.olx.pl/d/oferta/2x-zotac-24gb-rtx3090-trinity-lokalne-ai-CID99-ID1bzdNK.html) |
-| Primary slim target: EVGA RTX 3090 XC3 Ultra `24G-P5-3975-KR` | 2 | [No qualifying matching pair stock](https://www.newegg.com/evga-xc3-24g-p5-3975-kr-geforce-rtx-3090-24gb-graphics-card-triple-fans/p/N82E16814487524) |
-| Slim alternative: Gigabyte RTX 3090 Turbo `GV-N3090TURBO-24GD` | 2 | [Single 5,499 PLN indexed lead; quantity two unavailable](https://www.olx.pl/oferty/q-rtx-karta-graficzna/?page=5) |
+| Geometry option: EVGA RTX 3090 XC3 Ultra `24G-P5-3975-KR` | 2 | [No qualifying matching pair stock](https://www.newegg.com/evga-xc3-24g-p5-3975-kr-geforce-rtx-3090-24gb-graphics-card-triple-fans/p/N82E16814487524) |
+| Geometry option: Gigabyte RTX 3090 Turbo `GV-N3090TURBO-24GD` | 2 | [Single 5,499 PLN indexed lead; quantity two unavailable](https://www.olx.pl/oferty/q-rtx-karta-graficzna/?page=5) |
 | Optional RTX 3090 NVLink bridge | 1 | **Excluded: generation, spacing and price unverified** |
 | Thermaltake AW420 | 1 | [1,434.40 PLN](https://www.morele.net/chlodzenie-wodne-thermaltake-aio-aw420-cl-w445-pl14bl-a-15342140/) |
 | Phanteks Enthoo Elite Server `PH-ES916E_BK02` | 1 | [No exact stock; 1,719.97 PLN reference](https://www.caseking.de/en/phanteks-enthoo-elite-server-pc-case-big-tower-ssi-eeb-and-multi-gpu-black/GEPH-222.html) |
@@ -43,9 +45,11 @@ Track C inherits every non-GPU component and price from Track A. It tracks its G
 | Noctua NF-A14x25 G2 chromax | 6 | [1,013.34 PLN](https://www.morele.net/wentylator-noctua-nf-a14x25-g2-pwm-chromax-black-15645657/) |
 | Noctua NF-A12x25 G2 chromax | 6 | [941.82 PLN](https://www.morele.net/wentylator-noctua-nf-a12x25-g2-pwm-chromax-black-600144884/) |
 | **C — current dual-RTX-3090 matching-pair total** |  | **[56,282.19 PLN, provisional](reports/2026-08-23.md)** |
-| **C — exact slim-pair total** |  | **[Incomplete; no qualifying pair price](reports/2026-08-23.md)** |
+| **C — fit-validated matching-pair state** |  | **[Incomplete; current pair still requires physical and thermal validation](reports/2026-08-23.md)** |
 
-The current Zotac pair is a thicker open-air fallback, not the preferred slim target. Its seller, ownership/serials, warranty, exact revisions, slot fit and sustained CUDA/VRAM/temperature evidence remain unverified. Track C provides **48GB aggregate physical VRAM across two separate GPUs**, not one transparent 48GB device. NVLink is optional and priced separately only after exact bridge and slot spacing are known. The current pair reference saves **13,599.00 PLN** versus Track A with one RTX 5090 and **34,598.00 PLN** versus Track A's theoretical two-RTX-5090 total.
+If the Kingston kit restocks at 3,535.98 PLN and exact TRX50 AI TOP validation passes, Track C would fall to an indicative **35,379.63 PLN**. This is not the official total while the kit remains out of stock.
+
+The current Zotac pair is a thick open-air candidate and is not penalized for thickness alone. Its seller, ownership/serials, warranty, exact revisions, slot fit and sustained CUDA/VRAM/temperature evidence remain unverified. Track C provides **48GB aggregate physical VRAM across two separate GPUs**, not one transparent 48GB device. NVLink is optional and priced separately only after exact bridge and slot spacing are known. The current pair reference saves **13,599.00 PLN** versus Track A with one RTX 5090 and **34,598.00 PLN** versus Track A's theoretical two-RTX-5090 total.
 
 ## Track B — AM5 showcase/value workstation, 128GB
 
@@ -80,7 +84,7 @@ B1 is **dual-GPU-power-ready**, not stock-layout chassis-ready. Remove the HAVN 
 | GPU configuration | **1x RTX 5090, 20,999.00 reference** | **2x used RTX 3090, 7,400.00 pair reference** | **1x RTX 5090, 20,999.00 reference** |
 | Aggregate physical VRAM | **32GB** | **48GB across two devices** | **32GB** |
 | Current total | **[69,881.19](reports/2026-08-23.md)** | **[56,282.19 provisional](reports/2026-08-23.md)** | **[48,002.29](reports/2026-08-23.md)** |
-| Relevant two-GPU state | **[90,880.19 theoretical 2x5090](reports/2026-08-23.md)** | **Already dual GPU; slim exact pair incomplete** | **[69,001.29; HAVN conversion required](reports/2026-08-23.md)** |
+| Relevant two-GPU state | **[90,880.19 theoretical 2x5090](reports/2026-08-23.md)** | **Already dual GPU; fit validation incomplete** | **[69,001.29; HAVN conversion required](reports/2026-08-23.md)** |
 
 Platform-only is CPU + motherboard + RAM + cooler + case. It excludes GPU, storage, PSU and case fans.
 
