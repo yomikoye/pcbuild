@@ -1,6 +1,6 @@
-# Dual-track RTX 5090 workstation price monitor
+# Three-track RTX 5090 / dual RTX 3090 workstation price monitor
 
-Weekly Poland/EU price, availability, warranty, RMA and compatibility monitoring through Black Friday 2026. Both locked builds use **128GB RAM**; Track A remains Threadripper/TRX50 and Track B remains AM5.
+Weekly Poland/EU price, availability, warranty, RMA and compatibility monitoring through Black Friday 2026. All three locked builds use **128GB RAM**: Track A is Threadripper/RTX 5090, Track B is AM5/RTX 5090, and Track C inherits Track A’s Threadripper platform with two matching used RTX 3090 24GB cards.
 
 Latest report: **[2026-08-23](reports/2026-08-23.md)**
 
@@ -22,6 +22,30 @@ Latest report: **[2026-08-23](reports/2026-08-23.md)**
 | **A — theoretical two-GPU total** |  | **[91,347.67 PLN](reports/2026-08-09.md)** | **[91,544.48 PLN, provisional](reports/2026-08-16.md)** | **[90,880.19 PLN, provisional](reports/2026-08-23.md)** |
 
 **THREADRIPPER TOTAL CURRENTLY DISTORTED BY RAM AVAILABILITY.** The factory 4x32GB ECC RDIMM reference remains non-immediate and irrationally expensive. Future 256GB is monitored separately and excluded.
+
+## Track C — Threadripper dual-used-RTX-3090 value workstation, 128GB
+
+Track C inherits every non-GPU component and price from Track A. It tracks its GPU evidence and complete total independently. The preferred cards are a matching slim pair: EVGA XC3 Ultra `24G-P5-3975-KR` (~2.2-slot), Gigabyte Turbo `GV-N3090TURBO-24GD` (two-slot blower), or ASUS Turbo `TURBO-RTX3090-24G` (two-slot blower).
+
+| Component | Qty | 2026-08-23 inception |
+|---|---:|---:|
+| Threadripper 9960X | 1 | [6,542.64 PLN](https://www.morele.net/procesor-amd-ryzen-threadripper-9960x-4-2-ghz-128-mb-box-100-100001595wof-15415332/) |
+| Gigabyte TRX50 AI TOP | 1 | [3,917.11 PLN](https://www.morele.net/plyta-glowna-gigabyte-trx50-ai-top-13812451/) |
+| G.Skill G5 Neo 128GB ECC RDIMM `F5-6000R3036G32GQ4-G5N` | 4x32GB | [No immediate stock; 24,438.54 PLN PL-VAT reference](https://geizhals.eu/g-skill-zeta-r5-neo-rdimm-kit-128gb-f5-6000r3036g32gq4-g5n-a3480111.html) |
+| Current matching-pair reference: Zotac RTX 3090 Trinity 24GB | 2 | [7,400.00 PLN pair; private listing, validation required](https://www.olx.pl/d/oferta/2x-zotac-24gb-rtx3090-trinity-lokalne-ai-CID99-ID1bzdNK.html) |
+| Primary slim target: EVGA RTX 3090 XC3 Ultra `24G-P5-3975-KR` | 2 | [No qualifying matching pair stock](https://www.newegg.com/evga-xc3-24g-p5-3975-kr-geforce-rtx-3090-24gb-graphics-card-triple-fans/p/N82E16814487524) |
+| Slim alternative: Gigabyte RTX 3090 Turbo `GV-N3090TURBO-24GD` | 2 | [Single 5,499 PLN indexed lead; quantity two unavailable](https://www.olx.pl/oferty/q-rtx-karta-graficzna/?page=5) |
+| Optional RTX 3090 NVLink bridge | 1 | **Excluded: generation, spacing and price unverified** |
+| Thermaltake AW420 | 1 | [1,434.40 PLN](https://www.morele.net/chlodzenie-wodne-thermaltake-aio-aw420-cl-w445-pl14bl-a-15342140/) |
+| Phanteks Enthoo Elite Server `PH-ES916E_BK02` | 1 | [No exact stock; 1,719.97 PLN reference](https://www.caseking.de/en/phanteks-enthoo-elite-server-pc-case-big-tower-ssi-eeb-and-multi-gpu-black/GEPH-222.html) |
+| Seasonic PRIME PX-2200 ATX 3.1 | 1 | [2,158.57 PLN](https://www.morele.net/zasilacz-seasonic-prime-px-atx-3-2200w-prime-px-2200-atx30-14499536/) |
+| Samsung 9100 PRO 4TB | 2 | [6,715.80 PLN pair](https://www.senetic.pl/product/MZ-VAP4T0BW) |
+| Noctua NF-A14x25 G2 chromax | 6 | [1,013.34 PLN](https://www.morele.net/wentylator-noctua-nf-a14x25-g2-pwm-chromax-black-15645657/) |
+| Noctua NF-A12x25 G2 chromax | 6 | [941.82 PLN](https://www.morele.net/wentylator-noctua-nf-a12x25-g2-pwm-chromax-black-600144884/) |
+| **C — current dual-RTX-3090 matching-pair total** |  | **[56,282.19 PLN, provisional](reports/2026-08-23.md)** |
+| **C — exact slim-pair total** |  | **[Incomplete; no qualifying pair price](reports/2026-08-23.md)** |
+
+The current Zotac pair is a thicker open-air fallback, not the preferred slim target. Its seller, ownership/serials, warranty, exact revisions, slot fit and sustained CUDA/VRAM/temperature evidence remain unverified. Track C provides **48GB aggregate physical VRAM across two separate GPUs**, not one transparent 48GB device. NVLink is optional and priced separately only after exact bridge and slot spacing are known. The current pair reference saves **13,599.00 PLN** versus Track A with one RTX 5090 and **34,598.00 PLN** versus Track A's theoretical two-RTX-5090 total.
 
 ## Track B — AM5 showcase/value workstation, 128GB
 
@@ -47,14 +71,16 @@ B1 is **dual-GPU-power-ready**, not stock-layout chassis-ready. Remove the HAVN 
 
 ## Current equal-128GB comparison
 
-| Metric | Threadripper | AM5 B1 | Difference |
+| Metric | Track A TR + 5090 | Track C TR + 2x3090 | Track B1 AM5 + 5090 |
 |---|---:|---:|---:|
-| CPU | [6,542.64](https://www.morele.net/procesor-amd-ryzen-threadripper-9960x-4-2-ghz-128-mb-box-100-100001595wof-15415332/) | [2,670.00](https://www.morele.net/procesor-amd-ryzen-9-9950x3d-4-3-ghz-128-mb-box-100-100000719wof-14743984/) | +3,872.64 |
-| Motherboard | [3,917.11](https://www.morele.net/plyta-glowna-gigabyte-trx50-ai-top-13812451/) | [2,198.99](https://www.morele.net/plyta-glowna-gigabyte-x870e-aorus-master-x3d-ice-15566741/) | +1,718.12 |
-| RAM | [24,438.54](https://geizhals.eu/g-skill-zeta-r5-neo-rdimm-kit-128gb-f5-6000r3036g32gq4-g5n-a3480111.html) | [9,608.12](https://www.morele.net/pamiec-kingston-fury-beast-ddr5-128gb-5600mt-s-cl40-czarny-kf556c40bbk2-128-15245805/) | +14,830.42 |
-| Platform-only | **[38,052.66](reports/2026-08-23.md)** | **[17,259.89](reports/2026-08-23.md)** | **+20,792.77** |
-| One-GPU with B1/shared PSU | **[69,881.19](reports/2026-08-23.md)** | **[48,002.29](reports/2026-08-23.md)** | **+21,878.90 / +45.58%** |
-| Theoretical two-GPU hardware | **[90,880.19](reports/2026-08-23.md)** | **[69,001.29; HAVN conversion required](reports/2026-08-23.md)** | **+21,878.90** |
+| CPU | [6,542.64](https://www.morele.net/procesor-amd-ryzen-threadripper-9960x-4-2-ghz-128-mb-box-100-100001595wof-15415332/) | [6,542.64](https://www.morele.net/procesor-amd-ryzen-threadripper-9960x-4-2-ghz-128-mb-box-100-100001595wof-15415332/) | [2,670.00](https://www.morele.net/procesor-amd-ryzen-9-9950x3d-4-3-ghz-128-mb-box-100-100000719wof-14743984/) |
+| Motherboard | [3,917.11](https://www.morele.net/plyta-glowna-gigabyte-trx50-ai-top-13812451/) | [3,917.11](https://www.morele.net/plyta-glowna-gigabyte-trx50-ai-top-13812451/) | [2,198.99](https://www.morele.net/plyta-glowna-gigabyte-x870e-aorus-master-x3d-ice-15566741/) |
+| RAM | [24,438.54](https://geizhals.eu/g-skill-zeta-r5-neo-rdimm-kit-128gb-f5-6000r3036g32gq4-g5n-a3480111.html) | [24,438.54](https://geizhals.eu/g-skill-zeta-r5-neo-rdimm-kit-128gb-f5-6000r3036g32gq4-g5n-a3480111.html) | [9,608.12](https://www.morele.net/pamiec-kingston-fury-beast-ddr5-128gb-5600mt-s-cl40-czarny-kf556c40bbk2-128-15245805/) |
+| Platform-only | **[38,052.66](reports/2026-08-23.md)** | **[38,052.66](reports/2026-08-23.md)** | **[17,259.89](reports/2026-08-23.md)** |
+| GPU configuration | **1x RTX 5090, 20,999.00 reference** | **2x used RTX 3090, 7,400.00 pair reference** | **1x RTX 5090, 20,999.00 reference** |
+| Aggregate physical VRAM | **32GB** | **48GB across two devices** | **32GB** |
+| Current total | **[69,881.19](reports/2026-08-23.md)** | **[56,282.19 provisional](reports/2026-08-23.md)** | **[48,002.29](reports/2026-08-23.md)** |
+| Relevant two-GPU state | **[90,880.19 theoretical 2x5090](reports/2026-08-23.md)** | **Already dual GPU; slim exact pair incomplete** | **[69,001.29; HAVN conversion required](reports/2026-08-23.md)** |
 
 Platform-only is CPU + motherboard + RAM + cooler + case. It excludes GPU, storage, PSU and case fans.
 
@@ -66,7 +92,7 @@ Platform-only is CPU + motherboard + RAM + cooler + case. It excludes GPU, stora
 - Put 9100 PRO in `M2A_CPU` and 990 PRO in `M2C_SB`. `M2B_CPU` shares with ASMedia USB4; `M2D_SB` disables chipset `PCIEX4`; `M2E_SB` is PCIe 4.0 x2. M.2 does not reduce the CPU GPU pair.
 - The 9950X3D2 requires BIOS F8 or newer; use the latest stable BIOS.
 - Mount the 55mm PANORAMA stack at the top as exhaust.
-- Two RTX 5090s do not automatically provide unified VRAM.
+- Multiple GPUs do not automatically provide unified VRAM; Track C’s 48GB is aggregate physical VRAM across two separate devices.
 
 ## Repository and cadence
 
@@ -74,4 +100,4 @@ Platform-only is CPU + motherboard + RAM + cooler + case. It excludes GPU, stora
 - `data/observations.csv`: append-only evidence
 - `reports/YYYY-MM-DD.md`: weekly reports
 - `AGENTS.md`: autonomous research and reporting procedure
-- Weekly through 8 November 2026; daily 13–26 November; final report 27 November 2026
+- Weekly through 8 November 2026; daily 13–26 November; final report 27 November 2026; all runs cover Tracks A, B and C

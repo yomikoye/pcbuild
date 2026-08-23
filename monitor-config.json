@@ -1,5 +1,5 @@
 {
-  "project": "Dual-track RTX 5090 workstation price monitor",
+  "project": "Three-track RTX 5090 / dual RTX 3090 workstation price monitor",
   "location": "Poland",
   "currency": "PLN",
   "start_date": "2026-08-09",
@@ -185,11 +185,93 @@
           "pressure_target": "slight positive"
         }
       ]
+    },
+    "C_threadripper_dual_3090": {
+      "name": "Threadripper dual-used-RTX-3090 value workstation",
+      "architecture_locked": true,
+      "inherits_platform_from": "A_threadripper",
+      "locked_capacity_gb": 128,
+      "purpose": "Lower-cost 48GB aggregate-VRAM local-AI alternative using the complete Track A Threadripper platform with two matching used RTX 3090 24GB cards instead of RTX 5090",
+      "products": [
+        {
+          "category": "GPU pair",
+          "quantity": 2,
+          "required": "two matching NVIDIA GeForce RTX 3090 24GB cards",
+          "primary_slim_target": "EVGA GeForce RTX 3090 XC3 Ultra Gaming",
+          "primary_sku": "24G-P5-3975-KR",
+          "primary_geometry": "285.37mm long; 111.15mm high; 2.2-slot",
+          "slim_alternatives": [
+            {
+              "product": "Gigabyte GeForce RTX 3090 Turbo 24G",
+              "sku": "GV-N3090TURBO-24GD",
+              "geometry": "295mm long; dual-slot blower"
+            },
+            {
+              "product": "ASUS Turbo GeForce RTX 3090 24G",
+              "sku": "TURBO-RTX3090-24G",
+              "geometry": "dual-slot blower; exact dimensions must be verified"
+            },
+            {
+              "product": "water-block RTX 3090 pair",
+              "geometry": "typically one-to-two-slot card body",
+              "rule": "only with a complete designed and leak-tested custom loop; price pump radiators fittings coolant and maintenance separately"
+            }
+          ],
+          "market_fallback": "matching Zotac RTX 3090 Trinity pair or another matching air-cooled pair only after exact geometry airflow and sustained-temperature validation",
+          "pricing_rule": "Prefer a currently offered matching pair. Otherwise total two individual cards only when exact model SKU revision and simultaneous quantity-two availability are confirmed. Never form a recommended pair from unrelated marketplace listings.",
+          "condition": "used or professionally refurbished",
+          "memory_note": "48GB aggregate physical VRAM across two 24GB devices; never describe it as one transparent unified 48GB GPU"
+        },
+        {
+          "category": "NVLink bridge",
+          "status": "optional",
+          "base_total": "excluded until exact bridge generation slot spacing availability and delivered price are verified",
+          "rules": [
+            "select GPU models and motherboard slots before bridge",
+            "bridge must match RTX 3090 generation and physical slot spacing",
+            "NVLink can improve NCCL/tensor-parallel communication but does not automatically pool VRAM",
+            "benchmark PCIe-only operation before treating NVLink as required"
+          ]
+        },
+        {
+          "category": "Inherited platform",
+          "from": "A_threadripper",
+          "includes": [
+            "AMD Ryzen Threadripper 9960X",
+            "Gigabyte TRX50 AI TOP",
+            "128GB factory-matched 4x32GB ECC DDR5 RDIMM",
+            "Thermaltake AW420",
+            "Phanteks Enthoo Elite Server PH-ES916E_BK02",
+            "Seasonic PRIME PX-2200 ATX 3.1",
+            "2x Samsung 9100 PRO 4TB",
+            "Track A case-fan layout"
+          ],
+          "rule": "Track C shares observed non-GPU component prices with Track A but must maintain a separate total and GPU price history"
+        },
+        {
+          "category": "Power and cooling",
+          "nominal_gpu_power_watts": 700,
+          "psu_rule": "PRIME PX-2200 is sufficient; verify four independent 8-pin GPU leads and never daisy-chain high-power card connectors",
+          "cooling_rule": "Prefer slim blower or approximately 2.2-slot cards; for open-air cards require a meaningful gap direct side intake mechanical support and sustained CUDA hotspot/memory-junction testing; undervolting is preferred"
+        }
+      ],
+      "purchase_gates": [
+        "seller identity and right to sell verified",
+        "invoice or written proof of ownership and serial numbers",
+        "prefer business seller with at least 12-month warranty; private sale requires in-person testing",
+        "matching exact model SKU revision cooler thickness and power connectors",
+        "quantity two simultaneously available",
+        "30-minute sustained CUDA or OCCT load plus VRAM test",
+        "GPU core hotspot and GDDR6X memory-junction temperatures recorded",
+        "no artifacting throttling fan faults damaged connectors corrosion or undisclosed liquid/mining history",
+        "motherboard slot spacing lane allocation and optional NVLink bridge spacing verified"
+      ]
     }
   },
   "weekly_comparison": {
     "required_tables": [
       "Track A Threadripper workstation",
+      "Track C Threadripper dual-used-RTX-3090 value workstation",
       "Track B AM5 value workstation",
       "metric comparison"
     ],
@@ -209,7 +291,10 @@
       "Track A 128GB one-GPU total",
       "Track B 128GB B1 dual-GPU-power-ready one-GPU-installed total with chassis limitation",
       "Track B 128GB B2 one-GPU-only value total",
-      "theoretical final two-GPU totals with Track B chassis-conversion warning"
+      "theoretical final two-GPU totals with Track B chassis-conversion warning",
+      "Track C 128GB dual-RTX-3090 current matching-pair total",
+      "Track C slim exact-target total or explicit incomplete status",
+      "Track C savings versus Track A one-RTX-5090 and theoretical two-RTX-5090 totals"
     ],
     "premium_thresholds_pln": {
       "up_to_5000": "Threadripper strongly attractive",
@@ -254,7 +339,27 @@
       "used",
       "refurbished",
       "random dropshippers"
-    ]
+    ],
+    "track_c_used_market_exception": {
+      "allowed_discovery_channels": [
+        "Allegro",
+        "Allegro Lokalnie",
+        "OLX",
+        "established Polish/EU refurbishers and workstation resellers"
+      ],
+      "rule": "Track C explicitly requires used or professionally refurbished RTX 3090 cards, so used marketplace offers may be recorded as leads despite the default exclusion policy. They are not qualifying BUY NOW offers until seller identity, ownership, serials, matching pair, test evidence, condition, warranty/returns and safe transaction method are validated.",
+      "preference_order": [
+        "business seller with invoice and at least 12-month warranty",
+        "established refurbisher with written test report and returns",
+        "private local seller with in-person testing and proof of ownership",
+        "remote private marketplace offer only as a provisional price reference"
+      ],
+      "prohibited": [
+        "advance bank transfer to unverified private seller",
+        "forming a pair from unrelated listings",
+        "cards with unresolved artifacts, damaged connectors, corrosion, liquid damage or failed VRAM/thermal tests"
+      ]
+    }
   },
   "recommendation_classes": [
     "WAIT",
