@@ -1,0 +1,309 @@
+{
+  "date": "2026-09-20",
+  "baseline_commit": "ea60a1402d27dde57c116df27dfc441e2a0b7c75",
+  "result": "PASS",
+  "json_files": 13,
+  "csv_rows": 146,
+  "appended_rows": 32,
+  "historical_csv_prefix": "unchanged",
+  "historical_reports": "unchanged",
+  "README_historical_cells": "unchanged",
+  "arithmetic": "Decimal recomputed and cross-checked against observations",
+  "local_link_references_checked": 50,
+  "unique_external_links": 73,
+  "link_results": [
+    {
+      "url": "https://allegro.pl/listing?string=2x%20rtx%203090",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://allegro.pl/produkt/karta-graficzna-asus-turbo-rtx3090-24g-24-gb-979a4b37-0fd9-492f-a849-ab0deb545370",
+      "state": "blocked/error/not found: 403 https://allegro.pl/produkt/karta-graficzna-asus-turbo-rtx3090-24g-24-gb-979a4b37-0fd9-492f-a849-ab0deb545370"
+    },
+    {
+      "url": "https://allegrolokalnie.pl/oferta/zestaw-2x-rtx-3090-zotac-trinity-24gb-nvlink-wodne",
+      "state": "fetched; offer meaning manually assessed in report"
+    },
+    {
+      "url": "https://allegrolokalnie.pl/oferty/q/2x%20rtx%203090",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://api.nbp.pl/api/exchangerates/rates/a/eur/2026-09-18/?format=json",
+      "state": "fetched; offer meaning manually assessed in report"
+    },
+    {
+      "url": "https://cenowarka.pl/kingston-fury-renegade-pro-rdimm-kit-128gb-kf560r32rbek4-128-a3069518.html?hloc=pl",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://geizhals.de/kingston-fury-renegade-pro-rdimm-kit-128gb-kf560r32rbek4-128-a3069518.html",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://geizhals.eu/g-skill-zeta-r5-neo-rdimm-kit-128gb-f5-6000r3036g32gq4-g5n-a3480111.html",
+      "state": "blocked/error/not found: 429 https://geizhals.eu/g-skill-zeta-r5-neo-rdimm-kit-128gb-f5-6000r3036g32gq4-g5n-a3480111.html"
+    },
+    {
+      "url": "https://memory.net/product/m321r4ga3eb0-cwm-samsung-1x-32gb-ddr5-5600-rdimm-pc5-44800r-dual-rank-x8-module/",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://pangoly.com/en/compatibility/gigabyte-x870e-aorus-master-x3d-ice/ram",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://pcforce.pl/stacja-robocza-exs-pro-ai-amd-ryzen-threadripper-9960x-rtx5090-128gb-2tb",
+      "state": "blocked/error/not found: 000 https://pcforce.pl/stacja-robocza-exs-pro-ai-amd-ryzen-threadripper-9960x-rtx5090-128gb-2tb"
+    },
+    {
+      "url": "https://pixel2point.de/collections/nvidia-geforce-rtx-30-serie-gebraucht-kaufen",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://pixel2point.de/policies/legal-notice",
+      "state": "fetched; offer meaning manually assessed in report"
+    },
+    {
+      "url": "https://pixel2point.de/policies/shipping-policy",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://semiconductor.samsung.com/dram/ddr/",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://smicro.eu/micron-32-gb-2x16-gb-ddr5-288-pin-5600mhz-ecc-rdimm-mtc20f2085s1rc56bd1-2",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://www.alternate.de/G-Skill/RIMM-128-GB-DDR5-6000-4x-32-GB-Quad-Kit-ECC-Arbeitsspeicher/html/product/100130582",
+      "state": "fetched; offer meaning manually assessed in report"
+    },
+    {
+      "url": "https://www.alternate.de/G-Skill/RIMM-128-GB-DDR5-6400-4x-32-GB-Quad-Kit-ECC-Arbeitsspeicher/html/product/100142743",
+      "state": "fetched; offer meaning manually assessed in report"
+    },
+    {
+      "url": "https://www.alternate.de/GIGABYTE/X870E-AORUS-MASTER-X3D-ICE-Mainboard/html/product/100162099",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://www.alternate.fr/G-Skill/F5-6400R3239F32GQ4-T5N-Mémoire-vive/html/product/100142743",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://www.amazon.de/-/en/EVGA-24G-P5-3975-KR-GeForce-Cooling-Renewed/dp/B0BDXT6F51",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://www.amazon.pl/gp/product/B0FJ6KKCD5/?smid=A2R2221NX79QZP&psc=1",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://www.amd.com/es/support/downloads/drivers.html/graphics/radeon-ai-pro/radeon-ai-pro-r9000-series/amd-radeon-ai-pro-r9700s.html",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://www.caseking.de/en/havn-hs-420-vgpu-pc-case-mid-tower-e-atx-tempered-glass-pcie-5.0-riser-cable-white/GEHV-003.html",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://www.caseking.de/en/phanteks-enthoo-elite-server-pc-case-big-tower-ssi-eeb-and-multi-gpu-black/GEPH-222.html",
+      "state": "blocked/error/not found: 403 https://www.caseking.de/en/phanteks-enthoo-elite-server-pc-case-big-tower-ssi-eeb-and-multi-gpu-black/GEPH-222.html"
+    },
+    {
+      "url": "https://www.ceneo.pl/165315073",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://www.ceneo.pl/91191409",
+      "state": "challenge, not live offer verification"
+    },
+    {
+      "url": "https://www.compuram.biz/memory/gigabyte/motherboard/workstation-desktop/aero/trx50-ai-top/32gb-00-1ae08.htm",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://www.ebay.de/itm/128027294882",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://www.euro.com.pl/karty-graficzne/asus-karta-graf-asus-proart-rtx5090-o-32g.bhtml",
+      "state": "blocked/error/not found: 403 https://www.euro.com.pl/karty-graficzne/asus-karta-graf-asus-proart-rtx5090-o-32g.bhtml"
+    },
+    {
+      "url": "https://www.gigabyte.com/Graphics-Card/GV-N3090TURBO-24GD",
+      "state": "blocked/error/not found: 403 https://www.gigabyte.com/Graphics-Card/GV-N3090TURBO-24GD"
+    },
+    {
+      "url": "https://www.gigabyte.com/Motherboard/TRX50-AI-TOP/support#support-memsup",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://www.gigabyte.com/Motherboard/X870E-AORUS-MASTER-X3D-ICE/support#support-memsup",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://www.gskill.com/qvl/400/452/1752137627/F5-6400R3239F32GQ4-T5N-QVL",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://www.gskill.com/qvl/402/448/1747204820/F5-6000R3036G32GQ4-G5N-QVL",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://www.gskill.com/specification/400/452/1752137627/F5-6400R3239F32GQ4-T5N-Specification",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/206608419_-fury-beast-128gb-kit-ddr5-5600-cl40-kf556c40bbk2-128-kingston.html",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://www.kingston.com/datasheets/KF556C40BBK2-128.pdf",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://www.kingston.com/datasheets/KF560R32RBEK4-128.pdf",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://www.kingston.com/en/memory/search/model/109774/gigabyte-trx50-ai-top-motherboard",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://www.kingston.com/en/memory/search?partId=KF556C40BBK2-128",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://www.kingston.com/unitedkingdom/en/memory/search/model/111187/gigabyte-x870e-aorus-master-x3d-ice-motherboard?status=active&status_2=active",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://www.komputronik.pl/product/1013522/asus-geforce-rtx-5090-proart-oc-32gb-dlss-4.html",
+      "state": "fetched; offer meaning manually assessed in report"
+    },
+    {
+      "url": "https://www.krsystem.pl/samsung_dysk_ssd_990pro_gen4.0x4_nvme_4tb_mzv9p4t0bw-item-73006.html",
+      "state": "fetched; offer meaning manually assessed in report"
+    },
+    {
+      "url": "https://www.ldlc.com/en/product/PB00736322.html",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://www.memorycow.co.uk/128gb-64gb-x2-kingston-kf556c40bbk2-128-fury-beast-ddr5-5600mt-s-non-ecc-dimm-black",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://www.micron.com/products/memory/dram-modules/rdimm/part-catalog/part-detail/mtc20f2085s1rc56bd1",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://www.morele.net/chlodzenie-wodne-jetworld-tryx-panorama-360-aio-l-p360n-ds3m-g1w-14962229/",
+      "state": "fetched; offer meaning manually assessed in report"
+    },
+    {
+      "url": "https://www.morele.net/chlodzenie-wodne-thermaltake-aio-aw420-cl-w445-pl14bl-a-15342140/",
+      "state": "fetched; offer meaning manually assessed in report"
+    },
+    {
+      "url": "https://www.morele.net/dysk-ssd-samsung-9100-pro-4tb-m-2-2280-pci-e-x4-gen5-nvme-mz-vap4t0bw-14740719/",
+      "state": "fetched; offer meaning manually assessed in report"
+    },
+    {
+      "url": "https://www.morele.net/obudowa-havn-hs-420-vgpu-biala-hvn-ca-hs420-07-14454524/",
+      "state": "fetched; offer meaning manually assessed in report"
+    },
+    {
+      "url": "https://www.morele.net/pamiec-kingston-fury-beast-ddr5-128gb-5600mt-s-cl40-czarny-kf556c40bbk2-128-15245805/",
+      "state": "fetched; offer meaning manually assessed in report"
+    },
+    {
+      "url": "https://www.morele.net/pamiec-kingston-fury-renegade-pro-ddr5-128-gb-6000mhz-cl32-kf560r32rbek4-128-13263643/",
+      "state": "fetched; offer meaning manually assessed in report"
+    },
+    {
+      "url": "https://www.morele.net/plyta-glowna-gigabyte-trx50-ai-top-13812451/",
+      "state": "fetched; offer meaning manually assessed in report"
+    },
+    {
+      "url": "https://www.morele.net/plyta-glowna-gigabyte-x870e-aorus-master-x3d-ice-15566741/",
+      "state": "fetched; offer meaning manually assessed in report"
+    },
+    {
+      "url": "https://www.morele.net/procesor-amd-ryzen-9-9950x3d-4-3-ghz-128-mb-box-100-100000719wof-14743984/",
+      "state": "fetched; offer meaning manually assessed in report"
+    },
+    {
+      "url": "https://www.morele.net/procesor-amd-ryzen-9-9950x3d2-4-3-ghz-192-mb-box-100-100001978wof-15920184/",
+      "state": "fetched; offer meaning manually assessed in report"
+    },
+    {
+      "url": "https://www.morele.net/procesor-amd-ryzen-threadripper-9960x-4-2-ghz-128-mb-box-100-100001595wof-15415332/",
+      "state": "fetched; offer meaning manually assessed in report"
+    },
+    {
+      "url": "https://www.morele.net/wentylator-noctua-nf-a12x25-g2-pwm-chromax-black-600144884/",
+      "state": "fetched; offer meaning manually assessed in report"
+    },
+    {
+      "url": "https://www.morele.net/wentylator-noctua-nf-a14x25-g2-pwm-chromax-black-15645657/",
+      "state": "fetched; offer meaning manually assessed in report"
+    },
+    {
+      "url": "https://www.morele.net/zasilacz-seasonic-prime-px-atx-3-2200w-prime-px-2200-atx30-14499536/",
+      "state": "fetched; offer meaning manually assessed in report"
+    },
+    {
+      "url": "https://www.morele.net/zasilacz-seasonic-vertex-gx-1200w-vertex-gx-1200-13040437/",
+      "state": "fetched; offer meaning manually assessed in report"
+    },
+    {
+      "url": "https://www.newegg.com/evga-xc3-24g-p5-3975-kr-geforce-rtx-3090-24gb-graphics-card-triple-fans/p/N82E16814487524",
+      "state": "fetched; offer meaning manually assessed in report"
+    },
+    {
+      "url": "https://www.olx.pl/d/oferta/2x-zotac-24gb-rtx3090-trinity-lokalne-ai-CID99-ID1bzdNK.html",
+      "state": "blocked/error/not found: 403 https://www.olx.pl/d/oferta/2x-zotac-24gb-rtx3090-trinity-lokalne-ai-CID99-ID1bzdNK.html"
+    },
+    {
+      "url": "https://www.olx.pl/oferty/q-2x-rtx-3090/",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://www.olx.pl/oferty/q-rtx-karta-graficzna/?page=5",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://www.phs-memory.com/computer-memory-32gb-ddr5-gigabyte-trx50-ai-top-ram-rdimm-sp598864.html",
+      "state": "fetched; offer meaning manually assessed in report"
+    },
+    {
+      "url": "https://www.proshop.pl/RAM/Kingston-FURY-Beast-DDR5-5600-128GB-CL40-Dual-Channel-2-pcs-AMD-EXPO-Intel-XMP-Czarny/3379477",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://www.pugetsystems.com/parts/Accessories/NVIDIA-GeForce-RTX-3090-NVLink-Bridge-4-Slot-13799/",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://www.senetic.pl/product/MZ-VAP4T0BW",
+      "state": "fetched; offer meaning manually assessed in report"
+    },
+    {
+      "url": "https://www.x-kom.pl/p/1316393-plyta-glowna-socket-str5-gigabyte-trx50-ai-top.html",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://www.x-kom.pl/p/1321669-procesor-amd-ryzen-9-amd-ryzen-9-9950x3d.html",
+      "state": "historical or indexed/research-note evidence; no persisted HTTP batch verification"
+    },
+    {
+      "url": "https://www.x-kom.pl/p/1533478-desktop-nyxum-workstation-r9-9950x3d-128gb-4tb-rtx-5090-fe-w11px.html",
+      "state": "blocked/error/not found: 403 https://www.x-kom.pl/p/1533478-desktop-nyxum-workstation-r9-9950x3d-128gb-4tb-rtx-5090-fe-w11px.html"
+    }
+  ],
+  "limitations": "HTTP blocks and indexed/historical links explicitly classified; not all external pages accessible. No checkout/hardware tests or unattended approval guarantee."
+}

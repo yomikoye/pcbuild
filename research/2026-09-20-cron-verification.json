@@ -1,0 +1,66 @@
+[
+  {
+    "job_id": "83a18a73b082",
+    "prompt_updated": true,
+    "schedule": {
+      "kind": "interval",
+      "minutes": 10080,
+      "display": "every 10080m"
+    },
+    "repeat": {
+      "times": 13,
+      "completed": 6
+    },
+    "enabled": true,
+    "next_run_at": "2026-09-27T13:08:07.863685+02:00",
+    "delivery_and_all_other_settings_unchanged": true
+  },
+  {
+    "job_id": "2e80c02815d9",
+    "prompt_updated": true,
+    "schedule": {
+      "kind": "once",
+      "run_at": "2026-11-27T09:00:00+01:00",
+      "display": "once at 2026-11-27 09:00"
+    },
+    "repeat": {
+      "times": 1,
+      "completed": 0
+    },
+    "enabled": true,
+    "next_run_at": "2026-11-27T09:00:00+01:00",
+    "delivery_and_all_other_settings_unchanged": true
+  },
+  {
+    "job_id": "ebb0382fb765",
+    "prompt_updated": true,
+    "schedule": {
+      "kind": "cron",
+      "expr": "0 9 * * *",
+      "display": "0 9 * * *"
+    },
+    "repeat": {
+      "times": 14,
+      "completed": 0
+    },
+    "enabled": false,
+    "next_run_at": "2026-08-10T09:00:00+02:00",
+    "delivery_and_all_other_settings_unchanged": true
+  },
+  {
+    "job_id": "dfb093ac8c06",
+    "prompt_updated": false,
+    "schedule": {
+      "kind": "once",
+      "run_at": "2026-11-13T08:55:00+01:00",
+      "display": "once at 2026-11-13 08:55"
+    },
+    "repeat": {
+      "times": 1,
+      "completed": 0
+    },
+    "enabled": true,
+    "next_run_at": "2026-11-13T08:55:00+01:00",
+    "delivery_and_all_other_settings_unchanged": true
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "query": "\"9960X\" site:proline.pl",
+    "result": {
+      "success": true,
+      "data": {
+        "web": [
+          {
+            "title": "Procesor Intel Core i9-9960X 3,10GHz 22MB LGA2066 BOX - ProLine",
+            "url": "https://proline.pl/?p=BX80673I99960X",
+            "description": "Sklep » Archiwum » Procesor Intel Core i9-9960X 3,10GHz 22MB LGA2066 BOX. Informacje archiwalne.",
+            "position": 1
+          },
+          {
+            "title": "Procesory AMD Ryzen Threadripper 9000 - zobacz sklep ProLine",
+            "url": "https://proline.pl/?n=procesory-amd-ryzen-threadripper-9000",
+            "description": "Threadripper 9960X. Nazwa. Shimada Peak.",
+            "position": 2
+          },
+          {
+            "title": "Procesory AMD Ryzen 9000 - ProLine",
+            "url": "https://proline.pl/?kat=Procesory+AMD&c_rodzina-procesor_ow=ryzen+9000&dynamicPaging=1",
+            "description": "Cena: 1149, Dodaj do Porównania Dodaj do Koszyka. Procesor AMD Threadripper 9960X sTR5 Procesor AMD Threadripper 9960X sTR5.",
+            "position": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "query": "\"9960X\" site:mediaexpert.pl",
+    "result": {
+      "success": false,
+      "error": "DuckDuckGo search failed: No results found."
+    }
+  },
+  {
+    "query": "\"PROART-RTX5090-O32G\" site:alternate.de",
+    "result": {
+      "success": false,
+      "error": "DuckDuckGo search failed: No results found."
+    }
+  },
+  {
+    "query": "\"PROART-RTX5090-O32G\" site:ldlc.com",
+    "result": {
+      "success": true,
+      "data": {
+        "web": [
+          {
+            "title": "ASUS ProArt GeForce RTX 5090 32GB GDDR7 OC Edition",
+            "url": "https://www.ldlc.com/en/product/PB00740291.html",
+            "description": "Buy Graphics card ASUS ProArt GeForce RTX 5090 32GB GDDR7 OC Edition (PROART-RTX5090-O32G) on LDLC, high-tech expert. 32 GB GDDR7 - HDMI/Dual DisplayPort/USB-C - DLSS 4 - PCI Express (NVIDIA GeForce RTX 5090).",
+            "position": 1
+          },
+          {
+            "title": "ASUS ProArt GeForce RTX 5090 32GB GDDR7 OC Edition",
+            "url": "https://www.ldlc.com/fiche/PB00740291.html",
+            "description": "Achat Carte graphique ASUS ProArt GeForce RTX 5090 32GB GDDR7 OC Edition (PROART-RTX5090-O32G) sur LDLC, n°1 du high-tech. 32 Go GDDR7 - HDMI/Dual DisplayPort/USB-C - DLSS 4 - PCI Express (NVIDIA GeForce RTX 5090).",
+            "position": 2
+          },
+          {
+            "title": "ASUS ProArt GeForce RTX 5090 32GB GDDR7 OC Edition",
+            "url": "https://www.ldlc.com/it-it/scheda/PB00740291.html",
+            "description": "Compra Scheda video ASUS ProArt GeForce RTX 5090 32GB GDDR7 OC Edition (PROART-RTX5090-O32G) su LDLC, il negozio high-tech numero 1. 32 GB GDDR7 - HDMI/Dual DisplayPort/USB-C - DLSS 4 - PCI Express (NVIDIA GeForce RTX 5090).",
+            "position": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "query": "\"PH-ES916E_BK02\" Geizhals",
+    "result": {
+      "success": true,
+      "data": {
+        "web": [
+          {
+            "title": "Workstation Case | Newegg.com",
+            "url": "https://www.newegg.com/p/pl?N=101737992",
+            "description": "Model #: PH-ES620PTG_BK02.Case Material: Steel Chassis, Aluminum panels, ABS plastic. Type: ATX Full Tower. Model #: PH-ES916E_BK02. $399.99 –. Free Shipping.",
+            "position": 1
+          },
+          {
+            "title": "мод комп - Купить товары для компьютера во всех регионах... | Авито",
+            "url": "https://www.avito.ru/all/tovary_dlya_kompyutera?q=мод+комп",
+            "description": "Сроки доставки примерно месяц, после отгрузки. Оплата по QR коду, как в магазине, либо по счету на Юр лицо. Phanteks Enthoo Elite Server (PH-ES916E_BK02) — extreme full-tower для multi-GPU и многопроцессорных систем: AI-станции, рендер-фермы, серве...",
+            "position": 2
+          },
+          {
+            "title": "Phanteks Enthoo Elite (PH-ES916E_BK) - Obudowa - Morele.net",
+            "url": "https://www.morele.net/obudowa-phanteks-enthoo-elite-ph-es916e-bk-1137527/",
+            "description": "Obudowa Phanteks Enthoo Elite (PH-ES916E_BK) jest dostępny w Morele.net! Szukasz tego produktu? Sprawdź - najczęściej to właśnie Morele.net ma najniższą cenę w Polsce.",
+            "position": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "query": "\"Seasonic\" \"1200\" \"ATX 3.1\" site:morele.net",
+    "result": {
+      "success": true,
+      "data": {
+        "web": [
+          {
+            "title": "SeaSonic VERTEX PX-1200 1200W (VERTEX PX-1200 ATX 3. ... - MoreleZasilacze do komputera SeaSonic - niskie ceny ... - MoreleZasilacze do komputera 1200W - niskie ceny, pomocne ... - MoreleZasilacz SeaSonic Vertex GX 1200W (VERTEX-GX-1200) - Morele.netZasilacz Enermax PlatiGemini 1200W (EGN1200P) - Morele.netZasilacze komputerowe - niskie ceny, pomocne opinie w Morele.netZasilacze komputerowe 80 Plus Gold - niskie ceny, pomocne ...1200w Seasonic Psu Online - Explore 1200w Seasonic Psu",
+            "url": "https://www.morele.net/zasilacz-seasonic-vertex-px-1200-1200w-vertex-px-1200-atx-3-0-pcie-5-0-13124336/",
+            "description": "Najnowsza seria Vertex firmy Seasonic została zaprojektowana i zbudowana do zasilania nowych komponentów komputerów PC wymagających nowych standardów ATX 3.0 i PCIe 5.0. Zasilacz komputera marki SeaSonic wyposażony został w układ PFC, pozwalający na korekcję współczynnika mocy. Wpływa to pozytywnie na zminimalizowanie strat w liniach przesyłowych, a układy aktywne są w stanie dostosować się do warunków panujących w sieci. W takim scenariuszu zasilacz do komputera 1200W daje realny margines bezpieczeństwa, a przykładem modelu dopasowanego do tego segmentu jest zasilacz SeaSonic VERTEX PX-1200 1200W (VERTEX PX-1200 ATX 3.0 PCIe 5.0). Najnowsza konstrukcja Seasonic utrzymuje napięcie wyjściowe w bardzo wąskim zakresie, osiągając regulację obciążenia poniżej 0,5%. Ta imponująca wydajność elektryczna i stabilność sprawiają, że ten zasilacz jest idealnym wyborem dla systemów o wysokiej wydajności. Zasilacz Enermax PlatiGemini 1200W (EGN1200P) jest dostępny w Morele.net! Szukasz tego produktu? Sprawdź - najczęściej to właśnie Morele.net ma najniższą cenę w Polsce. Zasilacze SeaSonic uchodzą za jedne z najlepszych na rynku – oferują doskonałą sprawność energetyczną, cichą pracę i wyjątkową trwałość potwierdzoną długą gwarancją producenta. Zasilacze komputerowe 80 Plus Gold w sklepie internetowym. Zapewniamy bezpieczeństwo, błyskawiczną wysyłkę i najniższe ceny w Polsce. Sprawdź nas! Browse compatible components to build or enhance your custom computer system at Amazon. Upgrade your PC with quality internal parts designed for performance and reliability.",
+            "position": 1
+          },
+          {
+            "title": "Zasilacze do komputera SeaSonic - niskie ceny ... - Morele",
+            "url": "https://www.morele.net/kategoria/zasilacze-komputerowe-61/,,,,,913,,,0,,,,/1/",
+            "description": "Zasilacz komputera marki SeaSonic wyposażony został w układ PFC, pozwalający na korekcję współczynnika mocy. Wpływa to pozytywnie na zminimalizowanie strat w liniach przesyłowych, a układy aktywne są w stanie dostosować się do warunków panujących w sieci.",
+            "position": 2
+          },
+          {
+            "title": "Zasilacze do komputera 1200W - niskie ceny, pomocne ... - Morele",
+            "url": "https://www.morele.net/kategoria/zasilacze-komputerowe-61/,,,,,,,,0,,,,6925O340749/1/",
+            "description": "W takim scenariuszu zasilacz do komputera 1200W daje realny margines bezpieczeństwa, a przykładem modelu dopasowanego do tego segmentu jest zasilacz SeaSonic VERTEX PX-1200 1200W (VERTEX PX-1200 ATX 3.0 PCIe 5.0).",
+            "position": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "query": "\"NYXUM Workstation\" 9950X3D",
+    "result": {
+      "success": true,
+      "data": {
+        "web": [
+          {
+            "title": "NYXUM Workstation R9-9950X3D/32GB/2TB/RTX5080/W11Px",
+            "url": "https://www.x-kom.pl/p/1545402-desktop-nyxum-workstation-r9-9950x3d-32gb-2tb-rtx5080-w11px.html",
+            "description": "Profesjonalna stacja robocza dla twórców 3D, specjalistów VFX, architektów, inżynierów CAD i wszystkich, którzy pracują na oprogramowaniu stawiającym sprzętowi wysokie wymagania. NYXUM Workstation dostarcza moc obliczeniową, stabilność i estetykę dopasowaną do profesjonalnego środowiska pracy.",
+            "position": 1
+          },
+          {
+            "title": "Stacje robocze NYXUM - Sklep komputerowy - x-kom.pl",
+            "url": "https://www.x-kom.pl/g-2/c/4581-stacje-robocze-nyxum.html",
+            "description": "Stacje robocze NYXUM w x-kom > Zobacz bogatą ofertę produktów w najniższych cenach. Odbiór za 0 zł w dowolnym salonie.",
+            "position": 2
+          },
+          {
+            "title": "NYXUM Workstation R9-9950X3D/32GB/2TB/RTX5080/W11Px",
+            "url": "https://x-kom.de/catalog/product/view/id/9786258/",
+            "description": "Bevor die NYXUM Workstation in deinem Studio eingesetzt wird, durchläuft sie mehrstündige, eigens entwickelte Stabilitätstests. Konfiguriert und getestet mit Komponenten der Workstation-Klasse.",
+            "position": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "query": "\"MZ-VAP4T0BW\" site:morele.net",
+    "result": {
+      "success": true,
+      "data": {
+        "web": [
+          {
+            "title": "Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW ...",
+            "url": "https://www.morele.net/dysk-ssd-samsung-9100-pro-4tb-m-2-2280-pci-e-x4-gen5-nvme-mz-vap4t0bw-14740719/",
+            "description": "Dysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW) jest dostępny w Morele.net! Szukasz tego produktu? Sprawdź - najczęściej to właśnie Morele.net ma najniższą cenę w Polsce.",
+            "position": 1
+          },
+          {
+            "title": "Dyski SSD M.2 2280 4TB - niskie ceny, pomocne opinie w Morele.net",
+            "url": "https://www.morele.net/kategoria/dyski-ssd-518/,,,,,,,,0,,,,15252O1083559,15254O1107831/1/",
+            "description": "Dysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW) (108) Zapytaj społeczności Kupiło 38 osób Format dysku: M.2 2280 Pojemność dysku: 4TB Interfejs: PCI-E x4 Gen5 NVMe Szybkość odczytu: 14800 MB/s Szybkość zapisu: 13400 MB/s",
+            "position": 2
+          },
+          {
+            "title": "Dyski SSD 4TB - niskie ceny, pomocne opinie w Morele.net",
+            "url": "https://www.morele.net/kategoria/dyski-ssd-518/,,,,,,,,0,,,,15254O1107831/1/",
+            "description": "Dysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW) (108) Zapytaj społeczności Kupiło 39 osób Format dysku: M.2 2280 Pojemność dysku: 4TB Interfejs: PCI-E x4 Gen5 NVMe Szybkość odczytu: 14800 MB/s Szybkość zapisu: 13400 MB/s",
+            "position": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "query": "\"9960X\" \"9970X\" site:x-kom.pl",
+    "result": {
+      "success": true,
+      "data": {
+        "web": [
+          {
+            "title": "NYXUM Workstation AI 9960X/256GB/4TB/2xRTX6000Blackwell/W11Px",
+            "url": "https://www.x-kom.pl/p/1545399-desktop-nyxum-workstation-ai-9960x-256gb-4tb-2xrtx6000blackwell-w11px.html",
+            "description": "NYXUM Workstation AI 9960X/256GB/4TB/2xRTX6000Blackwell/W11Px w x-kom.pl > Odbiór za 0 zł w dowolnym salonie, błyskawiczna wysyłka.",
+            "position": 1
+          },
+          {
+            "title": "Premiera AMD Threadripper - Najnowsze CPU w x-kom - x-kom.pl",
+            "url": "https://www.x-kom.pl/lp/nowe-procesory-amd-threadripper",
+            "description": "Chcę to mieć Sprawdź AMD Ryzen™ Threadripper™ 9980X AMD Ryzen™ Threadripper™ 9970X AMD Ryzen™ Threadripper™ 9960X",
+            "position": 2
+          },
+          {
+            "title": "Procesory AMD Ryzen 9 - najlepsze ceny, tysiące opinii w x-kom.pl",
+            "url": "https://www.x-kom.pl/g-5/c/2999-procesory-amd-ryzen-9.html",
+            "description": "Procesory AMD Ryzen 9 w x-kom > Zobacz bogatą ofertę produktów w najniższych cenach. Odbiór za 0 zł w dowolnym salonie.",
+            "position": 3
+          }
+        ]
+      }
+    }
+  }
+]
