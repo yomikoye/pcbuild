@@ -1,0 +1,1416 @@
+[
+  {
+    "url": "https://www.kingston.com/en/memory/search/model/109774/gigabyte-trx50-ai-top-motherboard",
+    "retrieved_at": "2026-09-27T11:11:08.905220+00:00",
+    "http": "403 https://www.kingston.com/en/memory/search/model/109774/gigabyte-trx50-ai-top-motherboard",
+    "exit_code": 0,
+    "error": "",
+    "title": "Just a moment...",
+    "products": [],
+    "parse_errors": [],
+    "text": "Just a moment..."
+  },
+  {
+    "url": "https://www.ceneo.pl/165315073",
+    "retrieved_at": "2026-09-27T11:11:08.992493+00:00",
+    "http": "200 https://www.ceneo.pl/Captcha/Add?ReturnUrl=%252f165315073&CookieAge=172800",
+    "exit_code": 0,
+    "error": "",
+    "title": "",
+    "products": [],
+    "parse_errors": [],
+    "text": "Przejdź dalej\n© 2005-2026 Ceneo.pl sp. z o.o. Korzystanie z serwisu oznacza akceptację\nregulaminu"
+  },
+  {
+    "url": "https://proline.pl/dysk-samsung-ssd-9100-pro-mz-vap4t0bw-4tb-m-2-pcie-nvme-gen5-p8125462",
+    "retrieved_at": "2026-09-27T11:11:09.636332+00:00",
+    "http": "200 https://proline.pl/dysk-samsung-ssd-9100-pro-mz-vap4t0bw-4tb-m2-pcie-nvme-gen5-p8125462",
+    "exit_code": 0,
+    "error": "",
+    "title": "Dysk Samsung SSD 9100 PRO MZ-VAP4T0BW 4TB M.2 PCIe NVMe Gen5 - proline.pl - Internetowy sklep komputerowy",
+    "products": [
+      {
+        "@context": "https://schema.org/",
+        "@type": "Product",
+        "name": "Dysk Samsung SSD 9100 PRO MZ-VAP4T0BW 4TB M.2 PCIe NVMe Gen5",
+        "image": [
+          "https://static.proline.pl/i/p/8125462/0000010076_0.jpg"
+        ],
+        "offers": {
+          "@type": "Offer",
+          "url": "https://proline.pl/dysk-samsung-ssd-9100-pro-mz-vap4t0bw-4tb-m2-pcie-nvme-gen5-p8125462",
+          "priceCurrency": "PLN",
+          "price": 3999.0,
+          "itemCondition": "http://schema.org/NewCondition",
+          "availability": "https://schema.org/SoldOut",
+          "seller": {
+            "@type": "Organization",
+            "name": "ProLine S.A.",
+            "legalName": "ProLine S.A."
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "applicableCountry": "PL",
+            "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 14,
+            "returnMethod": "https://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnFeesCustomerResponsibility"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": 19.99,
+              "currency": "PLN"
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "PL"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 0,
+                "maxValue": 1,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 1,
+                "maxValue": 3,
+                "unitCode": "DAY"
+              }
+            }
+          }
+        },
+        "sku": "0000010076",
+        "mpn": "MZ-VAP4T0BW",
+        "gtin13": "8806095811703",
+        "description": "Samsung SSD 9100 PRO MZ-VAP4T0BW 4TB M.2 PCIe NVMe Gen5 to nowoczesny dysk SSD, który wyznacza nowe standardy wydajności w komputerach stacjonarnych. Oferuje błyskawiczne prędkości odczytu i zapisu, doskonałą efektywność energetyczną oraz niezawodność, dzięki czemu idealnie sprawdzi się zarówno w zaawansowanych desktopach, jak i komputerach gamingowych",
+        "brand": {
+          "@type": "Brand",
+          "name": "Samsung"
+        }
+      }
+    ],
+    "parse_errors": [],
+    "text": "Dysk Samsung SSD 9100 PRO MZ-VAP4T0BW 4TB M.2 PCIe NVMe Gen5 - proline.pl - Internetowy sklep komputerowy\nWszędzie\nKomputery i laptopy\nPodzespoły komputerowe\nUrządzenia peryferyjne PC\nTelefony i akcesoria\nGaming i streaming\nMałe AGD\nTelewizory i audio\nFotografia i kamery\nBiuro i firma\nSport i hobby\nZdrowie i uroda\nDziecko i mama\nDom i ogród\nMotoryzacja\nUsługi i gwarancje\nKonfigurator\n0\n0,00 zł\nMój Proline\nWitaj w proline!\nMasz już konto?\nZaloguj się, by sprawdzić\nswoje zamówienia, listy i konfiguracje.\nZaloguj się\nalbo\nZałóż konto\nWygląd strony\nKategorie\nNowości\nBestsellery\npro\nmocje\nSprzęt gamingowy\nWyprzedaż\nKontakt\nPodzespoły komputerowe\nKomputery i laptopy\nUrządzenia peryferyjne PC\nTelefony i akcesoria\nGaming i streaming\nMałe AGD\nTelewizory i audio\nFotografia i kamery\nBiuro i firma\nSport i hobby\nZdrowie i uroda\nDziecko i mama\nDom i ogród\nMotoryzacja\nUsługi i gwarancje\nDyski twarde HDD, SSD, M2\nKarty graficzne\nProcesory CPU\nKości pamięci RAM\nPłyty główne\nZasilacze komputerowe\nObudowy do komputera\nKontrolery PCIe, PCI, M.2\nChłodzenie do komputera\nKarty dźwiękowe, muzyczne\nNapędy optyczne, nośniki\nŚrodki czyszczące\nDysk NVMe M.2\nDysk SSD SATA\nDysk twardy HDD\nDyski zewnętrzne HDD\nDysk Samsung SSD 9100 PRO MZ-VAP4T0BW 4TB M.2 PCIe NVMe Gen5\nDodaj pierwszą opinię\nSKU: 10076\nMPN: MZ-VAP4T0BW\nEAN:\n8806095811703\nDysk Samsung SSD 9100 PRO MZ-VAP4T0BW 4TB M.2 PCIe NVMe Gen5\nNastępny\nPoprzedni\nKliknij, aby wyświetlić duże zdjęcia produktu\nNastępny\nPoprzedni\nNastępny\nPoprzedni\nNastępny\nPoprzedni\nDodaj pierwszą opinię\nFormat dysku:\nM.2 2280\nArchitektura pamięci:\n3D-NAND / V-NAND\nLiczba bitów na komórkę:\nTLC (Triple-Level Cell)\nPodświetlenie:\nBrak\nMBTF:\n1500000 godzin\nPamięć Cache:\n4096 MB\nRadiator:\nNie\nZobacz więcej szczegółów\nPojemność\n1TB\n2TB\n4TB\n8TB\nPostaw na oryginalny system Microsoft!\nKup\nWindows 11 Home\nalbo\nWindows\n11\nPro\n.\nWysyłkowa:\n3 999,00 zł\nStacjonarna:\n4 080,00 zł\nDodaj do koszyka\nChwilowy brak\nZapytaj o dostępność\nZapytaj o produkt\nGwarancja producenta\n58 miesiące\nZwrot / wymiana towaru\nMasz na to 14 dni.\nZobacz regulamin i wyłączenia...\nZapłać za pomocą\nBLIK, BLIK Płacę Później, PayPo, Przelewy24, Raty, Kartą, Za pobraniem\nWysyłka za pomocą\nInPost, DPD, DHL\nUdostępnij\nDrukuj\nZgłoś błąd\nSKU: 10076\nMPN: MZ-VAP4T0BW\nEAN:\n8806095811703\nFormat dysku:\nM.2 2280\nArchitektura pamięci:\n3D-NAND / V-NAND\nLiczba bitów na komórkę:\nTLC (Triple-Level Cell)\nPodświetlenie:\nBrak\nMBTF:\n1500000 godzin\nPamięć Cache:\n4096 MB\nRadiator:\nNie\nZobacz więcej szczegółów\nPojemność\n1TB\n2TB\n4TB\n8TB\nPostaw na oryginalny system Microsoft!\nKup\nWindows 11 Home\nalbo\nWindows\n11\nPro\n.\nOpis\nCechy\nOpinie\nRaty\nDysk Samsung SSD 9100 PRO MZ-VAP4T0BW 4TB M.2 PCIe NVMe Gen5\nSamsung SSD 9100 PRO MZ-VAP4T0BW 4TB M.2 PCIe NVMe Gen5 to nowoczesny dysk SSD, który wyznacza nowe standardy wydajności w komputerach stacjonarnych. Oferuje błyskawiczne prędkości odczytu i zapisu, doskonałą efektywność energetyczną oraz niezawodność, dzięki czemu idealnie sprawdzi się zarówno w zaawansowanych desktopach, jak i komputerach gamingowych\nNajważniejsze cechy\nPojemność: 4000 GB\nInterfejs: PCIe NVMe 5.0 x4\nMBTF: 1.5 miliona godzin\nTBW: 2400TB\nInterfejs PCIe 5.0 x4 NVMe 2.0 – dwukrotnie szybszy od poprzedniej generacji\nMaksymalna prędkość odczytu sekwencyjnego do 14 800 MB/s\nMaksymalna prędkość zapisu sekwencyjnego do 13 400 MB/s\nFormat M.2 2280 – szeroka kompatybilność z desktopami i stacjami roboczymi\nZaawansowane zarządzanie energią i temperaturą – 49% większa efektywność energetyczna\nWsparcie dla Samsung Magician – łatwa optymalizacja i ochrona danych\nSzyfrowanie AES 256-bit, TCG/Opal, IEEE1667 – bezpieczeństwo danych\nSamsung SSD 9100 PRO MZ-VAP4T0BW 4TB - Najszybszy dysk do Twojego komputera stacjonarnego\nSamsung SSD 9100 PRO MZ-VAP4T0BW 4TB M.2 PCIe NVMe Gen5 to przełomowy dysk półprzewodnikowy, który redefiniuje pojęcie wydajności w komputerach stacjonarnych. Dzięki zastosowaniu najnowszego interfejsu PCIe 5.0 x4 oraz protokołu NVMe 2.0, ten model oferuje prędkości odczytu i zapisu na poziomie, który jeszcze niedawno był poza zasięgiem nawet najbardziej wymagających użytkowników.\nEkstremalna wydajność dla profesjonalistów i graczy\nDysk Samsung 9100 PRO osiąga sekwencyjne prędkości odczytu do 14 800 MB/s i zapisu do 13 400 MB/s, co czyni go dwukrotnie szybszym od modeli PCIe Gen4. Dzięki temu idealnie sprawdzi się w komputerach stacjonarnych przeznaczonych do gier, obróbki wideo 4K/8K, modelowania 3D czy pracy z dużymi zbiorami danych.\n\"Dysk osiąga zawrotne prędkości przekraczające 14 GB/s w odczycie sekwencyjnym oraz ponad 10 GB/s w zapisie, wyznaczając nowy standard w świecie NVMe.\"\nZaawansowana technologia i bezpieczeństwo danych\nWykorzystanie pamięci Samsung V-NAND TLC oraz autorskiego kontrolera zapewnia nie tylko szybkość, ale także niezawodność i długą żywotność. Dysk wspiera 256-bitowe szyfrowanie AES, TCG/Opal oraz IEEE1667, gwarantując bezpieczeństwo Twoich danych na najwyższym poziomie.\nEfektywność energetyczna i inteligentne zarządzanie temperaturą\n9100 PRO oferuje nawet o 49% wyższą efektywność energetyczną w porównaniu do poprzednich generacji. Dzięki zaawansowanemu systemowi zarządzania temperaturą oraz opcjonalnemu radiatorowi, dysk utrzymuje optymalną wydajność nawet podczas długotrwałego obciążenia.\n\"Do prawidłowego działania wymaga on przynajmniej sporego radiatora i optymalnie choć odrobiny przepływu powietrza w obudowie.\"\nKompatybilność i łatwa instalacja w desktopach\nFormat M.2 2280 oraz szeroka kompatybilność sprawiają, że Samsung 9100 PRO doskonale pasuje do większości nowoczesnych komputerów stacjonarnych. Instalacja jest prosta, a wsparcie dla aplikacji Samsung Magician pozwala w pełni wykorzystać potencjał dysku, monitorować jego stan oraz przeprowadzać aktualizacje oprogramowania.\nPraktyczne porady dla użytkowników komputerów stacjonarnych\nZadbaj o odpowiednie chłodzenie - przy intensywnym użytkowaniu zalecany jest radiator oraz dobry przepływ powietrza w obudowie.\nPrzed zakupem sprawdź, czy Twoja płyta główna obsługuje standard PCIe 5.0 x4, aby w pełni wykorzystać możliwości dysku.\nWykorzystaj aplikację Samsung Magician do regularnej optymalizacji i monitorowania stanu nośnika.\nIdealny wybór do stacji roboczych, komputerów gamingowych oraz profesjonalnych zastosowań, gdzie liczy się najwyższa wydajność i bezpieczeństwo danych.\nPodsumowanie\nSamsung SSD 9100 PRO MZ-VAP4T0BW 4TB to inwestycja w przyszłość Twojego komputera stacjonarnego. Niezrównana prędkość, bezpieczeństwo oraz niezawodność czynią go najlepszym wyborem dla wymagających użytkowników. Przekonaj się, jak wiele możesz zyskać, wybierając najnowszą technologię od lidera rynku SSD.\nPokaż cały opis\nCechy produktu\nPojemność całkowita\n4000 GB\nFormat dysku\nM.2 2280\nInterfejs\nPCIe Gen 5.0 x4 NVMe 2.0\nArchitektura pamięci\n3D-NAND / V-NAND\nLiczba bitów na komórkę\nTLC (Triple-Level Cell)\nKod wielkości\n2280 (22 x 80)\nPodświetlenie\nBrak\nObsługa NVMe\nTak\nPrędkość odczytu\n14800 MB/s\nPrędkość zapisu\n13400 MB/s\nMBTF\n1500000 godzin\nTyp pamięci\nTLC (Triple-Level Cell)\nPamięć Cache\n4096 MB\nTBW\n2400 TB\nRadiator\nNie\nSKU\n0000010076\nMPN\nMZ-VAP4T0BW\nEAN\n8806095811703\nGwarancja producenta\n58 miesięcy\nPokaż wszystkie cechy\nOsoba\nodpowiedzialna i bezpieczeństwo\nSamsung Electronics Polska Sp. z o.o.\nul. Postępu 14\n02-676, 167\nsupport_sepol@email.support.samsung.com\n+48801172678\nSamsung Electronics Polska Sp. z o.o.\nul. Postępu 14\n02-676, 167\nsupport_sepol@email.support.samsung.com\n+48801172678\nUniwersalna informacja o bezpieczeństwie\nOpinie Klientów\nPROLINE S.A. nie gwarantuje, że zamieszczone opinie pochodzą od\nosób,\nktóre zakupiły lub używały dany produkt.\nMasz ten produkt?\nDodaj pierwszą opinię: Dysk Samsung SSD 9100 PRO MZ-VAP4T0BW 4TB M.2 PCIe NVMe Gen5\nDodaj pierwszą opinię...\nRaty\nZłóż\nzamówienie i wybierz płatność ratalną w preferowanym banku\nZnajdź produkt, który spełnia Twoje oczekiwania,\ndodaj go\ndo koszyka. Następnie, podczas finalizacji zamówienia, będziesz mieć możliwość wyboru\npłatności\nratalnej, co pozwoli Ci na rozłożenie kosztów na dogodne raty w preferowanym przez Ciebie\nbanku.\nUpewnij się, że Twój PESEL nie jest zablokowany w aplikacji mObywatel 2.0.\nWypełnij\nwniosek kredytowy, który otrzymasz mailem\nPo zakończeniu procesu składania zamówienia,\notrzymasz na\npodany e-mail wiadomość z linkiem do wniosku kredytowego. W formularzu będziesz musiał podać\ninformacje osobowe, dane dotyczące Twojego zatrudnienia oraz inne istotne informacje\nfinansowe,\nco zajmie Ci tylko kilka minut, ale jest niezbędne dla udzielenia kredytu przez bank.\nWybierz\nsposób\nzawarcia umowy, poprzez kuriera lub online\nPo pomyślnym złożeniu wniosku kredytowego, otrzymasz\ninstrukcje dotyczące zawarcia umowy, a Ty będziesz mógł zdecydować, czy wolisz, aby kurier\ndostarczył Ci dokumenty osobiście, czy też chcesz skorzystać z opcji zawarcia umowy online,\nktóra pozwala na szybkie i wygodne sfinalizowanie formalności bez wychodzenia z domu.\nPodpisz\numowę\ni ciesz się zakupami w Proline.pl\nJeśli zdecydowałeś się na kuriera, dokumenty zostaną\ndostarczone do Twoich drzwi, natomiast w przypadku opcji online wystarczy kilka kliknięć,\naby\nzakończyć proces. Po pomyślnym podpisaniu umowy, możesz wreszcie cieszyć się swoimi nowymi\nzakupami z Proline.pl, mając pewność, że korzystasz z elastycznych warunków płatności, które\ndostosowują się do Twoich potrzeb. Jeśli preferujesz odbiór osobisty, w wypełnieniu wniosku\npomoże Ci doradca w salonie.\nWysyłkowa:\n3 999,00 zł\nStacjonarna:\n4 080,00 zł\nDodaj do koszyka\nChwilowy brak\nZapytaj o dostępność\nZapytaj o produkt\nGwarancja producenta\n58 miesiące\nZwrot / wymiana towaru\nMasz na to 14 dni.\nZobacz regulamin i wyłączenia...\nZapłać za pomocą\nBLIK, BLIK Płacę Później, PayPo, Przelewy24, Raty, Kartą, Za pobraniem\nWysyłka za pomocą\nInPost, DPD, DHL\nUdostępnij\nDrukuj\nZgłoś błąd\nOstatnio oglądane\nDysk Samsung SSD 9100 PRO MZ-VAP4T0BW 4TB M.2 PCIe NVMe Gen5\n3 999,00 zł\nNastępny\nPoprzedni\nZgłoś błąd w opisie produktu\nDysk Samsung SSD 9100 PRO MZ-VAP4T0BW 4TB M.2 PCIe NVMe Gen5\nEmail\nOpis błędu:\nZamknij\nWyślij\nProdukt dodany do koszyka\n,\n1 x Dysk Samsung SSD 9100 PRO MZ-VAP4T0BW 4TB M.2 PCIe NVMe Gen5\n3 999,00 zł\nza sztukę 3 999,00 zł\nRekomendowane\nakcesoria\nOchrona reklamacyjna\neverActive 6F22/9V Li-ion 550 mAh z USB TYP-C - opak. 1 akumulatorek - blister (EVHR22-550C)\nOferowany akumulator należy do najmocniejszych i najpojemniejszych akumulatorów jakie znajdziemy w rozmiarze rozmiarze baterii \"9V\" - minimalna pojemność 500 mAh została osiągnięta poprzez zastosowanie dedykowanych ogniw litow-jonowych. Nowe akumulatory Li-ion w rozmiarze baterii 9V przy napięciu nominalnym 7.4V osiągają dwukrotnie wyższe pojemności znamionowe wyrażone w mAh od swoich odpowiedników wykonanych w technologii Ni-MH. Akumulatory Ni-MH mają natomiast minimalnie wyższe średnie napięcie pracy (nominalne) - najczęściej 8.4V.\n38,00 zł\nDodaj do koszyka\nNowość\nKarta SanDisk Extreme GO microSDXC UHS-I 170/80 MB/s 64GB\nKarta microSDXC o pojemności 64 GB to nowoczesne rozwiązanie dla twórców ceniących płynność i niezawodność. Oferując prędkość odczytu do 170 MB/s oraz zapisu do 80 MB/s, nośnik pozwala na swobodne rejestrowanie wideo w jakości 4K UHD i 5K. Dzięki klasie A2 aplikacje uruchamiają się błyskawicznie, co znacząco podnosi komfort pracy na smartfonach i konsolach. To wytrzymały produkt odporny na ekstremalne warunki środowiskowe.\n139,99 zł\nDodaj do koszyka\nNowość\nAlphacool HF 13/10 screw-on nozzle 90° rotatable G1/4 - Deep Black\nZłączka kątowa skręcana 90° High Flow G1/4 na wąż 13/10 mm w wykończeniu Deep Black to kluczowy element każdego zaawansowanego układu chłodzenia cieczą. Zapewnia pełną swobodę prowadzenia elastycznych przewodów w ciasnych obudowach dzięki obrotowej konstrukcji. Solidny mosiądz poddany innowacyjnemu procesowi chromowania oferuje wyjątkową odporność mechaniczną i trwałość głębokiej czerni, minimalizując ryzyko odprysków.\n22,60 zł\nDodaj do koszyka\nOchrona reklamacyjna PROtect Smart\nZadbaj o swoje zakupy z dodatkowymi ubezpieczeniami od mechanicznych uszkodzeń w transporcie. Dzięki usłudze PROtect Smart, jeśli Twoje zamówienie dotrze uszkodzone, masz aż 7 dni na zgłoszenie problemu. Gdy zauważysz wadę fabryczną, możesz wymienić towar lub otrzymać zwrot pieniędzy w ciągu 14 dni. Co więcej, prawo do zwrotu towaru bez podania przyczyny zostało wydłużone do 30 dni. Nasza gwarancja door to door pokrywa koszty transportu, abyś mógł cieszyć się pełnym spokojem.\n599,00 zł\nDodaj do koszyka\nOchrona reklamacyjna PROtect Prestige\nZainwestuj w kompleksową ochronę swojego sprzętu z usługą \"Ochrona reklamacyjna PROtect Prestige\". Oprócz standardowych opcji zgłaszania uszkodzeń mechanicznych, oferujemy bezpłatne konsultacje z wykwalifikowanym serwisantem ProLine. Uzyskasz pomoc w rozwiązywaniu problemów technicznych, a także w doborze idealnych komponentów do Twojego komputera. Dodatkowo, pakiet obejmuje wsparcie w zakresie tuningu komputerowego oraz overclockingu, co pozwoli na zwiększenie wydajności Twojego sprzętu.\n799,00 zł\nDodaj do koszyka\nOchrona reklamacyjna PROtect Premium\nZainwestuj w pełną ochronę swojego sprzętu z usługą \"Ochrona reklamacyjna PROtect Premium\". Oprócz standardowych korzyści, takich jak możliwość zgłaszania uszkodzeń mechanicznych i fachowe konsultacje, ten pakiet oferuje dodatkowe przedłużenie gwarancji na 1 lub 3 lata. Dzięki PROtect Premium możesz mieć pewność, że Twój sprzęt jest chroniony przed awariami nawet po zakończeniu gwarancji producenta. Skorzystaj z tego kompleksowego wsparcia, aby cieszyć się spokojem i bezpieczeństwem.\n999,00 zł\nDodaj do koszyka\nKontynuuj zakupy\nPrzejdź do koszyka\nDostępność w salonach\nCentrala Mirków\nChwilowy brak\nul. Brzozowa 5\n55-095 Mirków\ntel.\n664999933\npomoc@proline.pl\nGodziny otwarcia:\nPon - Pt: 09:00 - 17:00\nSob - Niedz: Nieczynne\nOddział Gliwice\nChwilowy brak\nul. Zwycięstwa 47\n44-100 Gliwice\ntel.\n664999925\ngliwice@proline.pl\nGodziny otwarcia:\nPon - Pt: 10:00 - 18:00\nSob - Niedz: Nieczynne\nOddział Kalisz\nChwilowy brak\nul. Nowy Rynek 6\n62-800 Kalisz\ntel.\n664999915\nkalisz@proline.pl\nGodziny otwarcia:\nPon - Pt: 10:00 - 18:00\nSob - Niedz: Nieczynne\nOddział Katowice\nChwilowy brak\nul. al. Korfantego 78A\n40-156 Katowice\ntel.\n664999921\nkatowice@proline.pl\nGodziny otwarcia:\nPon - Pt: 10:00 - 18:00\nSob - Niedz: Nieczynne\nOddział Legnica\nChwilowy brak\nul. Pocztowa 5B\n59-220 Legnica\ntel.\n664999918\nlegnica@proline.pl\nGodziny otwarcia:\nPon - Pt: 10:00 - 18:00\nSob - Niedz: Nieczynne\nOddział Opole\nChwilowy brak\nul. Osmańczyka 19\n45-027 Opole\ntel.\n774536349\nbestitopole@gmail.com\nGodziny otwarcia:\nPon - Pt: 09:00 - 17:00\nSob - Niedz: Nieczynne\nOddział Poznań\nChwilowy brak\nul. Ratajczaka 23\n61-815 Poznań\ntel.\n664999912\npoznan@proline.pl\nGodziny otwarcia:\nPon - Pt: 10:00 - 18:00\nSob - Niedz: Nieczynne\nOddział Trzebnica\nChwilowy brak\nul. Rynek 18\n55-100 Trzebnica\ntel.\n508 177 295\ntrzebnica@proline.pl\nGodziny otwarcia:\nPon - Pt: 10:00 - 17:00\nSob - Niedz: Nieczynne\nZamknij\nDodaj opinię\nPodpis\nEmail - nie będzie widoczny w treści opinii\nOpinia\nZalety\nWady\nOświadczam, że akceptuję zasady moderacji opinii zgodnie z\nregulaminem sklepu\n. Administratorem Twoich danych osobowych jest Proline SA z siedzibą  przy ul. Brzozowej 5, 55-095 Mirków. Twoje dane przetwarzamy w celu publikacji opinii o produkcie. Więcej informacji na ten temat znajdziesz w\nPolityce prywatności\n.\nWróć do zakupów\nDodaj opinię\nDostępność: Dysk Samsung SSD 9100 PRO MZ-VAP4T0BW 4TB M.2 PCIe NVMe Gen5\nChwilowy brak\nZapytaj o dostępność\nPo złożeniu zamówienia nasz dział zaopatrzenia sprawdzi dostępność brakujących produktów u dostawców. Po otrzymaniu informacji niezwłocznie skontaktujemy się z Tobą, aby poinformować Cię o przewidywanym terminie realizacji zamówienia i wszelkich dalszych krokach, które mogą być wymagane.\nJeśli chcesz kupić ten produkt, możesz też zapytać nas o przewidywaną datę wysyłki za pomocą\ntego formularza\n.\nZamknij\nTermin dostawy\nDysk Samsung SSD 9100 PRO MZ-VAP4T0BW 4TB M.2 PCIe NVMe Gen5\nZamknij\nMam pytanie do produktu\nDysk Samsung SSD 9100 PRO MZ-VAP4T0BW 4TB M.2 PCIe NVMe Gen5\nEmail\nTreść pytania:\nZamknij\nWyślij pytanie\nZapisz się na mega proMOCJE\nNie strać żadnej informacji o promocji ani kodu rabatowego dostępnego tylko dla subskrybentów. Dołącz teraz do grona odbiorców newslettera ProLine!\nWięcej informacji\nEmail\nZapisz się\nOświadczam, że mam ukończone 16 lat. Wyrażam zgodę na zapisanie mnie do Newslettera Proline i przetwarzanie mojego adresu e-mail w celu wysyłki wiadomości. Zapoznałem się i wyrażam zgodę na postanowienia\nregulaminu newslettera\n.\nZakupy\nKonfigurator zestawów komputerowych\nDobór zestawu komputerowego\nPolecane zestawy gamingowe\nKody promocyjne\nKarty podarunkowe\nZakupy na raty\nLicencja esd\nUsługi i rozszerzenia gwarancji\nWspółpraca hurtowa i MŚP\nSprzedaż hurtowa\nOferta dla firm i instytucji\nPrzetargi i zamówienia publiczne\nOkazja i promocja\nPromocje\nBestsellery\nNowości\nNewsletter\nWyprzedaż\nproMOCNI\nStruktura strony\nWszystkie kategorie\nLista producentów\nWsparcie klienta i serwis\nKontakt z ProLine\nCzęste pytania, czyli FAQ\nSposoby i koszty dostawy\nKalkulator mocy zasilacza\nZwrot lub wymiana towaru\nZgłoszenie uszkodzenia towaru\nWarunki gwarancji\nTerminy reklamacji dostawy\nInstrukcja odbioru paczki\nPunkty zbiorki odpadów PSZOK\nZgłoś niebezpieczny produkt, GPSR\nZużyty sprzęt elektryczny\nDeklaracja dostępności\nInformacje o firmie\nDane firmy i numer konta\nDlaczego Proline\nCertyfikaty i wyróżnienia\nKariera w Proline\nInstrukcja obsługi sklepu\nRegulaminy i regulacje\nRegulamin sklepu\nRegulamin opinii\nRegulamin newslettera\nPolityka prywatności i cookies\nKoszty gosp. odpadami\nSzybki kontakt\n664 999 933\npon. - pt.\n9:00 - 17:00\nsob. - niedz.\nnieczynne\npomoc@proline.pl\nDołącz do nas\nZgłoś błąd na stronie\nZakupy\nKonfigurator zestawów komputerowych\nDobór zestawu komputerowego\nPolecane zestawy gamingowe\nKody promocyjne\nKarty podarunkowe\nZakupy na raty\nWszystkie kategorie\nLista producentów\nLicencja esd\nUsługi i rozszerzenia gwarancji\nWspółpraca hurtowa i MŚP\nSprzedaż hurtowa\nOferta dla firm i instytucji\nPrzetargi i zamówienia publiczne\nOkazja i promocja\nPromocje\nBestsellery\nNowości\nNewsletter\nWyprzedaż\nproMOCNI\nStruktura strony\nWszystkie kategorie\nLista producentów\nSklepy marek\nADATA\nAerocool\nArctic\nGigabyte\nKingston\nMSI\nnoblechairs\nMontech\nValkyrie\nSalicru\nNeoTEC\nSeasonic\nZenPC\nWsparcie klienta i serwis\nKontakt z ProLine\nCzęste pytania, czyli FAQ\nSposoby i koszty dostawy\nKalkulator mocy zasilacza\nZwrot lub wymiana towaru\nZgłoszenie uszkodzenia towaru\nWarunki gwarancji\nTerminy reklamacji dostawy\nInstrukcja odbioru paczki\nPunkty zbiorki odpadów PSZOK\nZgłoś niebezpieczny produkt, GPSR\nZużyty sprzęt elektryczny\nInformacje o firmie\nDane firmy i numer konta\nDlaczego Proline\nCertyfikaty i wyróżnienia\nKariera w Proline\nInstrukcja obsługi sklepu\nZaufane opinie ProLine na Ceneo\nRegulaminy i regulacje\nRegulamin sklepu\nRegulamin opinii\nRegulamin newslettera\nPolityka prywatności i cookies\nKoszty gospodarowania odpadami\nSzybki kontakt\n664 999 933\npon. - pt.\n9:00 - 17:00\nsob. - niedz.\nnieczynne\npomoc@proline.pl\nDołącz do nas\nZgłoś błąd na stronie\nProline SA z siedzibą w Mirkowie (55-095),\nprzy ul. Brzozowej 5, wpisana do rejestru przedsiębiorców Krajowego Rejestru Sądowego przez\nSąd Rejonowy dla Wrocławia-Fabrycznej we Wrocławiu, VI Wydział Gospodarczy Krajowego\nRejestru Sądowego pod nr KRS: 0000282071, NIP: 8951898022, REGON: 020482041, BDO: 000437899.\nKapitał zakładowy Spółki wynosi 500000,00 zł i został on opłacony w całości.\n© proline 1996 - 2026. Wszelkie\nprawa zastrzeżone.\nZgłoś błąd na stronie\nWybierz\nBłąd techniczny strony\nBłąd w informacjach o produkcie\nBłąd w treści strony\nBłąd w opiniach\nBłąd w ratach\nProblemy z realizacją zamówienia\nNaruszenie treści\nInny rodzaj błędu\nTemat\nEmail\nWiadomość\nWyślij\nZamknij\nWybierz wygląd strony\nJasny\nCiemny\nWysoki kontrast\nSystemowy\nZamknij"
+  },
+  {
+    "url": "https://www.x-kom.pl/p/1316393-plyta-glowna-socket-str5-gigabyte-trx50-ai-top.html",
+    "retrieved_at": "2026-09-27T11:11:09.786051+00:00",
+    "http": "403 https://www.x-kom.pl/p/1316393-plyta-glowna-socket-str5-gigabyte-trx50-ai-top.html",
+    "exit_code": 0,
+    "error": "",
+    "title": "Attention Required! | Cloudflare",
+    "products": [],
+    "parse_errors": [],
+    "text": "Attention Required! | Cloudflare\nPlease enable cookies.\nSorry, you have been blocked\nYou are unable to access\nx-kom.pl\nWhy have I been blocked?\nThis website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\nWhat can I do to resolve this?\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.\nCloudflare Ray ID:\na41a10e66c5d8a9b\n•\nYour IP:\nClick to reveal\n195.189.33.78\n•\nPerformance & security by\nCloudflare"
+  },
+  {
+    "url": "https://www.x-kom.pl/p/1352185-procesor-amd-threadripper-amd-ryzen-threadripper-9960x.html",
+    "retrieved_at": "2026-09-27T11:11:09.856879+00:00",
+    "http": "403 https://www.x-kom.pl/p/1352185-procesor-amd-threadripper-amd-ryzen-threadripper-9960x.html",
+    "exit_code": 0,
+    "error": "",
+    "title": "Attention Required! | Cloudflare",
+    "products": [],
+    "parse_errors": [],
+    "text": "Attention Required! | Cloudflare\nPlease enable cookies.\nSorry, you have been blocked\nYou are unable to access\nx-kom.pl\nWhy have I been blocked?\nThis website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\nWhat can I do to resolve this?\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.\nCloudflare Ray ID:\na41a10e6dc43b77f\n•\nYour IP:\nClick to reveal\n195.189.33.78\n•\nPerformance & security by\nCloudflare"
+  },
+  {
+    "url": "https://www.gskill.com/qvl/400/446/1747204820/F5-6000R3036G32GQ4-G5N-QVL",
+    "retrieved_at": "2026-09-27T11:11:09.889698+00:00",
+    "http": "403 https://www.gskill.com/qvl/400/446/1747204820/F5-6000R3036G32GQ4-G5N-QVL",
+    "exit_code": 0,
+    "error": "",
+    "title": "403 Forbidden",
+    "products": [],
+    "parse_errors": [],
+    "text": "403 Forbidden\nForbidden\nYou don't have permission to access this resource.\nAdditionally, a 403 Forbidden\nerror was encountered while trying to use an ErrorDocument to handle the request."
+  },
+  {
+    "url": "https://www.ceneo.pl/183896303",
+    "retrieved_at": "2026-09-27T11:11:09.988280+00:00",
+    "http": "200 https://www.ceneo.pl/Captcha/Add?ReturnUrl=%252f183896303&CookieAge=172800",
+    "exit_code": 0,
+    "error": "",
+    "title": "",
+    "products": [],
+    "parse_errors": [],
+    "text": "Przejdź dalej\n© 2005-2026 Ceneo.pl sp. z o.o. Korzystanie z serwisu oznacza akceptację\nregulaminu"
+  },
+  {
+    "url": "https://www.euro.com.pl/karty-graficzne/asus-karta-graf-asus-proart-rtx5090-o-32g.bhtml",
+    "retrieved_at": "2026-09-27T11:11:10.104675+00:00",
+    "http": "403 https://www.euro.com.pl/karty-graficzne/asus-karta-graf-asus-proart-rtx5090-o-32g.bhtml",
+    "exit_code": 0,
+    "error": "",
+    "title": "Access Denied",
+    "products": [],
+    "parse_errors": [],
+    "text": "Access Denied\nAccess Denied\nYou don't have permission to access \"http://www.euro.com.pl/karty-graficzne/asus-karta-graf-asus-proart-rtx5090-o-32g.bhtml\" on this server.\nReference #18.2ea82c17.1790507470.c4f6807\nhttps://errors.edgesuite.net/18.2ea82c17.1790507470.c4f6807"
+  },
+  {
+    "url": "https://www.morele.net/karta-graficzna-asus-proart-geforce-rtx-5090-oc-32gb-gddr7-dlss4-proart-rtx5090-o32g-600147680/",
+    "retrieved_at": "2026-09-27T11:11:10.538929+00:00",
+    "http": "200 https://www.morele.net/karta-graficzna-asus-proart-geforce-rtx-5090-oc-32gb-gddr7-dlss4-proart-rtx5090-o32g-600147680/",
+    "exit_code": 0,
+    "error": "",
+    "title": "Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G) - Karta graficzna - Morele.net",
+    "products": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "productID": "600147680",
+        "name": "Karta graficzna Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G)",
+        "description": "Asus ProArt GeForce RTX 5090 OC Edition – potężna wydajność w eleganckim wydaniu Karta graficzna Asus ProArt GeForce RTX 5090 32GB GDDR7 OC Edition to przełomowa konstrukcja stworzona z myślą o najbardziej wymagających twórcach treści oraz graczach. Łączy ona w sobie bezkompromisową moc flagowego układu graficznego z niezwykle kompaktową i przemyślaną formą. Urządzenie wyróżnia się elegancką estetyką z subtelnymi złotymi akcentami oraz wykończeniem przypominającym drewno. Dzięki zaawansowanym technologiom chłodzenia karta zapewnia optymalne temperatury i stabilność nawet przy pełnym obciążeniu procesami sztucznej inteligencji. To idealny wybór do nowoczesnych stacji roboczych oraz kompaktowych komputerów. Kompaktowa konstrukcja 2.5-slotowa idealna do obudów SFF Model ten wprowadza rewolucyjną, zajmującą zaledwie 2,5 slotu konstrukcję, co jest rzadkością w segmencie tak potężnych układów. Dzięki oznaczeniu SFF-Ready karta bez problemu mieści się v mniejszych obudowach komputerowych o ograniczonej przestrzeni. Pozwala to na budowanie ultrawydajnych, a zarazem kompaktowych stacji roboczych bez konieczności rezygnacji z pełnej mocy flagowego układu graficznego. Taka budowa ułatwia również tworzenie konfiguracji wielokartowych w klasycznych obudowach typu tower. Użytkownicy zyskują ogromną elastyczność podczas projektowania swojego stanowiska pracy. Komora parowa i zastosowanie płynnego metalu dla maksymalnego chłodzenia W celu zapewnienia najwyższej efektywności termicznej producent zastosował autorską komorę parową, która bezpośrednio styka się z rdzeniem graficznym. Ciepło jest błyskawicznie przekazywane do gęstego radiatora oraz sieci rurek cieplnych za pomocą zaawansowanego technicznie płynnego metalu. Zastosowanie płynnego metalu na rdzeniu GPU pozwala na osiągnięcie niesamowitej wydajności odprowadzania ciepła i wyższych taktowań w trybie boost. Specjalna metoda produkcji gwarantuje, że substancja ta pozostaje bezpiecznie zamknięta w obszarze matrycy. Przekłada się to na stabilną i niezawodną pracę urządzenia pod najbardziej wymagającymi obciążeniami kreatywnymi. Duże wentylatory Axial-tech oraz innowacyjny backplate z podwójnym wylotem Za wymuszony obieg powietrza odpowiadają dwa duże wentylatory Axial-tech o średnicy 115 mm, które generują o 20% większy przepływ oraz ciśnienie powietrza. Współpracują one z podwójnie wentylowaną płytą tylną, która zwiększa efektywność chłodzenia o kolejne 11%. Ta nowatorska konstrukcja backplate pozwala na swobodny przepływ powietrza przez dwie strefy wentylacyjne, optymalizując temperatury wewnątrz obudowy. Dzięki temu rozwiązaniu cała karta mogła zostać zmniejszona aż o 27% w porównaniu do modeli z tradycyjnym, pojedynczym przepływem. Do dyspozycji użytkownika oddano także przełącznik Dual BIOS, umożliwiający wybór pomiędzy trybem wydajnym a cichym. Przemyślane złącze USB Type-C i rozwiązania dla wymagających twórców Karta graficzna została wyposażona w dedykowany port USB Type-C, co znacząco zwiększa wszechstronność w profesjonalnych środowiskach pracy. Złącze to pozwala na wygodne podłączenie kompatybilnych monitorów studyjnych bezpośrednio do układu graficznego w celu przesyłania sygnału wideo. Konfigurację wyjść obrazu uzupełniają dwa nowoczesne porty DisplayPort 2.1b oraz jeden port HDMI 2.1b. Taki zestaw umożliwia bezproblemową obsługę wielu wyświetlaczy o ultrawysokiej rozdzielczości jednocześnie. Rozwiązanie to drastycznie podnosi produktywność podczas edycji wideo, projektowania 3D czy zaawansowanej obróbki grafiki. Pełny ray tracing z renderingiem opartym na sieciach neuronowych Architektura NVIDIA Blackwell zapewnia realizm pełnego ray tracingu, który zmienia reguły gry. Ciesz się kinową jakością graficzną o niespotykanej prędkości dzięki układom GeForce RTX z serii 50, rdzeniom RT czwartej generacji oraz przełomowym technologiom renderingu opartego na sieciach neuronowych, akcelerowanymi rdzeniami Tensor piątej generacji. NVIDIA DLSS 4 DLSS to rewolucyjny pakiet technik renderingu opartego na sieciach neuronowych, który wykorzystuje AI do zwiększenia FPS, zmniejszenia opóźnień i poprawy jakości obrazu. ‌Najnowsza przełomowa technika, DLSS 4, oferuje nowe możliwości generowania wielu klatek i ulepszoną superrozdzielczość dzięki układom GPU GeForce RTX™ z serii 50 oraz rdzeniom Tensor piątej generacji. DLSS na platformie GeForce RTX to najlepszy sposób na rozgrywkę, wspierany przez superkomputer AI NVIDIA w chmurze, stale zwiększający możliwości gamingowe Twojego komputera. NVIDIA Reflex 2 Technologie Reflex optymalizują proces graficzny, zapewniając najlepszą responsywność, szybsze namierzanie celów, krótszy czas reakcji i lepszą precyzję celowania w grach opartych na rywalizacji. Reflex 2 wprowadza funkcję Frame Warp (już wkrótce!), co dodatkowo zmniejszy opóźnienie w stosunku do najświeższych danych wejściowych pochodzących z myszy. Twoja kreatywna przewaga dzięki AI NVIDIA Studio daje Ci kreatywną przewagę. Układy GPU GeForce RTX z serii 50 zapewniają przełomową wydajność edycji wideo, renderingu 3D i projektowania graficznego. Ciesz się akceleracją RTX w najlepszych aplikacjach kreatywnych, stale aktualizowanymi sterownikami NVIDIA Studio, zaprojektowanymi pod kątem zapewnienia maksymalnej stabilności oraz zestawem wyjątkowych narzędzi, które wykorzystują moc platformy RTX w kreatywnych zastosowaniach twórczych wspomaganych AI.",
+        "category": [
+          "Podzespoły komputerowe > Karty graficzne",
+          {
+            "@type": "CategoryCode",
+            "inCodeSet": "https://www.google.com/basepages/producttype/taxonomy-with-ids.en-US.txt",
+            "codeValue": "285"
+          }
+        ],
+        "sku": "600147680",
+        "gtin13": "4711636502351",
+        "brand": {
+          "@type": "Brand",
+          "name": "Asus"
+        },
+        "url": "https://www.morele.net/karta-graficzna-asus-proart-geforce-rtx-5090-oc-32gb-gddr7-dlss4-proart-rtx5090-o32g-600147680/",
+        "image": [
+          "https://images.morele.net/i1064/600147680_5_i1064.jpg",
+          "https://images.morele.net/i1064/600147680_0_i1064.jpg",
+          "https://images.morele.net/i1064/600147680_1_i1064.jpg",
+          "https://images.morele.net/i1064/600147680_2_i1064.jpg",
+          "https://images.morele.net/i1064/600147680_3_i1064.jpg",
+          "https://images.morele.net/i1064/600147680_4_i1064.jpg",
+          "https://images.morele.net/i1064/600147680_6_i1064.jpg"
+        ],
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 30538,
+          "priceCurrency": "PLN",
+          "priceValidUntil": "2026-09-28",
+          "itemCondition": "https://schema.org/NewCondition",
+          "seller": {
+            "@type": "Organization",
+            "name": "Morele.net Sp. z o.o."
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "minValue": 0,
+              "maxValue": 25.99,
+              "currency": "PLN"
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "PL"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 0,
+                "maxValue": 1,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 1,
+                "maxValue": 12,
+                "unitCode": "DAY"
+              }
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "applicableCountry": "PL",
+            "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 14,
+            "returnMethod": "https://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnFeesCustomerResponsibility"
+          }
+        },
+        "model": "90YV0P00-M0NA00",
+        "mpn": "90YV0P00-M0NA00",
+        "review": [],
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Producent chipsetu",
+            "value": "NVIDIA"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Rodzaj chipsetu",
+            "value": "GeForce RTX 5090"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Taktowanie rdzenia",
+            "value": "2017 MHz"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Taktowanie rdzenia w trybie boost",
+            "value": "2512 MHz"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "DLSS",
+            "value": "DLSS 4"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Typ złącza",
+            "value": "PCI Express 5.0 x16"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Długość karty",
+            "value": "304 mm"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Rozdzielczość",
+            "value": "7680 x 4320"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Rekomendowana moc zasilacza",
+            "value": "1000 W"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Podświetlenie LED",
+            "value": "Nie"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Typ chłodzenia",
+            "value": "Wentylator"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Ilość pamięci RAM",
+            "value": "32 GB"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Rodzaj pamięci RAM",
+            "value": "GDDR7"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Szyna danych",
+            "value": "512 bit"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Taktowanie pamięci",
+            "value": "28000 MHz"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "D-Sub",
+            "value": "Brak"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "DisplayPort",
+            "value": "2"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "MiniDisplayPort",
+            "value": "Brak"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "DVI",
+            "value": "Brak"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "HDMI",
+            "value": "HDMI - 1szt."
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "USB-C",
+            "value": "1"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Złącza zasilania",
+            "value": "16-pin"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Wersja opakowania",
+            "value": "BOX"
+          }
+        ]
+      }
+    ],
+    "parse_errors": [],
+    "text": "Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G) - Karta graficzna - Morele.net\nWszystkie działy\nKomputery\nTelewizory i audio\nFoto i kamery\nAGD\nSmartfony i smartwatche\nBiuro i firma\nGaming\nLaptopy\nSport i turystyka\nMałe AGD\nDom i ogród\nPodzespoły komputerowe\nZabawki i dziecko\nUroda i zdrowie\nSupermarket\nSzukaj w:\nWszystkie działy\nWszystkie działy\n, zaznaczone\nKomputery\nTelewizory i audio\nFoto i kamery\nAGD\nSmartfony i smartwatche\nBiuro i firma\nGaming\nLaptopy\nSport i turystyka\nMałe AGD\nDom i ogród\nPodzespoły komputerowe\nZabawki i dziecko\nUroda i zdrowie\nSupermarket\nWybierz\nkod pocztowy\nJeśli chcesz poznać czasy dostawy dopasowane do Twojej lokalizacji,\nwprowadź kod pocztowy\nklikając w ikonę lokalizacji.\nKontakt\nListy\nzakupowe\n0\nZaloguj się\nZałóż konto\n0\n0,00 zł\nKATEGORIE\nWszystkie działy\nKomputery\nTelewizory i audio\nFoto i kamery\nAGD\nSmartfony i smartwatche\nBiuro i firma\nGaming\nLaptopy\nSport i turystyka\nMałe AGD\nDom i ogród\nPodzespoły komputerowe\nZabawki i dziecko\nUroda i zdrowie\nSupermarket\nSzukaj w:\nWszystkie działy\nWszystkie działy\n, zaznaczone\nKomputery\nTelewizory i audio\nFoto i kamery\nAGD\nSmartfony i smartwatche\nBiuro i firma\nGaming\nLaptopy\nSport i turystyka\nMałe AGD\nDom i ogród\nPodzespoły komputerowe\nZabawki i dziecko\nUroda i zdrowie\nSupermarket\nElektronika i komputery\nmorele.net\nLaptopy\nLaptopy\nPokaż wszystko w Laptopy\nLaptopy i tablety\nLaptopy\nLaptopy 2w1\nLaptopy poleasingowe\nTablety\nTablety poleasingowe\nCzytniki e-book\nLaptopy - zastosowanie\nLaptopy biznesowe\nLaptopy multimedialne\nLaptopy gamingowe\nDla Twórców (stacje robocze)\nRTX STUDIO\nLaptopy - popularni producenci\nLaptopy Lenovo\nLaptopy Dell\nLaptopy HP\nLaptopy Asus\nLaptopy Acer\nLaptopy Gigabyte\nLaptopy Apple\nLaptopy MSI\nLaptopy - rozmiar\nLaptopy 13.3\"\nLaptopy 14\"\nLaptopy 15.6\"\nLaptopy 17.3\"\nAkcesoria do laptopów\nBaterie do laptopów\nDyski zewnętrzne SSD\nDyski przenośne 1TB\nEtui do laptopów\nFiltry na ekrany\nLampki USB\nLinki zabezpieczające\nPlecaki na laptopy\nPodstawki chłodzące\nPodstawki pod laptopa\nRysiki\nStacje dokujące i replikatory portów\nTorby na laptopy\nWentylatory USB\nZasilacze do laptopów\nPodzespoły do laptopów\nDyski SSD\nDyski HDD\nNapędy optyczne\nPamięci do laptopów\nAkcesoria do tabletów\nAkcesoria do czytników e-booków\nEtui na tablety\nFolie ochronne do tabletów\nKlawiatury do tabletów\nŁadowarki sieciowe\nPokrowce na czytniki e-booków\nRysiki\nStojaki do tabletów\nUchwyty do tabletów\nKomputery\nKomputery\nPokaż wszystko w Komputery\nKomputery PC\nKomputery stacjonarne\nKomputery All-In-One\nKomputery Mini PC i NUC\nKomputery poleasingowe\nSerwery\nDyski do serwerów\nSerwery\nSerwery plików\nSzafy Rack\nZasilacze awaryjne UPS\nUrządzenia sieciowe\nAccess Pointy\nRoutery\nSwitche\nKable teleinformatyczne\nKarty sieciowe Wi-Fi\nMonitory\nMonitory\nMonitory gamingowe\nUchwyty do monitorów\nFiltry na ekrany\nKlawiatury i myszki\nKlawiatury\nKlawiatury bezprzewodowe\nMyszki\nKlawiatury z myszą\nPodkładki pod myszy\nTablety graficzne\nDyski i nośniki danych\nDyski zewnętrzne SSD\nDyski przenośne 1TB\nDyski zewnętrzne HDD\nKieszenie na dyski\nPendrive\nPendrive 1TB\nKarty pamięci\nSłuchawki\nSłuchawki bezprzewodowe\nSłuchawki dokanałowe\nSłuchawki nauszne\nSłuchawki z mikrofonem\nGłośniki, mikrofony, kamerki\nGłośniki komputerowe\nGłośniki Bluetooth\nKamery internetowe\nMikrofony\nMikrofony krawatowe\nAkcesoria do mikrofonów\nKable i adaptery\nAdaptery AV\nHuby USB\nKable AV\nKable USB\nKable zasilające\nOprogramowanie\nMicrosoft Office\nMicrosoft Windows\nAntywirusy\nDrukarki i skanery\nDrukarki atramentowe\nDrukarki laserowe\nUrządzenia wielofunkcyjne atramentowe\nUrządzenia wielofunkcyjne laserowe\nDrukarki 3D\nMateriały eksploatacyjne do druku\nPapier biurowy\nTonery do drukarek\nTusze do drukarek\nAkcesoria i zasilanie\nBaterie i akumulatorki\nErgonomia pracy\nListwy zasilające\nPodzespoły komputerowe\nPodzespoły komputerowe\nPokaż wszystko w Podzespoły komputerowe\nPodzespoły komputerowe\nDyski SSD\nDyski HDD\nKarty dźwiękowe\nKarty graficzne\nNapędy optyczne\nObudowy\nPamięci RAM\nPłyty główne\nProcesory\nZasilacze\nKARTY GRAFICZNE - SERIE\nRTX 5090\nRTX 5080\nRTX 5070\nRTX 5070 Ti\nRTX 5060 Ti\nRX 9070\nRX 9070 XT\nChłodzenie komputerowe\nChłodzenie CPU\nChłodzenie wodne - zestawy\nPasty termoprzewodzące\nTermopady\nWentylatory komputerowe\nPodzespoły z demontażu\nDyski SSD z demontażu\nPamięci RAM z demontażu\nKable i akcesoria\nAkcesoria do obudów i podzespołów\nAkcesoria do streamingu\nOświetlenie gamingowe\nKable komputerowe i przejściówki\nNarzędzia serwisowe i sieciowe\nŚrodki czyszczące\nGaming\nGaming\nPokaż wszystko w Gaming\nKonsole\nPlaystation\nXbox\nNintendo Switch\nKonsole przenośne\nKonsole retro\nKomputery gamingowe\nLaptopy gamingowe\nHP\nAcer\nAsus\nGigabyte\nLenovo\nMSI\nGry\nGry PC (wersje pudełkowe)\nGry PC (wersje cyfrowe)\nGry Nintendo Switch\nGry na PlayStation 5\nGry na PlayStation 4\nGry na PlayStation 3\nGry Xbox Series X\nGry Xbox One\nGry na Xbox 360\nAbonamenty i doładowania\nGry bez prądu\nGry planszowe\nKarty i gry karciane\nSprzęt dla graczy\nBiurka gamingowe\nFotele gamingowe\nFotele Diablo\nPady\nGogle VR\nJoysticki\nKlawiatury gamingowe\nKlawiatury membranowe\nZestawy gamingowe\nMyszki gamingowe\nPodkładki gamingowe\nSłuchawki gamingowe\nSłuchawki gamingowe bezprzewodowe\nStojaki na słuchawki\nOświetlenie gamingowe\nAkcesoria do konsol\nAkcesoria do konsol\nPady do konsol\nJoysticki do konsol\nKierownice\nStojaki pod kierownice\nSmartfony i smartwatche\nSmartfony i smartwatche\nPokaż wszystko w Smartfony i smartwatche\nSmartfony\niOS\nAndroid\nSmartfony - popularni producenci\nSmartfony Samsung\nSmartfony Apple\nSmartfony Xiaomi\nSmartfony Huawei\nSmartfony poleasingowe\nTelefony z klawiaturą\nDla aktywnych\nDla seniora\nUniwersalne\nAkcesoria do smartfonów\nEtui na telefon\nFolie i szkła ochronne do telefonów\nGłośniki Bluetooth\nKarty pamięci\nŁadowarki samochodowe\nŁadowarki sieciowe\nPowerbanki\nRysiki\nSelfie stick\nSłuchawki bezprzewodowe\nUchwyty na telefon\nZestawy głośnomówiące GSM\nZestawy słuchawkowe GSM\nSmartwatche i zegarki\nSmartwatche\nSmartbandy\nZegarki sportowe\nPulsometry i krokomierze\nZegarki\nZegarki dla dzieci\nAkcesoria do smartwatchy\nAkcesoria do zegarków\nTelefony stacjonarne\nTelefony stacjonarne\nTelefony internetowe\nBramki VoIP\nAkcesoria do telefonów stacjonarnych\nTelewizory i audio\nTelewizory i audio\nPokaż wszystko w Telewizory i audio\nTelewizory\nTelewizory z DVB-T2\nTelewizory OLED\nTelewizory QLED\nTelewizory 4K (Ultra HD)\nTelewizory Full HD\nOdtwarzacze\nTunery TV\nOdtwarzacze Blu-ray\nOdtwarzacze DVD\nOdtwarzacze multimedialne\nOdtwarzacze przenośne\nProjektory\nProjektory\nEkrany do projektorów\nPiloty i wskaźniki do prezentacji\nTorby do projektorów i ekranów\nUchwyty do projektorów\nWizualizery\nAudio i HiFi\nGłośniki Bluetooth\nGłośniki komputerowe\nKolumny głośnikowe\nAmplitunery i wzmacniacze\nSoundbary\nWieże\nRadia\nSłuchawki i mikrofony\nAkcesoria do mikrofonów\nMikrofony\nSłuchawki bezprzewodowe\nSłuchawki dokanałowe\nSłuchawki nauszne\nSłuchawki z mikrofonem\nAkcesoria RTV\nKable AV\nListwy zasilające\nPiloty RTV\nŚrodki czyszczące do ekranów\nUchwyty do telewizorów\nCar Audio\nCB Anteny\nCB Radia\nGłośniki samochodowe\nRadia samochodowe\nTransmitery FM\nWideorejestratory\nFoto i kamery\nFoto i kamery\nPokaż wszystko w Foto i kamery\nAparaty cyfrowe\nLustrzanki\nAparaty kompaktowe\nAparaty bezlusterkowe\nKamery\nKamery sportowe\nKamery cyfrowe\nKamery profesjonalne\nDrony i akcesoria\nDrony\nAkcesoria do dronów\nTorby i futerały\nPlecaki fotograficzne\nTorby fotograficzne\nAlbumy i ramki na zdjęcia\nCyfrowe ramki foto\nAlbumy na zdjęcia\nAkcesoria do aparatów i kamer\nObiektywy\nGimbale\nStatywy\nAkcesoria foto-video\nAkcesoria do kamer sportowych\nLampy błyskowe\nZasilanie\nAkumulatory do aparatów i kamer\nŁadowarki do aparatów i kamer\nSprzęt optyczny\nLornetki\nMikroskopy\nWyposażenie studia\nLampy studyjne\nLampy pierścieniowe\nAGD duże\nAGD duże\nPokaż wszystko w AGD duże\nAGD do zabudowy\nLodówki do zabudowy\nZamrażarki do zabudowy\nZmywarki do zabudowy\nPłyty do zabudowy\nPiekarniki do zabudowy\nKuchenki mikrofalowe do zabudowy\nOkapy kuchenne\nSzuflady grzewcze\nEkspresy do zabudowy\nPralki do zabudowy\nAGD wolnostojące\nLodówki\nZamrażarki\nZmywarki\nPłyty wolnostojące\nKuchnie wolnostojące\nKuchenki mikrofalowe\nChłodziarki do wina\nPralki\nPralko-suszarki\nSuszarki do ubrań\nAkcesoria AGD\nAkcesoria do pralek i suszarek\nArtykuły do zmywarek\nAkcesoria do lodówek\nAkcesoria do płyt grzewczych\nAkcesoria do piekarników\nAkcesoria do mikrofalówek\nAkcesoria do okapów kuchennych\nAkcesoria do ekspresów\nZlewozmywaki i baterie\nBaterie kuchenne\nZlewozmywaki\nAkcesoria do zlewozmywaków\nSyfony do zlewozmywaków\nAGD małe\nAGD małe\nPokaż wszystko w AGD małe\nEkspresy i kawa\nEkspresy ciśnieniowe\nEkspresy przelewowe\nEkspresy na kapsułki\nMłynki do kawy\nSpieniacze do mleka\nKawa ziarnista\nKawa w kapsułkach\nAkcesoria do ekspresów\nUrządzenia kuchenne\nBlendery\nBlendery kielichowe\nCzajniki elektryczne\nGrille elektryczne\nMulticookery\nOpiekacze\nRoboty kuchenne\nRoboty planetarne\nWyciskarki wolnoobrotowe\nSprzątanie\nMopy parowe\nMyjki ciśnieniowe\nMyjki do okien\nOdkurzacze\nOdkurzacze pionowe\nOdkurzacze piorące\nOdkurzacze przemysłowe\nOdkurzacze ręczne\nRoboty sprzątające\nNaczynia i akcesoria kuchenne\nButelki na wodę\nDzbanki filtrujące\nFiltry do dzbanków i butelek\nFiltry do wody\nWkłady i akcesoria do filtrów wody\nGarnki\nPatelnie\nMłynki do przypraw\nNoże kuchenne\nPrasowanie i szycie\nDeski do prasowania\nGeneratory pary\nGolarki do ubrań\nMaszyny do szycia\nParownice do ubrań\nSuszarki na pranie\nSuszarki do butów\nŻelazka\nUzdatnianie powietrza\nOczyszczacze powietrza\nFiltry do oczyszczaczy i nawilżaczy\nOsuszacze powietrza\nNawilżacze powietrza\nNawilżacze ewaporacyjne\nKlimatyzatory\nKlimatory\nWentylatory\nWentylatory kolumnowe\nZdrowie i uroda\nDepilatory\nGolarki\nMaszynki do włosów\nTrymery\nIrygatory do zębów\nSzczoteczki elektryczne\nSuszarki do włosów\nWagi łazienkowe\nDla dziecka\nAspiratory do nosa\nNianie elektroniczne\nInhalatory i nebulizatory\nLaktatory\nPodgrzewacze i sterylizatory do butelek\nTermometry\nDom i ogród\nDom i ogród\nPokaż wszystko w Dom i ogród\nElektronarzędzia\nFrezarki\nKlucze udarowe i pneumatyczne\nLasery budowlane\nMłotowiertarki\nPilarki szablaste\nPilarki tarczowe\nPiły łańcuchowe\nStrugarki\nSzlifierki\nUkośnice\nWiertarki\nWiertarko-wkrętarki\nWkrętarki\nWyrzynarki\nZestawy elektronarzędzi\nOsprzęt do elektronarzędzi\nAkumulatory i ładowarki\nAkcesoria do pił i pilarek\nBity i końcówki do wkrętarek\nTarcze\nWiertła\nAkcesoria samochodowe\nŁadowarki do samochodów elektrycznych\nNarzędzia\nZestawy narzędzi\nAgregaty prądotwórcze\nSkrzynki narzędziowe\nWózki narzędziowe\nSprężarki\nMierniki i testery\nDetektory\nNarzędzia tnące i skrawające\nNarzędzia ogrodnicze\nNożyce do żywopłotu\nOdkurzacze i dmuchawy do liści\nKosiarki elektryczne\nKosiarki akumulatorowe\nKosiarki spalinowe\nKosy i podkaszarki\nRoboty koszące\nRozdrabniacze do gałęzi\nSekatory\nNarzędzia ręczne\nKlucze\nBudownictwo\nAparatura elektryczna i modułowa\nMeble ogrodowe\nKomplety mebli ogrodowych\nStoły i krzesła ogrodowe\nFotele wiszące\nHamaki\nLeżaki ogrodowe\nŁawki ogrodowe\nParasole\nSkrzynie ogrodowe\nRelaks w ogrodzie\nGrille ogrodowe\nBaseny ogrodowe\nTrampoliny\nTrampoliny Zipro\nAkcesoria ogrodnicze\nWęże\nAkcesoria do węży ogrodowych\nPompy i hydrofory\nSzklarnie\nOpryskiwacze\nOświetlenie\nLampy sufitowe\nŻarówki LED\nMeble\nKomody\nKrzesła\nMaterace\nWyposażenie i dekoracje\nArmatura i ceramika łazienkowa\nUmywalki z szafką\nBaterie umywalkowe\nZestawy prysznicowe\nZestawy podtynkowe WC\nMiski WC\nWyposażenie łazienki\nOgrzewanie\nBojlery\nPiece gazowe\nPrzepływowe podgrzewacze wody\nElektryka\nSmartdom\nCzujniki\nBiuro i firma\nBiuro i firma\nPokaż wszystko w Biuro i firma\nMeble biurowe\nBiurka\nKrzesła biurowe\nErgonomia pracy\nUrządzenia biurowe\nNiszczarki do papieru\nLaminatory\nKalkulatory naukowe\nMateriały eksploatacyjne do drukarek\nPapier biurowy\nTonery do drukarek\nTusze do drukarek\nAkcesoria biurowe\nMarkery i zakreślacze\nZszywacze\nŚrodki czystości do biura\nRęczniki papierowe\nŚrodki czystości\nŚrodki czyszczące do elektroniki\nArtykuły spożywcze do biura\nKawa ziarnista\nHerbata\nCukier i substancje słodzące\nHandel i magazynowanie\nCzytniki kodów kreskowych\nDrukarki etykiet\nDrukarki etykiet - eksploatacja\nSejfy i kasetki\nLiczarki banknotów\nRegały magazynowe\nWózki transportowe\nPakowanie i wysyłka\nKoperty\nTaśmy pakowe\nDyspensery\nMonitoring\nKamery IP\nRejestratory obrazu i CCTV\nAkcesoria do kamer przemysłowych\nBHP\nRękawice robocze\nOdzież robocza\nGastronomia i hotelarstwo\nWyposażenie gastronomii\nSport i turystyka\nSport i turystyka\nPokaż wszystko w Sport i turystyka\nSprzęt cardio\nBieżnie\nOrbitreki\nRowery stacjonarne\nSteppery\nWioślarze\nTrampoliny fitness\nMaty amortyzujące\nCzęści zamienne Zipro\nBieżnie do chodzenia\nSiłownia i fitness\nHantle\nŁawki do ćwiczeń\nObciążenie\nGryfy i zaciski\nKettlebell\nMaty i materace gimnastyczne\nEkspandery i gumy do ćwiczeń\nPiłki do ćwiczeń\nRollery i piłki do masażu\nSuplementy i odżywki\nAkcesoria i dodatki sportowe\nRowery i akcesoria\nRowery miejskie\nRowery górskie\nRowery dla dzieci\nRowery elektryczne\nKaski rowerowe\nFoteliki rowerowe\nAkcesoria rowerowe\nCzęści rowerowe\nSkating\nHulajnogi\nHulajnogi elektryczne\nRolki\nOchraniacze na rolki\nSporty drużynowe\nSporty rakietowe\nSporty walki\nSporty towarzyskie\nTurystyka\nNamioty turystyczne\nMaterace turystyczne\nLatarki czołowe\nNosidełka turystyczne\nKije trekkingowe\nStacje zasilania\nAkcesoria turystyczne\nImpregnaty\nBagaż\nPlecaki turystyczne\nPlecaki sportowe\nTorby sportowe\nWalizki\nWspinaczka\nPływanie i nurkowanie\nSporty zimowe\nAkcesoria i dodatki\nOdzież damska\nBluzy damskie\nKoszulki damskie\nKurtki i kamizelki sportowe damskie\nSpodnie sportowe damskie\nOdzież męska\nBluzy męskie\nKoszulki męskie\nKurtki męskie\nSpodnie sportowe męskie\nOdzież dziecięca\nButy damskie\nButy sportowe damskie\nButy trekkingowe damskie\nButy męskie\nButy sportowe męskie\nButy piłkarskie\nButy trekkingowe męskie\nButy dziecięce\nAkcesoria odzieżowe\nZabawki i dziecko\nZabawki i dziecko\nPokaż wszystko w Zabawki i dziecko\nZabawki\nLalki Barbie\nLalki\nDomki dla lalek\nAkcesoria dla lalek\nFigurki\nRoboty dla dzieci\nSamochody i pojazdy\nTory samochodowe\nJeździki\nZabawki interaktywne\nZabawki edukacyjne\nZabawki kreatywne\nZabawki militarne\nZabawki dla niemowląt\nKaruzele\nMaty edukacyjne\nLeżaczki i bujaczki\nKlocki i puzzle\nKlocki LEGO\nKlocki Playmobil\nKlocki Cobi\nKlocki Mega Bloks\nKlocki konstrukcyjne\nKlocki magnetyczne\nPuzzle\nPuzzle i układanki 3D\nGry\nGry planszowe\nGry zręcznościowe\nGry logiczne\nKarty i gry karciane\nGry edukacyjne\nSzachy i warcaby\nQuizy\nModelarstwo\nModele kolekcjonerskie\nModele do sklejania\nZabawki ogrodowe\nDomki dla dzieci\nPlace zabaw\nZjeżdżalnie\nPiaskownice\nRowerki biegowe\nRowerki trójkołowe\nSamochody na pedały\nSamochody na akumulator\nModele RC\nDrony\nSamochody zdalnie sterowane\nŁodzie zdalnie sterowane\nArtykuły szkolne\nTornistry\nPlecaki i torby szkolne\nPiórniki\nWózki i foteliki\nWózki dziecięce\nFoteliki samochodowe\nAkcesoria do fotelików\nPielęgnacja i zdrowie dziecka\nPieluchy\nKosze na pieluchy\nChusteczki nawilżane\nKarmienie dziecka\nKrzesełka do karmienia\nButelki dla niemowląt\nMleko modyfikowane\nPokój dziecka\nŁóżeczka i kojce\nŁóżka dla dzieci\nAkcesoria dla mamy\nUroda i zdrowie\nUroda i zdrowie\nPokaż wszystko w Uroda i zdrowie\nPerfumy\nPerfumy damskie\nPerfumy męskie\nPerfumy unisex\nZestawy perfum\nPerfumy dziecięce\nPielęgnacja twarzy i ciała\nKremy do twarzy\nSerum do twarzy\nKremy pod oczy\nDo oczyszczania i demakijażu\nMydła i żele pod prysznic\nBalsamy, masła, kremy i olejki do ciała\nDezodoranty i antyperspiranty\nMakijaż\nPodkłady do twarzy\nKorektory do twarzy\nTusze do rzęs\nCienie do powiek\nKosmetyki do brwi\nPielęgnacja i stylizacja włosów\nSzampony do włosów\nOdżywki i maski do włosów\nOlejki i serum do włosów\nDo farbowania włosów\nDo modelowania włosów\nSzczotki i grzebienie\nManicure i pedicure\nLakiery hybrydowe i żele\nLakiery do paznokci\nOdżywki do paznokci\nZmywacze do paznokci\nFrezarki do paznokci\nHigiena jamy ustnej\nPasty do zębów\nPłyny do płukania jamy ustnej\nNici dentystyczne\nSzczoteczki do zębów\nArtykuły higieniczne\nDla mężczyzn\nKosmetyki do golenia dla mężczyzn\nDo pielęgnacji twarzy\nDo pielęgnacji ciała\nDo pielęgnacji włosów i brody\nMaszynki do golenia\nZdrowie\nDomowa apteczka\nWitaminy, minerały, suplementy diety\nPłyny i żele antybakteryjne\nPrezerwatywy\nWyposażenie salonów\nSupermarket\nSupermarket\nPokaż wszystko w Supermarket\nArtykuły dla psów\nKarma sucha dla psa\nKarma mokra dla psa\nSmycze dla psa\nLegowiska dla psa\nTransportery i torby dla psa i kota\nArtykuły dla gryzoni\nKlatki dla gryzoni\nPokarm dla gryzoni\nWyposażenie klatki dla gryzoni\nPodłoża i żwirki\nInstrumenty\nInstrumenty klawiszowe\nGitary\nUkulele\nPrzyjęcia i okazje\nGadżety\nArtykuły dla kotów\nKarma sucha dla kota\nKarma mokra dla kota\nKuwety dla kota\nŻwirek dla kota\nDrapaki dla kota\nArtykuły dla ptaków\nAkwarystyka\nTerrarystyka\nUtrzymanie czystości\nArtykuły do zmywarek\nPłyny do naczyń\nPłyny i proszki do prania\nŚrodki czystości\nOdświeżacze powietrza\nŚcierki, gąbki, szczotki\nMiotły i zmiotki\nMopy\nRękawice robocze\nWorki na śmieci\nZnicze i wkłady\nArtykuły spożywcze\nKawa ziarnista\nKawa mielona\nKawa w kapsułkach\nKawa rozpuszczalna\nHerbata\nKuchnie świata\nSłodycze i przekąski\nStrefa marek\nStrefa marek\nPokaż wszystko w Strefa marek\nZIPRO\nRowery stacjonarne Zipro\nBieżnie Zipro\nTrampoliny Zipro\nOrbitreki Zipro\nWioślarze Zipro\nSteppery Zipro\nPREYON\nMyszki gamingowe PREYON\nKlawiatury gamingowe PREYON\nSłuchawki gamingowe PREYON\nMikrofony PREYON\nPodkładki gamingowe PREYON\nObudowy PREYON\nKomputery stacjonarne PREYON\nZOY\nMyszki ZOY\nKlawiatury ZOY\nKlawiatury z myszą ZOY\nSłuchawki z mikrofonem ZOY\nPodstawki pod laptopa ZOY\nKable AV ZOY\nSENSE7\nFotele gamingowe SENSE7\nBiurka gamingowe SENSE7\nLG\nMonitory LG\nTelewizory LG\nDell\nLaptopy Dell\nMonitory Dell\nSamsung\nMonitory Samsung\nDyski SSD Samsung\nApple\nSmartfony Apple\nSmartwatche Apple\nLaptopy Apple\nTablety Apple\nSłuchawki bezprzewodowe Apple\nKlawiatury Apple\nMyszki Apple\nBlackwheels\nRolki Blackwheels\nHulajnogi Blackwheels\nLenovo\nLaptopy Lenovo\nTablety Lenovo\nMonitory Lenovo\nPeme\nNamioty turystyczne Peme\nLodówki turystyczne Peme\nMSI\nLaptopy MSI\nKomputery stacjonarne MSI\nMonitory MSI\nPłyty główne MSI\nKarty graficzne MSI\nMyszki gamingowe MSI\n4Swiss\nFrytkownice beztłuszczowe 4Swiss\nWyciskarki wolnoobrotowe 4Swiss\nBlendery kielichowe 4Swiss\nHulajnogi elektryczne 4Swiss\nFiltry do wody 4Swiss\nSzczoteczki elektryczne 4Swiss\nAsus\nLaptopy Asus\nMonitory Asus\nRoutery Asus\nPłyty główne Asus\nKarty graficzne Asus\nKarcher\nMyjki ciśnieniowe Karcher\nParownice i myjki parowe Karcher\nOdkurzacze Karcher\nMyjki do okien Karcher\nAKTUALNE PROMOCJE\nODBIERZ KOD RABATOWY\nWYPRZEDAŻ\nKONFIGURATOR PC\nOUTLET\nRaty 10x0%\nPORADNIKI\nMorele.net\nPodzespoły komputerowe\nChłodzenie komputerowe\nKable i akcesoria\nPodzespoły z demontażu\nPodzespoły komputerowe\nChłodzenie CPU\nChłodzenie wodne - zestawy\nDyski HDD\nDyski HDD (z demontażu)\nDyski SSD\nDyski SSD (z demontażu)\nKarty dźwiękowe\nKontrolery\nNapędy optyczne\nObudowy\nPamięci dedykowane\nPamięci RAM\nPamięci RAM (z demontażu)\nPłyty główne\nPodzespoły poleasingowe\nProcesory\nTunery TV, FM, karty video\nWentylatory komputerowe\nZasilacze komputerowe\nKarty graficzne\nPNY\nGigabyte\nZotac\nAsus\nBiostar\nMSI\nNVIDIA\nKarta graficzna Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G)\nWróć do poprzedniej strony\nKarta graficzna Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G)\nID produktu:\n600147680\nKarta graficzna Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G)\nID produktu:\n600147680\nZobacz podobne\ndodaj do porównania\nusuń z porównania\nZobacz podobne\nocena produktu 0/5 gwiazdki\nOceń jako pierwszy\nZapytaj społeczności\n0 pytań\nKupiła\n1\nosoba\nDane techniczne:\nDługość karty:\n304 mm\nIlość pamięci RAM:\n32 GB\nRodzaj chipsetu:\nGeForce RTX 5090\nRodzaj pamięci RAM:\nGDDR7\nTyp złącza:\nPCI Express 5.0 x16\nZobacz pełną specyfikację\nOtrzymasz 500 zł\nrabatu na kolejne zakupy\nw strefie Brand Club!\nWróć do produktu\nSprzedaje i wysyła przedsiębiorca:\nMadman Gaming Sp. z o.o.\nocena produktu 4.5/5 gwiazdki\nOcena produktu\n(12)\nObowiązki Morele.net i Sprzedawcy Marketplace.\nocena produktu 0/5 gwiazdki\nOceń jako pierwszy\nZapytaj społeczności\n0 pytań\nKupiła\n1\nosoba\n30 538\nzł\nOstatnie sztuki\n1\n2\n3\n4\n1\n1\n, zaznaczone\n2\n3\n4\nDo koszyka\nA może już\njutro\n!\nSprawdź\nRata od\n783,81 zł\nRaty dla firm od\nOstatnie sztuki\n1\n2\n3\n4\n1\n1\n, zaznaczone\n2\n3\n4\nDo koszyka\nDane techniczne:\nDługość karty:\n304 mm\nIlość pamięci RAM:\n32 GB\nRodzaj chipsetu:\nGeForce RTX 5090\nRodzaj pamięci RAM:\nGDDR7\nTyp złącza:\nPCI Express 5.0 x16\nZobacz pełną specyfikację\nZapytaj ekspertów\nMateriały eksploatacyjne\nOpis\nBezpieczeństwo\nSpecyfikacja\nOpinie\nInspiracje (1)\nPytania i odpowiedzi\nGwarancje\nRaty\nLeasing\nOpis produktu\nAsus ProArt GeForce RTX 5090 OC Edition – potężna wydajność w eleganckim wydaniu\nKarta graficzna Asus ProArt GeForce RTX 5090 32GB GDDR7 OC Edition to przełomowa konstrukcja stworzona z myślą o najbardziej wymagających twórcach treści oraz graczach. Łączy ona w sobie bezkompromisową moc flagowego układu graficznego z niezwykle kompaktową i przemyślaną formą. Urządzenie wyróżnia się elegancką estetyką z subtelnymi złotymi akcentami oraz wykończeniem przypominającym drewno. Dzięki zaawansowanym technologiom chłodzenia karta zapewnia optymalne temperatury i stabilność nawet przy pełnym obciążeniu procesami sztucznej inteligencji. To idealny wybór do nowoczesnych stacji roboczych oraz kompaktowych komputerów.\nKompaktowa konstrukcja 2.5-slotowa idealna do obudów SFF\nModel ten wprowadza rewolucyjną, zajmującą zaledwie 2,5 slotu konstrukcję, co jest rzadkością w segmencie tak potężnych układów. Dzięki oznaczeniu SFF-Ready karta bez problemu mieści się v mniejszych obudowach komputerowych o ograniczonej przestrzeni. Pozwala to na budowanie ultrawydajnych, a zarazem kompaktowych stacji roboczych bez konieczności rezygnacji z pełnej mocy flagowego układu graficznego. Taka budowa ułatwia również tworzenie konfiguracji wielokartowych w klasycznych obudowach typu tower. Użytkownicy zyskują ogromną elastyczność podczas projektowania swojego stanowiska pracy.\nKomora parowa i zastosowanie płynnego metalu dla maksymalnego chłodzenia\nW celu zapewnienia najwyższej efektywności termicznej producent zastosował autorską komorę parową, która bezpośrednio styka się z rdzeniem graficznym. Ciepło jest błyskawicznie przekazywane do gęstego radiatora oraz sieci rurek cieplnych za pomocą zaawansowanego technicznie płynnego metalu. Zastosowanie płynnego metalu na rdzeniu GPU pozwala na osiągnięcie niesamowitej wydajności odprowadzania ciepła i wyższych taktowań w trybie boost. Specjalna metoda produkcji gwarantuje, że substancja ta pozostaje bezpiecznie zamknięta w obszarze matrycy. Przekłada się to na stabilną i niezawodną pracę urządzenia pod najbardziej wymagającymi obciążeniami kreatywnymi.\nDuże wentylatory Axial-tech oraz innowacyjny backplate z podwójnym wylotem\nZa wymuszony obieg powietrza odpowiadają dwa duże wentylatory Axial-tech o średnicy 115 mm, które generują o 20% większy przepływ oraz ciśnienie powietrza. Współpracują one z podwójnie wentylowaną płytą tylną, która zwiększa efektywność chłodzenia o kolejne 11%. Ta nowatorska konstrukcja backplate pozwala na swobodny przepływ powietrza przez dwie strefy wentylacyjne, optymalizując temperatury wewnątrz obudowy. Dzięki temu rozwiązaniu cała karta mogła zostać zmniejszona aż o 27% w porównaniu do modeli z tradycyjnym, pojedynczym przepływem. Do dyspozycji użytkownika oddano także przełącznik Dual BIOS, umożliwiający wybór pomiędzy trybem wydajnym a cichym.\nPrzemyślane złącze USB Type-C i rozwiązania dla wymagających twórców\nKarta graficzna została wyposażona w dedykowany port USB Type-C, co znacząco zwiększa wszechstronność w profesjonalnych środowiskach pracy. Złącze to pozwala na wygodne podłączenie kompatybilnych monitorów studyjnych bezpośrednio do układu graficznego w celu przesyłania sygnału wideo. Konfigurację wyjść obrazu uzupełniają dwa nowoczesne porty DisplayPort 2.1b oraz jeden port HDMI 2.1b. Taki zestaw umożliwia bezproblemową obsługę wielu wyświetlaczy o ultrawysokiej rozdzielczości jednocześnie. Rozwiązanie to drastycznie podnosi produktywność podczas edycji wideo, projektowania 3D czy zaawansowanej obróbki grafiki.\nPełny ray tracing z renderingiem opartym na sieciach neuronowych\nArchitektura NVIDIA Blackwell zapewnia realizm pełnego ray tracingu, który zmienia reguły gry. Ciesz się kinową jakością graficzną o niespotykanej prędkości dzięki układom GeForce RTX z serii 50, rdzeniom RT czwartej generacji oraz przełomowym technologiom renderingu opartego na sieciach neuronowych, akcelerowanymi rdzeniami Tensor piątej generacji.\nNVIDIA DLSS 4\nDLSS to rewolucyjny pakiet technik renderingu opartego na sieciach neuronowych, który wykorzystuje AI do zwiększenia FPS, zmniejszenia opóźnień i poprawy jakości obrazu. ‌Najnowsza przełomowa technika, DLSS 4, oferuje nowe możliwości generowania wielu klatek i ulepszoną superrozdzielczość dzięki układom GPU GeForce RTX™ z serii 50 oraz rdzeniom Tensor piątej generacji. DLSS na platformie GeForce RTX to najlepszy sposób na rozgrywkę, wspierany przez superkomputer AI NVIDIA w chmurze, stale zwiększający możliwości gamingowe Twojego komputera.\nNVIDIA Reflex 2\nTechnologie Reflex optymalizują proces graficzny, zapewniając najlepszą responsywność, szybsze namierzanie celów, krótszy czas reakcji i lepszą precyzję celowania w grach opartych na rywalizacji. Reflex 2 wprowadza funkcję Frame Warp (już wkrótce!), co dodatkowo zmniejszy opóźnienie w stosunku do najświeższych danych wejściowych pochodzących z myszy.\nTwoja kreatywna przewaga dzięki AI\nNVIDIA Studio daje Ci kreatywną przewagę. Układy GPU GeForce RTX z serii 50 zapewniają przełomową wydajność edycji wideo, renderingu 3D i projektowania graficznego. Ciesz się akceleracją RTX w najlepszych aplikacjach kreatywnych, stale aktualizowanymi sterownikami NVIDIA Studio, zaprojektowanymi pod kątem zapewnienia maksymalnej stabilności oraz zestawem wyjątkowych narzędzi, które wykorzystują moc platformy RTX w kreatywnych zastosowaniach twórczych wspomaganych AI.\nPytanie techniczne do producenta\nBłąd w opisie? Zgłoś!\nBezpieczeństwo\nPliki do pobrania:\nInstrukcja bezpieczeństwa\nSpecyfikacja\nWyróżnione przez eksperta\nDługość karty\n304 mm\nIlość pamięci RAM\n32 GB\nRodzaj chipsetu\nGeForce RTX 5090\nRodzaj pamięci RAM\nGDDR7\nTyp złącza\nPCI Express 5.0 x16\nProdukt\nMarka\nAsus\nKod producenta\n90YV0P00-M0NA00\nEAN\n4711636502351\nChipset\nProducent chipsetu\nNVIDIA\nRodzaj chipsetu\nGeForce RTX 5090\nTaktowanie rdzenia\n2017 MHz\nTaktowanie rdzenia w trybie boost\n2512 MHz\nDLSS\nDLSS 4\nTechniczne\nTyp złącza\nPCI Express 5.0 x16\nDługość karty\n304 mm\nRozdzielczość\n7680 x 4320\nRekomendowana moc zasilacza\n1000 W\nPodświetlenie LED\nNie\nTyp chłodzenia\nWentylator\nPamięć RAM\nIlość pamięci RAM\n32 GB\nRodzaj pamięci RAM\nGDDR7\nSzyna danych\n512 bit\nTaktowanie pamięci\n28000 MHz\nZłącza\nD-Sub\nBrak\nDisplayPort\n2\nMiniDisplayPort\nBrak\nDVI\nBrak\nHDMI\nHDMI - 1szt.\nUSB-C\n1\nZłącza zasilania\n16-pin\nZawartość pudełka\nWersja opakowania\nBOX\nPytanie techniczne do producenta\nDrukuj opis\nOpinie\n(0)\nProdukt nie ma jeszcze opinii.\nInspiracje\n(1)\nPytania i odpowiedzi\n(0)\nZastanawiasz się, czy produkt spełni Twoje oczekiwania?\nZapytaj Ekspertów\nGwarancje\nWarunki gwarancji\nDługość\n36 miesięcy\nTyp gwarancji\nProducenta\nInformacje o gwarancji producenta\nwww:\nLink do pomocy technicznej\nOpis:\nJeżeli chcesz wysłać sprzęt do serwisu, skorzystaj ze strony http://asus-serwis.pl/\nRaty\nLeasing\nRaty dla biznesu\nOblicz ratę\nSfinansuj wszystko w Ratach dla Firm w\n7 minut\n!\nNa cały asortyment sklepu wraz\nz usługami.\nUmowę zatwierdzasz online\n, a cały proces od A do Z to tylko kilka minut.\nJesteś właścicielem sprzętu od chwili zakupu\n, a faktura jest wystawiana na Twoją firmę.\nWprowadzasz w koszty firmy\njak przy zakupie za gotówkę.\nOferta dopasowana do każdego rodzaju firmy\n, niezależnie od formy prawnej!\nOpis produktu\nSpecyfikacja techniczna\nOpinie\n(\n0\n)\nPytania i odpowiedzi\n(0)\nInspiracje\n(1)\nOutlet\n(0)\nMarket\nKarta graficzna Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G)\nKarta graficzna Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G)\nocena produktu 0/5 gwiazdki\nOceń jako pierwszy\nASUS Gold Partner\nDzięki temu certyfikatowi klient może mieć pewność, że kupując u nas produkty firmy Asus kupuje sprzęt oryginalny z legalnej dystrybucji, posiadający gwarancję na terenie RP.\nCertyfikat Gold Partner ASUSTek Computer informuje naszych klientów o tym, że pracownicy Morele.net dysponują odpowiednią wiedzą techniczną na temat oferowanych produktów ASUS i doradzą nawet najbardziej wymagającym klientom. Logo Asus Gold Partner to odznaczenie dla Najlepszych Partnerów firmy Asus, w uznaniu za ich zaangażowanie. W ramach podziękowania za lojalny wkład w rozwój popularności oraz sprzedaży produktów marki Asus otrzymaliśmy logo: Asus Gold Partner - AGP jako dostrzegalny symbol obustronnego, efektywnego działania.\nStrona producenta\nLink do pomocy technicznej\nInformacje\nJeżeli chcesz wysłać sprzęt do serwisu, skorzystaj ze strony http://asus-serwis.pl/\nZAKUPY\nDodatkowa gwarancja\nMontaż komputera\nUsługi\nUbezpieczenie PZU\nOchrona telefonu, tabletu i smartwatcha\nKarta Podarunkowa\nBrand Club - program lojalnościowy\nMorele MAX\nPayPo\nRaty\nLeasing\nZakupy dla firmy\nPOMOCNE LINKI\nPomoc\nSposoby dostawy i płatności\nZwroty i reklamacje\nAktualne promocje\nPoradniki\nWszystkie kategorie produktowe\nPytanie o produkt i doradztwo produktowe\nOpinie o Morele.net\nCałodobowe wsparcie Klienta\nMORELE.NET\nO nas\nDane firmy i numer konta\nNewsletter\nNagrody i certyfikaty\nKariera\nDla prasy\nPolityka prywatności i cookies\nUstawienia cookies\nRegulamin sklepu\nKoszty gospodarowania odpadami\nBezpieczeństwo produktów\nDotacje i dofinansowania\nKody rabatowe\nPokój gamingowy\nTech\nHome\nMARKETPLACE\nO Marketplace\nZostań sprzedawcą\nObowiązki Morele.net i Sprzedawcy Marketplace\nSocial media\nZnajdziesz nas na:\nMASZ PYTANIA?\nKontakt\nWERSJA STRONY NA KOMPUTER\nSpecjalista Morele\n|\n13:11\nCześć!\nKarta graficzna Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G) możemy dostarczyć\ndo Ciebie już\njutro!\nJeśli chcesz poznać dokładny czas dostawy, wprowadź kod pocztowy lub nazwę miejscowości.\nKod pocztowy możesz zmienić klikając w ikonę lokalizacji\nkod pocztowy lub miejscowość\nZapisz\nPoznaj czas dostawy\nJeśli chcesz poznać czasy dostawy dopasowane do Twojej lokalizacji, wprowadź kod pocztowy rozwijając menu “Więcej”.\n30 538\nzł\nDo koszyka\nStart\nMenu\n0\nKoszyk\n0\nKonto\nWięcej\nPrzepraszamy, czat na żywo w tej chwili jest już nieczynny. Jeśli masz jakieś pytanie lub problem,\nnapisz do nas\nwiadomość lub odwiedź nasze\ncentrum pomocy\n.\nCzat na żywo jest do Twojej dyspozycji codziennie w godzinach:\nponiedziałek-piątek: 9:00-17:00"
+  },
+  {
+    "url": "https://www.pixel2point.de/products/zotac-rtx-3090-24gb-trinity-oc-mit-ovp-refurbished",
+    "retrieved_at": "2026-09-27T11:11:10.846220+00:00",
+    "http": "200 https://pixel2point.de/products/zotac-rtx-3090-24gb-trinity-oc-mit-ovp-refurbished",
+    "exit_code": 0,
+    "error": "",
+    "title": "Zotac RTX 3090 24GB Trinity OC | Verified Refurbished | OVP | pixel2point\n – Pixel2Point",
+    "products": [
+      {
+        "@context": "http://schema.org/",
+        "@id": "/products/zotac-rtx-3090-24gb-trinity-oc-mit-ovp-refurbished#product",
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "name": "Pixel2Point"
+        },
+        "category": "Grafikkarten & Videoadapter",
+        "description": "\n\n\n\n\nVerified Refurbished // Powered by pixel2point\nZOTAC GEFORCE RTX 3090\n24GB GDDR6X // Trinity OC Edition\n\n[ ID: #B8606 ] [ ARCH: AMPERE GA102 ] [ REV: THERMAL_OPTIMIZED ]\n\n\n\n\n\n\n\nTechnisches Profil\nDie Zotac Gaming GeForce RTX 3090 Trinity OC bricht alle Barrieren moderner Render- und Gaming-Workloads. Ausgestattet mit einem werkseitigen Overclocking und spektakulären 24GB GDDR6X Videospeicher meistert dieses Modell anspruchsvollste Aufgaben in nativem 4K, anspruchsvolle KI-Berechnungen und komplexe 3D-Projekte mit spielender Leichtigkeit. Wir bei pixel2point haben dieses Enthusiast-Modell einer lückenlosen thermischen Sanierung unterzogen: Da die 24GB Videospeicher (insbesondere die Module auf der Platinenrückseite) extrem hohe Temperaturen entwickeln, wurden sämtliche Wärmeleitpads durch hochwertige Industriewärmeleitpads ersetzt. In Verbindung mit neuer, langlebiger Industriepaste operiert das massive Triple-Fan-Kühlsystem signifikant kühler, leiser und langfristig stabiler als im Werkszustand.\n\n\n\n\n\nIceStorm 2.0 Cooling\nDrei optimierte 11-Blatt-Lüfter erzeugen einen extremen statischen Luftdruck. Die präzise Active Fan Control erlaubt eine separate Drehzahlregelung der Lüftergruppen.\n\n\n\nStructural Backplate\nDie durchgehende Metall-Backplate schützt das PCB vor mechanischem Verzug und fungiert durch unsere optimierten Pads als hocheffektiver Passivkühler für die rückseitigen VRAM-Chips.\n\n\n\n\n\n Lieferumfang\n\n\n[✔] Zotac RTX 3090 Trinity OC 24G\n\n[✔] Originalverpackung (OVP)\n\n[✔] Antistatik-Schutzhülle\n\n[✔] Sicherer pixel2point Umkarton\n\n\n\n\n\n Audit-Protokoll pixel2point\n\n\nThermische Sanierung\nWir ersetzen standardmäßig die werksseitige Wärmeleitpaste sowie sämtliche Pads für VRAM (Vorder- und Rückseite) und VRM durch hochwertige Komponenten auf höchstem Industriestandard. Die Karte operiert dadurch unter Dauerlast signifikant kühler als im Werkszustand.\n\n\nTechnische Validierung\nPCB-Tiefenreinigung per Ultraschall. Voller Funktionstest der massiven Spannungsversorgung und Validierung der Stabilität durch mehrstündige Volllast-Zyklen (FurMark / 3DMark). Prüfung der Lüfterlager auf absolute Laufruhe.\n\n\n\n\n\nPerformance Matrix (Avg. FPS)\n\n\n\n\nTITEL (SETTINGS)\nRES\nRTX 3080\nRTX 3080 TI\nRTX 2080 TI\nRTX 3090\nRTX 4090\n\n\n\n\nFORTNITE (HIGH)\n1440P\n210\n235\n185\n255\n450\n\n\n4K (2160P)\n115\n125\n100\n145\n280\n\n\nCYBERPUNK (ULTRA)\n1440P\n58\n68\n48\n74\n115\n\n\n4K (2160P)\n36\n42\n30\n48\n74\n\n\nWARZONE (EXTREME)\n1440P\n165\n180\n145\n195\n310\n\n\n4K (2160P)\n95\n110\n80\n120\n195\n\n\n\n\n* Mobil nach rechts wischen für volle Ansicht.\n\n\n\nSpezifikationen\n\n\n\n\nChipsatzNVIDIA GeForce RTX 3090\n\n\nVideospeicher24GB GDDR6X\n\n\nSpeicherbus384 Bit\n\n\nBandbreite936,2 GB/s\n\n\nCUDA-Cores10496\n\n\nBoost-Takt1710 MHz (OC)\n\n\n\n\n\nTDP / Power350 Watt\n\n\nNetzteil Empfehlungab 750 W\n\n\nStromanschluss2x 8-Pin PCIe\n\n\nSchnittstellePCIe 4.0 x16\n\n\nAbmessungen317.8 x 120.7 x 58 mm\n\n\nAnschlüsse3x DP 1.4a, 1x HDMI 2.1\n\n\n\n\n\n\nDetaillierte Datenbank-Referenz:\nVIEW TECHPOWERUP PROFILE #B8606\npixel2point | High-Performance GPU Refurbishing.12 Monate Gewährleistung // Technischer Support inklusive.Umsatzsteuerfrei aufgrund der Kleinunternehmerregelung gemäß § 19 UStG.\n\n\n",
+        "image": "https://pixel2point.de/cdn/shop/files/ZotacRTX309024GBTrinityOC_2.jpg?v=1780859907&width=1920",
+        "name": "Zotac RTX 3090 24GB Trinity OC mit OVP - Refurbished",
+        "offers": {
+          "@id": "/products/zotac-rtx-3090-24gb-trinity-oc-mit-ovp-refurbished?variant=53729883685207#offer",
+          "@type": "Offer",
+          "availability": "http://schema.org/OutOfStock",
+          "price": "1089.99",
+          "priceCurrency": "EUR",
+          "url": "https://pixel2point.de/products/zotac-rtx-3090-24gb-trinity-oc-mit-ovp-refurbished?variant=53729883685207"
+        },
+        "url": "https://pixel2point.de/products/zotac-rtx-3090-24gb-trinity-oc-mit-ovp-refurbished"
+      }
+    ],
+    "parse_errors": [],
+    "text": "Zotac RTX 3090 24GB Trinity OC | Verified Refurbished | OVP | pixel2point\n– Pixel2Point\nDirekt zum Inhalt\nWillkommen in unserem Shop\nPixel2Point - Ihre Experten für refurbished Nvidia Grafikkarten\nStartseite\nAngebote\nShop\nShop\nAlle Grafikkarten anzeigen\nRTX 40-Serie\nRTX 30-Serie\nRTX 20-Serie & GTX Legenden\nGrafikkarten Archiv\nGeneralüberholung\nÜber Uns\nKontakt\nFAQ\nStartseite\nAngebote\nShop\nAlle Grafikkarten anzeigen\nRTX 40-Serie\nRTX 30-Serie\nRTX 20-Serie & GTX Legenden\nGrafikkarten Archiv\nGeneralüberholung\nÜber Uns\nKontakt\nFAQ\nSuchen\nWarenkorb\nArtikel wurde in den Warenkorb gelegt\nWarenkorb ansehen\nAuschecken\nWeiter shoppen\nZu Produktinformationen springen\nMedien 1 in Modal öffnen\nMedien 2 in Modal öffnen\nMedien 3 in Modal öffnen\nMedien 4 in Modal öffnen\nMedien 5 in Modal öffnen\nMedien 6 in Modal öffnen\nMedien 7 in Modal öffnen\nMedien 8 in Modal öffnen\nMedien 9 in Modal öffnen\nMedien 10 in Modal öffnen\nMedien 11 in Modal öffnen\nMedien 12 in Modal öffnen\nMedien 13 in Modal öffnen\nMedien 14 in Modal öffnen\nMedien 15 in Modal öffnen\nMedien 16 in Modal öffnen\nMedien 17 in Modal öffnen\nMedien 18 in Modal öffnen\nMedien 19 in Modal öffnen\nMedien 20 in Modal öffnen\nMedien 21 in Modal öffnen\nMedien 22 in Modal öffnen\n1\n/\nvon\n22\nPixel2Point\nZotac RTX 3090 24GB Trinity OC mit OVP - Refurbished\nZotac RTX 3090 24GB Trinity OC mit OVP - Refurbished\nNormaler Preis\n€1.089,99 EUR\nNormaler Preis\nVerkaufspreis\n€1.089,99 EUR\nSale\nAusverkauft\nKostenloser Versand (DE). Umsatzsteuerfrei aufgrund der Kleinunternehmerregelung gemäß § 19 UStG.\nAusverkauft\nVerified Refurbished // Powered by pixel2point\nZOTAC GEFORCE RTX 3090\n24GB GDDR6X // Trinity OC Edition\n[ ID: #B8606 ]\n[ ARCH: AMPERE GA102 ]\n[ REV: THERMAL_OPTIMIZED ]\nTechnisches Profil\nDie\nZotac Gaming GeForce RTX 3090 Trinity OC\nbricht alle Barrieren moderner Render- und Gaming-Workloads. Ausgestattet mit einem werkseitigen Overclocking und spektakulären 24GB GDDR6X Videospeicher meistert dieses Modell anspruchsvollste Aufgaben in nativem 4K, anspruchsvolle KI-Berechnungen und komplexe 3D-Projekte mit spielender Leichtigkeit. Wir bei pixel2point haben dieses Enthusiast-Modell einer lückenlosen thermischen Sanierung unterzogen: Da die 24GB Videospeicher (insbesondere die Module auf der Platinenrückseite) extrem hohe Temperaturen entwickeln, wurden sämtliche Wärmeleitpads durch hochwertige Industriewärmeleitpads ersetzt. In Verbindung mit neuer, langlebiger Industriepaste operiert das massive Triple-Fan-Kühlsystem signifikant kühler, leiser und langfristig stabiler als im Werkszustand.\nIceStorm 2.0 Cooling\nDrei optimierte 11-Blatt-Lüfter erzeugen einen extremen statischen Luftdruck. Die präzise Active Fan Control erlaubt eine separate Drehzahlregelung der Lüftergruppen.\nStructural Backplate\nDie durchgehende Metall-Backplate schützt das PCB vor mechanischem Verzug und fungiert durch unsere optimierten Pads als hocheffektiver Passivkühler für die rückseitigen VRAM-Chips.\nLieferumfang\n[✔]\nZotac RTX 3090 Trinity OC 24G\n[✔]\nOriginalverpackung (OVP)\n[✔]\nAntistatik-Schutzhülle\n[✔]\nSicherer pixel2point Umkarton\nAudit-Protokoll pixel2point\nThermische Sanierung\nWir ersetzen standardmäßig die werksseitige Wärmeleitpaste sowie sämtliche Pads für VRAM (Vorder- und Rückseite) und VRM durch hochwertige Komponenten auf höchstem Industriestandard. Die Karte operiert dadurch unter Dauerlast\nsignifikant kühler als im Werkszustand\n.\nTechnische Validierung\nPCB-Tiefenreinigung per Ultraschall. Voller Funktionstest der massiven Spannungsversorgung und Validierung der Stabilität durch mehrstündige Volllast-Zyklen (FurMark / 3DMark). Prüfung der Lüfterlager auf absolute Laufruhe.\nPerformance Matrix (Avg. FPS)\nTITEL (SETTINGS)\nRES\nRTX 3080\nRTX 3080 TI\nRTX 2080 TI\nRTX 3090\nRTX 4090\nFORTNITE (HIGH)\n1440P\n210\n235\n185\n255\n450\n4K (2160P)\n115\n125\n100\n145\n280\nCYBERPUNK (ULTRA)\n1440P\n58\n68\n48\n74\n115\n4K (2160P)\n36\n42\n30\n48\n74\nWARZONE (EXTREME)\n1440P\n165\n180\n145\n195\n310\n4K (2160P)\n95\n110\n80\n120\n195\n* Mobil nach rechts wischen für volle Ansicht.\nSpezifikationen\nChipsatz\nNVIDIA GeForce RTX 3090\nVideospeicher\n24GB GDDR6X\nSpeicherbus\n384 Bit\nBandbreite\n936,2 GB/s\nCUDA-Cores\n10496\nBoost-Takt\n1710 MHz (OC)\nTDP / Power\n350 Watt\nNetzteil Empfehlung\nab 750 W\nStromanschluss\n2x 8-Pin PCIe\nSchnittstelle\nPCIe 4.0 x16\nAbmessungen\n317.8 x 120.7 x 58 mm\nAnschlüsse\n3x DP 1.4a, 1x HDMI 2.1\nDetaillierte Datenbank-Referenz:\nVIEW TECHPOWERUP PROFILE #B8606\npixel2point\n| High-Performance GPU Refurbishing.\n12 Monate Gewährleistung // Technischer Support inklusive.\nUmsatzsteuerfrei aufgrund der Kleinunternehmerregelung gemäß § 19 UStG.\nShare\nShare\nLink\nTeilen schließen\nLink kopieren\nVollständige Details anzeigen\nTrustpilot\nZahlungsmethoden\nAmerican Express\nApple Pay\nGoogle Pay\nKlarna\nMaestro\nMastercard\nPayPal\nShop Pay\nUnion Pay\nVisa\n© 2026,\nPixel2Point\nPowered by Shopify\nDatenschutzerklärung\nKontaktinformationen\nImpressum\nVersand\nAGB\nWiderrufsrecht\nVertrag widerrufen\nWenn du dich für eine Auswahl entscheidest, wird die Seite komplett aktualisiert.\nWird in einem neuen Fenster geöffnet."
+  },
+  {
+    "url": "https://www.olx.pl/elektronika/komputery/podzespoly-i-czesci/karty-graficzne/q-rtx-3090/",
+    "retrieved_at": "2026-09-27T11:11:11.005356+00:00",
+    "http": "403 https://www.olx.pl/elektronika/komputery/podzespoly-i-czesci/karty-graficzne/q-rtx-3090/",
+    "exit_code": 0,
+    "error": "",
+    "title": "ERROR: The request could not be satisfied",
+    "products": [],
+    "parse_errors": [],
+    "text": "ERROR: The request could not be satisfied\n403 ERROR\nThe request could not be satisfied.\nRequest blocked.\nWe can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.\nGenerated by cloudfront (CloudFront)\nRequest ID: 0ISPDNIOfdsfn8GatYA5G4d4w0L-AvFNPl12hIYaV5TPGJxfixhnGQ=="
+  },
+  {
+    "url": "https://allegrolokalnie.pl/oferta/koparka-kryptowalut-2x-rtx-3090-btc-rvn",
+    "retrieved_at": "2026-09-27T11:11:11.223624+00:00",
+    "http": "200 https://allegrolokalnie.pl/oferty/q/koparka%20kryptowalut",
+    "exit_code": 0,
+    "error": "",
+    "title": "Koparka kryptowalut - Allegro Lokalnie",
+    "products": [
+      {
+        "name": "Bitaxe koparka kryptowalut | LOTERIA | Wykop Bitcoin BTC",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1e42e0/0cd7f68f4ab98eeb6f3af7da1c1b",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1e42e0/0cd7f68f4ab98eeb6f3af7da1c1b"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/bitaxe-koparka-kryptowalut-or-loteria-or-wykop-bitcoin-btc",
+        "offers": {
+          "price": "469",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      {
+        "name": "Koparka kryptowalut RX 570 4Gb",
+        "image": {
+          "url": "https://allegro.pl/oferta/koparka-kryptowalut-rx-570-4gb-18962854433",
+          "@type": "ImageObject",
+          "contentUrl": "https://allegro.pl/oferta/koparka-kryptowalut-rx-570-4gb-18962854433"
+        },
+        "url": "https://allegro.pl/oferta/koparka-kryptowalut-rx-570-4gb-18962854433",
+        "offers": {
+          "price": "2400",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/UsedCondition"
+      },
+      {
+        "name": "Koparka kryptowalut RX 570 4GB|ŻET Technologies",
+        "image": {
+          "url": "https://allegro.pl/oferta/koparka-kryptowalut-rx-570-4gb-zet-technologies-18947459985",
+          "@type": "ImageObject",
+          "contentUrl": "https://allegro.pl/oferta/koparka-kryptowalut-rx-570-4gb-zet-technologies-18947459985"
+        },
+        "url": "https://allegro.pl/oferta/koparka-kryptowalut-rx-570-4gb-zet-technologies-18947459985",
+        "offers": {
+          "price": "2300",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/UsedCondition"
+      },
+      {
+        "name": "OBUDOWA KOPARKI KRYPTOWALUT 2xPSU_6-12xGPU",
+        "image": {
+          "url": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-2xpsu-6-12xgpu-18946819468",
+          "@type": "ImageObject",
+          "contentUrl": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-2xpsu-6-12xgpu-18946819468"
+        },
+        "url": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-2xpsu-6-12xgpu-18946819468",
+        "offers": {
+          "price": "410",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      {
+        "name": "OBUDOWA KOPARKI KRYPTOWALUT 2xPSU_12-16xGPU",
+        "image": {
+          "url": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-2xpsu-12-16xgpu-18946788930",
+          "@type": "ImageObject",
+          "contentUrl": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-2xpsu-12-16xgpu-18946788930"
+        },
+        "url": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-2xpsu-12-16xgpu-18946788930",
+        "offers": {
+          "price": "460",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      {
+        "name": "OBUDOWA KOPARKI KRYPTOWALUT STELAŻ 2xPSU_6xGPU",
+        "image": {
+          "url": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-stelaz-2xpsu-6xgpu-18946780169",
+          "@type": "ImageObject",
+          "contentUrl": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-stelaz-2xpsu-6xgpu-18946780169"
+        },
+        "url": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-stelaz-2xpsu-6xgpu-18946780169",
+        "offers": {
+          "price": "350",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      {
+        "name": "OBUDOWA KOPARKI KRYPTOWALUT STELAŻ 2xPSU_6xGPU",
+        "image": {
+          "url": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-stelaz-2xpsu-6xgpu-18946769884",
+          "@type": "ImageObject",
+          "contentUrl": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-stelaz-2xpsu-6xgpu-18946769884"
+        },
+        "url": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-stelaz-2xpsu-6xgpu-18946769884",
+        "offers": {
+          "price": "350",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      {
+        "name": "OBUDOWA KOPARKI KRYPTOWALUT STELAŻ 1xPSU_8xGPU",
+        "image": {
+          "url": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-stelaz-1xpsu-8xgpu-18946507717",
+          "@type": "ImageObject",
+          "contentUrl": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-stelaz-1xpsu-8xgpu-18946507717"
+        },
+        "url": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-stelaz-1xpsu-8xgpu-18946507717",
+        "offers": {
+          "price": "350",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      {
+        "name": "OBUDOWA KOPARKI KRYPTOWALUT STELAŻ 2xPSU_6xGPU",
+        "image": {
+          "url": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-stelaz-2xpsu-6xgpu-18946458746",
+          "@type": "ImageObject",
+          "contentUrl": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-stelaz-2xpsu-6xgpu-18946458746"
+        },
+        "url": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-stelaz-2xpsu-6xgpu-18946458746",
+        "offers": {
+          "price": "310",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      {
+        "name": "OBUDOWA KOPARKI KRYPTOWALUT STELAŻ 2xPSU_8xGPU",
+        "image": {
+          "url": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-stelaz-2xpsu-8xgpu-18946450920",
+          "@type": "ImageObject",
+          "contentUrl": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-stelaz-2xpsu-8xgpu-18946450920"
+        },
+        "url": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-stelaz-2xpsu-8xgpu-18946450920",
+        "offers": {
+          "price": "350",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      {
+        "name": "OBUDOWA KOPARKI KRYPTOWALUT STELAŻ 2xPSU_6xGPU",
+        "image": {
+          "url": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-stelaz-2xpsu-6xgpu-18946438341",
+          "@type": "ImageObject",
+          "contentUrl": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-stelaz-2xpsu-6xgpu-18946438341"
+        },
+        "url": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-stelaz-2xpsu-6xgpu-18946438341",
+        "offers": {
+          "price": "350",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      {
+        "name": "OBUDOWA KOPARKI KRYPTOWALUT STELAŻ 2xPSU_7xGPU",
+        "image": {
+          "url": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-stelaz-2xpsu-7xgpu-18946408934",
+          "@type": "ImageObject",
+          "contentUrl": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-stelaz-2xpsu-7xgpu-18946408934"
+        },
+        "url": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-stelaz-2xpsu-7xgpu-18946408934",
+        "offers": {
+          "price": "350",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      {
+        "name": "OBUDOWA KOPARKI KRYPTOWALUT 2xPSU_10-12xGPU",
+        "image": {
+          "url": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-2xpsu-10-12xgpu-18946380541",
+          "@type": "ImageObject",
+          "contentUrl": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-2xpsu-10-12xgpu-18946380541"
+        },
+        "url": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-2xpsu-10-12xgpu-18946380541",
+        "offers": {
+          "price": "430",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      {
+        "name": "OBUDOWA KOPARKI KRYPTOWALUT 2xPSU_8-10xGPU",
+        "image": {
+          "url": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-2xpsu-8-10xgpu-18946364569",
+          "@type": "ImageObject",
+          "contentUrl": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-2xpsu-8-10xgpu-18946364569"
+        },
+        "url": "https://allegro.pl/oferta/obudowa-koparki-kryptowalut-2xpsu-8-10xgpu-18946364569",
+        "offers": {
+          "price": "430",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      {
+        "name": "Stelaż do koparki kryptowalut",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1e4546/d8ec7e474185892a95b9d37f6cf4",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1e4546/d8ec7e474185892a95b9d37f6cf4"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/stelaz-do-koparki-kryptowalut-ezq",
+        "offers": {
+          "price": "100",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/UsedCondition"
+      },
+      {
+        "name": "Koparka kryptowalut Whatsminer M60s++ 202 TH",
+        "image": {
+          "url": "https://allegro.pl/oferta/koparka-kryptowalut-whatsminer-m60s-202-th-18932146751",
+          "@type": "ImageObject",
+          "contentUrl": "https://allegro.pl/oferta/koparka-kryptowalut-whatsminer-m60s-202-th-18932146751"
+        },
+        "url": "https://allegro.pl/oferta/koparka-kryptowalut-whatsminer-m60s-202-th-18932146751",
+        "offers": {
+          "price": "19700",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      {
+        "name": "Koparka kryptowalut Whatsminer M50S 128 T/H",
+        "image": {
+          "url": "https://allegro.pl/oferta/koparka-kryptowalut-whatsminer-m50s-128-t-h-18932146770",
+          "@type": "ImageObject",
+          "contentUrl": "https://allegro.pl/oferta/koparka-kryptowalut-whatsminer-m50s-128-t-h-18932146770"
+        },
+        "url": "https://allegro.pl/oferta/koparka-kryptowalut-whatsminer-m50s-128-t-h-18932146770",
+        "offers": {
+          "price": "8200",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      {
+        "name": "Koparka kryptowalut Whatsminer M50S++ 158 TH",
+        "image": {
+          "url": "https://allegro.pl/oferta/koparka-kryptowalut-whatsminer-m50s-158-th-18932146749",
+          "@type": "ImageObject",
+          "contentUrl": "https://allegro.pl/oferta/koparka-kryptowalut-whatsminer-m50s-158-th-18932146749"
+        },
+        "url": "https://allegro.pl/oferta/koparka-kryptowalut-whatsminer-m50s-158-th-18932146749",
+        "offers": {
+          "price": "10350",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      {
+        "name": "Koparka kryptowalut Whatsminer M50S+ 146 TH",
+        "image": {
+          "url": "https://allegro.pl/oferta/koparka-kryptowalut-whatsminer-m50s-146-th-18932146753",
+          "@type": "ImageObject",
+          "contentUrl": "https://allegro.pl/oferta/koparka-kryptowalut-whatsminer-m50s-146-th-18932146753"
+        },
+        "url": "https://allegro.pl/oferta/koparka-kryptowalut-whatsminer-m50s-146-th-18932146753",
+        "offers": {
+          "price": "9500",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      {
+        "name": "Koparka kryptowalut Whatsminer M60s 188 TH",
+        "image": {
+          "url": "https://allegro.pl/oferta/koparka-kryptowalut-whatsminer-m60s-188-th-18932146750",
+          "@type": "ImageObject",
+          "contentUrl": "https://allegro.pl/oferta/koparka-kryptowalut-whatsminer-m60s-188-th-18932146750"
+        },
+        "url": "https://allegro.pl/oferta/koparka-kryptowalut-whatsminer-m60s-188-th-18932146750",
+        "offers": {
+          "price": "15100",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      {
+        "name": "Koparka kryptowalut Whatsminer M60 172 TH",
+        "image": {
+          "url": "https://allegro.pl/oferta/koparka-kryptowalut-whatsminer-m60-172-th-18932146771",
+          "@type": "ImageObject",
+          "contentUrl": "https://allegro.pl/oferta/koparka-kryptowalut-whatsminer-m60-172-th-18932146771"
+        },
+        "url": "https://allegro.pl/oferta/koparka-kryptowalut-whatsminer-m60-172-th-18932146771",
+        "offers": {
+          "price": "13200",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      {
+        "name": "Koparka kryptowalut iceriver ks0",
+        "image": {
+          "url": "https://allegro.pl/oferta/koparka-kryptowalut-iceriver-ks0-18931929207",
+          "@type": "ImageObject",
+          "contentUrl": "https://allegro.pl/oferta/koparka-kryptowalut-iceriver-ks0-18931929207"
+        },
+        "url": "https://allegro.pl/oferta/koparka-kryptowalut-iceriver-ks0-18931929207",
+        "offers": {
+          "price": "250",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/UsedCondition"
+      },
+      {
+        "name": "Koparka kryptowalut RX 570 4GB|ŻET Technologies",
+        "image": {
+          "url": "https://allegro.pl/oferta/koparka-kryptowalut-rx-570-4gb-zet-technologies-18919767269",
+          "@type": "ImageObject",
+          "contentUrl": "https://allegro.pl/oferta/koparka-kryptowalut-rx-570-4gb-zet-technologies-18919767269"
+        },
+        "url": "https://allegro.pl/oferta/koparka-kryptowalut-rx-570-4gb-zet-technologies-18919767269",
+        "offers": {
+          "price": "2400",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/UsedCondition"
+      },
+      {
+        "name": "Koparka kryptowalut Bitmain Antminer S3 - vintage ;-)",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1ea625/0d4401934f6fa244087451a7f93d",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1ea625/0d4401934f6fa244087451a7f93d"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/koparka-kryptowalut-bitmain-antminer-s3-vintage",
+        "offers": {
+          "price": "300",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/UsedCondition"
+      },
+      {
+        "name": "BITMAIN koparka kryptowalut ASIC + zasialcz APW3++ 1600 W  pod fotowoltaikę",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1e4871/986a134b4730a228303afe993bea",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1e4871/986a134b4730a228303afe993bea"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/bitmain-koparka-kryptowalut-asic-zasialcz-apw3-1600-w-pod-fotowoltaike",
+        "offers": {
+          "price": "650",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/UsedCondition"
+      },
+      {
+        "name": "Koparka kryptowalut Whatsminer M50 110 Th",
+        "image": {
+          "url": "https://allegro.pl/oferta/koparka-kryptowalut-whatsminer-m50-110-th-18911955588",
+          "@type": "ImageObject",
+          "contentUrl": "https://allegro.pl/oferta/koparka-kryptowalut-whatsminer-m50-110-th-18911955588"
+        },
+        "url": "https://allegro.pl/oferta/koparka-kryptowalut-whatsminer-m50-110-th-18911955588",
+        "offers": {
+          "price": "5400",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      {
+        "name": "Koparka kryptowalut RX 570 4GB|ŻET Technologies",
+        "image": {
+          "url": "https://allegro.pl/oferta/koparka-kryptowalut-rx-570-4gb-zet-technologies-18904501612",
+          "@type": "ImageObject",
+          "contentUrl": "https://allegro.pl/oferta/koparka-kryptowalut-rx-570-4gb-zet-technologies-18904501612"
+        },
+        "url": "https://allegro.pl/oferta/koparka-kryptowalut-rx-570-4gb-zet-technologies-18904501612",
+        "offers": {
+          "price": "2300",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/UsedCondition"
+      },
+      {
+        "name": "Płyt główna koparki kryptowalut Asus B250 Mining Expert / 19 GPU / CPU",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1e20b8/1735d51a48278990c6f66b58a8b4",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1e20b8/1735d51a48278990c6f66b58a8b4"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/plyt-glowna-koparki-kryptowalut-asus-b250-mining-expert-19-gpu-ram-cpu",
+        "offers": {
+          "price": "149.99",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/UsedCondition"
+      },
+      {
+        "name": "Wentylator dla koparki kryptowalut Antminer S9 T9 D3 Z9 mini  12v 2.7A ",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1e565b/e4f8ecb843209452f9e7f565f6d7",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1e565b/e4f8ecb843209452f9e7f565f6d7"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/wentylator-dla-koparki-kryptowalut-antminer-s9-t9-d3-z9-mini-12v-27a",
+        "offers": {
+          "price": "45",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/UsedCondition"
+      },
+      {
+        "name": "Wentylator dla koparki kryptowalut Antminer S9 T9 D3 Z9 mini  12v 2.3A ",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1e0785/22590ac44e04bb03e39bec4ee1ed",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1e0785/22590ac44e04bb03e39bec4ee1ed"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/wentylator-dla-koparki-kryptowalut-antminer-s9-t9-d3-z9-mini-12v-23a",
+        "offers": {
+          "price": "45",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/UsedCondition"
+      },
+      {
+        "name": "Koparka Kryptowalut 8x Sapphire RX 6600 8GB Rig GPU HiveOS Działa Używana",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1e56aa/c41ffaf745ffaf653b0fd0c97918",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1e56aa/c41ffaf745ffaf653b0fd0c97918"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/koparka-kryptowalut-8x-sapphire-rx-6600-8gb-rig-gpu-hiveos-dziala-uzywana",
+        "offers": {
+          "price": "6800",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/UsedCondition"
+      },
+      {
+        "name": "Koparka kryptowalut asic Lucky Miner LV08 5th 120w wifi firmware Bitaxe",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1e13f0/f77a971c4afbb7805104af8c98aa",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1e13f0/f77a971c4afbb7805104af8c98aa"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/koparka-kryptowalut-5th-120w-wifi-firmware-bitaxe",
+        "offers": {
+          "price": "700",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/UsedCondition"
+      },
+      {
+        "name": "Koparka kryptowalut 12x RTX A2000 - Dell",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1efdb2/774d68f740adbd64cb485dd24a14",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1efdb2/774d68f740adbd64cb485dd24a14"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/koparka-kryptowalut-12x-rtx-a2000-dell",
+        "offers": {
+          "price": "19000",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/UsedCondition"
+      },
+      {
+        "name": "Retro koparka kryptowalut Bitmain Antminer S2",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1e755a/081fa98f40ac87f71d968a76d1e5",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1e755a/081fa98f40ac87f71d968a76d1e5"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/retro-koparka-kryptowalut-bitmain-antminer-s2",
+        "offers": {
+          "price": "200",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/UsedCondition"
+      },
+      {
+        "name": "Stelaż koparki kryptowalut na 12 GPU",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1e77b7/5480636d440fa1df4abec66d5b8c",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1e77b7/5480636d440fa1df4abec66d5b8c"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/stelaz-koparki-kryptowalut-na-12-gpu",
+        "offers": {
+          "price": "150",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/UsedCondition"
+      },
+      {
+        "name": "ASIC Bitcoin Miner Avalon Nano 3S Biały koparka kryptowalut BTC",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1e80b5/eda0ed514a3ab559e03cc03f5139",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1e80b5/eda0ed514a3ab559e03cc03f5139"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/asic-bitcoin-miner-avalon-nano-3s-bialy-koparka-kryptowalut-btc",
+        "offers": {
+          "price": "1050",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/UsedCondition"
+      },
+      {
+        "name": "Koparka Kryptowalut Helium Heltec Hotspot 868 Mhz",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1eac47/31399a2047dbb6d1102169edc052",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1eac47/31399a2047dbb6d1102169edc052"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/koparka-kryptowalut-helium-heltec-hotspot-868-mhz-spa",
+        "offers": {
+          "price": "800",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/UsedCondition"
+      },
+      {
+        "name": "Stelaż do koparki kryptowalut, obudowa, otwarta rama na 2 poziomy 12GPU",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1e1be3/f9317b704485ba406c508acedcb9",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1e1be3/f9317b704485ba406c508acedcb9"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/stelaz-do-koparki-kryptowalut-obudowa-otwarta-rama-na-2-poziomy-12gpu-bat",
+        "offers": {
+          "price": "249.99",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/UsedCondition"
+      },
+      {
+        "name": "Riser 009S Plus PCI-E 1x-16x USB3.0 kopanie kryptowalut, adapter, karta GPU",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1efa7e/1f0140c541c1a6e734211bb40a15",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1efa7e/1f0140c541c1a6e734211bb40a15"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/riser-009s-plus-pcie-1x16x-usb30-kopanie-kryptowalut-adapter-karta-gpu-34l",
+        "offers": {
+          "price": "11.49",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/UsedCondition"
+      },
+      {
+        "name": "Riser V011-PRO PCI-E 1x-16x USB3.0 kopanie kryptowalut, adapter, karta GPU",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1e9bc3/476fe1d343fdb70b5c8c02475769",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1e9bc3/476fe1d343fdb70b5c8c02475769"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/riser-v011pro-pcie-1x16x-usb30-kopanie-kryptowalut-adapter-karta-gpu-vn5",
+        "offers": {
+          "price": "14.99",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/UsedCondition"
+      },
+      {
+        "name": "OKAZJA ! Portfel LEDGER NANO S PLUS PORTFEL DO KRYPTOWALUT",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1e1d0e/e6b8c38a4bc9a520b2a38cfc89f7",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1e1d0e/e6b8c38a4bc9a520b2a38cfc89f7"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/okazja-portfel-ledger-nano-s-plus-portfel-do-kryptowalut-t2h",
+        "offers": {
+          "price": "210",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      {
+        "name": "5 Koparek do kryptowalut Antminer S19k Pro",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1eaf42/3cc0c0404b888229a18dfdb913d0",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1eaf42/3cc0c0404b888229a18dfdb913d0"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/5-koparek-do-kryptowalut-antminer-s19k-pro",
+        "offers": {
+          "price": "23000",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/UsedCondition"
+      },
+      {
+        "name": "Składanie i konfigurowanie koparek kryptowalut",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1ef426/647b3c1a40889d07e4aacf3e5680",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1ef426/647b3c1a40889d07e4aacf3e5680"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/skladanie-i-konfigurowanie-koparek-kryptowalut",
+        "offers": {
+          "price": "200",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      {
+        "name": "Koparka kryptowalut IceRiver KAS KS0 pro 200GH/s 100W",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1eaf96/d8d3b50744be93aed279cce91c62",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1eaf96/d8d3b50744be93aed279cce91c62"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/koparka-kryptowalut-iceriver-kas-ks0-pro-200ghs-100w-npn",
+        "offers": {
+          "price": "500",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/UsedCondition"
+      },
+      {
+        "name": "Sprzęt komputerowy, koparki kryptowalut",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1e74cf/306515f24672aaa9c01de61d2f7a",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1e74cf/306515f24672aaa9c01de61d2f7a"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/sprzet-komputerowy-koparki-kryptowalut",
+        "offers": {
+          "price": "900",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/UsedCondition"
+      },
+      {
+        "name": "INIBOX 850M 500 W koparka kryptowalut nowa",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1ee9ca/2da40b9b4a6bb5d5f3494782aaea",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1ee9ca/2da40b9b4a6bb5d5f3494782aaea"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/inibox-850m-500-w-koparka-kryptowalut-nowa",
+        "offers": {
+          "price": "12300",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      {
+        "name": "Koparka kryptowalut BOBCATMINER 300 EU868",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1e5a34/6b9b06d8458b8e09253d234305f3",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1e5a34/6b9b06d8458b8e09253d234305f3"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/bobcatminer-300-eu868",
+        "offers": {
+          "price": "1500",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      {
+        "name": "Sapphire INCA EP-10 /sewer obliczeniowy / AI / koparka kryptowalut ",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1e8d10/576be1004302a8809e05802454a6",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1e8d10/576be1004302a8809e05802454a6"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/sapphire-inca-ep10-sewer-obliczeniowy-ai-koparka-kryptowalut",
+        "offers": {
+          "price": "8000",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/UsedCondition"
+      },
+      {
+        "name": "Sapphire INCA CS-14 – koparka kryptowalut / komputer obliczeniowy",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1e6422/61a674144b4086ead7952af2237f",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1e6422/61a674144b4086ead7952af2237f"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/sapphire-inca-cs14-koparka-kryptowalut-komputer-obliczeniowy",
+        "offers": {
+          "price": "5000",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/UsedCondition"
+      },
+      {
+        "name": "XT Box 400W / NOWY / Koparka kryptowalut",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1e8323/2579e0f84b629c142c7566893d4b",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1e8323/2579e0f84b629c142c7566893d4b"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/xt-box-400w-nowy-koparka-kryptowalut",
+        "offers": {
+          "price": "5999",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      {
+        "name": "koparka gornik kryptowalut (ALEO algorytm)",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1ede8d/9f9d713247948ce8e2474944d122",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1ede8d/9f9d713247948ce8e2474944d122"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/koparka-gornik-kryptowalut-aleo-algorytm",
+        "offers": {
+          "price": "2100",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      {
+        "name": "Koparka kryptowalut",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1e4152/2220e1954fbf81c817fb9c690022",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1e4152/2220e1954fbf81c817fb9c690022"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/koparka-kryptowalut-q2h",
+        "offers": {
+          "price": "2000",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/UsedCondition"
+      },
+      {
+        "name": "Koparka kryptowalut IceRiver ALEO AE2 720Mh",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1ecb35/2175382c46b8ae9fa505433ba424",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1ecb35/2175382c46b8ae9fa505433ba424"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/koparka-kryptowalut-iceriver-aleo-ae2-720mh",
+        "offers": {
+          "price": "13300",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      {
+        "name": "Antminer KS7 40t Kaspa koparka kryptowalut",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1ebe9e/d73e394b4abbb3a105511706711f",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1ebe9e/d73e394b4abbb3a105511706711f"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/koparka-kryptowalut-iceriver-ks7-lite-nowa",
+        "offers": {
+          "price": "8999",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      {
+        "name": "Koparka kryptowalut Antminer S21XP hydro 473th",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1e7c72/8807c7d64fb6a6aeb55cbb8f2451",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1e7c72/8807c7d64fb6a6aeb55cbb8f2451"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/koparka-kryptowalut-hydro-bitdeer-sealminer-a2-pro-500t",
+        "offers": {
+          "price": "29799",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      {
+        "name": "Whatsminer M30S++ 108th/s koparka kryptowalut bitcoin",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1eb774/65c1ce9a4e66a36c185f027e452f",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1eb774/65c1ce9a4e66a36c185f027e452f"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/whatsminer-m30s-108ths-koparka-kryptowalut-bitocin",
+        "offers": {
+          "price": "2000",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      {
+        "name": "Płyta główna pod koparke kryptowalut",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1e52fd/ff39ea244fdd894629e5dcd2533d",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1e52fd/ff39ea244fdd894629e5dcd2533d"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/plyta-glowna-pod-koparke-kryptowalut",
+        "offers": {
+          "price": "200",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/UsedCondition"
+      },
+      {
+        "name": "baza koparki kryptowalut - 5x pci-e x8 - PREMIUM",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1eaabb/8d877d204681b5b1144b5979fd2c",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1eaabb/8d877d204681b5b1144b5979fd2c"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/baza-koparki-kryptowalut-5x-pcie-x8-premium",
+        "offers": {
+          "price": "999",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/UsedCondition"
+      },
+      {
+        "name": "Obudowa koparki kryptowalut na 8 kart graficznych GPU",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1eaca9/a558cfcd47998434e19c0a557ec1",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1eaca9/a558cfcd47998434e19c0a557ec1"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/obudowa-koparki-kryptowalut-na-8-kart-graficznych-gpu",
+        "offers": {
+          "price": "550",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/UsedCondition"
+      },
+      {
+        "name": "BAIKAL 900 +ZASILACZ KOPARKA KRYPTOWALUT",
+        "image": {
+          "url": "https://a.allegroimg.com/original/1e6dc1/8e931ee74c6a93be1e4d5d595663",
+          "@type": "ImageObject",
+          "contentUrl": "https://a.allegroimg.com/original/1e6dc1/8e931ee74c6a93be1e4d5d595663"
+        },
+        "url": "https://allegrolokalnie.pl/oferta/baikal-900-zasilacz-koparka-kryptowalut",
+        "offers": {
+          "price": "500",
+          "@type": "Offer",
+          "priceCurrency": "PLN"
+        },
+        "@type": "Product",
+        "itemCondition": "https://schema.org/UsedCondition"
+      }
+    ],
+    "parse_errors": [],
+    "text": "Koparka kryptowalut - Allegro Lokalnie\nOtwórz menu z kategoriami\nPrzeglądaj ogłoszenia:\nElektronika\nTelefony i akcesoria\nSmartfony\nSmartwatche\nIphone\nSmartfony Samsung\nAkcesoria GSM\nPrzejdź do Telefony i akcesoria\nKomputery\nLaptopy\nCzęści do laptopów\nKomputery stacjonarne\nPodzespoły komputerowe\nDrukarki i skanery\nPrzejdź do Komputery\nFotografia\nAparaty cyfrowe\nObiektywy\nAkcesoria fotograficzne\nAparaty natychmiastowe (Instax, Polaroid)\nPrzejdź do Fotografia\nTelewizory i akcesoria\nTelewizory\nProjektory\nSłuchawki\nAudio dla domu\nKino domowe\nPrzejdź do Telewizory i akcesoria\nKonsole i automaty\nKonsole PlayStation 5\nKonsole Xbox Series X/S\nKonsole PlayStation 4\nKonsole Xbox One\nKonsole Nintendo Switch\nPrzejdź do Konsole i automaty\nAGD małe\nEkspresy do kawy\nOdkurzacze\nDo kuchni\nMaszyny do szycia\nPrzejdź do AGD małe\nAGD\nLodówki\nPralki\nZmywarki\nKuchenki mikrofalowe\nPrzejdź do AGD\nAGD do zabudowy\nPiekarniki do zabudowy\nZmywarki do zabudowy\nOkapy\nPłyty grzewcze\nPrzejdź do AGD do zabudowy\nPrzejdź do Elektronika\nModa\nBiżuteria damska\nBransoletki\nKorale\nKoczyki\nNaszyjniki\nPierścionki, obrączki\nPrzejdź do Biżuteria damska\nOdzież damska\nBluzki damskie\nGarsonki i kostiumy\nGolfy damskie\nJeansy damskie\nKoszule damskie\nLegginsy\nSpódnice i spódniczki\nSukienki\nSukienki wieczorowe\nSwetry damskie\nZestawy ubrań\nPrzejdź do Odzież damska\nOdzież męska\nBluzy męskie\nGarnitury\nJeansy męskie\nKoszule męskie\nKoszulki polo\nMarynarki\nOkrycia wierzchnie\nSpodnie męskie\nT-shirty męskie\nPrzejdź do Odzież męska\nZegarki\nZegarki damskie\nZegarki męskie\nPrzejdź do Zegarki\nBagaż\nTorby podróżne\nWalizki kabinowe\nWalizki duże\nPrzejdź do Bagaż\nObuwie\nButy damskie\nButy męskie\nPrzejdź do Obuwie\nPrzejdź do Moda\nDom i Ogród\nWyposażenie\nDekoracje i ozdoby\nOzdoby świąteczne i okolicznościowe\nKwiaty i wiązanki na cmentarz\nDywany i dywaniki\nPościele i koce\nZastawa stołowa\nPrzybory kuchenne\nŚwiece\nPrzejdź do Wyposażenie\nNarzędzia\nWkrętarki\nPiły i pilarki\nSzlifierki\nSpawarki\nMłotowiertarki\nOdkurzacze przemysłowe\nPrzyrządy miernicze\nPrzejdź do Narzędzia\nOświetlenie\nLampy wiszące\nHalogeny i naświetlacze\nŹródła światła\nOprawy oświetleniowe\nPrzejdź do Oświetlenie\nMeble\nMeble do salonu\nMeble do sypialni\nMeble kuchenne\nMeble do łazienki i toalety\nPrzejdź do Meble\nBudownictwo\nOgrzewanie\nHydraulika i akcesoria\nElektryka i akcesoria\nŚciany i elewacje\nPrzejdź do Budownictwo\nOgród\nNawozy i preparaty\nBaseny i akcesoria\nMeble ogrodowe\nKosiarki traktorki\nPergole i trejaże\nDrewutnie\nFontanny ogrodowe\nPrzejdź do Ogród\nPrzejdź do Dom i Ogród\nMotoryzacja\nCzęści samochodowe\nCzęści karoserii\nOświetlenie\nSilniki i osprzęt\nUkład elektryczny, zapłon\nUkład hamulcowy\nUkład zawieszenia\nUkład wydechowy\nUkład chłodzenia\nWyposażenie wnętrza\nPrzejdź do Części samochodowe\nCzęści do maszyn\nCzęści do maszyn rolniczych\nCzęści do maszyn budowlanych\nCzęści do przyczep i naczep\nPrzejdź do Części do maszyn\nSamochody\nSamochody osobowe\nSamochody dostawcze (do 3.5 t)\nSamochody ciężarowe (pow. 3.5 t)\nInne pojazdy i łodzie\nPrzejdź do Samochody\nAkcesoria samochodowe\nBagażniki\nDywaniki\nElektronika samochodowa\nTuning wizualny\nPrzejdź do Akcesoria samochodowe\nOpony i felgi\nOpony do aut osobowych\nDo motocykli i skuterów\nFelgi aluminiowe\nPrzejdź do Opony i felgi\nWarsztat\nStoły warsztatowe\nKlucze\nNajazdy samochodowe\nPodnośniki warsztatowe\nPrzejdź do Warsztat\nMotocykle i quady\nCzęści motocyklowe\nKaski motocyklowe\nOdzież motocyklowa\nStelaże motocyklowe\nPrzejdź do Motocykle i quady\nPrzejdź do Motoryzacja\nDziecko\nZabawki\nKlocki LEGO\nLalki\nZabawki dla niemowląt\nZabawki edukacyjne\nPrzejdź do Zabawki\nOkazje, przyjęcia\nBalony\nPrzebrania dla dzieci\nPiniaty\nZaproszenia\nPrzejdź do Okazje, przyjęcia\nAkcesoria dla mamy i dziecka\nLeżaczki i huśtawki\nBramki i barierki ochronne\nLaktatory i akcesoria\nNosidełka\nPrzejdź do Akcesoria dla mamy i dziecka\nWózki dziecięce\nWózki wielofunkcyjne\nWózki spacerowe\nWózki bliźniacze\nAkcesoria do wózka\nPrzejdź do Wózki dziecięce\nArtykuły szkolne\nPlecaki szkolne\nPiórniki\nPlecaki przedszkolne\nPomoce naukowe\nZabawki ogrodowe\nDomki ogrodowe\nPlace zabaw\nTrampoliny i akcesoria\nZjeżdżalnie\nPrzejdź do Zabawki ogrodowe\nRowery i pojazdy\nGokarty\nOdzież dziecięca\nObuwie dla dzieci\nFoteliki samochodowe\nPokój dziecięcy\nPościel i kocyki\nMeble dziecięce\nLalki Rainbow High\nZdrowie i higiena\nSamochodziki\nPrzejdź do Dziecko\nZdrowie\nDermokosmetyki\nDermokosmetyki do opalania\nZestawy dermokosmetyków\nPrzejdź do Dermokosmetyki\nDomowa apteczka\nSuplementy diety\nŻywność medyczna\nPrzejdź do Domowa apteczka\nErotyka\nAkcesoria i gadżety erotyczne\nBielizna erotyczna\nFilmy erotyczne\nLalki miłości\nPrzejdź do Erotyka\nHigiena jamy ustnej\nIrygatory do zębów\nNakładki na zęby\nSzczoteczki do zębów\nWybielanie zębów\nPrzejdź do Higiena jamy ustnej\nHigiena osobista\nArtykuły higieniczne\nHigiena intymna\nNietrzymanie moczu\nPrzejdź do Higiena osobista\nKorekcja wzroku\nOkulary\nSoczewki\nPrzejdź do Korekcja wzroku\nMedycyna naturalna\nKremy i maści\nOlejki eteryczne\nProdukty konopne\nSpirulina, chlorella, algi\nWaporyzatory\nPrzejdź do Medycyna naturalna\nSprzęt i wyposażenie medyczne\nAkupresura\nFotele masujące\nGlukometry\nInhalatory\nMasażery i urządzenia masujące\nTermometry\nKule ortopedyczne\nPrzejdź do Sprzęt i wyposażenie medyczne\nZdrowie, medycyna\nMateriały higieniczne i opatrunkowe\nPrzejdź do Zdrowie\nUroda\nMakijaż\nBronzery\nCienie do powiek\nKonturówki do ust\nPodkłady do twarzy\nPomadki do ust\nSztuczne rzęsy\nPrzejdź do Makijaż\nManicure i pedicure\nLakiery hybrydowe\nTipsy\nZdobienie paznokci\nLampy UV i LED\nFrezarki do paznokci\nAkryle i żele\nOdżywki do paznokci\nPrzejdź do Manicure i pedicure\nPerfumy i wody\nZapachy dla kobiet\nZapachy dla mężczyzn\nWody toaletowe damskie\nWody toaletowe męskie\nPrzejdź do Perfumy i wody\nPielęgnacja\nKremy do twarzy\nMaseczki do twarzy\nOczyszczanie i demakijaż\nKosmetyki do opalania\nSzampony\nKoloryzacja\nPrzejdź do Pielęgnacja\nWyposażenie salonów\nSalony fryzjerskie\nSalony kosmetyczne\nSalony tatuażu\nSolaria\nPrzejdź do Wyposażenie salonów\nPrzejdź do Uroda\nKultura i Rozrywka\nKsiążki\nBiografie\nFantasy, science fiction, horror\nKryminał, sensacja, thriller\nKsiążki dla dzieci\nKomiksy\nNaukowe i popularnonaukowe\nPodręczniki szkolne\nPoradniki i albumy\nKsiążki obyczajowe\nPrzejdź do Książki\nGry\nGry na PC\nGry na konsole\nGry na PS5\nGry na Xbox Series X\nGry na PS4\nGry na Xbox One\nGry planszowe\nGry karciane\nGry strategiczne\nGry MMO (online)\nPrzejdź do Gry\nKody i doładowania\nKody do gier\nKody i doładowania na muzykę\nKarty podarunkowe\nPłatności internetowe\nPrzejdź do Kody i doładowania\nInstrumenty\nGitary i akcesoria\nInstrumenty klawiszowe\nInstrumenty perkusyjne\nInstrumenty dęte\nPrzejdź do Instrumenty\nMuzyka\nRap, hip-hop\nMetal\nRock\nPop\nPrzejdź do Muzyka\nFilmy\nFilmy sensacyjne\nFilmy dla dzieci\nDramaty\nKomedie\nPrzejdź do Filmy\nPrzejdź do Kultura i Rozrywka\nSport i Turystyka\nRowery i akcesoria\nRowery\nCzęści rowerowe\nKaski\nOdzież rowerowa\nPrzejdź do Rowery i akcesoria\nWędkarstwo\nAkcesoria wędkarskie\nWędki\nKołowrotki\nPrzynęty\nPrzejdź do Wędkarstwo\nTurystyka\nLatarki\nWalizki turystyczne\nKuchnia turystyczna\nNamioty\nPrzejdź do Turystyka\nBieganie\nOdzież do biegania\nButy do biegania\nSłuchawki do biegania\nEtui i opaski na ramię do biegania\nPrzejdź do Bieganie\nMilitaria\nWiatrówki\nASG\nPlecaki taktyczne\nOptyka myśliwska\nPrzejdź do Militaria\nSkating, slackline\nElektronika sportowa\nSporty walki\nSporty ekstremalne\nSporty wodne\nSporty drużynowe\nSporty towarzyskie\nTenis i pokrewne\nOdzież turystyczna\nPrzejdź do Sport i Turystyka\nKolekcje i Sztuka\nDesign i antyki\nMeble antyczne\nPorcelana antyczna\nCeramika antyczna\nSzkło\nSrebra\nBiżuteria\nZegary i zegarki\nZabytki techniki\nAntykwariat\nPrzejdź do Design i antyki\nKolekcje\nNumizmatyka\nFilatelistyka\nMilitaria kolekcjonerskie\nModelarstwo\nPieniądz papierowy\nPamiątki PRL-u\nPrzejdź do Kolekcje\nHobby i rękodzieło\nBiżuteria-półprodukty\nSzycie\nDziewiarstwo\nDecoupage\nScrapbooking\nMasy do modelowania\nKartki i zaproszenia\nPrzejdź do Hobby i rękodzieło\nSztuka\nMalarstwo\nRzeźba\nGrafika\nFotografia\nPlakat\nPrzejdź do Sztuka\nPrzejdź do Kolekcje i Sztuka\nNieruchomości\nMieszkania\nMieszkania do wynajęcia\nMieszkania na sprzedaż\nPokoje\nPokoje do wynajęcia\nDziałki\nDziałki do wynajęcia\nDziałki na sprzedaż\nMagazyny\nMagazyny i hale do wynajęcia\nMagazyny i hale na sprzedaż\nDomy\nDomy do wynajęcia\nDomy na sprzedaż\nLokale i obiekty użytkowe\nLokale i obiekty użytkowe do wynajęcia\nLokale i obiekty użytkowe na sprzedaż\nGaraże\nGaraże i miejsca postojowe do wynajęcia\nGaraże na sprzedaż\nPrzejdź do Nieruchomości\nFirma i usługi\nBiuro i reklama\nŻywe zwierzęta\nGryzonie\nKonie i kuce\nKoty\nKróliki\nPsy\nPrzejdź do Żywe zwierzęta\nPtaki\nDrób, Kury ozdobne\nPtaki egzotyczne\nPrzejdź do Ptaki\nGołębie\nGołębie ozdobne\nGołębie pocztowe\nPrzejdź do Gołębie\nPrzemysł\nArtykuły pogrzebowe\nBudownictwo przemysłowe\nGastronomia\nMagnesy neodymowe\nMaszyny i urządzenia\nMateriały i akcesoria\nOdzież robocza\nOferty hurtowe\nPielęgnacja zieleni miejskiej\nPoligrafia\nProfesjonalne urządzenia czyszczące\nPrzemysł energetyczny\nRecykling i wywóz śmieci\nSklep i magazyn\nSłużby bezpieczeństwa publicznego\nWyposażenie pomieszczeń\nPrzejdź do Przemysł\nRolnictwo\nAkcesoria i preparaty rolnicze\nHodowla\nUprawa\nUrządzenia rolnicze\nWyposażenie pomieszczeń\nPrzejdź do Rolnictwo\nPrzejdź do Firma i usługi\nPrzeglądaj ogłoszenia:\nElektronika\nTelefony i akcesoria\nSmartfony\nSmartwatche\nIphone\nSmartfony Samsung\nAkcesoria GSM\nPrzejdź do Telefony i akcesoria\nKomputery\nLaptopy\nCzęści do laptopów\nKomputery stacjonarne\nPodzespoły komputerowe\nDrukarki i skanery\nPrzejdź do Komputery\nFotografia\nAparaty cyfrowe\nObiektywy\nAkcesoria fotograficzne\nAparaty natychmiastowe (Instax, Polaroid)\nPrzejdź do Fotografia\nTelewizory i akcesoria\nTelewizory\nProjektory\nSłuchawki\nAudio dla domu\nKino domowe\nPrzejdź do Telewizory i akcesoria\nKonsole i automaty\nKonsole PlayStation 5\nKonsole Xbox Series X/S\nKonsole PlayStation 4\nKonsole Xbox One\nKonsole Nintendo Switch\nPrzejdź do Konsole i automaty\nAGD małe\nEkspresy do kawy\nOdkurzacze\nDo kuchni\nMaszyny do szycia\nPrzejdź do AGD małe\nAGD\nLodówki\nPralki\nZmywarki\nKuchenki mikrofalowe\nPrzejdź do AGD\nAGD do zabudowy\nPiekarniki do zabudowy\nZmywarki do zabudowy\nOkapy\nPłyty grzewcze\nPrzejdź do AGD do zabudowy\nPrzejdź do Elektronika\nModa\nBiżuteria damska\nBransoletki\nKorale\nKoczyki\nNaszyjniki\nPierścionki, obrączki\nPrzejdź do Biżuteria damska\nOdzież damska\nBluzki damskie\nGarsonki i kostiumy\nGolfy damskie\nJeansy damskie\nKoszule damskie\nLegginsy\nSpódnice i spódniczki\nSukienki\nSukienki wieczorowe\nSwetry damskie\nZestawy ubrań\nPrzejdź do Odzież damska\nOdzież męska\nBluzy męskie\nGarnitury\nJeansy męskie\nKoszule męskie\nKoszulki polo\nMarynarki\nOkrycia wierzchnie\nSpodnie męskie\nT-shirty męskie\nPrzejdź do Odzież męska\nZegarki\nZegarki damskie\nZegarki męskie\nPrzejdź do Zegarki\nBagaż\nTorby podróżne\nWalizki kabinowe\nWalizki duże\nPrzejdź do Bagaż\nObuwie\nButy damskie\nButy męskie\nPrzejdź do Obuwie\nPrzejdź do Moda\nDom i Ogród\nWyposażenie\nDekoracje i ozdoby\nOzdoby świąteczne i okolicznościowe\nKwiaty i wiązanki na cmentarz\nDywany i dywaniki\nPościele i koce\nZastawa stołowa\nPrzybory kuchenne\nŚwiece\nPrzejdź do Wyposażenie\nNarzędzia\nWkrętarki\nPiły i pilarki\nSzlifierki\nSpawarki\nMłotowiertarki\nOdkurzacze przemysłowe\nPrzyrządy miernicze\nPrzejdź do Narzędzia\nOświetlenie\nLampy wiszące\nHalogeny i naświetlacze\nŹródła światła\nOprawy oświetleniowe\nPrzejdź do Oświetlenie\nMeble\nMeble do salonu\nMeble do sypialni\nMeble kuchenne\nMeble do łazienki i toalety\nPrzejdź do Meble\nBudownictwo\nOgrzewanie\nHydraulika i akcesoria\nElektryka i akcesoria\nŚciany i elewacje\nPrzejdź do Budownictwo\nOgród\nNawozy i preparaty\nBaseny i akcesoria\nMeble ogrodowe\nKosiarki traktorki\nPergole i trejaże\nDrewutnie\nFontanny ogrodowe\nPrzejdź do Ogród\nPrzejdź do Dom i Ogród\nMotoryzacja\nCzęści samochodowe\nCzęści karoserii\nOświetlenie\nSilniki i osprzęt\nUkład elektryczny, zapłon\nUkład hamulcowy\nUkład zawieszenia\nUkład wydechowy\nUkład chłodzenia\nWyposażenie wnętrza\nPrzejdź do Części samochodowe\nCzęści do maszyn\nCzęści do maszyn rolniczych\nCzęści do maszyn budowlanych\nCzęści do przyczep i naczep\nPrzejdź do Części do maszyn\nSamochody\nSamochody osobowe\nSamochody dostawcze (do 3.5 t)\nSamochody ciężarowe (pow. 3.5 t)\nInne pojazdy i łodzie\nPrzejdź do Samochody\nAkcesoria samochodowe\nBagażniki\nDywaniki\nElektronika samochodowa\nTuning wizualny\nPrzejdź do Akcesoria samochodowe\nOpony i felgi\nOpony do aut osobowych\nDo motocykli i skuterów\nFelgi aluminiowe\nPrzejdź do Opony i felgi\nWarsztat\nStoły warsztatowe\nKlucze\nNajazdy samochodowe\nPodnośniki warsztatowe\nPrzejdź do Warsztat\nMotocykle i quady\nCzęści motocyklowe\nKaski motocyklowe\nOdzież motocyklowa\nStelaże motocyklowe\nPrzejdź do Motocykle i quady\nPrzejdź do Motoryzacja\nDziecko\nZabawki\nKlocki LEGO\nLalki\nZabawki dla niemowląt\nZabawki edukacyjne\nPrzejdź do Zabawki\nOkazje, przyjęcia\nBalony\nPrzebrania dla dzieci\nPiniaty\nZaproszenia\nPrzejdź do Okazje, przyjęcia\nAkcesoria dla mamy i dziecka\nLeżaczki i huśtawki\nBramki i barierki ochronne\nLaktatory i akcesoria\nNosidełka\nPrzejdź do Akcesoria dla mamy i dziecka\nWózki dziecięce\nWózki wielofunkcyjne\nWózki spacerowe\nWózki bliźniacze\nAkcesoria do wózka\nPrzejdź do Wózki dziecięce\nArtykuły szkolne\nPlecaki szkolne\nPiórniki\nPlecaki przedszkolne\nPomoce naukowe\nZabawki ogrodowe\nDomki ogrodowe\nPlace zabaw\nTrampoliny i akcesoria\nZjeżdżalnie\nPrzejdź do Zabawki ogrodowe\nRowery i pojazdy\nGokarty\nOdzież dziecięca\nObuwie dla dzieci\nFoteliki samochodowe\nPokój dziecięcy\nPościel i kocyki\nMeble dziecięce\nLalki Rainbow High\nZdrowie i higiena\nSamochodziki\nPrzejdź do Dziecko\nZdrowie\nDermokosmetyki\nDermokosmetyki do opalania\nZestawy dermokosmetyków\nPrzejdź do Dermokosmetyki\nDomowa apteczka\nSuplementy diety\nŻywność medyczna\nPrzejdź do Domowa apteczka\nErotyka\nAkcesoria i gadżety erotyczne\nBielizna erotyczna\nFilmy erotyczne\nLalki miłości\nPrzejdź do Erotyka\nHigiena jamy ustnej\nIrygatory do zębów\nNakładki na zęby\nSzczoteczki do zębów\nWybielanie zębów\nPrzejdź do Higiena jamy ustnej\nHigiena osobista\nArtykuły higieniczne\nHigiena intymna\nNietrzymanie moczu\nPrzejdź do Higiena osobista\nKorekcja wzroku\nOkulary\nSoczewki\nPrzejdź do Korekcja wzroku\nMedycyna naturalna\nKremy i maści\nOlejki eteryczne\nProdukty konopne\nSpirulina, chlorella, algi\nWaporyzatory\nPrzejdź do Medycyna naturalna\nSprzęt i wyposażenie medyczne\nAkupresura\nFotele masujące\nGlukometry\nInhalatory\nMasażery i urządzenia masujące\nTermometry\nKule ortopedyczne\nPrzejdź do Sprzęt i wyposażenie medyczne\nZdrowie, medycyna\nMateriały higieniczne i opatrunkowe\nPrzejdź do Zdrowie\nUroda\nMakijaż\nBronzery\nCienie do powiek\nKonturówki do ust\nPodkłady do twarzy\nPomadki do ust\nSztuczne rzęsy\nPrzejdź do Makijaż\nManicure i pedicure\nLakiery hybrydowe\nTipsy\nZdobienie paznokci\nLampy UV i LED\nFrezarki do paznokci\nAkryle i żele\nOdżywki do paznokci\nPrzejdź do Manicure i pedicure\nPerfumy i wody\nZapachy dla kobiet\nZapachy dla mężczyzn\nWody toaletowe damskie\nWody toaletowe męskie\nPrzejdź do Perfumy i wody\nPielęgnacja\nKremy do twarzy\nMaseczki do twarzy\nOczyszczanie i demakijaż\nKosmetyki do opalania\nSzampony\nKoloryzacja\nPrzejdź do Pielęgnacja\nWyposażenie salonów\nSalony fryzjerskie\nSalony kosmetyczne\nSalony tatuażu\nSolaria\nPrzejdź do Wyposażenie salonów\nPrzejdź do Uroda\nKultura i Rozrywka\nKsiążki\nBiografie\nFantasy, science fiction, horror\nKryminał, sensacja, thriller\nKsiążki dla dzieci\nKomiksy\nNaukowe i popularnonaukowe\nPodręczniki szkolne\nPoradniki i albumy\nKsiążki obyczajowe\nPrzejdź do Książki\nGry\nGry na PC\nGry na konsole\nGry na PS5\nGry na Xbox Series X\nGry na PS4\nGry na Xbox One\nGry planszowe\nGry karciane\nGry strategiczne\nGry MMO (online)\nPrzejdź do Gry\nKody i doładowania\nKody do gier\nKody i doładowania na muzykę\nKarty podarunkowe\nPłatności internetowe\nPrzejdź do Kody i doładowania\nInstrumenty\nGitary i akcesoria\nInstrumenty klawiszowe\nInstrumenty perkusyjne\nInstrumenty dęte\nPrzejdź do Instrumenty\nMuzyka\nRap, hip-hop\nMetal\nRock\nPop\nPrzejdź do Muzyka\nFilmy\nFilmy sensacyjne\nFilmy dla dzieci\nDramaty\nKomedie\nPrzejdź do Filmy\nPrzejdź do Kultura i Rozrywka\nSport i Turystyka\nRowery i akcesoria\nRowery\nCzęści rowerowe\nKaski\nOdzież rowerowa\nPrzejdź do Rowery i akcesoria\nWędkarstwo\nAkcesoria wędkarskie\nWędki\nKołowrotki\nPrzynęty\nPrzejdź do Wędkarstwo\nTurystyka\nLatarki\nWalizki turystyczne\nKuchnia turystyczna\nNamioty\nPrzejdź do Turystyka\nBieganie\nOdzież do biegania\nButy do biegania\nSłuchawki do biegania\nEtui i opaski na ramię do biegania\nPrzejdź do Bieganie\nMilitaria\nWiatrówki\nASG\nPlecaki taktyczne\nOptyka myśliwska\nPrzejdź do Militaria\nSkating, slackline\nElektronika sportowa\nSporty walki\nSporty ekstremalne\nSporty wodne\nSporty drużynowe\nSporty towarzyskie\nTenis i pokrewne\nOdzież turystyczna\nPrzejdź do Sport i Turystyka\nKolekcje i Sztuka\nDesign i antyki\nMeble antyczne\nPorcelana antyczna\nCeramika antyczna\nSzkło\nSrebra\nBiżuteria\nZegary i zegarki\nZabytki techniki\nAntykwariat\nPrzejdź do Design i antyki\nKolekcje\nNumizmatyka\nFilatelistyka\nMilitaria kolekcjonerskie\nModelarstwo\nPieniądz papierowy\nPamiątki PRL-u\nPrzejdź do Kolekcje\nHobby i rękodzieło\nBiżuteria-półprodukty\nSzycie\nDziewiarstwo\nDecoupage\nScrapbooking\nMasy do modelowania\nKartki i zaproszenia\nPrzejdź do Hobby i rękodzieło\nSztuka\nMalarstwo\nRzeźba\nGrafika\nFotografia\nPlakat\nPrzejdź do Sztuka\nPrzejdź do Kolekcje i Sztuka\nNieruchomości\nMieszkania\nMieszkania do wynajęcia\nMieszkania na sprzedaż\nPokoje\nPokoje do wynajęcia\nDziałki\nDziałki do wynajęcia\nDziałki na sprzedaż\nMagazyny\nMagazyny i hale do wynajęcia\nMagazyny i hale na sprzedaż\nDomy\nDomy do wynajęcia\nDomy na sprzedaż\nLokale i obiekty użytkowe\nLokale i obiekty użytkowe do wynajęcia\nLokale i obiekty użytkowe na sprzedaż\nGaraże\nGaraże i miejsca postojowe do wynajęcia\nGaraże na sprzedaż\nPrzejdź do Nieruchomości\nFirma i usługi\nBiuro i reklama\nŻywe zwierzęta\nGryzonie\nKonie i kuce\nKoty\nKróliki\nPsy\nPrzejdź do Żywe zwierzęta\nPtaki\nDrób, Kury ozdobne\nPtaki egzotyczne\nPrzejdź do Ptaki\nGołębie\nGołębie ozdobne\nGołębie pocztowe\nPrzejdź do Gołębie\nPrzemysł\nArtykuły pogrzebowe\nBudownictwo przemysłowe\nGastronomia\nMagnesy neodymowe\nMaszyny i urządzenia\nMateriały i akcesoria\nOdzież robocza\nOferty hurtowe\nPielęgnacja zieleni miejskiej\nPoligrafia\nProfesjonalne urządzenia czyszczące\nPrzemysł energetyczny\nRecykling i wywóz śmieci\nSklep i magazyn\nSłużby bezpieczeństwa publicznego\nWyposażenie pomieszczeń\nPrzejdź do Przemysł\nRolnictwo\nAkcesoria i preparaty rolnicze\nHodowla\nUprawa\nUrządzenia rolnicze\nWyposażenie pomieszczeń\nPrzejdź do Rolnictwo\nPrzejdź do Firma i usługi\nFraza wyszukiwania\nszukaj\nMiasto\nszukaj\nś\nZaloguj kontem Allegro\nWystaw\nWystaw\nSzukasz\nkoparka kryptowalut\n207\nogłoszeń\nPolub wyszukiwanie\nFiltruj\nSortuj od:\nnajnowszych\nnajtańszych\nnajdroższych\nnajbliższych\nFiltruj wyniki\nKategorie\nElektronika\n206\nFirma i usługi\n1\nFiltry\nWyczyść\nOferty\nNowość!\nz Allegro\nIkona:\nIlość ofert dla tej wartości filtra:\n27\nz Allegro Lokalnie\nIkona:\nIlość ofert dla tej wartości filtra:\n180\nLokalizacja\nMiejscowość\nSortuj:\nnajnowszych\nnajtańszych\nnajdroższych\nnajbliższych\nDarmowa dostawa\nAllegro\nTyp oferty\nKup teraz\nIlość ofert dla tej wartości filtra:\n122\nOgłoszenie\nIlość ofert dla tej wartości filtra:\n84\nLicytacja\nIlość ofert dla tej wartości filtra:\n1\nStan przedmiotu\nZe śladami użytkowania\nIlość ofert dla tej wartości filtra:\n36\nBardzo dobry\nIlość ofert dla tej wartości filtra:\n97\nNowy\nIlość ofert dla tej wartości filtra:\n74\nCena\nOd:\nzł\n–\nDo:\nzł\nPokaż wyniki\nWidok listy\nWidok siatki\nSortuj od:\nnajnowszych\nnajtańszych\nnajdroższych\nnajbliższych\nWybierz stronę:\nz 4\nNastępna strona\nOgłoszenia promowane\nPromowane\nBitaxe koparka kryptowalut | LOTERIA | Wykop Bitcoin BTC\nKup teraz\n469\nzł\nSTAN: NOWY\nSprzedający: osoba prywatna\nKatowice, Katowice\nOgłoszenia\nKoparka kryptowalut RX 570 4Gb\nProducent:\nnieznany producent\nModel karty graficznej:\nRX 570 4GB XFX\nLiczba zainstalowanych kart graficznych:\n6\noferta z\nallegro\n2 400\nzł\nSprzedający: osoba prywatna\nPiekary Śląskie\nKoparka kryptowalut RX 570 4GB|ŻET Technologies\nProducent:\nnieznany producent\nModel karty graficznej:\nRX 570 4GB XFX\nLiczba zainstalowanych kart graficznych:\n6\naukcja z\nallegro\n2 300\nzł\nSprzedający: osoba prywatna\nPiekary Śląskie\nOBUDOWA KOPARKI KRYPTOWALUT 2xPSU_6-12xGPU\nProducent:\nnieznany producent\nSzerokość produktu:\n73 cm\nWysokość produktu:\n40 cm\nGłębokość produktu:\n30 cm\noferta z\nallegro\n410\nzł\nSprzedający: osoba prywatna\nBielsko-biała\nOBUDOWA KOPARKI KRYPTOWALUT 2xPSU_12-16xGPU\nProducent:\nnieznany producent\nSzerokość produktu:\n73 cm\nWysokość produktu:\n40 cm\nGłębokość produktu:\n30 cm\noferta z\nallegro\n460\nzł\nSprzedający: osoba prywatna\nBielsko-biała\nOBUDOWA KOPARKI KRYPTOWALUT STELAŻ 2xPSU_6xGPU\nProducent:\nnieznany producent\nSzerokość produktu:\n73 cm\nWysokość produktu:\n40 cm\nGłębokość produktu:\n30 cm\noferta z\nallegro\n350\nzł\nSprzedający: osoba prywatna\nBielsko-biała\nOBUDOWA KOPARKI KRYPTOWALUT STELAŻ 2xPSU_6xGPU\nProducent:\nnieznany producent\nSzerokość produktu:\n73 cm\nWysokość produktu:\n40 cm\nGłębokość produktu:\n30 cm\noferta z\nallegro\n350\nzł\nSprzedający: osoba prywatna\nBielsko-biała\nOBUDOWA KOPARKI KRYPTOWALUT STELAŻ 1xPSU_8xGPU\nProducent:\nnieznany producent\nSzerokość produktu:\n73 cm\nWysokość produktu:\n40 cm\nGłębokość produktu:\n30 cm\noferta z\nallegro\n350\nzł\nSprzedający: osoba prywatna\nBielsko-biała\nOBUDOWA KOPARKI KRYPTOWALUT STELAŻ 2xPSU_6xGPU\nProducent:\nnieznany producent\nSzerokość produktu:\n90 cm\nWysokość produktu:\n40 cm\nGłębokość produktu:\n30 cm\noferta z\nallegro\n310\nzł\nSprzedający: osoba prywatna\nBielsko-biała\nOBUDOWA KOPARKI KRYPTOWALUT STELAŻ 2xPSU_8xGPU\nProducent:\nnieznany producent\nSzerokość produktu:\n90 cm\nWysokość produktu:\n40 cm\nGłębokość produktu:\n30 cm\noferta z\nallegro\n350\nzł\nSprzedający: osoba prywatna\nBielsko-biała\nOBUDOWA KOPARKI KRYPTOWALUT STELAŻ 2xPSU_6xGPU\nProducent:\nnieznany producent\nSzerokość produktu:\n90 cm\nWysokość produktu:\n40 cm\nGłębokość produktu:\n30 cm\noferta z\nallegro\n350\nzł\nSprzedający: osoba prywatna\nBielsko-biała\nOBUDOWA KOPARKI KRYPTOWALUT STELAŻ 2xPSU_7xGPU\nProducent:\nnieznany producent\nSzerokość produktu:\n90 cm\nWysokość produktu:\n40 cm\nGłębokość produktu:\n30 cm\noferta z\nallegro\n350\nzł\nSprzedający: osoba prywatna\nBielsko-biała\nOBUDOWA KOPARKI KRYPTOWALUT 2xPSU_10-12xGPU\nProducent:\nnieznany producent\nSzerokość produktu:\n90 cm\nWysokość produktu:\n40 cm\nGłębokość produktu:\n30 cm\noferta z\nallegro\n430\nzł\nSprzedający: osoba prywatna\nBielsko-biała\nOBUDOWA KOPARKI KRYPTOWALUT 2xPSU_8-10xGPU\nProducent:\nnieznany producent\nSzerokość produktu:\n90 cm\nWysokość produktu:\n40 cm\nGłębokość produktu:\n30 cm\noferta z\nallegro\n430\nzł\nSprzedający: osoba prywatna\nBielsko-biała\nStelaż do koparki kryptowalut\nProducent:\nnieznany producent\nZawiera baterie:\nnie\nKonstrukcja:\notwory montażowe\nSzerokość produktu:\n54 cm\nKup teraz\n100\nzł\nCzęsto sprzedaje\nSprzedający: osoba prywatna\nWręczyca Wielka\nKoparka kryptowalut Whatsminer M60s++ 202 TH\nProducent:\nnieznany producent\nStan opakowania:\noryginalne\nModel karty graficznej:\n146Th\nModel procesora:\nWhatsminer m60s++\noferta z\nallegro\n19 700\nzł\nSprzedający: osoba prywatna\nWarszawa\nKoparka kryptowalut Whatsminer M50S 128 T/H\nProducent:\nnieznany producent\nModel karty graficznej:\n128Th\nModel procesora:\nWhatsminer m50s\nLiczba zainstalowanych kart graficznych:\n3\noferta z\nallegro\n8 200\nzł\nSprzedający: osoba prywatna\nWarszawa\nKoparka kryptowalut Whatsminer M50S++ 158 TH\nProducent:\nnieznany producent\nModel karty graficznej:\n146Th\nModel procesora:\nWhatsminer m50s++\nLiczba zainstalowanych kart graficznych:\n3\noferta z\nallegro\n10 350\nzł\nSprzedający: osoba prywatna\nWarszawa\nKoparka kryptowalut Whatsminer M50S+ 146 TH\nProducent:\nnieznany producent\nModel karty graficznej:\n146Th\nModel procesora:\nWhatsminer m50s+\nLiczba zainstalowanych kart graficznych:\n3\noferta z\nallegro\n9 500\nzł\nSprzedający: osoba prywatna\nWarszawa\nKoparka kryptowalut Whatsminer M60s 188 TH\nProducent:\nnieznany producent\nModel karty graficznej:\n146Th\nModel procesora:\nWhatsminer m60s\nLiczba zainstalowanych kart graficznych:\n3\noferta z\nallegro\n15 100\nzł\nSprzedający: osoba prywatna\nWarszawa\nKoparka kryptowalut Whatsminer M60 172 TH\nProducent:\nnieznany producent\nModel karty graficznej:\n146Th\nModel procesora:\nWhatsminer m60\nLiczba zainstalowanych kart graficznych:\n3\noferta z\nallegro\n13 200\nzł\nSprzedający: osoba prywatna\nWarszawa\nKoparka kryptowalut iceriver ks0\nStan opakowania:\nzastępcze\nProducent:\nnieznany producent\nModel karty graficznej:\nIceriver ks0\nLiczba zainstalowanych kart graficznych:\n1\noferta z\nallegro\n250\nzł\nSprzedający: osoba prywatna\nMrągowo\nKoparka kryptowalut RX 570 4GB|ŻET Technologies\nProducent:\nnieznany producent\nModel karty graficznej:\nRX 570 4GB XFX\nLiczba zainstalowanych kart graficznych:\n6\noferta z\nallegro\n2 400\nzł\nSprzedający: osoba prywatna\nPiekary Śląskie\nKoparka kryptowalut Bitmain Antminer S3 - vintage ;-)\n-14%\n350\n,00 zł\nKup teraz\n300\nzł\nCzęsto sprzedaje\nSprzedający: osoba prywatna\nOstrówek\nBITMAIN koparka kryptowalut ASIC + zasialcz APW3++ 1600 W  pod fotowoltaikę\nProducent:\nBITMAIN\n700\n,00 zł\ndo negocjacji\nKup teraz\n650\nzł\nCzęsto sprzedaje\nSprzedający: osoba prywatna\nOstrówek\nKoparka kryptowalut Whatsminer M50 110 Th\nProducent:\nnieznany producent\nModel karty graficznej:\nWhatsminer M50\nModel procesora:\nWhatsminer M50\nLiczba zainstalowanych kart graficznych:\n1\noferta z\nallegro\n5 400\nzł\nSprzedający: osoba prywatna\nWarszawa\nKoparka kryptowalut RX 570 4GB|ŻET Technologies\nProducent:\nnieznany producent\nModel karty graficznej:\nRX 570 4GB XFX\nLiczba zainstalowanych kart graficznych:\n6\noferta z\nallegro\n2 300\nzł\nSprzedający: osoba prywatna\nPiekary Śląskie\nPłyt główna koparki kryptowalut Asus B250 Mining Expert / 19 GPU / CPU\nLiczba slotów pamięci RAM:\n2\nProducent:\nASUS\nObsługiwane procesory:\nIntel\nTyp obsługiwanej pamięci:\nDDR4\nLicytacja\n149\n,99\nzł\n0 osób licytuje\nCzęsto sprzedaje\nSprzedający: osoba prywatna\nWarszawa\nWentylator dla koparki kryptowalut Antminer S9 T9 D3 Z9 mini  12v 2.7A\nLiczba zainstalowanych kart graficznych:\n0\nKup teraz\n45\nzł\nCzęsto sprzedaje\nSprzedający: osoba prywatna\nKaniów\nWentylator dla koparki kryptowalut Antminer S9 T9 D3 Z9 mini  12v 2.3A\nLiczba zainstalowanych kart graficznych:\n0\nKup teraz\n45\nzł\nCzęsto sprzedaje\nSprzedający: osoba prywatna\nKaniów\nKoparka Kryptowalut 8x Sapphire RX 6600 8GB Rig GPU HiveOS Działa Używana\nLiczba zainstalowanych kart graficznych:\n8\nModel karty graficznej:\nPULSE Radeon RX 6600 8GB GDDR6\nModel procesora:\nPentium G3260 3.30 GHz LGA1150\nLiczba złącz PCIe na płycie:\n8\ndo negocjacji\nKup teraz\n6 800\nzł\nSprzedający: osoba prywatna\nBydgoszcz\nKoparka kryptowalut asic Lucky Miner LV08 5th 120w wifi firmware Bitaxe\nLiczba zainstalowanych kart graficznych:\n0\n-29%\n999\n,00 zł\nKup teraz\n700\nzł\nSprzedający: osoba prywatna\nJanów\nKoparka kryptowalut 12x RTX A2000 - Dell\nLiczba zainstalowanych kart graficznych:\n12\nModel karty graficznej:\nRTX A2000 6 GB\n-20%\n24000\n,00 zł\nOgłoszenie\n19 000\nzł\nSprzedający: osoba prywatna\nKobyłka\nRetro koparka kryptowalut Bitmain Antminer S2\n-86%\n1500\n,00 zł\nOgłoszenie\n200\nzł\nSprzedający: osoba prywatna\nWARSZAWA, Rembertów\nStelaż koparki kryptowalut na 12 GPU\nProducent:\nnieznany producent\nSzerokość produktu:\n110 cm\nKup teraz\n150\nzł\nSprzedający: osoba prywatna\nRacibórz\nASIC Bitcoin Miner Avalon Nano 3S Biały koparka kryptowalut BTC\nKup teraz\n1 050\nzł\nCzęsto sprzedaje\nSprzedający: osoba prywatna\nSiewierz\nKoparka Kryptowalut Helium Heltec Hotspot 868 Mhz\nKup teraz\n800\nzł\nCzęsto sprzedaje\nSprzedający: osoba prywatna\nOświęcim\nStelaż do koparki kryptowalut, obudowa, otwarta rama na 2 poziomy 12GPU\nSzerokość produktu:\n36 cm\nWysokość produktu:\n52 cm\nGłębokość produktu:\n52 cm\nLiczba miejsc na karty graficzne:\n12\nKup teraz\n249\n,99\nzł\nSprzedający: osoba prywatna\nMielec\nRiser 009S Plus PCI-E 1x-16x USB3.0 kopanie kryptowalut, adapter, karta GPU\nModel karty graficznej:\n009S Plus\nSzerokość produktu:\n4.3 cm\nWysokość produktu:\n12.8 cm\nGłębokość produktu:\n1.8 cm\nKup teraz\n11\n,49\nzł\nSprzedający: osoba prywatna\nMielec\nRiser V011-PRO PCI-E 1x-16x USB3.0 kopanie kryptowalut, adapter, karta GPU\nModel karty graficznej:\nV011-PRO\nSzerokość produktu:\n4.3 cm\nWysokość produktu:\n12.8 cm\nGłębokość produktu:\n1.8 cm\nKup teraz\n14\n,99\nzł\nSprzedający: osoba prywatna\nMielec\nOKAZJA ! Portfel LEDGER NANO S PLUS PORTFEL DO KRYPTOWALUT\nLiczba zainstalowanych kart graficznych:\n1\nModel karty graficznej:\nLEDGER\nModel procesora:\nLEDGER\nSzerokość produktu:\n2.00 cm\nOgłoszenie\n210\nzł\nSTAN: NOWY\nSprzedający: osoba prywatna\nŚwiętochłowice\n5 Koparek do kryptowalut Antminer S19k Pro\n-20%\n29000\n,00 zł\ndo negocjacji\nOgłoszenie\n23 000\nzł\nSprzedający: osoba prywatna\nLegionowo\nSkładanie i konfigurowanie koparek kryptowalut\ndo negocjacji\nOgłoszenie\n200\nzł\nSTAN: NOWY\nSprzedający: osoba prywatna\nWarszawa\nKoparka kryptowalut IceRiver KAS KS0 pro 200GH/s 100W\nLiczba zasilaczy:\n1\nMoc zasilacza:\n120 W\nKup teraz\n500\nzł\nSprzedający: osoba prywatna\nKraków, Podgórze Duchackie\nSprzęt komputerowy, koparki kryptowalut\nKup teraz\n900\nzł\nSprzedający: osoba prywatna\nKoło\nINIBOX 850M 500 W koparka kryptowalut nowa\n12990\n,00 zł\nKup teraz\n12 300\nzł\nSTAN: NOWY\nSprzedający: osoba prywatna\nKatowice, Katowice\nKoparka kryptowalut BOBCATMINER 300 EU868\n-25%\n2000\n,00 zł\ndo negocjacji\nKup teraz\n1 500\nzł\nSTAN: NOWY\nSprzedający: osoba prywatna\nBiłgoraj\nSapphire INCA EP-10 /sewer obliczeniowy / AI / koparka kryptowalut\nProducent:\nSAPPHIRE\n-33%\n12000\n,00 zł\nKup teraz\n8 000\nzł\nCzęsto sprzedaje\nSprzedający: osoba prywatna\nPoznań\nSapphire INCA CS-14 – koparka kryptowalut / komputer obliczeniowy\nLiczba zainstalowanych kart graficznych:\n14\nModel karty graficznej:\nRX 470\n-16%\n6000\n,00 zł\nKup teraz\n5 000\nzł\nCzęsto sprzedaje\nSprzedający: osoba prywatna\nPoznań\nXT Box 400W / NOWY / Koparka kryptowalut\n-36%\n9499\n,00 zł\nKup teraz\n5 999\nzł\nSTAN: NOWY\nSprzedający: osoba prywatna\nKatowice, Katowice\nkoparka gornik kryptowalut (ALEO algorytm)\ndo negocjacji\nOgłoszenie\n2 100\nzł\nSTAN: NOWY\nSprzedający: osoba prywatna\nKętrzyn\nKoparka kryptowalut\nLiczba zainstalowanych kart graficznych:\n8\nModel karty graficznej:\nRadeon RX ...\n-20%\n2500\n,00 zł\ndo negocjacji\nOgłoszenie\n2 000\nzł\nSprzedający: osoba prywatna\nZamienie\nKoparka kryptowalut IceRiver ALEO AE2 720Mh\n-15%\n15699\n,00 zł\nKup teraz\n13 300\nzł\nSTAN: NOWY\nSprzedający: osoba prywatna\nKatowice, Katowice\nAntminer KS7 40t Kaspa koparka kryptowalut\nKup teraz\n8 999\nzł\nSTAN: NOWY\nSprzedający: osoba prywatna\nKatowice, Katowice\nKoparka kryptowalut Antminer S21XP hydro 473th\nKup teraz\n29 799\nzł\nSTAN: NOWY\nSprzedający: osoba prywatna\nKatowice, Katowice\nWhatsminer M30S++ 108th/s koparka kryptowalut bitcoin\n-42%\n3500\n,00 zł\nKup teraz\n2 000\nzł\nSTAN: NOWY\nSprzedający: osoba prywatna\nWrocław\nPłyta główna pod koparke kryptowalut\n-42%\n350\n,00 zł\nKup teraz\n200\nzł\nCzęsto sprzedaje\nSprzedający: osoba prywatna\nSzczecin, Gumieńce\nbaza koparki kryptowalut - 5x pci-e x8 - PREMIUM\nKup teraz\n999\nzł\nCzęsto sprzedaje\nSprzedający: osoba prywatna\nKraków, Nowa Huta\nObudowa koparki kryptowalut na 8 kart graficznych GPU\ndo negocjacji\nKup teraz\n550\nzł\nSprzedający: osoba prywatna\nWieliczka\nBAIKAL 900 +ZASILACZ KOPARKA KRYPTOWALUT\nKup teraz\n500\nzł\nCzęsto sprzedaje\nSprzedający: osoba prywatna\nŁobez\nPrzydatne informacje\nJak to działa\nNapisz do nas\nAllegro Gadane dla sprzedających\nAllegro Gadane dla kupujących\nMapa miejscowości\nInformacje prawne\nRegulamin\nPolityka plików \"cookies\"\nUstawienia plików \"cookies\"\nUdostępnianie lokalizacji\nInformacje dla Aktu o Usługach Cyfrowych\nPobierz aplikację\nKorzystanie z serwisu oznacza akceptację\nregulaminu\n."
+  },
+  {
+    "url": "https://phanteks.com/product/enthoo-elite-server-black/",
+    "retrieved_at": "2026-09-27T11:11:12.773030+00:00",
+    "http": "200 https://phanteks.com/product/enthoo-elite-server-black/",
+    "exit_code": 0,
+    "error": "",
+    "title": "Enthoo Elite Server | Black – Phanteks",
+    "products": [],
+    "parse_errors": [],
+    "text": "Enthoo Elite Server | Black – Phanteks\nSkip to content\nSearch for:\nToggle Navigation\nCases\nNV\nNV9 MKII\nNV7\nNV5X\nNV5S\nNV5 MKII\nEX\nEX5\nEX5-Plus\nEX5-Max\nEnthoo\nElite Server\nElite\n719\nPro II | Server V2\nPro II | Server Edition\nPro II\nPro\nEvolv\nX2 Matrix\nX2\nS2\nShift XT\nEclipse\nP600S\nG500A\nG400A\nG370A\nXT\nXT M5\nXT V5\nV5-LCD\nM3\nV3\nView Matrix\nView\nPro Ultra\nPro\nPro Silent\nCooling\nFans\nT30\nD30\nM25G2\nM25\nAIO Cooling\nGlacier One S25-SE\nGlacier One M25 LCD\nGlacier One D30 X2\nGlacier One D30\nGlacier One M25G2\nAir Cooling\nPolar ST5\nPolar ST4\nCustom Cooling\nCPU\nCPU Block 450\nGPU\n4000 Series\nGPU Block – ASUS\nReservoirs\nReservoir D5 140\n120RES-DDC\nRadiators\nRadiator 360\n420 Radiator\nDistro Plates\nNV5 Distro Plate\nNV7 Distro Plate\nTubing\nHard Tube\nSoft Tube\nFittings\nM24 16mm\nPower Supplies\nAMP\nGH 1200w\nGH 1000w\nGH 850w\nGH 750w\nRevolt\nATX\n1600w\n1200w\n1000w\nSFX\n850w\nAccessories\nLighting\nNexLinq Hub\nNeon D-RGB Strips\nCase Lighting Kits\nNV9\nNV7\nNV5\nDisplay\nMatrix 600 Upgrade Kit\nHi-Res Display 5.5″\nBrackets\nPremium Vertical GPU Bracket Gen5\nNexLinq Software\nNews\nWhere To Buy\nResellers\nDistributors\nEnthoo Elite Server | Black\nSECTIONS\nOverview\nSpecifications\nSupport\nNexLinq App\nDiscover\nEnthoo Elite Server\nEngineered for extreme performance and scalability\nThe Phanteks Enthoo Elite Server redefines what a high-end server chassis can be engineered for: maximum configurability, professional reliability, and next-level cooling potential. Designed to accommodate the most demanding workstation or server builds, it offers unmatched space and precision for enthusiasts and professionals alike.\nCrafted from premium steel and aluminum, the Elite Server provides a rock-solid foundation with extensive hardware support, including SSI-EEB motherboards, dual power supplies, and 12 PCI slots. Its massive internal layout is optimized for 29 fan positions and multi-radiator compatibility, ensuring superior airflow and thermal balance even under extreme workloads.\nEvery detail is purpose-built for scalability and performance, from modular drive bays that support large storage arrays to open airflow zones designed to keep every component performing at its best. Whether you’re building a render workstation, storage server, or multi-GPU compute rig, the Enthoo Elite Server delivers the flexibility, power, and cooling capacity to make it happen.\nExtreme Full Tower for Ultimate Performance and Flexibility\nSupports a wide range of form factors including ATX, E-ATX, SSI-EEB, and SSI-CEB.\nAccommodates large radiators and multi-fan cooling setups for optimal airflow.\nAmple space for custom water-cooling loops or high-capacity storage systems.\nBuilt for Server-Grade Hardware\n12 PCI expansion slots for large GPU or add-in card arrays.\nDual PSU support for redundant or high-power configurations.\nCompatible with SSI-EEB mainboards and other workstation-grade platforms.\nSupports up to 29 fan positions across all panels for ultimate cooling coverage.\nModular Mobility Options\nShips with sturdy pre-installed feet for stable, fixed placement.\nThe included wheel kit allows effortless repositioning of the chassis.\nDesigned for flexible deployment in workstation and server environments.\nStorage\nRear Storage Bracket\nSupports 2x 2.5″ SSD drives.\nPre-installed\nBottom Storage Bracket\nSupports 8x 3.5” HDD drives\n6x HDD brackets included\nFan Positions\n4x 120 mm\n|\n3x 140 mm top fans.\n4x 120 mm\n|\n4x 140 mm front fans.\n3x 120 mm\n|\n3x 140 mm midplate fans.\n4x 120 mm\n|\n3x 140 mm bottom fans.\n2x 120 mm\n|\n2x 140 mm rear fans.\n3x 120 mm\n|\n2x 140 mm side radiator bracket fans.\n9x 120 mm side bracket fans.\nRadiator Positions\nMax. 480\n|\n420 top radiator.\nUp to 65 mm in height\nMax. 480\n|\n560 front radiator.\nMax. 360\n|\n280 midplate radiator.\nMax. 480\n|\n420 bottom radiator.\nMax. 120\n|\n140 rear radiator.\nMax. 360\n|\n280 side radiator bracket.\nSpecifications\nGeneral\nModel No.\nPH-ES916E_BK02\nUPC Code\n886523304135\nCase Dimensions\n582 x 261 x 721 mm\n|\n22.91 x 10.27 x 28.38 in\nFrom Factor\nExtreme Full-Tower\nMainboard Support\nSSI-EEB\n|\nXL-ATX\n|\nE-ATX\n|\nATX\n|\nMicro-ATX\n|\nMini-ITX\nMaterials\nSteel chassis\n|\nABS plastic\nColor\nBlack\nExpansion Slots\n12\nVertical GPU Support\nYes\nRiser cable & bracket\nsold separately\nInternal 2.5″ Positions\n2\n+ 8x 3.5″ HDD\nInternal 3.5″ Positions\n8\n+ 2x 2.5″ SSD\nFront I/O\n2x USB 2.0\n2x USB 3.0\n1x USB-C 3.2 Gen2x2\n1x Microphone\n1x Headphone\nPower button\nReset button\nFans\n120 | 140\nTotal Fans\n29\n|\n17\nTop\n4\n|\n3\nFront\n4\n|\n4\nMidplate\n3\n|\n3\nRight side\n3\n|\n2\nLeft side\n9\n|\n–\nRear\n2\n|\n2\nBottom\n4\n|\n3\nRadiator\n120 | 140\nTop\nMax. 480\n|\nMax. 420\nFront\nMax. 480\n|\nMax. 560\nMidplate\nMax. 360\n|\nMax. 280\nRight side\nMax. 360\n|\n280\nLeft side\n–\n|\n–\nRear\nMax. 120\n|\n140\nBottom\nMax. 480\n|\n420\nClearance\nCPU Cooler\nHeight\n200 mm\n|\n7.87 in\nTop Radiator\nHeight\n65 mm\n|\n2.55 in\nExtra\nNet Weight\n18.32 kg\n|\n40.38 lbs\nGross Weight\n24.25 kg\n|\n53.46 lbs\nWarranty\n5 Years Limited\nLearn more\nScope of Delivery\n1x Enthoo Elite Server chassis\n2x SSD bracket\nPre-installed\n1x Right-side fan bracket\nPre-installed\nAccessory Box\n6x HDD bracket\n4x GPU support bracket\n6x Left-side fan brackets\n4x GPU brackets\n4x Wheels\n10x Zip ties\n1x Stand-off removal tool\nScrews\n30x Mainboard\n|\nSSD screws\n8x Power supply screws\n4x GPU bracket screws\n22x Thumb screws\n24x HDD screws\n24x Case screws\n1x Mainboard stand-off\nSupport\nDocumentation\nManual\nFAQ\nD-RGB\nGeneral\nWhat is Digital-RGB?\nWhat is Digital-RGB?\nDigital-RGB means that each LED chip can be controlled individually, allowing for multiple colors and effects in a single D-RGB LED strip. While regular RGB LED strips can only show the same color on each LED chip per strip at a time. However, not every Digital-RGB (Addressable) product is the same.\nDo I need the Nexlinq App for the Matrix display?\nDo I need the Nexlinq App for the Matrix display?\nYou don’t need the Nexlinq app directly for housing your PC in the Matrix-supported cases. However, the Nexlinq app is required to set up and customize the Matrix display (system stats, animations, lighting, and custom visuals). Without the app, the Matrix screen cannot be configured and will show the text ‘Matrix 600’ or ‘Matrix 900’ depending on the Matrix display size.\nPhanteks D-RGB products\nPhanteks D-RGB products\nAre plug-and-play. No software is needed, yet it is compatible with software control through MSI or ASUS compatible motherboards if desired. Have custom developed color patterns. We believe D-RGB lighting can be stylish when having the right color/pattern settings, which is why the Phanteks D-RGB controller is pre-installed with custom selected color modes and patterns.\nHave 30 LED chips. This is a lot! Having 30 LEDs per product instead of just 8 or 12 creates a much more beautiful color gradient and higher quality lighting. This also means more color tints can be displayed simultaneously in one strip.\nWhy are Digital-RGB and RGB not compatible?\nWhy are Digital-RGB and RGB not compatible?\nDigital-RGB and RGB have a different connector. Digital-RGB uses a 3-pin connector while RGB uses a 4-pin connector. Technical explanation: Digital-RGB uses 5 Volts while RGB uses 12 Volts. Connecting Digital-RGB products and RGB products would cause damage.\nIs Digital-RGB compatible with my mainboard?\nIs Digital-RGB compatible with my mainboard?\nDigital-RGB from Phanteks is compatible with Asus Addressable-equipped motherboards and MSI Mystic Light Rainbow-equipped motherboards. Check with the Motherboard specifications if your motherboard has a ‘AURA Addressable Header’ or a ‘Mystic Light Sync Rainbow header’ with 3 pins.\nHow many D-RGB products can I connect to a compatible mainboard?\nHow many D-RGB products can I connect to a compatible mainboard?\nEach D-RGB product uses 1 Ampere. Check the power output with your motherboards specifications to determine how many D-RGB products can be powered by your mainboards. Currently mainboards support 3 Amperes.\nHow many D-RGB products can I connect to the D-RGB controller from Phanteks?\nHow many D-RGB products can I connect to the D-RGB controller from Phanteks?\nThe Phanteks D-RGB controller can support up to 7 D-RGB products when using the remote. If the D-RGB controller is connected to your motherboard a total of 9 D-RGB can be connected to the controller. A maximum of 4 D-RGB products can be connected to a single output port on the controller.\nHow do I connect my D-RGB product from Phanteks to my mainboard?\nHow do I connect my D-RGB product from Phanteks to my mainboard?\nMost of the D-RGB products and compatible mainboards include a mainboard adapter. Simply connect this mainboard adapter to the Addressable or Rainbow port on your mainboard and the Phanteks D-RGB products. D-RGB products from Phanteks can be daisy-chained so you only need one port on your motherboard. Most mainboards also include this motherboard adapter cable.\nCan I install multiple Digital-RGB controllers in my case?\nCan I install multiple Digital-RGB controllers in my case?\nYou can install as many D-RGB controllers as you would like. However they do not connect to each other. Each controller will work, and need to be controlled, individually.\nHow do I turn off the D-RGB LED’s on the Phanteks D-RGB controller?\nHow do I turn off the D-RGB LED’s on the Phanteks D-RGB controller?\nPress and hold the ‘Mode’ for 2 seconds until the LED’s turn off. When using software control please consult with the motherboard manufacturer.\nCan’t find the answer you’re looking for?\nContact us through the\nSUPPORT\nbutton in the bottom right corner of the website.\nEnthoo Series\nEnthoo Elite Server\nEngineered for extreme performance and scalability\nEnthoo Elite\nPremium production gaming enclosure\nEnthoo 719\nExtreme Workstation and Dual-system\nEnthoo Pro II | Server V2\nHigh Performance Full Tower\nEnthoo Pro II | Server Edition\nHigh Performance Full Tower\nServer Edition\nEnthoo Pro II\nExtreme Versatility and Exceptional Airflow\nEnthoo Pro\nExtreme Versatility and Exceptional Airflow\nPhanteks\nAbout us\nCareers\nNews\nWhere to buy\nProducts\nCases\nCooling\nCustom Cooling\nPower Supplies\nAccessories\nSupport\nEnd of life products\nWarranty\nFAQ\nPrivacy Policy\nCookies Policy\nPage load link\nCookie Preferences\nWe use cookies to enhance your browsing experience, analyze site traffic, and support core site functionality. By clicking “Accept,” you consent to the use of non-essential cookies. You can manage your preferences or withdraw consent at any time.\nFunctional description\nFunctional description\nAlways active\nThese cookies are necessary for the website to function and cannot be switched off. They are usually set in response to actions you take, such as setting privacy preferences, logging in, or filling out forms.\nPreferences\nPreferences\nThe technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.\nAnonymous statistics description\nAnonymous statistics description\nThe technical storage or access that is used exclusively for statistical purposes.\nThese cookies help us understand how visitors interact with our website by collecting and reporting information anonymously. They do not identify you personally.\nMarketing description\nMarketing description\nThese cookies are used to deliver advertisements that are more relevant to you and your interests. They may track your activity across different websites and devices.\nManage options\nManage services\nManage {vendor_count} vendors\nRead more about these purposes\nAccept All\nReject All\nCustomize Choices\nSave My Settings\nCustomize Choices\n{title}\n{title}\n{title}\nPrivacy Settings\nGo to Top"
+  },
+  {
+    "url": "https://allegro.pl/produkt/karta-graficzna-asus-turbo-rtx3090-24g-24-gb-979a4b37-0fd9-492f-a849-ab0deb545370",
+    "retrieved_at": "2026-09-27T11:11:29.819293+00:00",
+    "http": "000 https://allegro.pl/produkt/karta-graficzna-asus-turbo-rtx3090-24g-24-gb-979a4b37-0fd9-492f-a849-ab0deb545370",
+    "exit_code": 56,
+    "error": "curl: (56) Recv failure: Operation timed out\n",
+    "title": "",
+    "products": [],
+    "parse_errors": [],
+    "text": ""
+  },
+  {
+    "url": "https://www.net-s.pl/produkt/kingston-128gb-6000mt-s-ddr5-ecc-reg-cl32-dimm-kit-of-4-fury-renegade-pro-expo-1515972",
+    "retrieved_at": "2026-09-27T11:11:43.991663+00:00",
+    "http": "000 https://www.net-s.pl/produkt/kingston-128gb-6000mt-s-ddr5-ecc-reg-cl32-dimm-kit-of-4-fury-renegade-pro-expo-1515972",
+    "exit_code": 28,
+    "error": "curl: (28) Operation timed out after 35140 milliseconds with 0 bytes received\n",
+    "title": "",
+    "products": [],
+    "parse_errors": [],
+    "text": ""
+  }
+]

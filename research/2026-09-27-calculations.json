@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-27",
+  "fx": {
+    "EUR_PLN": "4.3750",
+    "source": "https://api.nbp.pl/api/exchangerates/rates/a/eur/2026-09-25/?format=json",
+    "effective": "2026-09-25"
+  },
+  "unit_inputs": {
+    "boardA": "4168.10",
+    "ramA": "5816.00",
+    "ramAlt": "3535.98",
+    "gpu": "30390.00",
+    "coolA": "1501.99",
+    "psu": "2407.67",
+    "fan140": "167.53",
+    "fan120": "194.36",
+    "cpuB": "2669.00",
+    "cpuB2": "3918.72",
+    "boardB": "2233.16",
+    "ramB": "9836.81",
+    "coolB": "1499.19",
+    "caseB": "1139.00",
+    "psuB2": "1100.00",
+    "ssdB": "3066.05",
+    "ssd": "4265.69",
+    "cpuA": "6421.10",
+    "caseA": "1719.97",
+    "ramA_pl": "26300.29"
+  },
+  "quantities": {
+    "A": {
+      "cpuA": 1,
+      "boardA": 1,
+      "ramA_pl": 1,
+      "gpu": 1,
+      "coolA": 1,
+      "caseA": 1,
+      "psu": 1,
+      "ssd": 2,
+      "fan140": 6,
+      "fan120": 6
+    },
+    "B1": {
+      "cpuB": 1,
+      "boardB": 1,
+      "ramB": 1,
+      "gpu": 1,
+      "coolB": 1,
+      "caseB": 1,
+      "psu": 1,
+      "ssd": 1,
+      "ssdB": 1,
+      "fan140": 8
+    }
+  },
+  "totals_product_only": {
+    "A": "83611.84",
+    "A_two_theoretical": "114001.84",
+    "A_non_gpu_reference": "53221.84",
+    "C_current": null,
+    "C_fit_validated": null,
+    "B1": "58846.81",
+    "B2": "57539.14",
+    "B1_two_theoretical": "89236.81",
+    "A_C_platform_only": "40111.45",
+    "B_platform_only": "17377.16"
+  },
+  "deltas": {
+    "A_from_Sep20": "3585.31",
+    "B1_from_Sep20": "2225.21",
+    "B2_from_Sep20": "2419.82",
+    "platform": "22734.29",
+    "premiumB1": "24765.03",
+    "premiumB2": "26072.70",
+    "cpuB2": "1249.72"
+  },
+  "limitations": [
+    "RAM A illustrative Polish VAT, no checkout or stock",
+    "CPU A 2026-08-30 historical",
+    "case A 2026-08-09 historical",
+    "all shipping unknown except GPU displayed free; sums not delivered",
+    "A board OutOfStock; RAM OutOfStock",
+    "C no qualifying pair; advertised water loop absent",
+    "SSD uses Senetic visible gross, not JSON-LD net"
+  ]
+}
