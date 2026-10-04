@@ -321,11 +321,12 @@
     "ram_anomaly_message": "THREADRIPPER TOTAL CURRENTLY DISTORTED BY RAM AVAILABILITY."
   },
   "integrated_mac_comparison": {
-    "name": "Mac Studio M5 Ultra 256GB unified-memory comparison",
+    "name": "Mac Studio M5 Ultra 96GB versus 256GB unified-memory comparison",
     "separate_from_locked_tracks": true,
-    "requested_86_core_status": "No 86-core GPU Mac Studio in Apple Poland specifications as checked 2026-10-04; do not price an invented configuration",
-    "official_configuration": "M5 Ultra 36-core CPU / 80-core GPU / 256GB unified memory",
-    "storage_baseline": "1TB SSD unless the configurator requires otherwise",
+    "user_clarification": "Compare 86GB and 256GB RAM; Apple has no 86GB option. Treat 96GB as a likely intended capacity, explicitly labelled pending confirmation.",
+    "official_96gb_configuration": "M5 Ultra 30-core CPU / 64-core GPU / 96GB unified memory / 1TB SSD; standard and Education Poland starting prices are for this exact base configuration",
+    "official_256gb_configuration": "M5 Ultra 36-core CPU / 80-core GPU / 256GB unified memory / 1TB SSD; exact configured price not verified",
+    "storage_baseline": "1TB SSD",
     "standard_url": "https://www.apple.com/pl/shop/buy-mac/mac-studio",
     "education_url": "https://www.apple.com/pl-edu/shop/buy-mac/mac-studio",
     "specifications_url": "https://www.apple.com/pl/mac-studio/specs/",

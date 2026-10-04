@@ -1,31 +1,32 @@
 {
   "observed_at": "2026-10-04",
   "region": "Poland",
-  "product": "Mac Studio with M5 Ultra",
-  "user_requested": "86 cores and 256GB",
-  "official_highest_gpu_configuration": {
-    "cpu_cores": 36,
-    "gpu_cores": 80,
-    "unified_memory_configurable_gb": 256,
-    "base_storage_tb": 1,
-    "evidence": "https://www.apple.com/pl/mac-studio/specs/",
-    "requested_86_gpu_cores": "not listed in official specifications"
-  },
-  "starting_prices_pln_not_256gb": {
-    "standard": {
-      "price": 34499,
-      "url": "https://www.apple.com/pl/shop/buy-mac/mac-studio"
+  "product": "Mac Studio M5 Ultra",
+  "clarification": "User meant 86GB and 256GB RAM variants, not 86 GPU cores. Apple does not list 86GB; 96GB is probable intended variant, awaiting confirmation.",
+  "official_specifications_url": "https://www.apple.com/pl/mac-studio/specs/",
+  "configurations": {
+    "96gb": {
+      "cpu_cores": 30,
+      "gpu_cores": 64,
+      "unified_memory_gb": 96,
+      "storage_tb": 1,
+      "standard_price_pln": 27999,
+      "education_price_pln": 25959,
+      "price_state": "starting prices for the listed base configuration"
     },
-    "education": {
-      "price": 31809,
-      "url": "https://www.apple.com/pl-edu/shop/buy-mac/mac-studio"
+    "256gb": {
+      "cpu_cores": 36,
+      "gpu_cores": 80,
+      "unified_memory_gb": 256,
+      "storage_baseline_tb": 1,
+      "standard_price_pln": "unknown",
+      "education_price_pln": "unknown",
+      "price_state": "exact configured checkout price unverified; 36/80 starting figures 34499 PLN standard and 31809 PLN education exclude the 256GB upgrade"
     }
   },
-  "exact_36_cpu_80_gpu_256gb_1tb_prices_pln": {
-    "standard": "unknown",
-    "education": "unknown"
-  },
+  "standard_url": "https://www.apple.com/pl/shop/buy-mac/mac-studio",
+  "education_url": "https://www.apple.com/pl-edu/shop/buy-mac/mac-studio",
   "education_eligibility": "not verified",
   "exact_custom_delivery": "unknown",
-  "method": "Fetched Apple's official Polish specifications and standard/Education storefront HTML; both storefronts expose the 36/80 starting prices in embedded product pricing, not a verified 256GB configured checkout price."
+  "method": "Apple official Polish specifications and standard/Education storefront HTML; the storefront exposes M5 Ultra 30/64 and 36/80 starting prices, but not the completed 256GB custom configuration."
 }
