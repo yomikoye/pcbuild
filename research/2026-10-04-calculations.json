@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-04",
+  "scope": "Illustrative product-only mixed-date baskets, NOT delivered or qualified checkout offers. Decimal arithmetic; amounts in PLN. October Morele JSON-LD merchant is NOT accepted as contracting-seller verification.",
+  "evidence": ["2026-10-04-http.json", "2026-09-27-calculations.json", "../reports/2026-09-27.md"],
+  "inputs": {
+    "A_C": [
+      {"item":"9960X","quantity":1,"unit":"6612.92","date":"2026-10-04","state":"JSON-LD only; visible seller unconfirmed"},
+      {"item":"TRX50 AI TOP","quantity":1,"unit":"4369.00","date":"2026-10-04","state":"JSON-LD InStock; visible seller and purchase controls unconfirmed"},
+      {"item":"G.Skill G5 4x32 RDIMM","quantity":1,"unit":"26300.29","date":"2026-09-27","state":"historical illustrative PL VAT; October exact listing EUR 5827 OutOfStock, no October PLN checkout conversion"},
+      {"item":"AW420","quantity":1,"unit":"1501.99","date":"2026-10-04","state":"JSON-LD only"},
+      {"item":"Enthoo Elite Server BK02","quantity":1,"unit":"1719.97","date":"2026-08-09","state":"historical exact case; October Caseking HTTP 403"},
+      {"item":"PRIME PX-2200 ATX 3.1","quantity":1,"unit":"2407.67","date":"2026-10-04","state":"JSON-LD only; EAN 4711173878414"},
+      {"item":"9100 PRO 4TB","quantity":2,"unit":"4265.69","date":"2026-09-27","state":"historical Senetic visible gross; October JSON-LD 3471.92 is NET, new gross not independently read"},
+      {"item":"NF-A14x25 G2 chromax","quantity":6,"unit":"174.94","date":"2026-10-04","state":"JSON-LD only"},
+      {"item":"NF-A12x25 G2 chromax","quantity":6,"unit":"158.53","date":"2026-10-04","state":"JSON-LD only"}
+    ],
+    "shared_gpu":{"item":"ProArt RTX 5090","quantity":1,"unit":"30390.00","date":"2026-10-04","state":"Komputronik product offer InStock; second unit unverified"},
+    "B": [
+      {"item":"9950X3D","quantity":1,"unit":"2878.00","date":"2026-10-04","state":"JSON-LD only"},
+      {"item":"X870E MASTER X3D ICE","quantity":1,"unit":"2240.63","date":"2026-10-04","state":"JSON-LD only"},
+      {"item":"Kingston Beast 2x64 UDIMM","quantity":1,"unit":"10974.88","date":"2026-10-04","state":"JSON-LD only; exact board QVL pending"},
+      {"item":"TRYX PANORAMA 360 non-ARGB white","quantity":1,"unit":"1579.73","date":"2026-10-04","state":"JSON-LD only"},
+      {"item":"HAVN HS 420 VGPU white","quantity":1,"unit":"1139.00","date":"2026-10-04","state":"JSON-LD only"},
+      {"item":"NF-A14x25 G2 chromax","quantity":8,"unit":"174.94","date":"2026-10-04","state":"JSON-LD only"},
+      {"item":"9100 PRO 4TB","quantity":1,"unit":"4265.69","date":"2026-09-27","state":"historical Senetic visible gross"},
+      {"item":"990 PRO 4TB","quantity":1,"unit":"3084.67","date":"2026-10-04","state":"KR System exact product JSON-LD"}
+    ],
+    "B1_psu":{"unit":"2407.67","date":"2026-10-04","state":"PRIME metadata; power-ready not chassis-ready"},
+    "B2_psu":{"unit":"877.31","date":"2026-10-04","state":"VERTEX GX-1200 ATX 3.0 metadata, native GPU lead unverified"}
+  },
+  "results_pln": {
+    "A_C_non_gpu_reference":"53444.04",
+    "A_one_gpu_reference":"83834.04",
+    "A_two_gpu_theoretical_reference":"114224.04",
+    "B1_reference":"60359.79",
+    "B2_reference":"58829.43",
+    "B1_two_gpu_theoretical_reference":"90749.79",
+    "A_C_platform_only_excludes_fans_gpu_storage_psu":"40504.17",
+    "B_platform_only_excludes_fans_gpu_storage_psu":"18812.24",
+    "platform_premium_pln":"21691.93",
+    "platform_premium_percent":"115.30",
+    "A_vs_B1_pln":"23474.25",
+    "A_vs_B1_percent":"38.89",
+    "A_vs_B2_pln":"25004.61",
+    "A_vs_B2_percent":"42.50",
+    "9950X3D2_metadata_price":"4040.48",
+    "9950X3D2_metadata_premium_pln":"1162.48",
+    "9950X3D2_metadata_premium_percent":"40.39"
+  },
+  "comparability": "All numbers are reference calculations, not October qualifying current delivered totals. Track C installed, fit-validated and saving calculations undefined because no matched purchase-qualified pair; do not add 13150 PLN water bundle to a complete-system total. Historic Aug rows for Senetic JSON-LD net and product-only delivered values are not overwritten. October vs September changes compare heterogeneous references, not verified landed prices."
+}

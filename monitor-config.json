@@ -320,6 +320,18 @@
     },
     "ram_anomaly_message": "THREADRIPPER TOTAL CURRENTLY DISTORTED BY RAM AVAILABILITY."
   },
+  "integrated_mac_comparison": {
+    "name": "Mac Studio M5 Ultra 256GB unified-memory comparison",
+    "separate_from_locked_tracks": true,
+    "requested_86_core_status": "No 86-core GPU Mac Studio in Apple Poland specifications as checked 2026-10-04; do not price an invented configuration",
+    "official_configuration": "M5 Ultra 36-core CPU / 80-core GPU / 256GB unified memory",
+    "storage_baseline": "1TB SSD unless the configurator requires otherwise",
+    "standard_url": "https://www.apple.com/pl/shop/buy-mac/mac-studio",
+    "education_url": "https://www.apple.com/pl-edu/shop/buy-mac/mac-studio",
+    "specifications_url": "https://www.apple.com/pl/mac-studio/specs/",
+    "pricing_rule": "Record standard and Education Poland prices for exact 36/80/256GB configuration separately; starting prices for 36/80 do not include the 256GB upgrade. If exact configured checkout price cannot be verified, mark unknown, never substitute base price.",
+    "comparison_rule": "Integrated unified memory is not NVIDIA CUDA VRAM. Compare model fit, MLX/Metal support, GPU throughput and software availability separately; do not insert Mac into A/B/C parts totals or call 256GB all GPU-usable."
+  },
   "optional_gpu_watch": [
     "AMD Radeon AI PRO R9700 32GB",
     "AMD Radeon PRO W7900 48GB",

@@ -2,11 +2,36 @@
 
 Weekly Poland/EU price, availability, warranty, RMA and compatibility monitoring through Black Friday 2026. All locked builds use **128GB RAM**: Track A is Threadripper/RTX 5090, Track B is AM5/RTX 5090, and Track C inherits Track A’s complete Threadripper platform with two matching used RTX 3090 24GB cards.
 
-Latest report: **[2026-09-27](reports/2026-09-27.md)**
+Latest report: **[2026-10-04](reports/2026-10-04.md)**; [dated arithmetic](research/2026-10-04-calculations.json), [HTTP captures](research/2026-10-04-http.json).
 
-All tracks: WAIT. A **[83,611.84 PLN incomplete](reports/2026-09-27.md)**, B1 **[58,846.81 PLN provisional](reports/2026-09-27.md)**, B2 **[57,539.14 PLN provisional](reports/2026-09-27.md)**, C **[incomplete](reports/2026-09-27.md)**. Sums are product-only, not delivered. A board and RAM unavailable; CPU/case references dated; C has no qualified pair. September 6/13 missing, not unchanged. Older historical Senetic net/delivered-field weaknesses remain disclosed in the report.
+All tracks: **WAIT**. Oct 4 A **[83,834.04 PLN mixed-date illustrative/incomplete](reports/2026-10-04.md)**; B1 **[60,359.79 PLN illustrative/incomplete](reports/2026-10-04.md)**; B2 **[58,829.43 PLN illustrative/incomplete](reports/2026-10-04.md)**; C **[incomplete](reports/2026-10-04.md)**. These are **not delivered, fully purchasable or verified seller/checkout offers**. A RAM is unavailable, A case dated/blocked, and C has no purchase-qualified matching pair. TRX50 board Oct InStock **metadata** is not a confirmed direct-seller restock. October Morele JSON-LD seller fields do not establish the visible contracting seller; Senetic October structured SSD price is net. The historical tables below intentionally stop Sep 27 and must not be read as current prices. Sep 6/13 missing, not unchanged. Older historical Senetic net/delivered-field weaknesses remain disclosed.
 
-## Track A — Threadripper workstation, 128GB
+## Separate Apple Mac Studio comparison (not a fourth PC parts basket)
+
+Requested “86 and 256GB”: [Apple Poland specifications](https://www.apple.com/pl/mac-studio/specs/) list **M5 Ultra 36-core CPU / 80-core GPU / 256GB configurable unified memory**, not an 86-core GPU option. The [standard Poland store](https://www.apple.com/pl/shop/buy-mac/mac-studio) shows the 36/80 model **from 34,499 PLN** and [Apple Education Poland](https://www.apple.com/pl-edu/shop/buy-mac/mac-studio) **from 31,809 PLN**. **Neither starting figure includes a verified 256GB upgrade price.** Exact 36/80/256GB standard and education checkout totals, education eligibility and delivery remain unknown. [Oct 4 comparison and CUDA/MLX distinction](reports/2026-10-04.md). This integrated 256GB unified-memory alternative does not change the locked 128GB A/B/C builds or their totals.
+
+## October 4 current evidence matrix — exact SKUs, unqualified leads and references
+
+All PLN figures below are **product-only**. Morele JSON-LD amounts have **unverified visible contracting seller/cart/delivery**; none is a qualified purchase offer. The explicitly historical entries are retained solely for basket illustration. C inherits all A non-GPU entries. Click a figure for the product page; see the [Oct 4 report](reports/2026-10-04.md) for individual evidence classes and gates.
+
+| Component | A (C inherits except GPU) | B |
+|---|---|---|
+| CPU | [9960X 6,612.92 PLN metadata](https://www.morele.net/procesor-amd-ryzen-threadripper-9960x-4-2-ghz-128-mb-box-100-100001595wof-15415332/) | [9950X3D 2,878 PLN metadata](https://www.morele.net/procesor-amd-ryzen-9-9950x3d-4-3-ghz-128-mb-box-100-100000719wof-14743984/) |
+| Board | [TRX50 AI TOP 4,369 PLN metadata InStock, seller unknown](https://www.morele.net/plyta-glowna-gigabyte-trx50-ai-top-13812451/) | [X870E MASTER X3D ICE 2,240.63 PLN metadata](https://www.morele.net/plyta-glowna-gigabyte-x870e-aorus-master-x3d-ice-15566741/) |
+| Factory RAM 128GB | [G5 4x32 26,300.29 PLN Sep 27 PL-VAT reference; Oct EUR 5,827 out of stock](https://www.alternate.de/G-Skill/RIMM-128-GB-DDR5-6000-4x-32-GB-Quad-Kit-ECC-Arbeitsspeicher/html/product/100130582) | [Beast 2x64 10,974.88 PLN metadata; QVL pending](https://www.morele.net/pamiec-kingston-fury-beast-ddr5-128gb-5600mt-s-cl40-czarny-kf556c40bbk2-128-15245805/) |
+| RTX 5090 | [one ProArt 30,390 PLN](https://www.komputronik.pl/product/1013522/asus-geforce-rtx-5090-proart-oc-32gb-dlss-4.html) | [one ProArt 30,390 PLN](https://www.komputronik.pl/product/1013522/asus-geforce-rtx-5090-proart-oc-32gb-dlss-4.html) |
+| Cooler | [AW420 1,501.99 PLN metadata](https://www.morele.net/chlodzenie-wodne-thermaltake-aio-aw420-cl-w445-pl14bl-a-15342140/) | [TRYX PANORAMA 1,579.73 PLN metadata](https://www.morele.net/chlodzenie-wodne-jetworld-tryx-panorama-360-aio-l-p360n-ds3m-g1w-14962229/) |
+| Case | [Enthoo Elite Server BK02 1,719.97 PLN Aug 9 reference; Oct 403](https://www.caseking.de/en/phanteks-enthoo-elite-server-pc-case-big-tower-ssi-eeb-and-multi-gpu-black/GEPH-222.html) | [HAVN VGPU white 1,139 PLN metadata](https://www.morele.net/obudowa-havn-hs-420-vgpu-biala-hvn-ca-hs420-07-14454524/) |
+| PSU | [PRIME PX-2200 ATX 3.1 2,407.67 PLN metadata](https://www.morele.net/zasilacz-seasonic-prime-px-atx-3-2200w-prime-px-2200-atx30-14499536/) | B1 [PRIME 2,407.67 PLN metadata](https://www.morele.net/zasilacz-seasonic-prime-px-atx-3-2200w-prime-px-2200-atx30-14499536/); B2 [VERTEX GX-1200 ATX 3.0 877.31 PLN metadata](https://www.morele.net/zasilacz-seasonic-vertex-gx-1200w-vertex-gx-1200-13040437/) |
+| Storage | [2x9100 PRO 8,531.38 PLN Sep 27 gross reference](https://www.senetic.pl/product/MZ-VAP4T0BW); Oct JSON-LD net excluded | [9100 PRO 4,265.69 PLN Sep 27 gross reference](https://www.senetic.pl/product/MZ-VAP4T0BW) + [990 PRO 3,084.67 PLN metadata](https://www.krsystem.pl/samsung_dysk_ssd_990pro_gen4.0x4_nvme_4tb_mzv9p4t0bw-item-73006.html) |
+| Fans | [6x140 1,049.64 PLN metadata](https://www.morele.net/wentylator-noctua-nf-a14x25-g2-pwm-chromax-black-15645657/) + [6x120 951.18 PLN metadata](https://www.morele.net/wentylator-noctua-nf-a12x25-g2-pwm-chromax-black-600144884/) | [8x140 1,399.52 PLN metadata](https://www.morele.net/wentylator-noctua-nf-a14x25-g2-pwm-chromax-black-15645657/) |
+| Platform CPU/board/RAM/cooler/case | **[40,504.17 PLN mixed-date](reports/2026-10-04.md)** | **[18,812.24 PLN mixed-date](reports/2026-10-04.md)** |
+| One GPU illustrative total | **[83,834.04 PLN incomplete](reports/2026-10-04.md)** | B1 **[60,359.79 PLN incomplete](reports/2026-10-04.md)**; B2 **[58,829.43 PLN incomplete](reports/2026-10-04.md)** |
+| Two GPU hypothetical | **[114,224.04 PLN; stock/fit unverified](reports/2026-10-04.md)** | B1 **[90,749.79 PLN; stock HAVN VGPU unsuitable](reports/2026-10-04.md)**; B2 one-GPU only |
+
+**C separate GPU state:** [13,150 PLN advertised Zotac water-block pair](https://allegrolokalnie.pl/oferta/zestaw-2x-rtx-3090-zotac-trinity-24gb-nvlink-wodne), **not purchase-qualified** (identity/serials/warranty/loop/tests unknown). Its [53,444.04 PLN non-GPU reference](reports/2026-10-04.md) inherits A. **Current installed and fit-validated C totals incomplete**; savings versus A's one/two GPU illustrations undefined. Two 24GB GPUs give 48GB *aggregate*, not one transparent 48GB pool. Exact Oct 4 [report](reports/2026-10-04.md) details SKU discovery, historical baselines, VAT, shipping and outstanding compatibility gates.
+
+## Historical matrix through September 27 (NOT current) — Track A, 128GB
 
 | Component | Qty | 2026-08-09 | 2026-08-16 | 2026-08-23 | 2026-08-30 | 2026-09-20 | 2026-09-27 |
 |---|---:|---:|---:|---:|---:|---:|---:|
@@ -24,10 +49,10 @@ All tracks: WAIT. A **[83,611.84 PLN incomplete](reports/2026-09-27.md)**, B1 **
 | **A — one-GPU total** |  | **[70,348.67 PLN](reports/2026-08-09.md)** | **[70,545.48 PLN provisional](reports/2026-08-16.md)** | **[69,881.19 PLN provisional](reports/2026-08-23.md)** | **[70,312.19 PLN provisional](reports/2026-08-30.md)** | **[80,026.53 PLN; incomplete](reports/2026-09-20.md)** | **[83,611.84 PLN; incomplete/provisional](reports/2026-09-27.md)** |
 | **A — theoretical two-GPU total** |  | **[91,347.67 PLN](reports/2026-08-09.md)** | **[91,544.48 PLN provisional](reports/2026-08-16.md)** | **[90,880.19 PLN provisional](reports/2026-08-23.md)** | **[91,311.19 PLN provisional](reports/2026-08-30.md)** | **[108,516.53 PLN; quantity two unverified](reports/2026-09-20.md)** | **[114,001.84 PLN; incomplete/provisional](reports/2026-09-27.md)** |
 
-**THREADRIPPER TOTAL CURRENTLY DISTORTED BY RAM AVAILABILITY.** The Kingston value kit remains out of stock and pending exact-board validation; the selected TRX50 AI TOP is also out of stock; 256GB is future-only and excluded.
+**September 27 historical state:** THREADRIPPER TOTAL CURRENTLY DISTORTED BY RAM AVAILABILITY. At that observation the Kingston value kit and TRX50 board were out of stock; Oct 4 board metadata says InStock but its contracting seller/cart remains unverified. 256GB future-only.
 ## Track C — Threadripper dual-used-RTX-3090, 128GB
 
-Track C inherits every Track A non-GPU component and price. Current non-GPU subtotal **[53,221.84 PLN](reports/2026-09-27.md)** is a mixed-date reference, not a fully purchasable platform. Its 48GB is aggregate physical VRAM across two separate devices, not one transparent 48GB GPU.
+**September 27 state:** Track C inherits every Track A non-GPU component. Its then non-GPU subtotal **[53,221.84 PLN](reports/2026-09-27.md)** was a mixed-date reference, not a fully purchasable platform; Oct 4 reference is [53,444.04 PLN](reports/2026-10-04.md). Its 48GB is aggregate physical VRAM across two separate devices, not one transparent 48GB GPU.
 
 | Component / state | Qty | 2026-08-23 | 2026-08-30 | 2026-09-20 | 2026-09-27 |
 |---|---:|---:|---:|---:|---:|
@@ -62,7 +87,7 @@ The current excerpt does not provide serial-linked tests, excludes a priced full
 | **B1 — theoretical two-GPU hardware** |  | **[68,195.41 PLN](reports/2026-08-09.md)** | **[69,339.64 PLN](reports/2026-08-16.md)** | **[69,001.29 PLN](reports/2026-08-23.md)** | **[69,315.17 PLN; chassis conversion required](reports/2026-08-30.md)** | **[85,111.60 PLN; chassis conversion unpriced](reports/2026-09-20.md)** | **[89,236.81 PLN; incomplete/provisional](reports/2026-09-27.md)** |
 
 B1 is power-ready, not stock-layout chassis-ready. Remove the HAVN VGPU assembly for two horizontal cards; two ProArts are not an airflow-safe default.
-## Current **2026-09-27** direct-linked component matrix; A/C reference prices explicitly labelled:
+## Historical **2026-09-27** direct-linked component matrix (NOT current; see October matrix above):
 
 | Metric | Track A | Track C (inherits A) | Track B |
 |---|---|---|---|
