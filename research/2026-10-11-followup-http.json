@@ -1,0 +1,324 @@
+[
+  {
+    "url": "https://api.nbp.pl/api/exchangerates/rates/a/eur/2026-10-09/?format=json",
+    "retrieved_at": "2026-10-11T11:28:09.446740+00:00",
+    "http": "200 https://api.nbp.pl/api/exchangerates/rates/a/eur/2026-10-09/?format=json",
+    "exit_code": 0,
+    "error": "",
+    "title": "",
+    "products": [],
+    "parse_errors": [],
+    "text": "{\"table\":\"A\",\"currency\":\"euro\",\"code\":\"EUR\",\"rates\":[{\"no\":\"197/A/NBP/2026\",\"effectiveDate\":\"2026-10-09\",\"mid\":4.3775}]}"
+  },
+  {
+    "url": "https://www.kingston.com/pl/memory/search?partid=KF556C40BBK2-128",
+    "retrieved_at": "2026-10-11T11:28:09.468995+00:00",
+    "http": "403 https://www.kingston.com/pl/memory/search?partid=KF556C40BBK2-128",
+    "exit_code": 0,
+    "error": "",
+    "title": "Just a moment...",
+    "products": [],
+    "parse_errors": [],
+    "text": "Just a moment..."
+  },
+  {
+    "url": "https://www.ldlc.com/en/product/PB00756899.html",
+    "retrieved_at": "2026-10-11T11:28:09.742605+00:00",
+    "http": "200 https://www.ldlc.com/en/product/PB00756899.html",
+    "exit_code": 0,
+    "error": "",
+    "title": "Phanteks Enthoo Elite Server (Black) - PC cases - LDLC",
+    "products": [
+      {
+        "@context": "https://schema.org/",
+        "@type": "Product",
+        "name": "Phanteks Enthoo Elite Server (Black)",
+        "gtin13": "0886523304135",
+        "image": [
+          "https://media.ldlc.com/r1600/ld/products/00/06/38/32/LD0006383217.jpg",
+          "https://media.ldlc.com/r1600/ld/products/00/06/38/32/LD0006383221.jpg",
+          "https://media.ldlc.com/r1600/ld/products/00/06/38/32/LD0006383218.jpg",
+          "https://media.ldlc.com/r1600/ld/products/00/06/38/32/LD0006383219.jpg",
+          "https://media.ldlc.com/r1600/ld/products/00/06/38/32/LD0006383220.jpg"
+        ],
+        "description": "Designed for demanding workstations and servers, the Phanteks Enthoo Elite Server offers the space needed for ambitious configurations. This extra-large case accommodates SSI-EEB motherboards, up to 12 expansion cards and two power supplies.",
+        "mpn": "PH-ES916E_BK02",
+        "sku": "AR202606290043",
+        "brand": {
+          "@type": "Brand",
+          "@id": "https://www.ldlc.com/en/phanteks/bint000035444/",
+          "name": "Phanteks",
+          "url": "https://www.ldlc.com/en/phanteks/bint000035444/",
+          "logo": "https://media.ldlc.com/r1600/v3/marque/190/C000035444.gif"
+        },
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "EUR",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "price": "499.95",
+          "seller": {
+            "@type": "Organization",
+            "name": "LDLC",
+            "url": "https://www.ldlc.com/en/"
+          },
+          "url": "https://www.ldlc.com/en/product/PB00756899.html"
+        }
+      }
+    ],
+    "parse_errors": [],
+    "text": "Phanteks Enthoo Elite Server (Black) - PC cases - LDLC\nSkip to main content\nMENU\nAccount\nBasket\nAll our products\nComputing\nImage & Audio\nPhone & car device\nSecond Life\nGaming\nSmart tech\nOffice & Furniture\nPower & Cables\nPC Builder\nAll new!\nPromotions\nAbout us\nHelp Center\nBack\nBack\nComputing\nComponents\nPC peripheral\nLaptop computer\nDesktop computer\nTablet\nNetworking\nRaspberry Pi\nVirtual reality\nSoftware\nPOS equipment\nComponents\nCase\nPC power supply\nHard drive & SSD\nMotherboard\nGraphics cards\nMemory\nProcessor\nPC cooling\nOptical drive\nController card\nSound card\nTV & Capture\nPC tuning\nNetwork card\nUpgrade bundles\nCase\nPC cases\nHard drive enclosure\nBarebone PC\nPC lock\nCase accessories\nDust filter\nPC soundproofing\nPC neon\nScrewdriver\nAssembly\nInternal HDD rack\nCase fan\nRheobus\nInternal connectivity\nPC screws\nPC cases\nPhanteks Enthoo Elite Server (Black)\nPictures may differ from actual products\nPhanteks Enthoo Elite Server (Black)\nFull Tower Case\nWrite a review\n499€\n95\nCreate a price drop alert\n1\n1\n2\n3\n4\n5\n6\n7\n8\n9\n+10\nMaximum quantity allowed is 100\nAdd to basket\nBuy now\n499€\n95\nAdd to basket\nIn\nstock\nBuild a PC with this product\nGo\n›\nLogistics information\nOverview\nSpecifications\nCustomer review\nOverview\nRoom for your most ambitious projects\nDesigned for\ndemanding workstations and servers\n, the\nPhanteks Enthoo Elite Server\noffers the space needed for ambitious configurations. This\nextra-large case\naccommodates\nSSI-EEB motherboards\n, up to\n12 expansion cards and two power supplies\n. Its steel construction and spacious interior make it suitable for everything from a rendering workstation to a storage server or a multi-GPU computing system. With extensive air-cooling and liquid-cooling options, it gives every component the space it needs to operate under heavy loads.\nCooling designed to grow with your system\nThe\nEnthoo Elite Server\noffers multiple mounting options to tailor cooling to your hardware:\nup to 29 120 mm fan mounts\n, distributed across the front, top, bottom, rear and side areas. Liquid-cooling enthusiasts have several radiator mounting options, with support for radiators up to 560 mm at the front. This flexible layout makes it easy to design a custom loop and adapt the configuration as your needs change.\nModular design down to the details\nThe storage mounts allow you to install\nup to eight 3.5-inch hard drives and two 2.5-inch SSDs\n; six hard drive mounts are included. The\nincluded brackets and mounts\nalso support builds with multiple graphics cards. For installation, the case comes with\npre-installed feet\nfor a fixed position and a\nset of wheels\nfor easy movement. Its front-panel connectivity, including a USB-C 3.1 port, rounds out a design made to be practical for everyday use.\nKey features:\nFull tower case\nMotherboard compatibility:\nMini-ITX, Micro-ATX, ATX, E-ATX, XL-ATX, SSI-EEB\nExpansion: 12 PCI slots\nSupports two power supplies\nStorage: up to 8 3.5-inch drives and 2 2.5-inch SSDs\n6 HDD mounts included\nCooling: up to 29 120 mm fans or 17 140 mm fans\nRadiators: up to 560 mm at the front, 480 mm at the top and 480 mm in the bottom section\nCPU cooler clearance: up to 200 mm in height\nFront-panel connectivity: 2x USB 2.0 ports, 2x USB 3.0 ports, 1x USB-C 3.1 port, microphone and headphone jacks\nDimensions: 582 x 261 x 721 mm\nNet weight: 18,32 kg\nMobility accessories: pre-installed feet and 4 included wheels\nLogistics information  :\nThis product is available in the following locations:\nFrance, Belgium, Luxembourg, Switzerland, Spain, Italy, Monaco.\nSpecifications\nSelect your criteria\nGeneral information\nProduct name\nPhanteks Enthoo Elite Server (Black)\nBrand\nPhanteks\nPhanteks\nModel\nPH-ES916E_BK02\nMain characteristics\nGraphic card max. length\n503                            mm\nMax height CPU fan\n200                            mm\nPower supply max. length\n200                            mm\nPower format\nATX/EPS\nCase format\nFull tower\nUse\nServer\nMaterial\nSteel\nMotherboard format\nXL-ATX\nSSI EEB\nMini ITX\nMicro ATX\nE-ATX\nATX\nPower supply supplied\nNo\nDesign\nScrewless fixing system\nNo\nCase color\nBlack\nFront color\nBlack\nIntegrated display\nNo\nMesh front\nYes\nGlass\nNo\nTempered glass\nNo\nFish tank (panoramic view)\nNo\nLED RGB\nNo\nARGB LED\nNo\nARGB hub included\nNo\nWater cooling compatible\nYes\nMotherboard connector location\nStandard connectors (on the motherboard)\nExpansion slots\nNumber of PCI slots\n12\nLow profile\nNo\nNumber of visible 3.5\" slots\n0\nNumber of invisible 3.5\" slots\n8\nNumber of 2.5\" slots\n2\nNumber of 2.5\"/3.5\" slots\n0\nNumber of visible 5.25\" slots\n0\nNumber of invisible 5.25\" slots\n0\nNumber of Slot-in slim 5.25'' slots\n0\nNumber of Slim 5.25'' slots\n0\nFront connectivity\nLocation of expansion ports\nTop\nConnector(s) available\n1 X\n3.5mm Jack Female Stereo\n2 X\nUSB 2.0 Type A Female\n2 X\nUSB 3.0 Type A Female\n1 X\nUSB 3.2\nCooling\nFan(s) included\nNo\nNumber of rear fan(s) slots\n2 X\n120 or 140mm\nQuantity of rear fan(s) supplied\n0\nNumber of front fan(s) slots\n4 X\n120 or 140mm\nQuantity of front fan(s) supplied\n0\nNumber of side fan(s) slots\n11 X\n120mm\n2 X\n140mm\nQuantity of side fan(s) supplied\n0\nNumber of above fan(s) slots\n3 X\n140mm\n4 X\n120mm\nQuantity of above fan(s) supplied\n0\nNumber of underneath fan(s) slots\n3 X\n140mm\n4 X\n120mm\nQuantity of underneath fan(s) supplied\n0\nWater cooling\nAIO radiator compatibility\n480mm radiator\n420mm radiator\n360mm radiator\n120mm radiator\nFront AIO slot(s)\n420mm radiator\n480mm radiator\nAbove AIO slot(s)\n360mm radiator\n420mm radiator\n480mm radiator\nSide AIO slot(s)\n280mm radiator\n360mm radiator\nRear AIO slot(s)\n120mm radiator\n140mm radiator\nPhysical characteristics\nWidth\n261                            mm\nHeight\n721                            mm\nDepth\n582                            mm\nWeight\n18.32                            kg\nVolume\n109.5                            l\nWarranties\nCommercial warranty\nSeller 2 years\nLegal warranty\nSee terms & conditions\nHarmonised legal guarantee notice\nSafety Information\nResponsible person\nPhanteks GmbH\nPostal address\nKurfürstendamm 195, 10707 Berlin, Allemagne\nElectronic Address\nsupport@phanteks.com\nSee all\nPhanteks products\nSee\nPhanteks PC cases section\nProduct referenced on\n29 Sep 2026\nCustomer review\nFor the moment, there are no customer reviews.\nWrite a review\nGive your opinion\n›\nSimilar products\nBest sellers\nOur brands\nSimilar products\nPhanteks NV5x (Black)\nPhanteks Eclipse G370A (Black)\nPhanteks XT V5-LCD (Black)\nPhanteks XT V5 (Black)\nPhanteks XT M5 (Black)\nCorsair 9000D RGB Airflow (White)\nPhanteks EX5-Plus (Black)\nPhanteks XT PRO ULTRA (Black)\nCooler Master MasterFrame 600 (Black)\nPhanteks XT View (Black)\nCooler Master MasterFrame 600 Mesh ARGB (Black)\nPhanteks Eclipse G400A (White)\nCorsair Frame 5000D Wood RS (Black/Wood)\nCorsair Frame 5000D Workstation (Black)\nBest sellers\nAerocool P500C (Black)\n87€\n95\nAerocool P500C (White)\n87€\n95\nLian Li Vector V100 (Black)\n79€\n95\nAerocool Pivot V2 (Black)\n43€\n95\nLian Li O11 Vision Compact (White)\n129€\n95\nLian Li A3-mATX (Black/Dark Wood)\n99€\n95\nLian Li O11 Dynamic Mini V2 Flow (Black)\n109€\n95\nLian Li LANCOOL 217 - Black\n139€\n95\nPhanteks EX5-Max (Black)\n229€\n95\nLian Li O11 Vision Compact (Black)\n129€\n95\nPhanteks EX5-Plus (Black)\n149€\n95\ndarkFlash M305 Mesh (black)\n39€\n95\nXigmatek Hero II Air 3F\n45€\n95\nJonsbo N4 Black\n119€\n95\nbe quiet! Pure Base 501 Airflow Window - Black\n69€\n95\nAerocool CS-111 V2 Black\n33€\n95\nbe quiet! Shadow Base 800 DX - Black\n129€\n95\nLian Li O11 Dynamic Mini V2 (Black)\n99€\n95\nJonsbo D33 Wood Black\n109€\n95\nCooler Master CMP510\n49€\n95\nPhanteks Enthoo Pro II Server Edition (black with closed panel)\n189€\n95\nOur brands\nAeroCool\nPC cases\nLian Li\nPC cases\nbe quiet!\nPC cases\nJonsbo\nPC cases\nPhanteks\nPC cases\nCorsair\nPC cases\nFractal Design\nPC cases\nAntec\nPC cases\nCooler Master\nPC cases\nXigmatek\nPC cases\nHyte\nPC cases\nDarkflash\nPC cases\nFox Spirit\nPC cases\nMSI\nPC cases\nZalman\nPC cases\nSilverStone\nPC cases\nBitFenix\nPC cases\nTextorm\nPC cases\nNZXT\nPC cases\nThermaltake\nPC cases\nASUS\nPC cases\nRazer\nPC cases\nMars Gaming\nPC cases\nChieftec\nPC cases\nHAVN\nPC cases\nTrending now:\nGaming PC case\n|\nMini PC case\n|\nMedia Center case\n|\nServer case\n|\nTransparent PC case\n|\nFish tank PC case\n|\nWhite PC case\n|\nRGB PC case\n|\nATX PC case\n|\nE-ATX PC case\n|\nMini ITX PC case\n|\nMicro ATX PC case\n|\nMini tower PC case\n|\nMid tower PC case\n|\nFull tower PC case\n|\nDesktop PC case\n|\nWater cooling PC case\nSee related product\nAn error has occured\nWe apologise for the inconvenience caused\nJoin us\nCareers\nAbout us\nAbout us\nTerms & conditions\n/\nReviews conditions\nPrivacy policy\n&\nCookies\nCookies preferences\nWebsite terms\nNeed help?\nFAQs\nDelivery\nPayment methods\nWarranty\nReturns\nContact us:\nEmail\nBy email\nWorlwide delivery\nFast home delivery all over the world\nTech advice & support\nReliable expertise to answer all your questions"
+  },
+  {
+    "url": "https://www.morele.net/karta-graficzna-asus-proart-geforce-rtx-5090-oc-32gb-gddr7-dlss4-proart-rtx5090-o32g-600147680/",
+    "retrieved_at": "2026-10-11T11:28:10.531751+00:00",
+    "http": "200 https://www.morele.net/karta-graficzna-asus-proart-geforce-rtx-5090-oc-32gb-gddr7-dlss4-proart-rtx5090-o32g-600147680/",
+    "exit_code": 0,
+    "error": "",
+    "title": "Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G) - Karta graficzna - Morele.net",
+    "products": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "productID": "600147680",
+        "name": "Karta graficzna Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G)",
+        "description": "Asus ProArt GeForce RTX 5090 OC Edition – potężna wydajność w eleganckim wydaniu Karta graficzna Asus ProArt GeForce RTX 5090 32GB GDDR7 OC Edition to przełomowa konstrukcja stworzona z myślą o najbardziej wymagających twórcach treści oraz graczach. Łączy ona w sobie bezkompromisową moc flagowego układu graficznego z niezwykle kompaktową i przemyślaną formą. Urządzenie wyróżnia się elegancką estetyką z subtelnymi złotymi akcentami oraz wykończeniem przypominającym drewno. Dzięki zaawansowanym technologiom chłodzenia karta zapewnia optymalne temperatury i stabilność nawet przy pełnym obciążeniu procesami sztucznej inteligencji. To idealny wybór do nowoczesnych stacji roboczych oraz kompaktowych komputerów. Kompaktowa konstrukcja 2.5-slotowa idealna do obudów SFF Model ten wprowadza rewolucyjną, zajmującą zaledwie 2,5 slotu konstrukcję, co jest rzadkością w segmencie tak potężnych układów. Dzięki oznaczeniu SFF-Ready karta bez problemu mieści się v mniejszych obudowach komputerowych o ograniczonej przestrzeni. Pozwala to na budowanie ultrawydajnych, a zarazem kompaktowych stacji roboczych bez konieczności rezygnacji z pełnej mocy flagowego układu graficznego. Taka budowa ułatwia również tworzenie konfiguracji wielokartowych w klasycznych obudowach typu tower. Użytkownicy zyskują ogromną elastyczność podczas projektowania swojego stanowiska pracy. Komora parowa i zastosowanie płynnego metalu dla maksymalnego chłodzenia W celu zapewnienia najwyższej efektywności termicznej producent zastosował autorską komorę parową, która bezpośrednio styka się z rdzeniem graficznym. Ciepło jest błyskawicznie przekazywane do gęstego radiatora oraz sieci rurek cieplnych za pomocą zaawansowanego technicznie płynnego metalu. Zastosowanie płynnego metalu na rdzeniu GPU pozwala na osiągnięcie niesamowitej wydajności odprowadzania ciepła i wyższych taktowań w trybie boost. Specjalna metoda produkcji gwarantuje, że substancja ta pozostaje bezpiecznie zamknięta w obszarze matrycy. Przekłada się to na stabilną i niezawodną pracę urządzenia pod najbardziej wymagającymi obciążeniami kreatywnymi. Duże wentylatory Axial-tech oraz innowacyjny backplate z podwójnym wylotem Za wymuszony obieg powietrza odpowiadają dwa duże wentylatory Axial-tech o średnicy 115 mm, które generują o 20% większy przepływ oraz ciśnienie powietrza. Współpracują one z podwójnie wentylowaną płytą tylną, która zwiększa efektywność chłodzenia o kolejne 11%. Ta nowatorska konstrukcja backplate pozwala na swobodny przepływ powietrza przez dwie strefy wentylacyjne, optymalizując temperatury wewnątrz obudowy. Dzięki temu rozwiązaniu cała karta mogła zostać zmniejszona aż o 27% w porównaniu do modeli z tradycyjnym, pojedynczym przepływem. Do dyspozycji użytkownika oddano także przełącznik Dual BIOS, umożliwiający wybór pomiędzy trybem wydajnym a cichym. Przemyślane złącze USB Type-C i rozwiązania dla wymagających twórców Karta graficzna została wyposażona w dedykowany port USB Type-C, co znacząco zwiększa wszechstronność w profesjonalnych środowiskach pracy. Złącze to pozwala na wygodne podłączenie kompatybilnych monitorów studyjnych bezpośrednio do układu graficznego w celu przesyłania sygnału wideo. Konfigurację wyjść obrazu uzupełniają dwa nowoczesne porty DisplayPort 2.1b oraz jeden port HDMI 2.1b. Taki zestaw umożliwia bezproblemową obsługę wielu wyświetlaczy o ultrawysokiej rozdzielczości jednocześnie. Rozwiązanie to drastycznie podnosi produktywność podczas edycji wideo, projektowania 3D czy zaawansowanej obróbki grafiki. Pełny ray tracing z renderingiem opartym na sieciach neuronowych Architektura NVIDIA Blackwell zapewnia realizm pełnego ray tracingu, który zmienia reguły gry. Ciesz się kinową jakością graficzną o niespotykanej prędkości dzięki układom GeForce RTX z serii 50, rdzeniom RT czwartej generacji oraz przełomowym technologiom renderingu opartego na sieciach neuronowych, akcelerowanymi rdzeniami Tensor piątej generacji. NVIDIA DLSS 4 DLSS to rewolucyjny pakiet technik renderingu opartego na sieciach neuronowych, który wykorzystuje AI do zwiększenia FPS, zmniejszenia opóźnień i poprawy jakości obrazu. ‌Najnowsza przełomowa technika, DLSS 4, oferuje nowe możliwości generowania wielu klatek i ulepszoną superrozdzielczość dzięki układom GPU GeForce RTX™ z serii 50 oraz rdzeniom Tensor piątej generacji. DLSS na platformie GeForce RTX to najlepszy sposób na rozgrywkę, wspierany przez superkomputer AI NVIDIA w chmurze, stale zwiększający możliwości gamingowe Twojego komputera. NVIDIA Reflex 2 Technologie Reflex optymalizują proces graficzny, zapewniając najlepszą responsywność, szybsze namierzanie celów, krótszy czas reakcji i lepszą precyzję celowania w grach opartych na rywalizacji. Reflex 2 wprowadza funkcję Frame Warp (już wkrótce!), co dodatkowo zmniejszy opóźnienie w stosunku do najświeższych danych wejściowych pochodzących z myszy. Twoja kreatywna przewaga dzięki AI NVIDIA Studio daje Ci kreatywną przewagę. Układy GPU GeForce RTX z serii 50 zapewniają przełomową wydajność edycji wideo, renderingu 3D i projektowania graficznego. Ciesz się akceleracją RTX w najlepszych aplikacjach kreatywnych, stale aktualizowanymi sterownikami NVIDIA Studio, zaprojektowanymi pod kątem zapewnienia maksymalnej stabilności oraz zestawem wyjątkowych narzędzi, które wykorzystują moc platformy RTX w kreatywnych zastosowaniach twórczych wspomaganych AI.",
+        "category": [
+          "Podzespoły komputerowe > Karty graficzne",
+          {
+            "@type": "CategoryCode",
+            "inCodeSet": "https://www.google.com/basepages/producttype/taxonomy-with-ids.en-US.txt",
+            "codeValue": "285"
+          }
+        ],
+        "sku": "600147680",
+        "gtin13": "4711636502351",
+        "brand": {
+          "@type": "Brand",
+          "name": "Asus"
+        },
+        "url": "https://www.morele.net/karta-graficzna-asus-proart-geforce-rtx-5090-oc-32gb-gddr7-dlss4-proart-rtx5090-o32g-600147680/",
+        "image": [
+          "https://images.morele.net/i1064/600147680_5_i1064.jpg",
+          "https://images.morele.net/i1064/600147680_0_i1064.jpg",
+          "https://images.morele.net/i1064/600147680_1_i1064.jpg",
+          "https://images.morele.net/i1064/600147680_2_i1064.jpg",
+          "https://images.morele.net/i1064/600147680_3_i1064.jpg",
+          "https://images.morele.net/i1064/600147680_4_i1064.jpg",
+          "https://images.morele.net/i1064/600147680_6_i1064.jpg"
+        ],
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 30538,
+          "priceCurrency": "PLN",
+          "priceValidUntil": "2026-10-12",
+          "itemCondition": "https://schema.org/NewCondition",
+          "seller": {
+            "@type": "Organization",
+            "name": "Morele.net Sp. z o.o."
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "minValue": 0,
+              "maxValue": 25.99,
+              "currency": "PLN"
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "PL"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 0,
+                "maxValue": 1,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 1,
+                "maxValue": 12,
+                "unitCode": "DAY"
+              }
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "applicableCountry": "PL",
+            "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 14,
+            "returnMethod": "https://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnFeesCustomerResponsibility"
+          }
+        },
+        "model": "90YV0P00-M0NA00",
+        "mpn": "90YV0P00-M0NA00",
+        "review": [],
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Producent chipsetu",
+            "value": "NVIDIA"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Rodzaj chipsetu",
+            "value": "GeForce RTX 5090"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Taktowanie rdzenia",
+            "value": "2017 MHz"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Taktowanie rdzenia w trybie boost",
+            "value": "2512 MHz"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "DLSS",
+            "value": "DLSS 4"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Procesory strumieniowe",
+            "value": "21760"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Jednostki ROP",
+            "value": "192"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Jednostki teksturujące",
+            "value": "680"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Rdzenie RT",
+            "value": "170"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Rdzenie Tensor",
+            "value": "680"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Typ złącza",
+            "value": "PCI Express 5.0 x16"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Długość karty",
+            "value": "304 mm"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Rozdzielczość",
+            "value": "7680 x 4320"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Rekomendowana moc zasilacza",
+            "value": "1000 W"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Podświetlenie LED",
+            "value": "Nie"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Typ chłodzenia",
+            "value": "Wentylator"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Ilość wentylatorów",
+            "value": "2"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Ilość pamięci RAM",
+            "value": "32 GB"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Rodzaj pamięci RAM",
+            "value": "GDDR7"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Szyna danych",
+            "value": "512 bit"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Taktowanie pamięci",
+            "value": "28000 MHz"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "D-Sub",
+            "value": "Brak"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "DisplayPort",
+            "value": "2"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "MiniDisplayPort",
+            "value": "Brak"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "DVI",
+            "value": "Brak"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "HDMI",
+            "value": "HDMI - 1szt."
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "USB-C",
+            "value": "1"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Złącza zasilania",
+            "value": "16-pin"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Wersja opakowania",
+            "value": "BOX"
+          }
+        ]
+      }
+    ],
+    "parse_errors": [],
+    "text": "Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G) - Karta graficzna - Morele.net\nWszystkie działy\nKomputery\nTelewizory i audio\nFoto i kamery\nAGD\nSmartfony i smartwatche\nBiuro i firma\nGaming\nLaptopy\nSport i turystyka\nMałe AGD\nDom i ogród\nPodzespoły komputerowe\nZabawki i dziecko\nUroda i zdrowie\nSupermarket\nSzukaj w:\nWszystkie działy\nWszystkie działy\n, zaznaczone\nKomputery\nTelewizory i audio\nFoto i kamery\nAGD\nSmartfony i smartwatche\nBiuro i firma\nGaming\nLaptopy\nSport i turystyka\nMałe AGD\nDom i ogród\nPodzespoły komputerowe\nZabawki i dziecko\nUroda i zdrowie\nSupermarket\nWybierz\nkod pocztowy\nJeśli chcesz poznać czasy dostawy dopasowane do Twojej lokalizacji,\nwprowadź kod pocztowy\nklikając w ikonę lokalizacji.\nKontakt\nListy\nzakupowe\n0\nZaloguj się\nZałóż konto\n0\n0,00 zł\nKATEGORIE\nWszystkie działy\nKomputery\nTelewizory i audio\nFoto i kamery\nAGD\nSmartfony i smartwatche\nBiuro i firma\nGaming\nLaptopy\nSport i turystyka\nMałe AGD\nDom i ogród\nPodzespoły komputerowe\nZabawki i dziecko\nUroda i zdrowie\nSupermarket\nSzukaj w:\nWszystkie działy\nWszystkie działy\n, zaznaczone\nKomputery\nTelewizory i audio\nFoto i kamery\nAGD\nSmartfony i smartwatche\nBiuro i firma\nGaming\nLaptopy\nSport i turystyka\nMałe AGD\nDom i ogród\nPodzespoły komputerowe\nZabawki i dziecko\nUroda i zdrowie\nSupermarket\nElektronika i komputery\nmorele.net\nLaptopy\nLaptopy\nPokaż wszystko w Laptopy\nLaptopy i tablety\nLaptopy\nLaptopy 2w1\nLaptopy poleasingowe\nTablety\nTablety poleasingowe\nCzytniki e-book\nLaptopy - zastosowanie\nLaptopy biznesowe\nLaptopy multimedialne\nLaptopy gamingowe\nDla Twórców (stacje robocze)\nRTX STUDIO\nLaptopy - popularni producenci\nLaptopy Lenovo\nLaptopy Dell\nLaptopy HP\nLaptopy Asus\nLaptopy Acer\nLaptopy Gigabyte\nLaptopy Apple\nLaptopy MSI\nLaptopy - rozmiar\nLaptopy 13.3\"\nLaptopy 14\"\nLaptopy 15.6\"\nLaptopy 17.3\"\nAkcesoria do laptopów\nBaterie do laptopów\nDyski zewnętrzne SSD\nDyski przenośne 1TB\nEtui do laptopów\nFiltry na ekrany\nLampki USB\nLinki zabezpieczające\nPlecaki na laptopy\nPodstawki chłodzące\nPodstawki pod laptopa\nRysiki\nStacje dokujące i replikatory portów\nTorby na laptopy\nWentylatory USB\nZasilacze do laptopów\nPodzespoły do laptopów\nDyski SSD\nDyski HDD\nNapędy optyczne\nPamięci do laptopów\nAkcesoria do tabletów\nAkcesoria do czytników e-booków\nEtui na tablety\nFolie ochronne do tabletów\nKlawiatury do tabletów\nŁadowarki sieciowe\nPokrowce na czytniki e-booków\nRysiki\nStojaki do tabletów\nUchwyty do tabletów\nKomputery\nKomputery\nPokaż wszystko w Komputery\nKomputery PC\nKomputery stacjonarne\nKomputery All-In-One\nKomputery Mini PC i NUC\nKomputery poleasingowe\nSerwery\nDyski do serwerów\nSerwery\nSerwery plików\nSzafy Rack\nZasilacze awaryjne UPS\nUrządzenia sieciowe\nAccess Pointy\nRoutery\nSwitche\nKable teleinformatyczne\nKarty sieciowe Wi-Fi\nMonitory\nMonitory\nMonitory gamingowe\nUchwyty do monitorów\nFiltry na ekrany\nKlawiatury i myszki\nKlawiatury\nKlawiatury bezprzewodowe\nMyszki\nKlawiatury z myszą\nPodkładki pod myszy\nTablety graficzne\nDyski i nośniki danych\nDyski zewnętrzne SSD\nDyski przenośne 1TB\nDyski zewnętrzne HDD\nKieszenie na dyski\nPendrive\nPendrive 1TB\nKarty pamięci\nSłuchawki\nSłuchawki bezprzewodowe\nSłuchawki dokanałowe\nSłuchawki nauszne\nSłuchawki z mikrofonem\nGłośniki, mikrofony, kamerki\nGłośniki komputerowe\nGłośniki Bluetooth\nKamery internetowe\nMikrofony\nMikrofony krawatowe\nAkcesoria do mikrofonów\nKable i adaptery\nAdaptery AV\nHuby USB\nKable AV\nKable USB\nKable zasilające\nOprogramowanie\nMicrosoft Office\nMicrosoft Windows\nAntywirusy\nDrukarki i skanery\nDrukarki atramentowe\nDrukarki laserowe\nUrządzenia wielofunkcyjne atramentowe\nUrządzenia wielofunkcyjne laserowe\nDrukarki 3D\nMateriały eksploatacyjne do druku\nPapier biurowy\nTonery do drukarek\nTusze do drukarek\nAkcesoria i zasilanie\nBaterie i akumulatorki\nErgonomia pracy\nListwy zasilające\nPodzespoły komputerowe\nPodzespoły komputerowe\nPokaż wszystko w Podzespoły komputerowe\nPodzespoły komputerowe\nDyski SSD\nDyski HDD\nKarty dźwiękowe\nKarty graficzne\nNapędy optyczne\nObudowy\nPamięci RAM\nPłyty główne\nProcesory\nZasilacze\nKARTY GRAFICZNE - SERIE\nRTX 5090\nRTX 5080\nRTX 5070\nRTX 5070 Ti\nRTX 5060 Ti\nRX 9070\nRX 9070 XT\nChłodzenie komputerowe\nChłodzenie CPU\nChłodzenie wodne - zestawy\nPasty termoprzewodzące\nTermopady\nWentylatory komputerowe\nPodzespoły z demontażu\nDyski SSD z demontażu\nPamięci RAM z demontażu\nKable i akcesoria\nAkcesoria do obudów i podzespołów\nAkcesoria do streamingu\nOświetlenie gamingowe\nKable komputerowe i przejściówki\nNarzędzia serwisowe i sieciowe\nŚrodki czyszczące\nGaming\nGaming\nPokaż wszystko w Gaming\nKonsole\nPlaystation\nXbox\nNintendo Switch\nKonsole przenośne\nKonsole retro\nKomputery gamingowe\nLaptopy gamingowe\nHP\nAcer\nAsus\nGigabyte\nLenovo\nMSI\nGry\nGry PC (wersje pudełkowe)\nGry PC (wersje cyfrowe)\nGry Nintendo Switch\nGry na PlayStation 5\nGry na PlayStation 4\nGry na PlayStation 3\nGry Xbox Series X\nGry Xbox One\nGry na Xbox 360\nAbonamenty i doładowania\nGry bez prądu\nGry planszowe\nKarty i gry karciane\nSprzęt dla graczy\nBiurka gamingowe\nFotele gamingowe\nFotele Diablo\nPady\nGogle VR\nJoysticki\nKlawiatury gamingowe\nKlawiatury membranowe\nZestawy gamingowe\nMyszki gamingowe\nPodkładki gamingowe\nSłuchawki gamingowe\nSłuchawki gamingowe bezprzewodowe\nStojaki na słuchawki\nOświetlenie gamingowe\nAkcesoria do konsol\nAkcesoria do konsol\nPady do konsol\nJoysticki do konsol\nKierownice\nStojaki pod kierownice\nSmartfony i smartwatche\nSmartfony i smartwatche\nPokaż wszystko w Smartfony i smartwatche\nSmartfony\niOS\nAndroid\nSmartfony - popularni producenci\nSmartfony Samsung\nSmartfony Apple\nSmartfony Xiaomi\nSmartfony Huawei\nSmartfony poleasingowe\nTelefony z klawiaturą\nDla aktywnych\nDla seniora\nUniwersalne\nAkcesoria do smartfonów\nEtui na telefon\nFolie i szkła ochronne do telefonów\nGłośniki Bluetooth\nKarty pamięci\nŁadowarki samochodowe\nŁadowarki sieciowe\nPowerbanki\nRysiki\nSelfie stick\nSłuchawki bezprzewodowe\nUchwyty na telefon\nZestawy głośnomówiące GSM\nZestawy słuchawkowe GSM\nSmartwatche i zegarki\nSmartwatche\nSmartbandy\nZegarki sportowe\nPulsometry i krokomierze\nZegarki\nZegarki dla dzieci\nAkcesoria do smartwatchy\nAkcesoria do zegarków\nTelefony stacjonarne\nTelefony stacjonarne\nTelefony internetowe\nBramki VoIP\nAkcesoria do telefonów stacjonarnych\nTelewizory i audio\nTelewizory i audio\nPokaż wszystko w Telewizory i audio\nTelewizory\nTelewizory z DVB-T2\nTelewizory OLED\nTelewizory QLED\nTelewizory 4K (Ultra HD)\nTelewizory Full HD\nOdtwarzacze\nTunery TV\nOdtwarzacze Blu-ray\nOdtwarzacze DVD\nOdtwarzacze multimedialne\nOdtwarzacze przenośne\nProjektory\nProjektory\nEkrany do projektorów\nPiloty i wskaźniki do prezentacji\nTorby do projektorów i ekranów\nUchwyty do projektorów\nWizualizery\nAudio i HiFi\nGłośniki Bluetooth\nGłośniki komputerowe\nKolumny głośnikowe\nAmplitunery i wzmacniacze\nSoundbary\nWieże\nRadia\nSłuchawki i mikrofony\nAkcesoria do mikrofonów\nMikrofony\nSłuchawki bezprzewodowe\nSłuchawki dokanałowe\nSłuchawki nauszne\nSłuchawki z mikrofonem\nAkcesoria RTV\nKable AV\nListwy zasilające\nPiloty RTV\nŚrodki czyszczące do ekranów\nUchwyty do telewizorów\nCar Audio\nCB Anteny\nCB Radia\nGłośniki samochodowe\nRadia samochodowe\nTransmitery FM\nWideorejestratory\nFoto i kamery\nFoto i kamery\nPokaż wszystko w Foto i kamery\nAparaty cyfrowe\nLustrzanki\nAparaty kompaktowe\nAparaty bezlusterkowe\nKamery\nKamery sportowe\nKamery cyfrowe\nKamery profesjonalne\nDrony i akcesoria\nDrony\nAkcesoria do dronów\nTorby i futerały\nPlecaki fotograficzne\nTorby fotograficzne\nAlbumy i ramki na zdjęcia\nCyfrowe ramki foto\nAlbumy na zdjęcia\nAkcesoria do aparatów i kamer\nObiektywy\nGimbale\nStatywy\nAkcesoria foto-video\nAkcesoria do kamer sportowych\nLampy błyskowe\nZasilanie\nAkumulatory do aparatów i kamer\nŁadowarki do aparatów i kamer\nSprzęt optyczny\nLornetki\nMikroskopy\nWyposażenie studia\nLampy studyjne\nLampy pierścieniowe\nAGD duże\nAGD duże\nPokaż wszystko w AGD duże\nAGD do zabudowy\nLodówki do zabudowy\nZamrażarki do zabudowy\nZmywarki do zabudowy\nPłyty do zabudowy\nPiekarniki do zabudowy\nKuchenki mikrofalowe do zabudowy\nOkapy kuchenne\nSzuflady grzewcze\nEkspresy do zabudowy\nPralki do zabudowy\nAGD wolnostojące\nLodówki\nZamrażarki\nZmywarki\nPłyty wolnostojące\nKuchnie wolnostojące\nKuchenki mikrofalowe\nChłodziarki do wina\nPralki\nPralko-suszarki\nSuszarki do ubrań\nAkcesoria AGD\nAkcesoria do pralek i suszarek\nArtykuły do zmywarek\nAkcesoria do lodówek\nAkcesoria do płyt grzewczych\nAkcesoria do piekarników\nAkcesoria do mikrofalówek\nAkcesoria do okapów kuchennych\nAkcesoria do ekspresów\nZlewozmywaki i baterie\nBaterie kuchenne\nZlewozmywaki\nAkcesoria do zlewozmywaków\nSyfony do zlewozmywaków\nAGD małe\nAGD małe\nPokaż wszystko w AGD małe\nEkspresy i kawa\nEkspresy ciśnieniowe\nEkspresy przelewowe\nEkspresy na kapsułki\nMłynki do kawy\nSpieniacze do mleka\nKawa ziarnista\nKawa w kapsułkach\nAkcesoria do ekspresów\nUrządzenia kuchenne\nBlendery\nBlendery kielichowe\nCzajniki elektryczne\nGrille elektryczne\nMulticookery\nOpiekacze\nRoboty kuchenne\nRoboty planetarne\nWyciskarki wolnoobrotowe\nSprzątanie\nMopy parowe\nMyjki ciśnieniowe\nMyjki do okien\nOdkurzacze\nOdkurzacze pionowe\nOdkurzacze piorące\nOdkurzacze przemysłowe\nOdkurzacze ręczne\nRoboty sprzątające\nNaczynia i akcesoria kuchenne\nButelki na wodę\nDzbanki filtrujące\nFiltry do dzbanków i butelek\nFiltry do wody\nWkłady i akcesoria do filtrów wody\nGarnki\nPatelnie\nMłynki do przypraw\nNoże kuchenne\nPrasowanie i szycie\nDeski do prasowania\nGeneratory pary\nGolarki do ubrań\nMaszyny do szycia\nParownice do ubrań\nSuszarki na pranie\nSuszarki do butów\nŻelazka\nUzdatnianie powietrza\nOczyszczacze powietrza\nFiltry do oczyszczaczy i nawilżaczy\nOsuszacze powietrza\nNawilżacze powietrza\nNawilżacze ewaporacyjne\nKlimatyzatory\nKlimatory\nWentylatory\nWentylatory kolumnowe\nZdrowie i uroda\nDepilatory\nGolarki\nMaszynki do włosów\nTrymery\nIrygatory do zębów\nSzczoteczki elektryczne\nSuszarki do włosów\nWagi łazienkowe\nDla dziecka\nAspiratory do nosa\nNianie elektroniczne\nInhalatory i nebulizatory\nLaktatory\nPodgrzewacze i sterylizatory do butelek\nTermometry\nDom i ogród\nDom i ogród\nPokaż wszystko w Dom i ogród\nElektronarzędzia\nFrezarki\nKlucze udarowe i pneumatyczne\nLasery budowlane\nMłotowiertarki\nPilarki szablaste\nPilarki tarczowe\nPiły łańcuchowe\nStrugarki\nSzlifierki\nUkośnice\nWiertarki\nWiertarko-wkrętarki\nWkrętarki\nWyrzynarki\nZestawy elektronarzędzi\nOsprzęt do elektronarzędzi\nAkumulatory i ładowarki\nAkcesoria do pił i pilarek\nBity i końcówki do wkrętarek\nTarcze\nWiertła\nAkcesoria samochodowe\nŁadowarki do samochodów elektrycznych\nNarzędzia\nZestawy narzędzi\nAgregaty prądotwórcze\nSkrzynki narzędziowe\nWózki narzędziowe\nSprężarki\nMierniki i testery\nDetektory\nNarzędzia tnące i skrawające\nNarzędzia ogrodnicze\nNożyce do żywopłotu\nOdkurzacze i dmuchawy do liści\nKosiarki elektryczne\nKosiarki akumulatorowe\nKosiarki spalinowe\nKosy i podkaszarki\nRoboty koszące\nRozdrabniacze do gałęzi\nSekatory\nNarzędzia ręczne\nKlucze\nBudownictwo\nAparatura elektryczna i modułowa\nMeble ogrodowe\nKomplety mebli ogrodowych\nStoły i krzesła ogrodowe\nFotele wiszące\nHamaki\nLeżaki ogrodowe\nŁawki ogrodowe\nParasole\nSkrzynie ogrodowe\nRelaks w ogrodzie\nGrille ogrodowe\nBaseny ogrodowe\nTrampoliny\nTrampoliny Zipro\nAkcesoria ogrodnicze\nWęże\nAkcesoria do węży ogrodowych\nPompy i hydrofory\nSzklarnie\nOpryskiwacze\nOświetlenie\nLampy sufitowe\nŻarówki LED\nMeble\nKomody\nKrzesła\nMaterace\nWyposażenie i dekoracje\nArmatura i ceramika łazienkowa\nUmywalki z szafką\nBaterie umywalkowe\nZestawy prysznicowe\nZestawy podtynkowe WC\nMiski WC\nWyposażenie łazienki\nOgrzewanie\nBojlery\nPiece gazowe\nPrzepływowe podgrzewacze wody\nElektryka\nSmartdom\nCzujniki\nBiuro i firma\nBiuro i firma\nPokaż wszystko w Biuro i firma\nMeble biurowe\nBiurka\nKrzesła biurowe\nErgonomia pracy\nUrządzenia biurowe\nNiszczarki do papieru\nLaminatory\nKalkulatory naukowe\nMateriały eksploatacyjne do drukarek\nPapier biurowy\nTonery do drukarek\nTusze do drukarek\nAkcesoria biurowe\nMarkery i zakreślacze\nZszywacze\nŚrodki czystości do biura\nRęczniki papierowe\nŚrodki czystości\nŚrodki czyszczące do elektroniki\nArtykuły spożywcze do biura\nKawa ziarnista\nHerbata\nCukier i substancje słodzące\nHandel i magazynowanie\nCzytniki kodów kreskowych\nDrukarki etykiet\nDrukarki etykiet - eksploatacja\nSejfy i kasetki\nLiczarki banknotów\nRegały magazynowe\nWózki transportowe\nPakowanie i wysyłka\nKoperty\nTaśmy pakowe\nDyspensery\nMonitoring\nKamery IP\nRejestratory obrazu i CCTV\nAkcesoria do kamer przemysłowych\nBHP\nRękawice robocze\nOdzież robocza\nGastronomia i hotelarstwo\nWyposażenie gastronomii\nSport i turystyka\nSport i turystyka\nPokaż wszystko w Sport i turystyka\nSprzęt cardio\nBieżnie\nOrbitreki\nRowery stacjonarne\nSteppery\nWioślarze\nTrampoliny fitness\nMaty amortyzujące\nCzęści zamienne Zipro\nBieżnie do chodzenia\nSiłownia i fitness\nHantle\nŁawki do ćwiczeń\nObciążenie\nGryfy i zaciski\nKettlebell\nMaty i materace gimnastyczne\nEkspandery i gumy do ćwiczeń\nPiłki do ćwiczeń\nRollery i piłki do masażu\nSuplementy i odżywki\nAkcesoria i dodatki sportowe\nRowery i akcesoria\nRowery miejskie\nRowery górskie\nRowery dla dzieci\nRowery elektryczne\nKaski rowerowe\nFoteliki rowerowe\nAkcesoria rowerowe\nCzęści rowerowe\nSkating\nHulajnogi\nHulajnogi elektryczne\nRolki\nOchraniacze na rolki\nSporty drużynowe\nSporty rakietowe\nSporty walki\nSporty towarzyskie\nTurystyka\nNamioty turystyczne\nMaterace turystyczne\nLatarki czołowe\nNosidełka turystyczne\nKije trekkingowe\nStacje zasilania\nAkcesoria turystyczne\nImpregnaty\nBagaż\nPlecaki turystyczne\nPlecaki sportowe\nTorby sportowe\nWalizki\nWspinaczka\nPływanie i nurkowanie\nSporty zimowe\nAkcesoria i dodatki\nOdzież damska\nBluzy damskie\nKoszulki damskie\nKurtki i kamizelki sportowe damskie\nSpodnie sportowe damskie\nOdzież męska\nBluzy męskie\nKoszulki męskie\nKurtki męskie\nSpodnie sportowe męskie\nOdzież dziecięca\nButy damskie\nButy sportowe damskie\nButy trekkingowe damskie\nButy męskie\nButy sportowe męskie\nButy piłkarskie\nButy trekkingowe męskie\nButy dziecięce\nAkcesoria odzieżowe\nZabawki i dziecko\nZabawki i dziecko\nPokaż wszystko w Zabawki i dziecko\nZabawki\nLalki Barbie\nLalki\nDomki dla lalek\nAkcesoria dla lalek\nFigurki\nRoboty dla dzieci\nSamochody i pojazdy\nTory samochodowe\nJeździki\nZabawki interaktywne\nZabawki edukacyjne\nZabawki kreatywne\nZabawki militarne\nZabawki dla niemowląt\nKaruzele\nMaty edukacyjne\nLeżaczki i bujaczki\nKlocki i puzzle\nKlocki LEGO\nKlocki Playmobil\nKlocki Cobi\nKlocki Mega Bloks\nKlocki konstrukcyjne\nKlocki magnetyczne\nPuzzle\nPuzzle i układanki 3D\nGry\nGry planszowe\nGry zręcznościowe\nGry logiczne\nKarty i gry karciane\nGry edukacyjne\nSzachy i warcaby\nQuizy\nModelarstwo\nModele kolekcjonerskie\nModele do sklejania\nZabawki ogrodowe\nDomki dla dzieci\nPlace zabaw\nZjeżdżalnie\nPiaskownice\nRowerki biegowe\nRowerki trójkołowe\nSamochody na pedały\nSamochody na akumulator\nModele RC\nDrony\nSamochody zdalnie sterowane\nŁodzie zdalnie sterowane\nArtykuły szkolne\nTornistry\nPlecaki i torby szkolne\nPiórniki\nWózki i foteliki\nWózki dziecięce\nFoteliki samochodowe\nAkcesoria do fotelików\nPielęgnacja i zdrowie dziecka\nPieluchy\nKosze na pieluchy\nChusteczki nawilżane\nKarmienie dziecka\nKrzesełka do karmienia\nButelki dla niemowląt\nMleko modyfikowane\nPokój dziecka\nŁóżeczka i kojce\nŁóżka dla dzieci\nAkcesoria dla mamy\nUroda i zdrowie\nUroda i zdrowie\nPokaż wszystko w Uroda i zdrowie\nPerfumy\nPerfumy damskie\nPerfumy męskie\nPerfumy unisex\nZestawy perfum\nPerfumy dziecięce\nPielęgnacja twarzy i ciała\nKremy do twarzy\nSerum do twarzy\nKremy pod oczy\nDo oczyszczania i demakijażu\nMydła i żele pod prysznic\nBalsamy, masła, kremy i olejki do ciała\nDezodoranty i antyperspiranty\nMakijaż\nPodkłady do twarzy\nKorektory do twarzy\nTusze do rzęs\nCienie do powiek\nKosmetyki do brwi\nPielęgnacja i stylizacja włosów\nSzampony do włosów\nOdżywki i maski do włosów\nOlejki i serum do włosów\nDo farbowania włosów\nDo modelowania włosów\nSzczotki i grzebienie\nManicure i pedicure\nLakiery hybrydowe i żele\nLakiery do paznokci\nOdżywki do paznokci\nZmywacze do paznokci\nFrezarki do paznokci\nHigiena jamy ustnej\nPasty do zębów\nPłyny do płukania jamy ustnej\nNici dentystyczne\nSzczoteczki do zębów\nArtykuły higieniczne\nDla mężczyzn\nKosmetyki do golenia dla mężczyzn\nDo pielęgnacji twarzy\nDo pielęgnacji ciała\nDo pielęgnacji włosów i brody\nMaszynki do golenia\nZdrowie\nDomowa apteczka\nWitaminy, minerały, suplementy diety\nPłyny i żele antybakteryjne\nPrezerwatywy\nWyposażenie salonów\nSupermarket\nSupermarket\nPokaż wszystko w Supermarket\nArtykuły dla psów\nKarma sucha dla psa\nKarma mokra dla psa\nSmycze dla psa\nLegowiska dla psa\nTransportery i torby dla psa i kota\nArtykuły dla gryzoni\nKlatki dla gryzoni\nPokarm dla gryzoni\nWyposażenie klatki dla gryzoni\nPodłoża i żwirki\nInstrumenty\nInstrumenty klawiszowe\nGitary\nUkulele\nPrzyjęcia i okazje\nGadżety\nArtykuły dla kotów\nKarma sucha dla kota\nKarma mokra dla kota\nKuwety dla kota\nŻwirek dla kota\nDrapaki dla kota\nArtykuły dla ptaków\nAkwarystyka\nTerrarystyka\nUtrzymanie czystości\nArtykuły do zmywarek\nPłyny do naczyń\nPłyny i proszki do prania\nŚrodki czystości\nOdświeżacze powietrza\nŚcierki, gąbki, szczotki\nMiotły i zmiotki\nMopy\nRękawice robocze\nWorki na śmieci\nZnicze i wkłady\nArtykuły spożywcze\nKawa ziarnista\nKawa mielona\nKawa w kapsułkach\nKawa rozpuszczalna\nHerbata\nKuchnie świata\nSłodycze i przekąski\nStrefa marek\nStrefa marek\nPokaż wszystko w Strefa marek\nZIPRO\nRowery stacjonarne Zipro\nBieżnie Zipro\nTrampoliny Zipro\nOrbitreki Zipro\nWioślarze Zipro\nSteppery Zipro\nPREYON\nMyszki gamingowe PREYON\nKlawiatury gamingowe PREYON\nSłuchawki gamingowe PREYON\nMikrofony PREYON\nPodkładki gamingowe PREYON\nObudowy PREYON\nKomputery stacjonarne PREYON\nZOY\nMyszki ZOY\nKlawiatury ZOY\nKlawiatury z myszą ZOY\nSłuchawki z mikrofonem ZOY\nPodstawki pod laptopa ZOY\nKable AV ZOY\nSENSE7\nFotele gamingowe SENSE7\nBiurka gamingowe SENSE7\nLG\nMonitory LG\nTelewizory LG\nDell\nLaptopy Dell\nMonitory Dell\nSamsung\nMonitory Samsung\nDyski SSD Samsung\nApple\nSmartfony Apple\nSmartwatche Apple\nLaptopy Apple\nTablety Apple\nSłuchawki bezprzewodowe Apple\nKlawiatury Apple\nMyszki Apple\nBlackwheels\nRolki Blackwheels\nHulajnogi Blackwheels\nLenovo\nLaptopy Lenovo\nTablety Lenovo\nMonitory Lenovo\nPeme\nNamioty turystyczne Peme\nLodówki turystyczne Peme\nMSI\nLaptopy MSI\nKomputery stacjonarne MSI\nMonitory MSI\nPłyty główne MSI\nKarty graficzne MSI\nMyszki gamingowe MSI\n4Swiss\nFrytkownice beztłuszczowe 4Swiss\nWyciskarki wolnoobrotowe 4Swiss\nBlendery kielichowe 4Swiss\nHulajnogi elektryczne 4Swiss\nFiltry do wody 4Swiss\nSzczoteczki elektryczne 4Swiss\nAsus\nLaptopy Asus\nMonitory Asus\nRoutery Asus\nPłyty główne Asus\nKarty graficzne Asus\nKarcher\nMyjki ciśnieniowe Karcher\nParownice i myjki parowe Karcher\nOdkurzacze Karcher\nMyjki do okien Karcher\nAKTUALNE PROMOCJE\nODBIERZ KOD RABATOWY\nWYPRZEDAŻ\nKONFIGURATOR PC\nOUTLET\nRaty 10x0%\nPORADNIKI\nMorele.net\nPodzespoły komputerowe\nChłodzenie komputerowe\nKable i akcesoria\nPodzespoły z demontażu\nPodzespoły komputerowe\nChłodzenie CPU\nChłodzenie wodne - zestawy\nDyski HDD\nDyski HDD (z demontażu)\nDyski SSD\nDyski SSD (z demontażu)\nKarty dźwiękowe\nKontrolery\nNapędy optyczne\nObudowy\nPamięci dedykowane\nPamięci RAM\nPamięci RAM (z demontażu)\nPłyty główne\nPodzespoły poleasingowe\nProcesory\nTunery TV, FM, karty video\nWentylatory komputerowe\nZasilacze komputerowe\nKarty graficzne\nPNY\nGigabyte\nZotac\nNVIDIA\nBiostar\nMSI\nAsus\nKarta graficzna Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G)\nWróć do poprzedniej strony\nKarta graficzna Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G)\nID produktu:\n600147680\nKarta graficzna Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G)\nID produktu:\n600147680\nZobacz podobne\ndodaj do porównania\nusuń z porównania\nZobacz podobne\nocena produktu 0/5 gwiazdki\nOceń jako pierwszy\nZapytaj społeczności\n0 pytań\nKupiła\n1\nosoba\nDane techniczne:\nDługość karty:\n304 mm\nIlość pamięci RAM:\n32 GB\nRodzaj chipsetu:\nGeForce RTX 5090\nRodzaj pamięci RAM:\nGDDR7\nTyp złącza:\nPCI Express 5.0 x16\nZobacz pełną specyfikację\nOtrzymasz 500 zł\nrabatu na kolejne zakupy\nw strefie Brand Club!\nWróć do produktu\nocena produktu 0/5 gwiazdki\nOceń jako pierwszy\nZapytaj społeczności\n0 pytań\nKupiła\n1\nosoba\nJak wybieramy\nJak wybieramy sprzedawcę?\nMorele.net to Platforma Marketplace, dlatego ten sam produkt może być wystawiany przez wielu sprzedawców, z których każdy przedstawia własną propozycję zakupu.\nAby ułatwić Ci zakupy, jako pierwszą wyświetlamy\npropozycję główną\n– jest to\nnajlepsza propozycja\nwybrana spośród wszystkich sprzedawców na podstawie ceny, czasu dostawy oraz jakości obsługi.\nPrzy wyborze sprawdzamy:\nCałkowity koszt\nPorównujemy ceny produktów wraz z najniższym dostępnym dla tego produktu kosztem przesyłki.\nCzas dostawy\nPremiujemy najszybszą wysyłkę. Liczy się nie tylko deklarowany czas, ale też to, do której godziny możesz złożyć zamówienie, aby zostało wysłane jeszcze tego samego dnia.\nJakość obsługi i Twoje bezpieczeństwo\nPromujemy sprzedawców z wysoką oceną oraz tych, którzy uzyskali status Autoryzowanego sprzedawcy.\nPełną listę sprzedawców znajdziesz w sekcji Marketplace, klikając w:\nX propozycji\n– na liście produktów,\nWięcej propozycji (X)\n– na karcie produktu.\nZgarnij grę!\nDowiedz się więcej\n30 538\nzł\nOstatnie sztuki\n1\n2\n3\n4\n1\n1\n, zaznaczone\n2\n3\n4\nDo koszyka\nSprzedaje i wysyła przedsiębiorca:\nMadman Gaming Sp. z o.o.\n4.5\n/5 (12)\nObowiązki Morele.net i Sprzedawcy Marketplace.\nA może już\njutro\n!\nSprawdź\nRata od\n783,81 zł\nRaty dla firm od\nZgarnij grę!\nDowiedz się więcej\nOstatnie sztuki\n1\n2\n3\n4\n1\n1\n, zaznaczone\n2\n3\n4\nDo koszyka\nDane techniczne:\nDługość karty:\n304 mm\nIlość pamięci RAM:\n32 GB\nRodzaj chipsetu:\nGeForce RTX 5090\nRodzaj pamięci RAM:\nGDDR7\nTyp złącza:\nPCI Express 5.0 x16\nZobacz pełną specyfikację\nZapytaj ekspertów\nMateriały eksploatacyjne\nOpis\nBezpieczeństwo\nSpecyfikacja\nOpinie\nInspiracje (1)\nPytania i odpowiedzi\nGwarancje\nRaty\nLeasing\nOpis produktu\nAsus ProArt GeForce RTX 5090 OC Edition – potężna wydajność w eleganckim wydaniu\nKarta graficzna Asus ProArt GeForce RTX 5090 32GB GDDR7 OC Edition to przełomowa konstrukcja stworzona z myślą o najbardziej wymagających twórcach treści oraz graczach. Łączy ona w sobie bezkompromisową moc flagowego układu graficznego z niezwykle kompaktową i przemyślaną formą. Urządzenie wyróżnia się elegancką estetyką z subtelnymi złotymi akcentami oraz wykończeniem przypominającym drewno. Dzięki zaawansowanym technologiom chłodzenia karta zapewnia optymalne temperatury i stabilność nawet przy pełnym obciążeniu procesami sztucznej inteligencji. To idealny wybór do nowoczesnych stacji roboczych oraz kompaktowych komputerów.\nKompaktowa konstrukcja 2.5-slotowa idealna do obudów SFF\nModel ten wprowadza rewolucyjną, zajmującą zaledwie 2,5 slotu konstrukcję, co jest rzadkością w segmencie tak potężnych układów. Dzięki oznaczeniu SFF-Ready karta bez problemu mieści się v mniejszych obudowach komputerowych o ograniczonej przestrzeni. Pozwala to na budowanie ultrawydajnych, a zarazem kompaktowych stacji roboczych bez konieczności rezygnacji z pełnej mocy flagowego układu graficznego. Taka budowa ułatwia również tworzenie konfiguracji wielokartowych w klasycznych obudowach typu tower. Użytkownicy zyskują ogromną elastyczność podczas projektowania swojego stanowiska pracy.\nKomora parowa i zastosowanie płynnego metalu dla maksymalnego chłodzenia\nW celu zapewnienia najwyższej efektywności termicznej producent zastosował autorską komorę parową, która bezpośrednio styka się z rdzeniem graficznym. Ciepło jest błyskawicznie przekazywane do gęstego radiatora oraz sieci rurek cieplnych za pomocą zaawansowanego technicznie płynnego metalu. Zastosowanie płynnego metalu na rdzeniu GPU pozwala na osiągnięcie niesamowitej wydajności odprowadzania ciepła i wyższych taktowań w trybie boost. Specjalna metoda produkcji gwarantuje, że substancja ta pozostaje bezpiecznie zamknięta w obszarze matrycy. Przekłada się to na stabilną i niezawodną pracę urządzenia pod najbardziej wymagającymi obciążeniami kreatywnymi.\nDuże wentylatory Axial-tech oraz innowacyjny backplate z podwójnym wylotem\nZa wymuszony obieg powietrza odpowiadają dwa duże wentylatory Axial-tech o średnicy 115 mm, które generują o 20% większy przepływ oraz ciśnienie powietrza. Współpracują one z podwójnie wentylowaną płytą tylną, która zwiększa efektywność chłodzenia o kolejne 11%. Ta nowatorska konstrukcja backplate pozwala na swobodny przepływ powietrza przez dwie strefy wentylacyjne, optymalizując temperatury wewnątrz obudowy. Dzięki temu rozwiązaniu cała karta mogła zostać zmniejszona aż o 27% w porównaniu do modeli z tradycyjnym, pojedynczym przepływem. Do dyspozycji użytkownika oddano także przełącznik Dual BIOS, umożliwiający wybór pomiędzy trybem wydajnym a cichym.\nPrzemyślane złącze USB Type-C i rozwiązania dla wymagających twórców\nKarta graficzna została wyposażona w dedykowany port USB Type-C, co znacząco zwiększa wszechstronność w profesjonalnych środowiskach pracy. Złącze to pozwala na wygodne podłączenie kompatybilnych monitorów studyjnych bezpośrednio do układu graficznego w celu przesyłania sygnału wideo. Konfigurację wyjść obrazu uzupełniają dwa nowoczesne porty DisplayPort 2.1b oraz jeden port HDMI 2.1b. Taki zestaw umożliwia bezproblemową obsługę wielu wyświetlaczy o ultrawysokiej rozdzielczości jednocześnie. Rozwiązanie to drastycznie podnosi produktywność podczas edycji wideo, projektowania 3D czy zaawansowanej obróbki grafiki.\nPełny ray tracing z renderingiem opartym na sieciach neuronowych\nArchitektura NVIDIA Blackwell zapewnia realizm pełnego ray tracingu, który zmienia reguły gry. Ciesz się kinową jakością graficzną o niespotykanej prędkości dzięki układom GeForce RTX z serii 50, rdzeniom RT czwartej generacji oraz przełomowym technologiom renderingu opartego na sieciach neuronowych, akcelerowanymi rdzeniami Tensor piątej generacji.\nNVIDIA DLSS 4\nDLSS to rewolucyjny pakiet technik renderingu opartego na sieciach neuronowych, który wykorzystuje AI do zwiększenia FPS, zmniejszenia opóźnień i poprawy jakości obrazu. ‌Najnowsza przełomowa technika, DLSS 4, oferuje nowe możliwości generowania wielu klatek i ulepszoną superrozdzielczość dzięki układom GPU GeForce RTX™ z serii 50 oraz rdzeniom Tensor piątej generacji. DLSS na platformie GeForce RTX to najlepszy sposób na rozgrywkę, wspierany przez superkomputer AI NVIDIA w chmurze, stale zwiększający możliwości gamingowe Twojego komputera.\nNVIDIA Reflex 2\nTechnologie Reflex optymalizują proces graficzny, zapewniając najlepszą responsywność, szybsze namierzanie celów, krótszy czas reakcji i lepszą precyzję celowania w grach opartych na rywalizacji. Reflex 2 wprowadza funkcję Frame Warp (już wkrótce!), co dodatkowo zmniejszy opóźnienie w stosunku do najświeższych danych wejściowych pochodzących z myszy.\nTwoja kreatywna przewaga dzięki AI\nNVIDIA Studio daje Ci kreatywną przewagę. Układy GPU GeForce RTX z serii 50 zapewniają przełomową wydajność edycji wideo, renderingu 3D i projektowania graficznego. Ciesz się akceleracją RTX w najlepszych aplikacjach kreatywnych, stale aktualizowanymi sterownikami NVIDIA Studio, zaprojektowanymi pod kątem zapewnienia maksymalnej stabilności oraz zestawem wyjątkowych narzędzi, które wykorzystują moc platformy RTX w kreatywnych zastosowaniach twórczych wspomaganych AI.\nPytanie techniczne do producenta\nBłąd w opisie? Zgłoś!\nBezpieczeństwo\nPliki do pobrania:\nInstrukcja bezpieczeństwa\nSpecyfikacja\nWyróżnione przez eksperta\nDługość karty\n304 mm\nIlość pamięci RAM\n32 GB\nRodzaj chipsetu\nGeForce RTX 5090\nRodzaj pamięci RAM\nGDDR7\nTyp złącza\nPCI Express 5.0 x16\nProdukt\nMarka\nAsus\nKod producenta\n90YV0P00-M0NA00\nEAN\n4711636502351\nChipset\nProducent chipsetu\nNVIDIA\nRodzaj chipsetu\nGeForce RTX 5090\nTaktowanie rdzenia\n2017 MHz\nTaktowanie rdzenia w trybie boost\n2512 MHz\nDLSS\nDLSS 4\nJednostki przetwarzania\nProcesory strumieniowe\n21760\nJednostki ROP\n192\nJednostki teksturujące\n680\nRdzenie RT\n170\nRdzenie Tensor\n680\nTechniczne\nTyp złącza\nPCI Express 5.0 x16\nDługość karty\n304 mm\nRozdzielczość\n7680 x 4320\nRekomendowana moc zasilacza\n1000 W\nPodświetlenie LED\nNie\nTyp chłodzenia\nWentylator\nIlość wentylatorów\n2\nPamięć RAM\nIlość pamięci RAM\n32 GB\nRodzaj pamięci RAM\nGDDR7\nSzyna danych\n512 bit\nTaktowanie pamięci\n28000 MHz\nZłącza\nD-Sub\nBrak\nDisplayPort\n2\nMiniDisplayPort\nBrak\nDVI\nBrak\nHDMI\nHDMI - 1szt.\nUSB-C\n1\nZłącza zasilania\n16-pin\nZawartość pudełka\nWersja opakowania\nBOX\nPytanie techniczne do producenta\nDrukuj opis\nOpinie\n(0)\nProdukt nie ma jeszcze opinii.\nInspiracje\n(1)\nPytania i odpowiedzi\n(0)\nZastanawiasz się, czy produkt spełni Twoje oczekiwania?\nZapytaj Ekspertów\nGwarancje\nWarunki gwarancji\nDługość\n36 miesięcy\nTyp gwarancji\nProducenta\nInformacje o gwarancji producenta\nwww:\nLink do pomocy technicznej\nOpis:\nJeżeli chcesz wysłać sprzęt do serwisu, skorzystaj ze strony http://asus-serwis.pl/\nRaty\nLeasing\nRaty dla biznesu\nOblicz ratę\nSfinansuj wszystko w Ratach dla Firm w\n7 minut\n!\nNa cały asortyment sklepu wraz\nz usługami.\nUmowę zatwierdzasz online\n, a cały proces od A do Z to tylko kilka minut.\nJesteś właścicielem sprzętu od chwili zakupu\n, a faktura jest wystawiana na Twoją firmę.\nWprowadzasz w koszty firmy\njak przy zakupie za gotówkę.\nOferta dopasowana do każdego rodzaju firmy\n, niezależnie od formy prawnej!\nOpis produktu\nSpecyfikacja techniczna\nOpinie\n(\n0\n)\nPytania i odpowiedzi\n(0)\nInspiracje\n(1)\nOutlet\n(0)\nMarket\nKarta graficzna Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G)\nKarta graficzna Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G)\nocena produktu 0/5 gwiazdki\nOceń jako pierwszy\nASUS Gold Partner\nDzięki temu certyfikatowi klient może mieć pewność, że kupując u nas produkty firmy Asus kupuje sprzęt oryginalny z legalnej dystrybucji, posiadający gwarancję na terenie RP.\nCertyfikat Gold Partner ASUSTek Computer informuje naszych klientów o tym, że pracownicy Morele.net dysponują odpowiednią wiedzą techniczną na temat oferowanych produktów ASUS i doradzą nawet najbardziej wymagającym klientom. Logo Asus Gold Partner to odznaczenie dla Najlepszych Partnerów firmy Asus, w uznaniu za ich zaangażowanie. W ramach podziękowania za lojalny wkład w rozwój popularności oraz sprzedaży produktów marki Asus otrzymaliśmy logo: Asus Gold Partner - AGP jako dostrzegalny symbol obustronnego, efektywnego działania.\nStrona producenta\nLink do pomocy technicznej\nInformacje\nJeżeli chcesz wysłać sprzęt do serwisu, skorzystaj ze strony http://asus-serwis.pl/\nZAKUPY\nDodatkowa gwarancja\nMontaż komputera\nUsługi\nUbezpieczenie PZU\nOchrona telefonu, tabletu i smartwatcha\nKarta Podarunkowa\nBrand Club - program lojalnościowy\nMorele MAX\nPayPo\nRaty\nLeasing\nZakupy dla firmy\nPOMOCNE LINKI\nPomoc\nSposoby dostawy i płatności\nZwroty i reklamacje\nAktualne promocje\nPoradniki\nWszystkie kategorie produktowe\nPytanie o produkt i doradztwo produktowe\nOpinie o Morele.net\nCałodobowe wsparcie Klienta\nMORELE.NET\nO nas\nDane firmy i numer konta\nNewsletter\nNagrody i certyfikaty\nKariera\nDla prasy\nPolityka prywatności i cookies\nUstawienia cookies\nRegulamin sklepu\nKoszty gospodarowania odpadami\nBezpieczeństwo produktów\nDotacje i dofinansowania\nKody rabatowe\ne-procurement (PunchOut)\nTech\nHome\nMARKETPLACE\nO Marketplace\nZostań sprzedawcą\nObowiązki Morele.net i Sprzedawcy Marketplace\nSocial media\nZnajdziesz nas na:\nMASZ PYTANIA?\nKontakt\nWERSJA STRONY NA KOMPUTER\nSpecjalista Morele\n|\n13:28\nCześć!\nKarta graficzna Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G) możemy dostarczyć\ndo Ciebie już\njutro!\nJeśli chcesz poznać dokładny czas dostawy, wprowadź kod pocztowy lub nazwę miejscowości.\nKod pocztowy możesz zmienić klikając w ikonę lokalizacji\nkod pocztowy lub miejscowość\nZapisz\nPoznaj czas dostawy\nJeśli chcesz poznać czasy dostawy dopasowane do Twojej lokalizacji, wprowadź kod pocztowy rozwijając menu “Więcej”.\n30 538\nzł\nDo koszyka\nStart\nMenu\n0\nKoszyk\n0\nKonto\nWięcej\nPrzepraszamy, czat na żywo w tej chwili jest już nieczynny. Jeśli masz jakieś pytanie lub problem,\nnapisz do nas\nwiadomość lub odwiedź nasze\ncentrum pomocy\n.\nCzat na żywo jest do Twojej dyspozycji codziennie w godzinach:\nponiedziałek-piątek: 9:00-17:00"
+  },
+  {
+    "url": "https://www.gskill.com/cn/load/402/448/1747204820/F5-6000R3036G32GQ4-G5N-Download",
+    "retrieved_at": "2026-10-11T11:28:10.776455+00:00",
+    "http": "403 https://www.gskill.com/cn/load/402/448/1747204820/F5-6000R3036G32GQ4-G5N-Download",
+    "exit_code": 0,
+    "error": "",
+    "title": "403 Forbidden",
+    "products": [],
+    "parse_errors": [],
+    "text": "403 Forbidden\nForbidden\nYou don't have permission to access this resource.\nAdditionally, a 403 Forbidden\nerror was encountered while trying to use an ErrorDocument to handle the request."
+  }
+]
