@@ -1,0 +1,35 @@
+{
+  "observed_at": "2026-11-01",
+  "scope": "Separate Mac Studio comparison. Excluded from all A/B/C parts totals, observations and price deltas.",
+  "memory_request": {"original_gb":86,"nearest_real_gb":96,"status":"probable intended variant pending confirmation; never silently corrected"},
+  "targets": [
+    {"chip":"M5 Ultra","cpu_cores":30,"gpu_cores":64,"unified_memory_gb":96,"ssd_tb":1,"apple_standard_configured_pln":"unknown","apple_education_configured_pln":"unknown","configured_delivery":"unknown"},
+    {"chip":"M5 Ultra","cpu_cores":36,"gpu_cores":80,"unified_memory_gb":256,"ssd_tb":1,"apple_standard_configured_pln":"unknown","apple_education_configured_pln":"unknown","configured_delivery":"unknown"}
+  ],
+  "manufacturer_sources": [
+    {"url":"https://www.apple.com/pl/mac-studio/specs/","class":"current regional specification; not checkout"},
+    {"url":"https://www.apple.com/pl/shop/buy-mac/mac-studio","class":"family/base evidence only; exact configured totals unresolved"},
+    {"url":"https://www.apple.com/pl-edu/shop/buy-mac/mac-studio","class":"education family/base evidence only; exact configured totals unresolved"},
+    {"url":"https://www.apple.com/legal/sales-support/sales-policies/education_pl.html","class":"education eligibility policy; buyer eligibility unknown"}
+  ],
+  "retailer_observation": {
+    "product":"Mac Studio M5 Ultra 36 CPU / 80 GPU / 256GB unified memory / 1TB SSD",
+    "sku":"MHL64ZE/A/P3/R5/D1",
+    "seller":"iSpot storefront; legal contracting entity not independently verified",
+    "country":"Poland",
+    "price":"54499.00",
+    "currency":"PLN",
+    "pln_price":"54499.00",
+    "vat_status":"visible gross consumer price; exact invoice terms unknown",
+    "shipping_to_poland":"free shipping above 179 PLN advertised; destination checkout unknown",
+    "delivered_pln":"unknown",
+    "stock":"na zamówienie; dispatch 2–8 weeks; schema InStock is not immediate stock",
+    "warranty":"unknown; exact handler not verified",
+    "rma":"unknown; collection/return route not established",
+    "url":"https://ispot.pl/apple-mac-studio-36-rdzeniowy-procesor-apple-m5-ultra-gpu-80-rdzeni-ram-256gb-dysk-1-tb",
+    "capture_file":"research/2026-11-01-http.json",
+    "evidence_class":"exact retailer-configured quote; neither Apple standard nor Education configured checkout",
+    "education_configured_pln":"unknown"
+  },
+  "software_caveat":"Unified Mac system memory is not NVIDIA CUDA VRAM and not all guaranteed GPU-usable. Evaluate MLX/Metal separately. No transparent NVIDIA multi-GPU pooling is implied."
+}

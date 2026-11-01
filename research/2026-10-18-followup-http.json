@@ -1,0 +1,1052 @@
+[
+  {
+    "url": "https://www.neonet.pl/dyski-ssd/samsung-990-pro-4tb-pcie-4-0-m-2-nvme-mz-v9p4t0bw.html",
+    "retrieved_at": "2026-10-18T11:37:30.840103+00:00",
+    "http": "403 https://www.neonet.pl/dyski-ssd/samsung-990-pro-4tb-pcie-4-0-m-2-nvme-mz-v9p4t0bw.html",
+    "exit_code": 0,
+    "error": "",
+    "title": "Just a moment...",
+    "products": [],
+    "parse_errors": [],
+    "text": "Just a moment..."
+  },
+  {
+    "url": "https://www.krsystem.pl/karta_graficzna_asus_proart_geforce_rtx_5090_oc_32gb_gddr7_dls-item-80334.html",
+    "retrieved_at": "2026-10-18T11:37:30.886566+00:00",
+    "http": "200 https://www.krsystem.pl/karta_graficzna_asus_proart_geforce_rtx_5090_oc_32gb_gddr7_dls-item-80334.html",
+    "exit_code": 0,
+    "error": "",
+    "title": "KR System - Karta graficzna Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G)",
+    "products": [
+      {
+        "@context": "https://schema.org/",
+        "@type": "Product",
+        "name": "Karta graficzna Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G)",
+        "image": "https://krsystem.pl/inc/cms_img.php?img=../gfx/sklep/PR_080334/80334_asus2.jpg",
+        "mpn": "90YV0P00-M0NA00",
+        "brand": {
+          "@type": "Thing",
+          "name": "Asus"
+        },
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "PLN",
+          "price": "33945.84",
+          "priceValidUntil": "2026-10-25",
+          "itemCondition": "http://schema.org/NewCondition",
+          "seller": {
+            "@type": "Organization",
+            "name": "KR System"
+          },
+          "availability": "http://schema.org/InStock"
+        }
+      }
+    ],
+    "parse_errors": [],
+    "text": "KR System - Karta graficzna Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G)\nZamknij\nWybierz kategorię\nLaptopy\nKomputery\nPodzespoły\nSieci\nTelefony/GPS\nRTV\nDrukarki\nOprogramowanie\nMonitory\nAparaty i kamery\nUsługi\nAGD\nTablety\nBiuro\nMENU\nWszystkie\nProjektory i akcesoria\nApple\nElektronarzędzia\nLaptopy\nKomputery gotowe\nKonsole / GSM / GPS\nPodzespoły / akcesoria\nSieci\nOprogramowanie\nArt. biurowe / Drukarki / Eksploatacja\nDrony\nMonitory\nMSI\nUrządzenia fiskalne\nUsługi\nRTV\nTABLETY\nSterylizatory\nPozostałe\nNintendo\nXiaomi\nPojazdy Elektryczne\nROBOTYKA\n0\nBrak produktów w koszyku\nZawartość koszyka\nPokaż koszyk\n0\nzł\nZaloguj się\nZarejestruj się\nMENU\nMENU\nKomputery\nLAPTOPY\n10-12 cali - netbooki\n13-14  cali\n15-16 cali\n17 cali i większe\nULTRABOOKI\n11-12 cali\n13-14 cali\n15-16 cali\nKOMPUTERY\nStacje Robocze\nStacjonarne\nMini PC\nAll in One\nSERWERY\nSerwery Dell\nSerwery Lenovo\nTABLETY\niOS\nAndroid\nWindows\nCzytniki ebooków\nSprzęt Komputerowy\nPODZESPOŁY\nProcesory AMD\nProcesory INTEL\nPłyty główne AMD\nPłyty główne INTEL\nKarty graficzne\nHDD / SSD\nPamięci\nNapędy\nZasilacze\nObudowy\nwięcej\nDRUKARKI\nAtramentowe\nLaserowe\nUrządzenia wielofunkcyjne\nSkanery\nSieci\nRoutery bezprzewodowe\nRoutery przewodowe\nAcces pointy\nKarty sieciowe\nwięcej\nMONITORY\n19,5 cala i mniej\n20-22,5 cala\n23-25,5 cala\n26-28 cala\n29-31,5 cala\n32 cala i więcej\nKalibracja, osłony i akcesoria\nOprogramowanie\nAntywirusowe\nBiurowe\nMapy GPS\nGraficzne\nSprzedaż / księgowość\nSystemy Operacyjne\nApple\nLaptopy MacBook\nMacBook\nMacBook Air\nMacBook Pro\nkomputery Mac\niMac\niMac Pro\nMac Pro\nMac mini\ntablety iPad\niPad Pro\niPad\niPad mini 4\nsmartfony Apple\niPhone 18 PRO/MAX\niPhone 17 /PRO/MAX\niPhone 16 /PRO/MAX\niPhone 15 /PRO/MAX\nApple iPhone SE\nsmartwatche Watch\nApple Watch Series 3\nApple Watch Nike+\nApple Watch Series 1\nodtwarzacze TV\nApple TV 4K\nApple TV\nakcesoria do produktów Apple\nlaptopy MacBook\nkomputery Mac\ntablety iPad\nsmartfony iPhone\nsmartwatche Watch\nodtwarzacze TV\nUsługi\nKASY FISKALNE\nKasy fiskalne\nAclas\nElcom\nElzab\nFarex\nPosnet\nDrukarki fiskalne\nElzab\nFarex\nPosnet\nDrukarki etykiet\nDymo\nZebra\nGodex\nCzytniki kodów\nAclas\nDatalogic\nMotorola\nNewland\nZebex\nSymbol\nWagi\nAclas\nElzab\nPosnet\nSzuflady\nAclas\nElzab\nFarex\nPosnet\nNajtańsze kasy fiskalne oraz drukarki fiskalne\nPomagamy w uzyskaniu zwrotu z Urzędu Skarbowego.\nFiskalizacja i szkolenie gratis.\nDostawa do klienta gratis.\nMasz wątpliwości? Zadzwoń:\n12 633 33 45\nKontakt\n12 633 33 45\nPodzespoły / akcesoria\nKarty Graficzne\nAMD\nAsus\nKarta graficzna Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G)\nX\nKarta graficzna Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G)\nIdentyfikator produktu\n80334\nEAN\n4711636502351\nKategoria\nAsus\nProducent\nAsus\nPodmiot odpowiedzialny w UE\nasus.com/pl\nGwarancja\n36\nZobacz wszystkie cechy >\nZasady\nreklamacji\noraz zwrotu towaru >\nOpis i cechy\nPodobne produkty\nProducent\n-\nGwarancja\n3 lata w serwisie sprzedawcy\nGrupa produktowa\n-\nTyp złącza\nPCI-Express x16\nProducent chipsetu\n-\nSeria karty graficznej\nRTX z serii 50\nModel chipsetu\n-\nWielkość pamięci\n32 GB\nTaktowanie rdzenia\n2482 MHz\nMaks. taktowanie rdzenia\n2512 MHz\nTyp zastosowanej pamięci\nGDDR7\nTaktowanie pamięci\n28000 MHz\nSzyna danych pamięci\n512 bit\nPrzepustowość pamięci\n1792 GB/s\nRodzaje wyjść/wejść\n1 x USB  Type-C\n1 x wyjście HDMI\n2 x Display Port\nWsparcie dla HDCP\ntak\nWsparcie dla CUDA\ntak\nLiczba rdzeni CUDA\n21760\nTechnologia VR\ntak\nObsługiwane standardy\nDirectX 12\nOpenGL 4.6\nVulkan\nTyp chłodzenia\nwentylator\nLiczba wentylatorów\n4 szt.\nZalecana moc\n1000 W\nZłącze zasilania\n16 PIN\nDługość\n30.4 cm\nSzerokość\n14.9 cm\nWysokość\n5 cm\nLiczba zajmowanych slotów\n2.5\nPodświetlenie\ntak\nKolor obudowy\nczarny\nZaawansowane technologie\nNVIDIA Ansel\nNVIDIA DLSS 4\nNVIDIA Enkoder\nNVIDIA Reflex\nNVIDIA Studio\nRay Tracing\nRTX AI\nPokaż więcej\nAI PRO R9700 32GB ASUS Radeon GDDR6\n10 739,\n19 zł\nDodaj do koszyka\nASUS Prime RTX 5080 16GB  OC GDDR7 3Fan\n8 299,\n00 zł\nDodaj do koszyka\nASUS TUF Gaming TUF-RX9070XT-O16G-GAMING\n5 091,\n30 zł\nDodaj do koszyka\nASUS Karta graficzna Radeon RX 9070 XT PRIME OC WHITE 16GB GDDR6 256bit 3DP/HDMI\n4 672,\n59 zł\nDodaj do koszyka\nDrukuj\nZgłoś błąd\nGóra strony\nChwilowo niedostępny\nZapytaj o termin realizacji >\nCena:\n33 945,84 zł\n27 598,24 zł netto\nOblicz ratę\n❯\nOblicz ratę\n❯\nOblicz ratę\n❯\nPromocje\nProcesor Ryzen 5 7600 3,8GHz 100-100001015 BOX\n833,\n61 zł\nMonitor Acer 27\" Nitro XV272KLVbmiipruzx (UM.HX2EE.V18) 2xHDMI DP 2xUSB-B USB-C głośniki 4W\n3 129,\n57 zł\nKASA FISKALNA POSNET MOBILE ONLINE GPRS z kartą SIM na 8 lat!!!\n2 397,\n00 zł\nKASA FISKALNA FAREX ONline PRO 300 LAN/WiFi FISKALIZACJA I SZKOLENIE GRATIS!!!\n1 449,\n00 zł\nInformacje\nRegulamin sklepu\nKGO\nO KR System\nPolityka Prywatności\nAplikacje mobilne\nZakupy na raty\nZakupy w leasingu\nZapytania ofertowe\nKoszty transportu\nPanel klienta\nOferta Allegro\nReklamacje i zwroty\nKontakt\nNewsletter\nChcesz otrzymywać na adres e-mail informacje o nowościach, zapowiedziach, promocjach? Zamów bezpłatny\nnewsletter!\n600 763 712\n12 633 33 45\ne-mail:\nbiuro@krsystem.pl\ngg:\n9284987\nUl. Czarnowiejska 9/Lu 1\n31-126 Kraków\nPN-PT\n10:00 - 18:00\nWszelkie prawa zastrzeżone 2023 © KR System\nRealizacja:\nmagnis.pl\n„Dotacje na innowacje – Inwestujemy w waszą przyszłość”\nUżywamy\ncookies i podobnych technologii m.in. w celach: sprzedaży, reklamy, statystyk. Korzystanie z witryny bez zmiany\nustawień Twojej przeglądarki oznacza, że będą one umieszczane w Twoim urządzeniu końcowym. Pamiętaj, że zawsze\nmożesz zmienić te ustawienia. Szczegóły znajdziesz w\nPolityce\nPrywatności\n.\nNiezbędne pliki cookies\nAby zapewnić prawidłowe funkcjonowanie naszej strony internetowej, używamy niezbędnych plików cookies. Bez tych plików niektóre funkcje strony mogą być niedostępne.\nAnalityczne pliki cookies\nAby lepiej zrozumieć, w jaki sposób korzystają Państwo z naszej strony internetowej, używamy plików cookies analitycznych. Te pliki pomagają nam zbierać dane statystyczne, które pozwalają na ciągłe ulepszanie serwisu.\nMarketingowe pliki cookies\nChcemy dostarczać Państwu treści i oferty, które są dla Państwa najbardziej interesujące. Dlatego używamy plików cookies marketingowych, które pomagają nam dostosować ofertę do Państwa preferencji\nAKCEPTUJĘ\nZAPISZ\nUSTAWIENIA"
+  },
+  {
+    "url": "https://www.kingston.com/pl/memory/search?partid=KF560R32RBEK4-128",
+    "retrieved_at": "2026-10-18T11:37:30.963858+00:00",
+    "http": "403 https://www.kingston.com/pl/memory/search?partid=KF560R32RBEK4-128",
+    "exit_code": 0,
+    "error": "",
+    "title": "Just a moment...",
+    "products": [],
+    "parse_errors": [],
+    "text": "Just a moment..."
+  },
+  {
+    "url": "https://www.gigabyte.com/Motherboard/TRX50-AI-TOP/support#support-memsup",
+    "retrieved_at": "2026-10-18T11:37:31.016871+00:00",
+    "http": "403 https://www.gigabyte.com/Motherboard/TRX50-AI-TOP/support#support-memsup",
+    "exit_code": 0,
+    "error": "",
+    "title": "Access Denied",
+    "products": [],
+    "parse_errors": [],
+    "text": "Access Denied\nAccess Denied\nYou don't have permission to access \"http://www.gigabyte.com/Motherboard/TRX50-AI-TOP/support\" on this server.\nReference #18.d248655f.1792323450.c21d4288\nhttps://errors.edgesuite.net/18.d248655f.1792323450.c21d4288"
+  },
+  {
+    "url": "https://www.gigabyte.com/Motherboard/X870E-AORUS-MASTER-X3D-ICE/support#support-memsup",
+    "retrieved_at": "2026-10-18T11:37:31.023463+00:00",
+    "http": "403 https://www.gigabyte.com/Motherboard/X870E-AORUS-MASTER-X3D-ICE/support#support-memsup",
+    "exit_code": 0,
+    "error": "",
+    "title": "Access Denied",
+    "products": [],
+    "parse_errors": [],
+    "text": "Access Denied\nAccess Denied\nYou don't have permission to access \"http://www.gigabyte.com/Motherboard/X870E-AORUS-MASTER-X3D-ICE/support\" on this server.\nReference #18.df48655f.1792323450.2c28cbda\nhttps://errors.edgesuite.net/18.df48655f.1792323450.2c28cbda"
+  },
+  {
+    "url": "https://www.olx.pl/elektronika/komputery/podzespoly-i-czesci/karty-graficzne/q-rtx-3090-24gb/",
+    "retrieved_at": "2026-10-18T11:37:31.135053+00:00",
+    "http": "403 https://www.olx.pl/elektronika/komputery/podzespoly-i-czesci/karty-graficzne/q-rtx-3090-24gb/",
+    "exit_code": 0,
+    "error": "",
+    "title": "ERROR: The request could not be satisfied",
+    "products": [],
+    "parse_errors": [],
+    "text": "ERROR: The request could not be satisfied\n403 ERROR\nThe request could not be satisfied.\nRequest blocked.\nWe can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.\nGenerated by cloudfront (CloudFront)\nRequest ID: plVZD0gnAEUl1iIlvMg86112kl7bs8H2G8utAPm76umV00oWEl8BDg=="
+  },
+  {
+    "url": "https://www.morele.net/karta-graficzna-asus-proart-geforce-rtx-5090-oc-32gb-gddr7-dlss4-proart-rtx5090-o32g-600147680/",
+    "retrieved_at": "2026-10-18T11:37:31.467494+00:00",
+    "http": "200 https://www.morele.net/karta-graficzna-asus-proart-geforce-rtx-5090-oc-32gb-gddr7-dlss4-proart-rtx5090-o32g-600147680/",
+    "exit_code": 0,
+    "error": "",
+    "title": "Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G) - Karta graficzna - Morele.net",
+    "products": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "productID": "600147680",
+        "name": "Karta graficzna Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G)",
+        "description": "Asus ProArt GeForce RTX 5090 OC Edition – potężna wydajność w eleganckim wydaniu Karta graficzna Asus ProArt GeForce RTX 5090 32GB GDDR7 OC Edition to przełomowa konstrukcja stworzona z myślą o najbardziej wymagających twórcach treści oraz graczach. Łączy ona w sobie bezkompromisową moc flagowego układu graficznego z niezwykle kompaktową i przemyślaną formą. Urządzenie wyróżnia się elegancką estetyką z subtelnymi złotymi akcentami oraz wykończeniem przypominającym drewno. Dzięki zaawansowanym technologiom chłodzenia karta zapewnia optymalne temperatury i stabilność nawet przy pełnym obciążeniu procesami sztucznej inteligencji. To idealny wybór do nowoczesnych stacji roboczych oraz kompaktowych komputerów. Kompaktowa konstrukcja 2.5-slotowa idealna do obudów SFF Model ten wprowadza rewolucyjną, zajmującą zaledwie 2,5 slotu konstrukcję, co jest rzadkością w segmencie tak potężnych układów. Dzięki oznaczeniu SFF-Ready karta bez problemu mieści się v mniejszych obudowach komputerowych o ograniczonej przestrzeni. Pozwala to na budowanie ultrawydajnych, a zarazem kompaktowych stacji roboczych bez konieczności rezygnacji z pełnej mocy flagowego układu graficznego. Taka budowa ułatwia również tworzenie konfiguracji wielokartowych w klasycznych obudowach typu tower. Użytkownicy zyskują ogromną elastyczność podczas projektowania swojego stanowiska pracy. Komora parowa i zastosowanie płynnego metalu dla maksymalnego chłodzenia W celu zapewnienia najwyższej efektywności termicznej producent zastosował autorską komorę parową, która bezpośrednio styka się z rdzeniem graficznym. Ciepło jest błyskawicznie przekazywane do gęstego radiatora oraz sieci rurek cieplnych za pomocą zaawansowanego technicznie płynnego metalu. Zastosowanie płynnego metalu na rdzeniu GPU pozwala na osiągnięcie niesamowitej wydajności odprowadzania ciepła i wyższych taktowań w trybie boost. Specjalna metoda produkcji gwarantuje, że substancja ta pozostaje bezpiecznie zamknięta w obszarze matrycy. Przekłada się to na stabilną i niezawodną pracę urządzenia pod najbardziej wymagającymi obciążeniami kreatywnymi. Duże wentylatory Axial-tech oraz innowacyjny backplate z podwójnym wylotem Za wymuszony obieg powietrza odpowiadają dwa duże wentylatory Axial-tech o średnicy 115 mm, które generują o 20% większy przepływ oraz ciśnienie powietrza. Współpracują one z podwójnie wentylowaną płytą tylną, która zwiększa efektywność chłodzenia o kolejne 11%. Ta nowatorska konstrukcja backplate pozwala na swobodny przepływ powietrza przez dwie strefy wentylacyjne, optymalizując temperatury wewnątrz obudowy. Dzięki temu rozwiązaniu cała karta mogła zostać zmniejszona aż o 27% w porównaniu do modeli z tradycyjnym, pojedynczym przepływem. Do dyspozycji użytkownika oddano także przełącznik Dual BIOS, umożliwiający wybór pomiędzy trybem wydajnym a cichym. Przemyślane złącze USB Type-C i rozwiązania dla wymagających twórców Karta graficzna została wyposażona w dedykowany port USB Type-C, co znacząco zwiększa wszechstronność w profesjonalnych środowiskach pracy. Złącze to pozwala na wygodne podłączenie kompatybilnych monitorów studyjnych bezpośrednio do układu graficznego w celu przesyłania sygnału wideo. Konfigurację wyjść obrazu uzupełniają dwa nowoczesne porty DisplayPort 2.1b oraz jeden port HDMI 2.1b. Taki zestaw umożliwia bezproblemową obsługę wielu wyświetlaczy o ultrawysokiej rozdzielczości jednocześnie. Rozwiązanie to drastycznie podnosi produktywność podczas edycji wideo, projektowania 3D czy zaawansowanej obróbki grafiki. Pełny ray tracing z renderingiem opartym na sieciach neuronowych Architektura NVIDIA Blackwell zapewnia realizm pełnego ray tracingu, który zmienia reguły gry. Ciesz się kinową jakością graficzną o niespotykanej prędkości dzięki układom GeForce RTX z serii 50, rdzeniom RT czwartej generacji oraz przełomowym technologiom renderingu opartego na sieciach neuronowych, akcelerowanymi rdzeniami Tensor piątej generacji. NVIDIA DLSS 4 DLSS to rewolucyjny pakiet technik renderingu opartego na sieciach neuronowych, który wykorzystuje AI do zwiększenia FPS, zmniejszenia opóźnień i poprawy jakości obrazu. ‌Najnowsza przełomowa technika, DLSS 4, oferuje nowe możliwości generowania wielu klatek i ulepszoną superrozdzielczość dzięki układom GPU GeForce RTX™ z serii 50 oraz rdzeniom Tensor piątej generacji. DLSS na platformie GeForce RTX to najlepszy sposób na rozgrywkę, wspierany przez superkomputer AI NVIDIA w chmurze, stale zwiększający możliwości gamingowe Twojego komputera. NVIDIA Reflex 2 Technologie Reflex optymalizują proces graficzny, zapewniając najlepszą responsywność, szybsze namierzanie celów, krótszy czas reakcji i lepszą precyzję celowania w grach opartych na rywalizacji. Reflex 2 wprowadza funkcję Frame Warp (już wkrótce!), co dodatkowo zmniejszy opóźnienie w stosunku do najświeższych danych wejściowych pochodzących z myszy. Twoja kreatywna przewaga dzięki AI NVIDIA Studio daje Ci kreatywną przewagę. Układy GPU GeForce RTX z serii 50 zapewniają przełomową wydajność edycji wideo, renderingu 3D i projektowania graficznego. Ciesz się akceleracją RTX w najlepszych aplikacjach kreatywnych, stale aktualizowanymi sterownikami NVIDIA Studio, zaprojektowanymi pod kątem zapewnienia maksymalnej stabilności oraz zestawem wyjątkowych narzędzi, które wykorzystują moc platformy RTX w kreatywnych zastosowaniach twórczych wspomaganych AI.",
+        "category": [
+          "Podzespoły komputerowe > Karty graficzne",
+          {
+            "@type": "CategoryCode",
+            "inCodeSet": "https://www.google.com/basepages/producttype/taxonomy-with-ids.en-US.txt",
+            "codeValue": "285"
+          }
+        ],
+        "sku": "600147680",
+        "gtin13": "4711636502351",
+        "brand": {
+          "@type": "Brand",
+          "name": "Asus"
+        },
+        "url": "https://www.morele.net/karta-graficzna-asus-proart-geforce-rtx-5090-oc-32gb-gddr7-dlss4-proart-rtx5090-o32g-600147680/",
+        "image": [
+          "https://images.morele.net/i1064/600147680_5_i1064.jpg",
+          "https://images.morele.net/i1064/600147680_0_i1064.jpg",
+          "https://images.morele.net/i1064/600147680_1_i1064.jpg",
+          "https://images.morele.net/i1064/600147680_2_i1064.jpg",
+          "https://images.morele.net/i1064/600147680_3_i1064.jpg",
+          "https://images.morele.net/i1064/600147680_4_i1064.jpg",
+          "https://images.morele.net/i1064/600147680_6_i1064.jpg"
+        ],
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/OutOfStock",
+          "price": "27463.99",
+          "priceCurrency": "PLN",
+          "priceValidUntil": "2026-10-19",
+          "itemCondition": "https://schema.org/NewCondition",
+          "seller": {
+            "@type": "Organization",
+            "name": "Morele.net Sp. z o.o."
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "minValue": 0,
+              "maxValue": 25.99,
+              "currency": "PLN"
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "PL"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 0,
+                "maxValue": 1,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 1,
+                "maxValue": 2,
+                "unitCode": "DAY"
+              }
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "applicableCountry": "PL",
+            "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 14,
+            "returnMethod": "https://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnFeesCustomerResponsibility"
+          }
+        },
+        "model": "90YV0P00-M0NA00",
+        "mpn": "90YV0P00-M0NA00",
+        "review": [],
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Producent chipsetu",
+            "value": "NVIDIA"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Rodzaj chipsetu",
+            "value": "GeForce RTX 5090"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Taktowanie rdzenia",
+            "value": "2017 MHz"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Taktowanie rdzenia w trybie boost",
+            "value": "2512 MHz"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "DLSS",
+            "value": "DLSS 4"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Procesory strumieniowe",
+            "value": "21760"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Jednostki ROP",
+            "value": "192"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Jednostki teksturujące",
+            "value": "680"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Rdzenie RT",
+            "value": "170"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Rdzenie Tensor",
+            "value": "680"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Typ złącza",
+            "value": "PCI Express 5.0 x16"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Długość karty",
+            "value": "304 mm"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Rozdzielczość",
+            "value": "7680 x 4320"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Rekomendowana moc zasilacza",
+            "value": "1000 W"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Podświetlenie LED",
+            "value": "Nie"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Typ chłodzenia",
+            "value": "Wentylator"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Ilość wentylatorów",
+            "value": "2"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Ilość pamięci RAM",
+            "value": "32 GB"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Rodzaj pamięci RAM",
+            "value": "GDDR7"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Szyna danych",
+            "value": "512 bit"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Taktowanie pamięci",
+            "value": "28000 MHz"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "D-Sub",
+            "value": "Brak"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "DisplayPort",
+            "value": "2"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "MiniDisplayPort",
+            "value": "Brak"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "DVI",
+            "value": "Brak"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "HDMI",
+            "value": "HDMI - 1szt."
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "USB-C",
+            "value": "1"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Złącza zasilania",
+            "value": "16-pin"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Wersja opakowania",
+            "value": "BOX"
+          }
+        ]
+      }
+    ],
+    "parse_errors": [],
+    "text": "Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G) - Karta graficzna - Morele.net\nWszystkie działy\nKomputery\nTelewizory i audio\nFoto i kamery\nAGD\nSmartfony i smartwatche\nBiuro i firma\nGaming\nLaptopy\nSport i turystyka\nMałe AGD\nDom i ogród\nPodzespoły komputerowe\nZabawki i dziecko\nUroda i zdrowie\nSupermarket\nSzukaj w:\nWszystkie działy\nWszystkie działy\n, zaznaczone\nKomputery\nTelewizory i audio\nFoto i kamery\nAGD\nSmartfony i smartwatche\nBiuro i firma\nGaming\nLaptopy\nSport i turystyka\nMałe AGD\nDom i ogród\nPodzespoły komputerowe\nZabawki i dziecko\nUroda i zdrowie\nSupermarket\nWybierz\nkod pocztowy\nJeśli chcesz poznać czasy dostawy dopasowane do Twojej lokalizacji,\nwprowadź kod pocztowy\nklikając w ikonę lokalizacji.\nKontakt\nListy\nzakupowe\n0\nZaloguj się\nZałóż konto\n0\n0,00 zł\nKATEGORIE\nWszystkie działy\nKomputery\nTelewizory i audio\nFoto i kamery\nAGD\nSmartfony i smartwatche\nBiuro i firma\nGaming\nLaptopy\nSport i turystyka\nMałe AGD\nDom i ogród\nPodzespoły komputerowe\nZabawki i dziecko\nUroda i zdrowie\nSupermarket\nSzukaj w:\nWszystkie działy\nWszystkie działy\n, zaznaczone\nKomputery\nTelewizory i audio\nFoto i kamery\nAGD\nSmartfony i smartwatche\nBiuro i firma\nGaming\nLaptopy\nSport i turystyka\nMałe AGD\nDom i ogród\nPodzespoły komputerowe\nZabawki i dziecko\nUroda i zdrowie\nSupermarket\nElektronika i komputery\nmorele.net\nLaptopy\nLaptopy\nPokaż wszystko w Laptopy\nLaptopy i tablety\nLaptopy\nLaptopy 2w1\nLaptopy poleasingowe\nTablety\nTablety poleasingowe\nCzytniki e-book\nLaptopy - zastosowanie\nLaptopy biznesowe\nLaptopy multimedialne\nLaptopy gamingowe\nDla Twórców (stacje robocze)\nRTX STUDIO\nLaptopy - popularni producenci\nLaptopy Lenovo\nLaptopy Dell\nLaptopy HP\nLaptopy Asus\nLaptopy Acer\nLaptopy Gigabyte\nLaptopy Apple\nLaptopy MSI\nLaptopy - rozmiar\nLaptopy 13.3\"\nLaptopy 14\"\nLaptopy 15.6\"\nLaptopy 17.3\"\nAkcesoria do laptopów\nBaterie do laptopów\nDyski zewnętrzne SSD\nDyski przenośne 1TB\nEtui do laptopów\nFiltry na ekrany\nLampki USB\nLinki zabezpieczające\nPlecaki na laptopy\nPodstawki chłodzące\nPodstawki pod laptopa\nRysiki\nStacje dokujące i replikatory portów\nTorby na laptopy\nWentylatory USB\nZasilacze do laptopów\nPodzespoły do laptopów\nDyski SSD\nDyski HDD\nNapędy optyczne\nPamięci do laptopów\nAkcesoria do tabletów\nAkcesoria do czytników e-booków\nEtui na tablety\nFolie ochronne do tabletów\nKlawiatury do tabletów\nŁadowarki sieciowe\nPokrowce na czytniki e-booków\nRysiki\nStojaki do tabletów\nUchwyty do tabletów\nKomputery\nKomputery\nPokaż wszystko w Komputery\nKomputery PC\nKomputery stacjonarne\nKomputery All-In-One\nKomputery Mini PC i NUC\nKomputery poleasingowe\nSerwery\nDyski do serwerów\nSerwery\nSerwery plików\nSzafy Rack\nZasilacze awaryjne UPS\nUrządzenia sieciowe\nAccess Pointy\nRoutery\nSwitche\nKable teleinformatyczne\nKarty sieciowe Wi-Fi\nMonitory\nMonitory\nMonitory gamingowe\nUchwyty do monitorów\nFiltry na ekrany\nKlawiatury i myszki\nKlawiatury\nKlawiatury bezprzewodowe\nMyszki\nKlawiatury z myszą\nPodkładki pod myszy\nTablety graficzne\nDyski i nośniki danych\nDyski zewnętrzne SSD\nDyski przenośne 1TB\nDyski zewnętrzne HDD\nKieszenie na dyski\nPendrive\nPendrive 1TB\nKarty pamięci\nSłuchawki\nSłuchawki bezprzewodowe\nSłuchawki dokanałowe\nSłuchawki nauszne\nSłuchawki z mikrofonem\nGłośniki, mikrofony, kamerki\nGłośniki komputerowe\nGłośniki Bluetooth\nKamery internetowe\nMikrofony\nMikrofony krawatowe\nAkcesoria do mikrofonów\nKable i adaptery\nAdaptery AV\nHuby USB\nKable AV\nKable USB\nKable zasilające\nOprogramowanie\nMicrosoft Office\nMicrosoft Windows\nAntywirusy\nDrukarki i skanery\nDrukarki atramentowe\nDrukarki laserowe\nUrządzenia wielofunkcyjne atramentowe\nUrządzenia wielofunkcyjne laserowe\nDrukarki 3D\nMateriały eksploatacyjne do druku\nPapier biurowy\nTonery do drukarek\nTusze do drukarek\nAkcesoria i zasilanie\nBaterie i akumulatorki\nErgonomia pracy\nListwy zasilające\nPodzespoły komputerowe\nPodzespoły komputerowe\nPokaż wszystko w Podzespoły komputerowe\nPodzespoły komputerowe\nDyski SSD\nDyski HDD\nKarty dźwiękowe\nKarty graficzne\nNapędy optyczne\nObudowy\nPamięci RAM\nPłyty główne\nProcesory\nZasilacze\nKARTY GRAFICZNE - SERIE\nRTX 5090\nRTX 5080\nRTX 5070\nRTX 5070 Ti\nRTX 5060 Ti\nRX 9070\nRX 9070 XT\nChłodzenie komputerowe\nChłodzenie CPU\nChłodzenie wodne - zestawy\nPasty termoprzewodzące\nTermopady\nWentylatory komputerowe\nPodzespoły z demontażu\nDyski SSD z demontażu\nPamięci RAM z demontażu\nKable i akcesoria\nAkcesoria do obudów i podzespołów\nAkcesoria do streamingu\nOświetlenie gamingowe\nKable komputerowe i przejściówki\nNarzędzia serwisowe i sieciowe\nŚrodki czyszczące\nGaming\nGaming\nPokaż wszystko w Gaming\nKonsole\nPlaystation\nXbox\nNintendo Switch\nKonsole przenośne\nKonsole retro\nKomputery gamingowe\nLaptopy gamingowe\nHP\nAcer\nAsus\nGigabyte\nLenovo\nMSI\nGry\nGry PC (wersje pudełkowe)\nGry PC (wersje cyfrowe)\nGry Nintendo Switch\nGry na PlayStation 5\nGry na PlayStation 4\nGry na PlayStation 3\nGry Xbox Series X\nGry Xbox One\nGry na Xbox 360\nAbonamenty i doładowania\nGry bez prądu\nGry planszowe\nKarty i gry karciane\nSprzęt dla graczy\nBiurka gamingowe\nFotele gamingowe\nFotele Diablo\nPady\nGogle VR\nJoysticki\nKlawiatury gamingowe\nKlawiatury membranowe\nZestawy gamingowe\nMyszki gamingowe\nPodkładki gamingowe\nSłuchawki gamingowe\nSłuchawki gamingowe bezprzewodowe\nStojaki na słuchawki\nOświetlenie gamingowe\nAkcesoria do konsol\nAkcesoria do konsol\nPady do konsol\nJoysticki do konsol\nKierownice\nStojaki pod kierownice\nSmartfony i smartwatche\nSmartfony i smartwatche\nPokaż wszystko w Smartfony i smartwatche\nSmartfony\niOS\nAndroid\nSmartfony - popularni producenci\nSmartfony Samsung\nSmartfony Apple\nSmartfony Xiaomi\nSmartfony Huawei\nSmartfony poleasingowe\nTelefony z klawiaturą\nDla aktywnych\nDla seniora\nUniwersalne\nAkcesoria do smartfonów\nEtui na telefon\nFolie i szkła ochronne do telefonów\nGłośniki Bluetooth\nKarty pamięci\nŁadowarki samochodowe\nŁadowarki sieciowe\nPowerbanki\nRysiki\nSelfie stick\nSłuchawki bezprzewodowe\nUchwyty na telefon\nZestawy głośnomówiące GSM\nZestawy słuchawkowe GSM\nSmartwatche i zegarki\nSmartwatche\nSmartbandy\nZegarki sportowe\nPulsometry i krokomierze\nZegarki\nZegarki dla dzieci\nAkcesoria do smartwatchy\nAkcesoria do zegarków\nTelefony stacjonarne\nTelefony stacjonarne\nTelefony internetowe\nBramki VoIP\nAkcesoria do telefonów stacjonarnych\nTelewizory i audio\nTelewizory i audio\nPokaż wszystko w Telewizory i audio\nTelewizory\nTelewizory z DVB-T2\nTelewizory OLED\nTelewizory QLED\nTelewizory 4K (Ultra HD)\nTelewizory Full HD\nOdtwarzacze\nTunery TV\nOdtwarzacze Blu-ray\nOdtwarzacze DVD\nOdtwarzacze multimedialne\nOdtwarzacze przenośne\nProjektory\nProjektory\nEkrany do projektorów\nPiloty i wskaźniki do prezentacji\nTorby do projektorów i ekranów\nUchwyty do projektorów\nWizualizery\nAudio i HiFi\nGłośniki Bluetooth\nGłośniki komputerowe\nKolumny głośnikowe\nAmplitunery i wzmacniacze\nSoundbary\nWieże\nRadia\nSłuchawki i mikrofony\nAkcesoria do mikrofonów\nMikrofony\nSłuchawki bezprzewodowe\nSłuchawki dokanałowe\nSłuchawki nauszne\nSłuchawki z mikrofonem\nAkcesoria RTV\nKable AV\nListwy zasilające\nPiloty RTV\nŚrodki czyszczące do ekranów\nUchwyty do telewizorów\nCar Audio\nCB Anteny\nCB Radia\nGłośniki samochodowe\nRadia samochodowe\nTransmitery FM\nWideorejestratory\nFoto i kamery\nFoto i kamery\nPokaż wszystko w Foto i kamery\nAparaty cyfrowe\nLustrzanki\nAparaty kompaktowe\nAparaty bezlusterkowe\nKamery\nKamery sportowe\nKamery cyfrowe\nKamery profesjonalne\nDrony i akcesoria\nDrony\nAkcesoria do dronów\nTorby i futerały\nPlecaki fotograficzne\nTorby fotograficzne\nAlbumy i ramki na zdjęcia\nCyfrowe ramki foto\nAlbumy na zdjęcia\nAkcesoria do aparatów i kamer\nObiektywy\nGimbale\nStatywy\nAkcesoria foto-video\nAkcesoria do kamer sportowych\nLampy błyskowe\nZasilanie\nAkumulatory do aparatów i kamer\nŁadowarki do aparatów i kamer\nSprzęt optyczny\nLornetki\nMikroskopy\nWyposażenie studia\nLampy studyjne\nLampy pierścieniowe\nAGD duże\nAGD duże\nPokaż wszystko w AGD duże\nAGD do zabudowy\nLodówki do zabudowy\nZamrażarki do zabudowy\nZmywarki do zabudowy\nPłyty do zabudowy\nPiekarniki do zabudowy\nKuchenki mikrofalowe do zabudowy\nOkapy kuchenne\nSzuflady grzewcze\nEkspresy do zabudowy\nPralki do zabudowy\nAGD wolnostojące\nLodówki\nZamrażarki\nZmywarki\nPłyty wolnostojące\nKuchnie wolnostojące\nKuchenki mikrofalowe\nChłodziarki do wina\nPralki\nPralko-suszarki\nSuszarki do ubrań\nAkcesoria AGD\nAkcesoria do pralek i suszarek\nArtykuły do zmywarek\nAkcesoria do lodówek\nAkcesoria do płyt grzewczych\nAkcesoria do piekarników\nAkcesoria do mikrofalówek\nAkcesoria do okapów kuchennych\nAkcesoria do ekspresów\nZlewozmywaki i baterie\nBaterie kuchenne\nZlewozmywaki\nAkcesoria do zlewozmywaków\nSyfony do zlewozmywaków\nAGD małe\nAGD małe\nPokaż wszystko w AGD małe\nEkspresy i kawa\nEkspresy ciśnieniowe\nEkspresy przelewowe\nEkspresy na kapsułki\nMłynki do kawy\nSpieniacze do mleka\nKawa ziarnista\nKawa w kapsułkach\nAkcesoria do ekspresów\nUrządzenia kuchenne\nBlendery\nBlendery kielichowe\nCzajniki elektryczne\nGrille elektryczne\nMulticookery\nOpiekacze\nRoboty kuchenne\nRoboty planetarne\nWyciskarki wolnoobrotowe\nSprzątanie\nMopy parowe\nMyjki ciśnieniowe\nMyjki do okien\nOdkurzacze\nOdkurzacze pionowe\nOdkurzacze piorące\nOdkurzacze przemysłowe\nOdkurzacze ręczne\nRoboty sprzątające\nNaczynia i akcesoria kuchenne\nButelki na wodę\nDzbanki filtrujące\nFiltry do dzbanków i butelek\nFiltry do wody\nWkłady i akcesoria do filtrów wody\nGarnki\nPatelnie\nMłynki do przypraw\nNoże kuchenne\nPrasowanie i szycie\nDeski do prasowania\nGeneratory pary\nGolarki do ubrań\nMaszyny do szycia\nParownice do ubrań\nSuszarki na pranie\nSuszarki do butów\nŻelazka\nUzdatnianie powietrza\nOczyszczacze powietrza\nFiltry do oczyszczaczy i nawilżaczy\nOsuszacze powietrza\nNawilżacze powietrza\nNawilżacze ewaporacyjne\nKlimatyzatory\nKlimatory\nWentylatory\nWentylatory kolumnowe\nZdrowie i uroda\nDepilatory\nGolarki\nMaszynki do włosów\nTrymery\nIrygatory do zębów\nSzczoteczki elektryczne\nSuszarki do włosów\nWagi łazienkowe\nDla dziecka\nAspiratory do nosa\nNianie elektroniczne\nInhalatory i nebulizatory\nLaktatory\nPodgrzewacze i sterylizatory do butelek\nTermometry\nDom i ogród\nDom i ogród\nPokaż wszystko w Dom i ogród\nElektronarzędzia\nFrezarki\nKlucze udarowe i pneumatyczne\nLasery budowlane\nMłotowiertarki\nPilarki szablaste\nPilarki tarczowe\nPiły łańcuchowe\nStrugarki\nSzlifierki\nUkośnice\nWiertarki\nWiertarko-wkrętarki\nWkrętarki\nWyrzynarki\nZestawy elektronarzędzi\nOsprzęt do elektronarzędzi\nAkumulatory i ładowarki\nAkcesoria do pił i pilarek\nBity i końcówki do wkrętarek\nTarcze\nWiertła\nAkcesoria samochodowe\nŁadowarki do samochodów elektrycznych\nNarzędzia\nZestawy narzędzi\nAgregaty prądotwórcze\nSkrzynki narzędziowe\nWózki narzędziowe\nSprężarki\nMierniki i testery\nDetektory\nNarzędzia tnące i skrawające\nNarzędzia ogrodnicze\nNożyce do żywopłotu\nOdkurzacze i dmuchawy do liści\nKosiarki elektryczne\nKosiarki akumulatorowe\nKosiarki spalinowe\nKosy i podkaszarki\nRoboty koszące\nRozdrabniacze do gałęzi\nSekatory\nNarzędzia ręczne\nKlucze\nBudownictwo\nAparatura elektryczna i modułowa\nMeble ogrodowe\nKomplety mebli ogrodowych\nStoły i krzesła ogrodowe\nFotele wiszące\nHamaki\nLeżaki ogrodowe\nŁawki ogrodowe\nParasole\nSkrzynie ogrodowe\nRelaks w ogrodzie\nGrille ogrodowe\nBaseny ogrodowe\nTrampoliny\nTrampoliny Zipro\nAkcesoria ogrodnicze\nWęże\nAkcesoria do węży ogrodowych\nPompy i hydrofory\nSzklarnie\nOpryskiwacze\nOświetlenie\nLampy sufitowe\nŻarówki LED\nMeble\nKomody\nKrzesła\nMaterace\nWyposażenie i dekoracje\nArmatura i ceramika łazienkowa\nUmywalki z szafką\nBaterie umywalkowe\nZestawy prysznicowe\nZestawy podtynkowe WC\nMiski WC\nWyposażenie łazienki\nOgrzewanie\nBojlery\nPiece gazowe\nPrzepływowe podgrzewacze wody\nElektryka\nSmartdom\nCzujniki\nBiuro i firma\nBiuro i firma\nPokaż wszystko w Biuro i firma\nMeble biurowe\nBiurka\nKrzesła biurowe\nErgonomia pracy\nUrządzenia biurowe\nNiszczarki do papieru\nLaminatory\nKalkulatory naukowe\nMateriały eksploatacyjne do drukarek\nPapier biurowy\nTonery do drukarek\nTusze do drukarek\nAkcesoria biurowe\nMarkery i zakreślacze\nZszywacze\nŚrodki czystości do biura\nRęczniki papierowe\nŚrodki czystości\nŚrodki czyszczące do elektroniki\nArtykuły spożywcze do biura\nKawa ziarnista\nHerbata\nCukier i substancje słodzące\nHandel i magazynowanie\nCzytniki kodów kreskowych\nDrukarki etykiet\nDrukarki etykiet - eksploatacja\nSejfy i kasetki\nLiczarki banknotów\nRegały magazynowe\nWózki transportowe\nPakowanie i wysyłka\nKoperty\nTaśmy pakowe\nDyspensery\nMonitoring\nKamery IP\nRejestratory obrazu i CCTV\nAkcesoria do kamer przemysłowych\nBHP\nRękawice robocze\nOdzież robocza\nGastronomia i hotelarstwo\nWyposażenie gastronomii\nSport i turystyka\nSport i turystyka\nPokaż wszystko w Sport i turystyka\nSprzęt cardio\nBieżnie\nOrbitreki\nRowery stacjonarne\nSteppery\nWioślarze\nTrampoliny fitness\nMaty amortyzujące\nCzęści zamienne Zipro\nBieżnie do chodzenia\nSiłownia i fitness\nHantle\nŁawki do ćwiczeń\nObciążenie\nGryfy i zaciski\nKettlebell\nMaty i materace gimnastyczne\nEkspandery i gumy do ćwiczeń\nPiłki do ćwiczeń\nRollery i piłki do masażu\nSuplementy i odżywki\nAkcesoria i dodatki sportowe\nRowery i akcesoria\nRowery miejskie\nRowery górskie\nRowery dla dzieci\nRowery elektryczne\nKaski rowerowe\nFoteliki rowerowe\nAkcesoria rowerowe\nCzęści rowerowe\nSkating\nHulajnogi\nHulajnogi elektryczne\nRolki\nOchraniacze na rolki\nSporty drużynowe\nSporty rakietowe\nSporty walki\nSporty towarzyskie\nTurystyka\nNamioty turystyczne\nMaterace turystyczne\nLatarki czołowe\nNosidełka turystyczne\nKije trekkingowe\nStacje zasilania\nAkcesoria turystyczne\nImpregnaty\nBagaż\nPlecaki turystyczne\nPlecaki sportowe\nTorby sportowe\nWalizki\nWspinaczka\nPływanie i nurkowanie\nSporty zimowe\nAkcesoria i dodatki\nOdzież damska\nBluzy damskie\nKoszulki damskie\nKurtki i kamizelki sportowe damskie\nSpodnie sportowe damskie\nOdzież męska\nBluzy męskie\nKoszulki męskie\nKurtki męskie\nSpodnie sportowe męskie\nOdzież dziecięca\nButy damskie\nButy sportowe damskie\nButy trekkingowe damskie\nButy męskie\nButy sportowe męskie\nButy piłkarskie\nButy trekkingowe męskie\nButy dziecięce\nAkcesoria odzieżowe\nZabawki i dziecko\nZabawki i dziecko\nPokaż wszystko w Zabawki i dziecko\nZabawki\nLalki Barbie\nLalki\nDomki dla lalek\nAkcesoria dla lalek\nFigurki\nRoboty dla dzieci\nSamochody i pojazdy\nTory samochodowe\nJeździki\nZabawki interaktywne\nZabawki edukacyjne\nZabawki kreatywne\nZabawki militarne\nZabawki dla niemowląt\nKaruzele\nMaty edukacyjne\nLeżaczki i bujaczki\nKlocki i puzzle\nKlocki LEGO\nKlocki Playmobil\nKlocki Cobi\nKlocki Mega Bloks\nKlocki konstrukcyjne\nKlocki magnetyczne\nPuzzle\nPuzzle i układanki 3D\nGry\nGry planszowe\nGry zręcznościowe\nGry logiczne\nKarty i gry karciane\nGry edukacyjne\nSzachy i warcaby\nQuizy\nModelarstwo\nModele kolekcjonerskie\nModele do sklejania\nZabawki ogrodowe\nDomki dla dzieci\nPlace zabaw\nZjeżdżalnie\nPiaskownice\nRowerki biegowe\nRowerki trójkołowe\nSamochody na pedały\nSamochody na akumulator\nModele RC\nDrony\nSamochody zdalnie sterowane\nŁodzie zdalnie sterowane\nArtykuły szkolne\nTornistry\nPlecaki i torby szkolne\nPiórniki\nWózki i foteliki\nWózki dziecięce\nFoteliki samochodowe\nAkcesoria do fotelików\nPielęgnacja i zdrowie dziecka\nPieluchy\nKosze na pieluchy\nChusteczki nawilżane\nKarmienie dziecka\nKrzesełka do karmienia\nButelki dla niemowląt\nMleko modyfikowane\nPokój dziecka\nŁóżeczka i kojce\nŁóżka dla dzieci\nAkcesoria dla mamy\nUroda i zdrowie\nUroda i zdrowie\nPokaż wszystko w Uroda i zdrowie\nPerfumy\nPerfumy damskie\nPerfumy męskie\nPerfumy unisex\nZestawy perfum\nPerfumy dziecięce\nPielęgnacja twarzy i ciała\nKremy do twarzy\nSerum do twarzy\nKremy pod oczy\nDo oczyszczania i demakijażu\nMydła i żele pod prysznic\nBalsamy, masła, kremy i olejki do ciała\nDezodoranty i antyperspiranty\nMakijaż\nPodkłady do twarzy\nKorektory do twarzy\nTusze do rzęs\nCienie do powiek\nKosmetyki do brwi\nPielęgnacja i stylizacja włosów\nSzampony do włosów\nOdżywki i maski do włosów\nOlejki i serum do włosów\nDo farbowania włosów\nDo modelowania włosów\nSzczotki i grzebienie\nManicure i pedicure\nLakiery hybrydowe i żele\nLakiery do paznokci\nOdżywki do paznokci\nZmywacze do paznokci\nFrezarki do paznokci\nHigiena jamy ustnej\nPasty do zębów\nPłyny do płukania jamy ustnej\nNici dentystyczne\nSzczoteczki do zębów\nArtykuły higieniczne\nDla mężczyzn\nKosmetyki do golenia dla mężczyzn\nDo pielęgnacji twarzy\nDo pielęgnacji ciała\nDo pielęgnacji włosów i brody\nMaszynki do golenia\nZdrowie\nDomowa apteczka\nWitaminy, minerały, suplementy diety\nPłyny i żele antybakteryjne\nPrezerwatywy\nWyposażenie salonów\nSupermarket\nSupermarket\nPokaż wszystko w Supermarket\nArtykuły dla psów\nKarma sucha dla psa\nKarma mokra dla psa\nSmycze dla psa\nLegowiska dla psa\nTransportery i torby dla psa i kota\nArtykuły dla gryzoni\nKlatki dla gryzoni\nPokarm dla gryzoni\nWyposażenie klatki dla gryzoni\nPodłoża i żwirki\nInstrumenty\nInstrumenty klawiszowe\nGitary\nUkulele\nPrzyjęcia i okazje\nGadżety\nArtykuły dla kotów\nKarma sucha dla kota\nKarma mokra dla kota\nKuwety dla kota\nŻwirek dla kota\nDrapaki dla kota\nArtykuły dla ptaków\nAkwarystyka\nTerrarystyka\nUtrzymanie czystości\nArtykuły do zmywarek\nPłyny do naczyń\nPłyny i proszki do prania\nŚrodki czystości\nOdświeżacze powietrza\nŚcierki, gąbki, szczotki\nMiotły i zmiotki\nMopy\nRękawice robocze\nWorki na śmieci\nZnicze i wkłady\nArtykuły spożywcze\nKawa ziarnista\nKawa mielona\nKawa w kapsułkach\nKawa rozpuszczalna\nHerbata\nKuchnie świata\nSłodycze i przekąski\nStrefa marek\nStrefa marek\nPokaż wszystko w Strefa marek\nZIPRO\nRowery stacjonarne Zipro\nBieżnie Zipro\nTrampoliny Zipro\nOrbitreki Zipro\nWioślarze Zipro\nSteppery Zipro\nPREYON\nMyszki gamingowe PREYON\nKlawiatury gamingowe PREYON\nSłuchawki gamingowe PREYON\nMikrofony PREYON\nPodkładki gamingowe PREYON\nObudowy PREYON\nKomputery stacjonarne PREYON\nZOY\nMyszki ZOY\nKlawiatury ZOY\nKlawiatury z myszą ZOY\nSłuchawki z mikrofonem ZOY\nPodstawki pod laptopa ZOY\nKable AV ZOY\nSENSE7\nFotele gamingowe SENSE7\nBiurka gamingowe SENSE7\nLG\nMonitory LG\nTelewizory LG\nDell\nLaptopy Dell\nMonitory Dell\nSamsung\nMonitory Samsung\nDyski SSD Samsung\nApple\nSmartfony Apple\nSmartwatche Apple\nLaptopy Apple\nTablety Apple\nSłuchawki bezprzewodowe Apple\nKlawiatury Apple\nMyszki Apple\nBlackwheels\nRolki Blackwheels\nHulajnogi Blackwheels\nLenovo\nLaptopy Lenovo\nTablety Lenovo\nMonitory Lenovo\nPeme\nNamioty turystyczne Peme\nLodówki turystyczne Peme\nMSI\nLaptopy MSI\nKomputery stacjonarne MSI\nMonitory MSI\nPłyty główne MSI\nKarty graficzne MSI\nMyszki gamingowe MSI\n4Swiss\nFrytkownice beztłuszczowe 4Swiss\nWyciskarki wolnoobrotowe 4Swiss\nBlendery kielichowe 4Swiss\nHulajnogi elektryczne 4Swiss\nFiltry do wody 4Swiss\nSzczoteczki elektryczne 4Swiss\nAsus\nLaptopy Asus\nMonitory Asus\nRoutery Asus\nPłyty główne Asus\nKarty graficzne Asus\nKarcher\nMyjki ciśnieniowe Karcher\nParownice i myjki parowe Karcher\nOdkurzacze Karcher\nMyjki do okien Karcher\nAKTUALNE PROMOCJE\nODBIERZ KOD RABATOWY\nWYPRZEDAŻ\nKONFIGURATOR PC\nOUTLET\nRaty 10x0%\nPORADNIKI\nMorele.net\nPodzespoły komputerowe\nChłodzenie komputerowe\nKable i akcesoria\nPodzespoły z demontażu\nPodzespoły komputerowe\nChłodzenie CPU\nChłodzenie wodne - zestawy\nDyski HDD\nDyski HDD (z demontażu)\nDyski SSD\nDyski SSD (z demontażu)\nKarty dźwiękowe\nKontrolery\nNapędy optyczne\nObudowy\nPamięci dedykowane\nPamięci RAM\nPamięci RAM (z demontażu)\nPłyty główne\nPodzespoły poleasingowe\nProcesory\nTunery TV, FM, karty video\nWentylatory komputerowe\nZasilacze komputerowe\nKarty graficzne\nPNY\nGigabyte\nNVIDIA\nBiostar\nAsus\nZotac\nMSI\nKarta graficzna Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G)\nWróć do poprzedniej strony\nKarta graficzna Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G)\nID produktu:\n600147680\nKarta graficzna Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G)\nID produktu:\n600147680\nZobacz podobne\ndodaj do porównania\nusuń z porównania\nZobacz podobne\nocena produktu 0/5 gwiazdki\nOceń jako pierwszy\nZapytaj społeczności\n0 pytań\nDane techniczne:\nDługość karty:\n304 mm\nIlość pamięci RAM:\n32 GB\nRodzaj chipsetu:\nGeForce RTX 5090\nRodzaj pamięci RAM:\nGDDR7\nTyp złącza:\nPCI Express 5.0 x16\nZobacz pełną specyfikację\nWróć do produktu\nocena produktu 0/5 gwiazdki\nOceń jako pierwszy\nZapytaj społeczności\n0 pytań\nJak wybieramy\nJak wybieramy sprzedawcę?\nMorele.net to Platforma Marketplace, dlatego ten sam produkt może być wystawiany przez wielu sprzedawców, z których każdy przedstawia własną propozycję zakupu.\nAby ułatwić Ci zakupy, jako pierwszą wyświetlamy\npropozycję główną\n– jest to\nnajlepsza propozycja\nwybrana spośród wszystkich sprzedawców na podstawie ceny, czasu dostawy oraz jakości obsługi.\nPrzy wyborze sprawdzamy:\nCałkowity koszt\nPorównujemy ceny produktów wraz z najniższym dostępnym dla tego produktu kosztem przesyłki.\nCzas dostawy\nPremiujemy najszybszą wysyłkę. Liczy się nie tylko deklarowany czas, ale też to, do której godziny możesz złożyć zamówienie, aby zostało wysłane jeszcze tego samego dnia.\nJakość obsługi i Twoje bezpieczeństwo\nPromujemy sprzedawców z wysoką oceną oraz tych, którzy uzyskali status Autoryzowanego sprzedawcy.\nPełną listę sprzedawców znajdziesz w sekcji Marketplace, klikając w:\nX propozycji\n– na liście produktów,\nWięcej propozycji (X)\n– na karcie produktu.\nPowiadom mnie o dostępności\nSprawdź podobne produkty\nPowiadom mnie o dostępności\nDane techniczne:\nDługość karty:\n304 mm\nIlość pamięci RAM:\n32 GB\nRodzaj chipsetu:\nGeForce RTX 5090\nRodzaj pamięci RAM:\nGDDR7\nTyp złącza:\nPCI Express 5.0 x16\nZobacz pełną specyfikację\nZapytaj ekspertów\nAkcesoria\nMateriały eksploatacyjne\nOpis\nBezpieczeństwo\nSpecyfikacja\nOpinie\nInspiracje (1)\nPytania i odpowiedzi\nGwarancje\nOpis produktu\nAsus ProArt GeForce RTX 5090 OC Edition – potężna wydajność w eleganckim wydaniu\nKarta graficzna Asus ProArt GeForce RTX 5090 32GB GDDR7 OC Edition to przełomowa konstrukcja stworzona z myślą o najbardziej wymagających twórcach treści oraz graczach. Łączy ona w sobie bezkompromisową moc flagowego układu graficznego z niezwykle kompaktową i przemyślaną formą. Urządzenie wyróżnia się elegancką estetyką z subtelnymi złotymi akcentami oraz wykończeniem przypominającym drewno. Dzięki zaawansowanym technologiom chłodzenia karta zapewnia optymalne temperatury i stabilność nawet przy pełnym obciążeniu procesami sztucznej inteligencji. To idealny wybór do nowoczesnych stacji roboczych oraz kompaktowych komputerów.\nKompaktowa konstrukcja 2.5-slotowa idealna do obudów SFF\nModel ten wprowadza rewolucyjną, zajmującą zaledwie 2,5 slotu konstrukcję, co jest rzadkością w segmencie tak potężnych układów. Dzięki oznaczeniu SFF-Ready karta bez problemu mieści się v mniejszych obudowach komputerowych o ograniczonej przestrzeni. Pozwala to na budowanie ultrawydajnych, a zarazem kompaktowych stacji roboczych bez konieczności rezygnacji z pełnej mocy flagowego układu graficznego. Taka budowa ułatwia również tworzenie konfiguracji wielokartowych w klasycznych obudowach typu tower. Użytkownicy zyskują ogromną elastyczność podczas projektowania swojego stanowiska pracy.\nKomora parowa i zastosowanie płynnego metalu dla maksymalnego chłodzenia\nW celu zapewnienia najwyższej efektywności termicznej producent zastosował autorską komorę parową, która bezpośrednio styka się z rdzeniem graficznym. Ciepło jest błyskawicznie przekazywane do gęstego radiatora oraz sieci rurek cieplnych za pomocą zaawansowanego technicznie płynnego metalu. Zastosowanie płynnego metalu na rdzeniu GPU pozwala na osiągnięcie niesamowitej wydajności odprowadzania ciepła i wyższych taktowań w trybie boost. Specjalna metoda produkcji gwarantuje, że substancja ta pozostaje bezpiecznie zamknięta w obszarze matrycy. Przekłada się to na stabilną i niezawodną pracę urządzenia pod najbardziej wymagającymi obciążeniami kreatywnymi.\nDuże wentylatory Axial-tech oraz innowacyjny backplate z podwójnym wylotem\nZa wymuszony obieg powietrza odpowiadają dwa duże wentylatory Axial-tech o średnicy 115 mm, które generują o 20% większy przepływ oraz ciśnienie powietrza. Współpracują one z podwójnie wentylowaną płytą tylną, która zwiększa efektywność chłodzenia o kolejne 11%. Ta nowatorska konstrukcja backplate pozwala na swobodny przepływ powietrza przez dwie strefy wentylacyjne, optymalizując temperatury wewnątrz obudowy. Dzięki temu rozwiązaniu cała karta mogła zostać zmniejszona aż o 27% w porównaniu do modeli z tradycyjnym, pojedynczym przepływem. Do dyspozycji użytkownika oddano także przełącznik Dual BIOS, umożliwiający wybór pomiędzy trybem wydajnym a cichym.\nPrzemyślane złącze USB Type-C i rozwiązania dla wymagających twórców\nKarta graficzna została wyposażona w dedykowany port USB Type-C, co znacząco zwiększa wszechstronność w profesjonalnych środowiskach pracy. Złącze to pozwala na wygodne podłączenie kompatybilnych monitorów studyjnych bezpośrednio do układu graficznego w celu przesyłania sygnału wideo. Konfigurację wyjść obrazu uzupełniają dwa nowoczesne porty DisplayPort 2.1b oraz jeden port HDMI 2.1b. Taki zestaw umożliwia bezproblemową obsługę wielu wyświetlaczy o ultrawysokiej rozdzielczości jednocześnie. Rozwiązanie to drastycznie podnosi produktywność podczas edycji wideo, projektowania 3D czy zaawansowanej obróbki grafiki.\nPełny ray tracing z renderingiem opartym na sieciach neuronowych\nArchitektura NVIDIA Blackwell zapewnia realizm pełnego ray tracingu, który zmienia reguły gry. Ciesz się kinową jakością graficzną o niespotykanej prędkości dzięki układom GeForce RTX z serii 50, rdzeniom RT czwartej generacji oraz przełomowym technologiom renderingu opartego na sieciach neuronowych, akcelerowanymi rdzeniami Tensor piątej generacji.\nNVIDIA DLSS 4\nDLSS to rewolucyjny pakiet technik renderingu opartego na sieciach neuronowych, który wykorzystuje AI do zwiększenia FPS, zmniejszenia opóźnień i poprawy jakości obrazu. ‌Najnowsza przełomowa technika, DLSS 4, oferuje nowe możliwości generowania wielu klatek i ulepszoną superrozdzielczość dzięki układom GPU GeForce RTX™ z serii 50 oraz rdzeniom Tensor piątej generacji. DLSS na platformie GeForce RTX to najlepszy sposób na rozgrywkę, wspierany przez superkomputer AI NVIDIA w chmurze, stale zwiększający możliwości gamingowe Twojego komputera.\nNVIDIA Reflex 2\nTechnologie Reflex optymalizują proces graficzny, zapewniając najlepszą responsywność, szybsze namierzanie celów, krótszy czas reakcji i lepszą precyzję celowania w grach opartych na rywalizacji. Reflex 2 wprowadza funkcję Frame Warp (już wkrótce!), co dodatkowo zmniejszy opóźnienie w stosunku do najświeższych danych wejściowych pochodzących z myszy.\nTwoja kreatywna przewaga dzięki AI\nNVIDIA Studio daje Ci kreatywną przewagę. Układy GPU GeForce RTX z serii 50 zapewniają przełomową wydajność edycji wideo, renderingu 3D i projektowania graficznego. Ciesz się akceleracją RTX w najlepszych aplikacjach kreatywnych, stale aktualizowanymi sterownikami NVIDIA Studio, zaprojektowanymi pod kątem zapewnienia maksymalnej stabilności oraz zestawem wyjątkowych narzędzi, które wykorzystują moc platformy RTX w kreatywnych zastosowaniach twórczych wspomaganych AI.\nPytanie techniczne do producenta\nBłąd w opisie? Zgłoś!\nBezpieczeństwo\nPliki do pobrania:\nInstrukcja bezpieczeństwa\nSpecyfikacja\nWyróżnione przez eksperta\nDługość karty\n304 mm\nIlość pamięci RAM\n32 GB\nRodzaj chipsetu\nGeForce RTX 5090\nRodzaj pamięci RAM\nGDDR7\nTyp złącza\nPCI Express 5.0 x16\nProdukt\nMarka\nAsus\nKod producenta\n90YV0P00-M0NA00\nEAN\n4711636502351\nChipset\nProducent chipsetu\nNVIDIA\nRodzaj chipsetu\nGeForce RTX 5090\nTaktowanie rdzenia\n2017 MHz\nTaktowanie rdzenia w trybie boost\n2512 MHz\nDLSS\nDLSS 4\nJednostki przetwarzania\nProcesory strumieniowe\n21760\nJednostki ROP\n192\nJednostki teksturujące\n680\nRdzenie RT\n170\nRdzenie Tensor\n680\nTechniczne\nTyp złącza\nPCI Express 5.0 x16\nDługość karty\n304 mm\nRozdzielczość\n7680 x 4320\nRekomendowana moc zasilacza\n1000 W\nPodświetlenie LED\nNie\nTyp chłodzenia\nWentylator\nIlość wentylatorów\n2\nPamięć RAM\nIlość pamięci RAM\n32 GB\nRodzaj pamięci RAM\nGDDR7\nSzyna danych\n512 bit\nTaktowanie pamięci\n28000 MHz\nZłącza\nD-Sub\nBrak\nDisplayPort\n2\nMiniDisplayPort\nBrak\nDVI\nBrak\nHDMI\nHDMI - 1szt.\nUSB-C\n1\nZłącza zasilania\n16-pin\nZawartość pudełka\nWersja opakowania\nBOX\nPytanie techniczne do producenta\nDrukuj opis\nOpinie\n(0)\nProdukt nie ma jeszcze opinii.\nInspiracje\n(1)\nPytania i odpowiedzi\n(0)\nZastanawiasz się, czy produkt spełni Twoje oczekiwania?\nZapytaj Ekspertów\nGwarancje\nWarunki gwarancji\nDługość\n36 miesięcy\nTyp gwarancji\nProducenta\nInformacje o gwarancji producenta\nwww:\nLink do pomocy technicznej\nOpis:\nJeżeli chcesz wysłać sprzęt do serwisu, skorzystaj ze strony http://asus-serwis.pl/\nOpis produktu\nSpecyfikacja techniczna\nOpinie\n(\n0\n)\nPytania i odpowiedzi\n(0)\nInspiracje\n(1)\nOutlet\n(0)\nMarket\nKarta graficzna Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G)\nKarta graficzna Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G)\nocena produktu 0/5 gwiazdki\nOceń jako pierwszy\nASUS Gold Partner\nDzięki temu certyfikatowi klient może mieć pewność, że kupując u nas produkty firmy Asus kupuje sprzęt oryginalny z legalnej dystrybucji, posiadający gwarancję na terenie RP.\nCertyfikat Gold Partner ASUSTek Computer informuje naszych klientów o tym, że pracownicy Morele.net dysponują odpowiednią wiedzą techniczną na temat oferowanych produktów ASUS i doradzą nawet najbardziej wymagającym klientom. Logo Asus Gold Partner to odznaczenie dla Najlepszych Partnerów firmy Asus, w uznaniu za ich zaangażowanie. W ramach podziękowania za lojalny wkład w rozwój popularności oraz sprzedaży produktów marki Asus otrzymaliśmy logo: Asus Gold Partner - AGP jako dostrzegalny symbol obustronnego, efektywnego działania.\nStrona producenta\nLink do pomocy technicznej\nInformacje\nJeżeli chcesz wysłać sprzęt do serwisu, skorzystaj ze strony http://asus-serwis.pl/\nZAKUPY\nDodatkowa gwarancja\nMontaż komputera\nUsługi\nUbezpieczenie PZU\nOchrona telefonu, tabletu i smartwatcha\nKarta Podarunkowa\nBrand Club - program lojalnościowy\nMorele MAX\nPayPo\nRaty\nLeasing\nZakupy dla firmy\nPOMOCNE LINKI\nPomoc\nSposoby dostawy i płatności\nZwroty i reklamacje\nAktualne promocje\nPoradniki\nWszystkie kategorie produktowe\nPytanie o produkt i doradztwo produktowe\nOpinie o Morele.net\nCałodobowe wsparcie Klienta\nMORELE.NET\nO nas\nDane firmy i numer konta\nNewsletter\nNagrody i certyfikaty\nKariera\nDla prasy\nPolityka prywatności i cookies\nUstawienia cookies\nRegulamin sklepu\nKoszty gospodarowania odpadami\nBezpieczeństwo produktów\nDotacje i dofinansowania\nKody rabatowe\ne-procurement (PunchOut)\nTech\nHome\nMARKETPLACE\nO Marketplace\nZostań sprzedawcą\nObowiązki Morele.net i Sprzedawcy Marketplace\nSocial media\nZnajdziesz nas na:\nMASZ PYTANIA?\nKontakt\nWERSJA STRONY NA KOMPUTER\nSpecjalista Morele\n|\n13:37\nCześć!\nKarta graficzna Asus ProArt GeForce RTX 5090 OC 32GB GDDR7 DLSS4 (PROART-RTX5090-O32G) możemy dostarczyć\ndo Ciebie już\njutro!\nJeśli chcesz poznać dokładny czas dostawy, wprowadź kod pocztowy lub nazwę miejscowości.\nKod pocztowy możesz zmienić klikając w ikonę lokalizacji\nkod pocztowy lub miejscowość\nZapisz\nPoznaj czas dostawy\nJeśli chcesz poznać czasy dostawy dopasowane do Twojej lokalizacji, wprowadź kod pocztowy rozwijając menu “Więcej”.\nStart\nMenu\n0\nKoszyk\n0\nKonto\nWięcej\nPrzepraszamy, czat na żywo w tej chwili jest już nieczynny. Jeśli masz jakieś pytanie lub problem,\nnapisz do nas\nwiadomość lub odwiedź nasze\ncentrum pomocy\n.\nCzat na żywo jest do Twojej dyspozycji codziennie w godzinach:\nponiedziałek-piątek: 9:00-17:00"
+  },
+  {
+    "url": "https://www.phs-memory.com/computer-memory-32gb-ddr5-gigabyte-trx50-ai-top-ram-rdimm-sp598864.html",
+    "retrieved_at": "2026-10-18T11:37:31.563817+00:00",
+    "http": "200 https://www.phs-memory.com/computer-memory-32gb-ddr5-gigabyte-trx50-ai-top-ram-rdimm-sp598864.html",
+    "exit_code": 0,
+    "error": "",
+    "title": "Computer memory 32GB DDR5 - Gigabyte TRX50 AI TOP buy",
+    "products": [],
+    "parse_errors": [],
+    "text": "Computer memory 32GB DDR5 - Gigabyte TRX50 AI TOP buy\nSkip to main content\nSkip to search\nSkip to main navigation\nEnglish\nDeutsch\nEnglish\nEspañol\nFrançais\nItaliano\n+49 9721 78 46 78\ninfo@phs-memory.com\nHelp/Support\nWishlist\nMy account\nClose menu\nMy account\nLog in\nor\nsign up\nOverview\nYour profile\nAddresses\nOrders\n€0.00*\nShopping cart\nComputer RAM\nShow all Computer RAM\nAcer\nApple\nAsus\nDell\nFujitsu\nGigabyte\nHP\nKyocera\nLenovo\nMedion\nMSI\nPackard Bell\nQNAP\nSynology\nToshiba\nStandard-RAM\nShow more manufacturers\nComputer RAM\nClick on the manufacturer of your device and then select model and series.\nFind memory expansions and compatible storage solutions for Apple, PCs, notebooks, servers, NAS systems, printers, etc. for devices from the following brand manufacturers.\nlearn more\nAccessories\nShow all Accessories\nAdapter\nTools\nESD Tray-Boxes / Blisters\nMiscellaneous\nAccessories for computer RAM\nHere you will find the right tool for the installation of memory. Packaging material for the professional storage of memory modules is also offered here.\nlearn more\nIndustrial SSD\nShow all Industrial SSD\n2,5\" SATA SSD\nM.2 SATA\nM.2 NVMe Gen4\nM.2 NVMe Gen3\nSilicon Power Industrial SSDs - Powerful, Robust, Reliable\nExclusively for corporate and industrial customers\nAs an\nAuthorized Industrial Distributor\nof Silicon Power, we offer industrial-grade SSDs designed for the most demanding applications. Whether in automotive electronics, intelligent transport systems, gaming terminals, or surveillance solutions - Silicon Power industrial-grade SSDs stand out for their\nhigh performance\n,\nlong lifespan\n, and\nversatile capacity options\n.\nlearn more\nRAMONA\nShow all RAMONA\nRAMONA - RAM Online Analysis\nOur\nRAM Online Analysis Tool RAMONA\nhelps you find the right memory for your system. Simply download our RAMONA application to your computer and start it with a double-click.\nlearn more\nHelp / Support\nRAM for device types\nShow all RAM for device types\nNotebooks\nServers\nMotherboards\nPrinters\nDesktops\nStorage / NAS\nRAM Memory for different device types\nAre you looking for memory for your notebook, server or PC? Then you can easily find the right RAM here by selecting your model. You can also easily find printer memory, memory for motherboards, or NAS systems here.\nlearn more\nMemory blog\nRAM wiki\nTroubleshooting\noverRAMing\nTutorials\nMemory test\nMemory - News\nMemory Blog\nIn the Memory Blog, you will find information, tutorials, tests, and much more about memory and RAM upgrades.\nlearn more\nClose menu\nEnglish\nDeutsch\nEnglish\nEspañol\nFrançais\nItaliano\nComputer RAM\nGigabyte\nAI TOP\nTRX50\nTRX50 AI TOP\n32GB Computer memory DDR5 for Gigabyte TRX50 AI TOP RAM RDIMM\nSkip image gallery\nWarranty conditions: click on the corresponding button above\n16GB - DDR5 - 5600MHz  - RDIMM - 1Rx8\n24GB - DDR5 - 5600MHz  - RDIMM - 1Rx8\n32GB - DDR5 - 5600MHz  - RDIMM - 2Rx8\n64GB - DDR5 - 5600MHz  - RDIMM - 2Rx4\n96GB - DDR5 - 5600MHz  - RDIMM - 2Rx4\n128GB - DDR5 - 5600MHz  - RDIMM - 2Rx4\n256GB - DDR5 - 5600MHz  - RDIMM 3DS - 8Rx4 (2S4Rx4)\nRegular price:\n€1,823.10\nincl. VAT plus\nshipping costs\nimmediately available\nProduct Quantity: Enter the desired amount or use the buttons to increase or decrease the quantity.\nAdd to shopping cart\nRequest project price\nAdd to wishlist\nRemove from wishlist\nRate\nProduct number:\nSP598864\nBrand:\nphs memory\n5\nphs memory\nSP598864\n5\nShow GARAN label\nDescription\nData sheet\nFAQ\nReviews\nClose menu\nMemory for motherboard-memory Gigabyte TRX50 AI TOP\n32GB memory for Gigabyte TRX50 AI TOP. The offered memory is a DDR5 RAM memory. Further technical memory specifications can be found in the list on the right. This computer memory was tested by us for Gigabyte TRX50 AI TOP. This ensures that this memory expansion can also be utilised together with the original RAM used in TRX50 AI TOP.\nDo you have any questions concerning this product?\nComputer memory - info\nMemory size\n32GB\nMemory technology\nDDR5\nMemory speed\n5600MHz\nJEDEC standard\nPC5-44800R\nRank\n2Rx8\nType\nRDIMM (ECC Registered)\nNumber of Pin\n288 Pin DIMM\nVoltage\n1,1 volt\nSpecials\n-\nDevice - Specifications\nDevice manufacturer\nGigabyte\nDevice type\nMotherboard-memory\nDevice family\nGigabyte AI TOP\nDevice series\nAI TOP TRX50 series\nDevice name\nTRX50 AI TOP\nMaximum memory\n2TB\nMemory Slots\n8\nOrder info\nItem number\nSP598864\nBrand\nEAN\n4069169725441\nCondition\nNew\nMemory warranty\n5 years warranty\nCompatibility\n100% compatible with\nGigabyte TRX50 AI TOP\nMoney-back guarantee\nYes, 100%\nIndicated delivery times apply to shipping within Germany. The delivery times for shipping abroad as well as further information on delivery times can be found\nhere\n.\nThe product photos do not necessarily reflect the actual appearance of the product. In the case of memory modules, this may be due to layout changes or other circumstances beyond our control.\nClose menu\nData sheet \"32GB Computer memory DDR5 for Gigabyte TRX50 AI TOP RAM RDIMM\"\nData sheet download\nClose menu\nFAQ - Frequently asked questions about Gigabyte TRX50 AI TOP\nWhat is the maximum memory capacity of my Gigabyte TRX50 AI TOP?\nThe maximum memory size of the TRX50 AI TOP is 2TB.\nThe phs memory® option for my Gigabyte TRX50 AI TOP is faster than the existing RAM - Is this a problem?\nIf your system is limited to a slower memory speed, the \"Fallback Speed Setting\" in the SPD of the phs memory® RAM-Modules ensures the support of slower memory settings down to the given memory speed.\nWill the legal warranty of the device expire, if I install a new memory module?\nThe legal warranty right of your TRX50 AI TOP will not be affected if you install the memory yourself.\nDo you have any questions concerning this product?\nClose menu\n0 of 0 reviews\nAverage rating of 0 out of 5 stars\nLeave a review!\nShare your experiences with other customers.\nWrite review\nShow reviews\nReviews can only be submitted while being logged in. Please enter your login details below.\nNew customer?\nYour email address\n*\nYour password\n*\nI have forgotten my password.\nLog in\nCancel\nDisplay reviews in current language only.\nInformation on the authenticity of customer reviews: Reviews are not checked for authenticity before publication. They may therefore also come from consumers who have not purchased/used the reviewed products.\nNo reviews found. Share your insights with others.\nSimilar products\nSkip product gallery\nSimilar products\n128GB Computer memory DDR5 for Gigabyte TRX50 AI TOP RAM RDIMM\nAdd to wishlist\nRemove from wishlist\n64GB Computer memory DDR5 for Gigabyte TRX50 AI TOP RAM RDIMM\nAdd to wishlist\nRemove from wishlist\n16GB Computer memory DDR5 for Gigabyte TRX50 AI TOP RAM RDIMM\nAdd to wishlist\nRemove from wishlist\n256GB Computer memory DDR5 for Gigabyte TRX50 AI TOP RAM RDIMM 3DS\nAdd to wishlist\nRemove from wishlist\n24GB Computer memory DDR5 for Gigabyte TRX50 AI TOP RAM RDIMM\nAdd to wishlist\nRemove from wishlist\n96GB Computer memory DDR5 for Gigabyte TRX50 AI TOP RAM RDIMM\nAdd to wishlist\nRemove from wishlist\nHelp/Support\n+49 9721 78 46 78\ninfo@phs-memory.com\nService hotline\nPHS-electronic GmbH\nKarl-Götz-Str. 5\n97424 Schweinfurt\nGermany\nPhone: +49 9721 784678\nEmail:\ninfo@phs-memory.com\nOr via our\ncontact form\n.\nRevoke a contract\nSupport - Customer service\nRAMONA - RAM-Online-Analysis\n5 years warranty\nCompatibility guarantee\nMoney-back guarantee\nCancellation policy\nCancellation form\nContact form\nTaking back packaging\nInformation\nMemory blog / wiki\nShipping costs\nInfo overRAMing\nBusiness and industrial customers\nAuthorities and administration\nResellers\nReseller Registration\nRegistration as a public institution\nAbout us\nPHS-memory\nAbout phs-memory.com\nData protection & cookies\nCookie settings\nAccessibility Statement\nGeneral terms and conditions\nLegal notice\nAll prices incl. VAT plus\nshipping costs\nand possible delivery charges, if not stated otherwise.\n© 2026 PHS-electronic GmbH\nIncrease text size\nHigh contrast mode\nInvert page colors\nMonochrome\nLow Saturation\nHigh Saturation\nUnderline links\nReadable font\nDisable animations\nHighlight Headings\nLarge cursor\nReading Guide\nHide images\nReset\nReport a problem\nAccessibility\nShow toolbar\nThis website uses cookies to ensure the best experience possible.\nMore information...\nOnly technically required\nConfigure\nAccept all cookies"
+  },
+  {
+    "url": "https://www.gigabyte.com/Graphics-Card/GV-N3090TURBO-24GD",
+    "retrieved_at": "2026-10-18T11:37:31.618638+00:00",
+    "http": "403 https://www.gigabyte.com/Graphics-Card/GV-N3090TURBO-24GD",
+    "exit_code": 0,
+    "error": "",
+    "title": "Access Denied",
+    "products": [],
+    "parse_errors": [],
+    "text": "Access Denied\nAccess Denied\nYou don't have permission to access \"http://www.gigabyte.com/Graphics-Card/GV-N3090TURBO-24GD\" on this server.\nReference #18.d248655f.1792323451.c21d58eb\nhttps://errors.edgesuite.net/18.d248655f.1792323451.c21d58eb"
+  },
+  {
+    "url": "https://havn.global/products/hs-420-vgpu",
+    "retrieved_at": "2026-10-18T11:37:32.035344+00:00",
+    "http": "200 https://havn.global/products/hs-420-vgpu",
+    "exit_code": 0,
+    "error": "",
+    "title": "HAVN HS 420 VGPU | Mid-Tower PC Case",
+    "products": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "productID": 7443503448201,
+        "offers": [
+          {
+            "@type": "Offer",
+            "name": "Black",
+            "availability": "https://schema.org/InStock",
+            "price": 329.99,
+            "priceCurrency": "USD",
+            "priceValidUntil": "2026-10-28",
+            "sku": "HVN-CA-HS420-08",
+            "gtin": "4251442512163",
+            "url": "https://havn.global/products/hs-420-vgpu?variant=41876474462345"
+          },
+          {
+            "@type": "Offer",
+            "name": "White",
+            "availability": "https://schema.org/InStock",
+            "price": 329.99,
+            "priceCurrency": "USD",
+            "priceValidUntil": "2026-10-28",
+            "sku": "HVN-CA-HS420-07",
+            "gtin": "4251442512156",
+            "url": "https://havn.global/products/hs-420-vgpu?variant=41876474495113"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.98",
+          "reviewCount": "53",
+          "worstRating": "1.0",
+          "bestRating": "5.0"
+        },
+        "brand": {
+          "@type": "Brand",
+          "name": "HAVN"
+        },
+        "name": "HS 420 VGPU",
+        "description": "The HS 420 VGPU mid-tower case combines functional beauty with user-centric innovation. Designed by the HAVN team, this case is crafted to deliver superior GPU airflow, featuring a VGPU Mount Kit with a PCI Express® 5.0 riser cable. Its elegant panoramic housing, hybrid structure, optimized airflow, and smart cable management system make it the ultimate sanctuary for your gaming setup. This product does not include the flat, standard bottom fan bracket as featured on the Base Edition.\n\nUniSheet heat-formed panoramic glass panel for front and side, engineered to be flatter and with a smaller radius to minimize visual distortion.\nEnhanced thermal performance with custom ventilation, supporting up to 11 x 140mm fans and 420mm radiators on top and side.\nIntuitive SimpliCable routing system and fan hub keep your cables neatly organized and discreetly hidden.\n",
+        "category": "PC Computer Case",
+        "url": "https://havn.global/products/hs-420-vgpu",
+        "sku": "HVN-CA-HS420-08",
+        "gtin": "4251442512163",
+        "weight": {
+          "@type": "QuantitativeValue",
+          "unitCode": "kg",
+          "value": 22.18
+        },
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://havn.global/cdn/shop/files/havn-product-hs-420-vgpu-black-01.png?v=1763549940&width=1024",
+          "image": "https://havn.global/cdn/shop/files/havn-product-hs-420-vgpu-black-01.png?v=1763549940&width=1024",
+          "name": "",
+          "width": "1024",
+          "height": "1024"
+        }
+      }
+    ],
+    "parse_errors": [],
+    "text": "HAVN HS 420 VGPU | Mid-Tower PC Case\nSkip to content\nUS only for now 🌍 Outside the US? Click here to find a retailer\nOpen navigation menu\nOpen search\nProducts\nAll Products\nPC Cases\nPC Fans\nAccessories\nAbout HAVN\nThe HAVN Story\nDevelopment Process\nWhere to Buy\nSupport\nFAQ\nDownloads\nSubmit a Request\nWarranty\nHAVN\nOpen search\nOpen account page\nOpen cart\n0\nProducts\nAbout HAVN\nWhere to Buy\nSupport\nAccount\nProducts\nAll Products\nPC Cases\nPC Fans\nAccessories\nAbout HAVN\nThe HAVN Story\nDevelopment Process\nSupport\nFAQ\nDownloads\nSubmit a Request\nWarranty\nClose\nCookie policy\nWe use cookies and similar technologies to provide the best experience on our website. Refer to our Privacy Policy for more information.\nAccept\nDecline\n0\nYour cart is empty\nContinue shopping\nClear\nClose\nZoom\nHS 420 VGPU\n53 reviews\nThe HS 420 VGPU mid-tower case combines functional beauty with user-centric innovation. Designed by the HAVN team, this case is crafted to deliver superior GPU airflow, featuring a VGPU Mount Kit with a PCI Express® 5.0 riser cable. Its elegant panoramic housing, hybrid structure, optimized airflow, and smart cable management system make it the ultimate sanctuary for your gaming setup.\nThis product does not include the flat, standard bottom fan bracket as featured on the Base Edition.\nUniSheet heat-formed panoramic glass panel for front and side, engineered to be flatter and with a smaller radius to minimize visual distortion.\nEnhanced thermal performance with custom ventilation, supporting up to 11 x 140mm fans and 420mm radiators on top and side.\nIntuitive SimpliCable routing system and fan hub keep your cables neatly organized and discreetly hidden.\nModel:\nColor:\nBlack\nBlack\nWhite\nSKU: HVN-CA-HS420-08\nQuantity:\nSale price\n$329.99\nRegular price\n(/)\nSold out\nSave $-329.99\nTax calculated at checkout.\nAdd to cart\nAvailable for shipping in the U.S. only (at this time). Outside the US? Visit our\nWhere to Buy\npage.\nClick here\nfor Bulk Orders and Business Enquiries\nAdd to cart\nHS 420 VGPU\nSale price\n$329.99\nRegular price\n(/)\nAdd to cart\nThe HS 420 VGPU mid-tower case combines functional beauty with user-centric innovation. Designed by the HAVN team, this case is crafted to deliver superior GPU airflow, featuring a VGPU Mount Kit with a PCI Express® 5.0 riser cable. Its elegant panoramic housing, hybrid structure, optimized airflow, and smart cable management system make it the ultimate sanctuary for your gaming setup.\nThis product does not include the flat, standard bottom fan bracket as featured on the Base Edition.\nUniSheet heat-formed panoramic glass panel for front and side, engineered to be flatter and with a smaller radius to minimize visual distortion.\nEnhanced thermal performance with custom ventilation, supporting up to 11 x 140mm fans and 420mm radiators on top and side.\nIntuitive SimpliCable routing system and fan hub keep your cables neatly organized and discreetly hidden.\n<\nDescription\nSpecifications\nDownloads\n>\nHAVN Hybrid Structure for optimal GPU cooling\nThe HS 420 VGPU has a dual-chamber design with balanced airflow and a traditional case size ratio, channeling cool air from the bottom intake directly onto the centrally positioned GPU.\nGPU Centric Design\nThe HAVN Hybrid Structure places the GPU front and center, fully showcased behind the panoramic Unisheet glass. This design not only emphasizes your key components but also enhances GPU airflow for optimal performance.\nMirrored Airflow\nAn additional fan intake at the bottom of the rear panel channels cool air directly to your graphics card, perfectly balancing intake and exhaust. This ensures peak performance and helps maintain a cleaner, dust-free system.\nAdjustable VGPU Bracket\nWith different GPU thicknesses, the vertical GPU bracket can be adjusted horizontally to optimize the GPU's distance to the glass air guide.\nCooling Power & Compatibility\nThe HS 420 VGPU accommodates up to eleven 140mm fans and supports 420mm radiators on both the top and side.\nUniSheet heat-formed Glass Panel for Panoramic View\nWe've pushed production boundaries to achieve the smallest possible curve radius, minimizing visual distortion and offering a clear, uninterrupted view of your case's interior.\nUnique SimpliCable Routing System\nThe SimpliCable routing system and fan hub feature top-to-bottom grooved guides, making cable management effortlessly clean and giving your setup a pristine, organized appearance.\nCable Management Re-Invented\nClever silicon pass-throughs with stabilizing clips allow for precision cable management.\nLightning-fast Riser Cable Included\nThe VGPU Mount Kit and PCI Express® 5.0 X16 riser cable allow you to showcase your hardware without compromising on performance.\nVibration Isolation\nEvery fan bracket is equipped with flexible rubber isolators to separate the bracket from the chassis, preventing resonance and ensuring a quieter operation.\nCustomization\nCustomizable space accommodates a combination of storage, fans, radiators, and portable displays (VESA mounting bracket included)\nDisplays\nFans\nDrag\nProduct Specifications\nForm Factor\nMid Tower\nMaterial\nSGCC sheet metal, tempered glass, ABS, Nylon, Silicon, Zinc alloy, NdFeB magnets\nPC Case Dimensions (L x W x H)\n541 x 259.5 x 547 mm\nNet Weight\n19 kg\nWarranty\n1 year\nNotice\nWarranty support is only available for orders shipped within the United States. Orders via forwarding services are not supported.\nPlease review our\nfull warranty terms\nfor more information.\nFront I/O\nUSB 3.2 Gen 2 Type-C x1\nUSB 3.2 Gen 1 Type-A x2\nAudio Jack x1\nPower & Reset Button x1\nMotherboard Support\nE-ATX (Max Width 277 mm) / ATX / M-ATX / Mini-ITX\nExpansion Slots\n6 horizontal, 4 vertical\nFan Support\nMaximum Amount: 11\nTop: 3 x 120 / 3 x 140 mm\nRight: 3 x 120 / 3 x 140 mm\nBottom: 3 x 140 mm\nRear: 2 x 120 / 2 x 140 mm\n(Thickness Up to 30 mm)\nFan PWM Repeater\nFan Ports: 2 x PWM repeaters, 12 ports total\nLocation: 1 x Cable Management Tray\n1 x PSU Shroud\nFan Connectors: 6 ports per repeater x 4-pin PWM\n(Connect your primary fan to the white port to control PWM signal.\nAll other ports mirror the white port's signal.)\nFan Rated Voltage: 12V\nFan Safety Current: Up to 2.6A across 6 ports\nPower Connector: 1 x SATA Power\nPower Safety Current: 1 x SATA connector power input, 12V → 2.6A (max)\nCPU Tower Cooler Clearance\nHeight: Up to 185 mm. Tower cooler size depends on GPU width. CPU center to graphics card PCIe edge connector; ~199mm (varies by motherboard). Liquid cooling recommended.\nLiquid Cooling Support\nTop: 280 / 360 / 420 mm\n(Thickness: 65 mm, not overlapping with RAM)\nRight: 280 / 360 / 420 mm\n(Thickness: 80 mm w/ GPU >317mm, 80 mm w/ top AIO)\nWidth: Up to 145 mm\nGraphics Card Clearance\nLength: Up to 470 mm\nWidth: Up to 195 mm. GPU width support depends on CPU cooler size. CPU center to graphics card PCIe edge connector: ~199mm (varies by motherboard). Liquid cooling recommended.\nVertical GPU Support\n4 Slots\nPCI Express 5.0 Riser Cable Included\nRAM Clearance\nIf the fan and radiator thickness is greater than 65 mm: 420 mm - 32 mm / 360 mm - 43 mm\nPower Supply Support\nATX\nLength: Up to 220mm\n(Clearance - 290mm)\nStorage\nRight Fan Mount: 4 Storage Bays: 4 x 3.5'' / 8 x 2.5''\nCable Management Tray: 1 Storage Bay: 1 x 3.5'' / 2 x 2.5''\nStorage Bay Included: 4x\nInternal Display Support\nVESA Mounting: 75 x 75 mm / 100 x 100 mm\nDisplay Size: 14 in. (Max)\nLocation: Front Right Pillar\nDust Filter\nBottom: 1 (Removable)\nTop: 1 (Built-in)\nRight: 1 (Built-in)\nRear Bottom: 1 (Removable)\nFan Configuration Recommendations\nView all\nProduct Downloads\nManual HS 420 VGPU\nCustomer Reviews\nBased on 53 reviews\nWrite a review\n98%\n(52)\n2%\n(1)\n0%\n(0)\n0%\n(0)\n0%\n(0)\nD\nDa_Smilin_Wolf\nThis Havn Hs 420 VGPU is awesome\nThis Havn Hs 420 VGPU is awesome. It’s the perfect case to build in. I love the room to build and the capability to add wonderful aesthetics. I’m truly impressed with the case through and through. I’ve done a lot of research and absolutely no case sparked my interest like this one. It’s love\nJ\nJoshua Johnson\nFantastic case\nFantastic case.\nA\nAndrew Bowker\nThis case has a very high build quality\nThis case has a very high build quality, great usability, and a fantastic number of options for fan and radiator configuration. Im not sure I'll ever need another computer case.\nA\nAnonymous\nExcellent case\nExcellent case. Just add gpu support bracket in VGPU case as some cards are really heavy that a vertical mount needs some support. Thanks\nD\nDoctaGriff\nAbsolutely love it!\nAbsolutely love it, even though it made my RTX 5090 look tiny! XD\nN\nNate C. WhiplashPC\nThe Quality is Premium!!\nExcellent quality case. I have built several systems now with this amazing Case.   I love the versatility, your imagination is the only limitation with this case. My clients absolutely love it and are very impressed The quality is on a higher level with the HS-420. If you are looking to build a system with a premium case you have found the right place.\nS\nSpencer Daines\nIts a really great case\nIts a really great case, the only thing I can't do is fit a arctic 420 aio with a astral 5090 in the vertical mount so I just converted to the horizontal mount.\nA\nAlexandru Barbu\nthe best case\nthe best case ever\nA\nAugustus Ellerm\nGreat case however the vgpu mount did not fit my large 5090 card\nThe vgpu mount did not fit my large 5090 card. There is no vertical adjustment like there is on the standalone vgpu offering which is a shame! I’ll need to buy that stand alone bracket to make my desired look and airflow work. It’s off by just a few millimetres\nA\nAnonymous\nGreat experience! Builder forward design\nGreat experience! Builder forward design, and a premium product.\nLoad More\nShop\nWhere to Buy\nBusiness Enquiries\nShipping and Returns\nAbout\nAbout HAVN\nResearch and Development\nSupport\nFAQ\nDownloads\nHelp Center\nWarranty\nLegal\nTerms of Use\nPrivacy Policy\nImprint\nStay ahead of the game. Sign up for exclusive updates.\nE-mail\nSubscribe\nAmerican Express\nDiners Club\nDiscover\nJCB\nMastercard\nVisa\n© 2026, HAVN. “HAVN” is a trademark of Pro Gamersware GmbH. All rights reserved.\nFollow Us on Instagram\nLoad More\nShop Now\n0\n0\n0\nComments\nUser Name\n2 Days ago\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.\nShare\nWhatsapp\nTwitter\nFacebook\nPinterest\nLinkedin\nTelegram\nReddit\nEmail\nCopy link\nPlease login to like & comment\nSelect Product:\nThe Collection Snowboard: Hydrogen\nShop Now\nThe Collection Snowboard: Hydrogen The Collection Snowboard: Hydrogen\nShop Now\nSelect Size:\nS\nDescription:\nMore Info\nAdd to Cart\nView Cart"
+  },
+  {
+    "url": "https://allegrolokalnie.pl/oferty/q-2x-rtx-3090",
+    "retrieved_at": "2026-10-18T11:37:32.110392+00:00",
+    "http": "404 https://allegrolokalnie.pl/o/oferty/q-2x-rtx-3090",
+    "exit_code": 0,
+    "error": "",
+    "title": "Strona nie została znaleziona | Allegro Lokalnie",
+    "products": [],
+    "parse_errors": [],
+    "text": "Strona nie została znaleziona | Allegro Lokalnie\nEnglish\npolski\nукраїнська\njęzyk\nDbamy o Twoją prywatność\nDzięki plikom cookies i technologiom pokrewnym (np. piksele, SDK) oraz przetwarzaniu Twoich danych osobowych (między innymi unikalne identyfikatory, dane przeglądarki), możemy zapewnić, że dopasujemy do Ciebie wyświetlane treści.\nWyrażając zgodę na przechowywanie informacji na urządzeniu końcowym lub dostęp do nich i przetwarzanie danych (w tym w obszarze profilowania, analiz rynkowych i statystycznych) sprawiasz, że łatwiej będzie odnaleźć Ci w Allegro dokładnie to, czego szukasz i potrzebujesz.\nAdministratorem Twoich danych osobowych będzie Allegro a w niektórych przypadkach nasi partnerzy (\n17 partnerów\n), w tym tzw. “Zaufani Partnerzy IAB Europe” (\n9 partnerów\n). Informacja o celach przetwarzania danych osobowych przez naszych partnerów znajduje się w ich politykach ochrony prywatności.\nMy i nasi partnerzy możemy przetwarzać dane personalne w celach:\nPrzechowywanie informacji na urządzeniu lub dostęp do nich. Spersonalizowane reklamy i treści, pomiar reklam i treści,  badanie odbiorców i ulepszanie usług. Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów. Dostarczanie i prezentowanie reklam i treści. Zapisanie decyzji dotyczących prywatności oraz informowanie o nich. Dopasowanie i łączenie danych z innych źródeł. Łączenie różnych urządzeń. Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie.\nTwoje dane personalne przetwarzamy również w celu ułatwiania korzystania z naszych stron\nCele przetwarzania szczegółowo opisane są w ustawieniach dostępnych pod przyciskiem: “ZMIENIAM ZGODY” i w Polityce plików cookies.\nZgodę wyrażasz dobrowolnie i jest ważna 12 miesięcy. Możesz ją w każdym momencie wycofać lub ponowić w zakładce\nUstawienia plików cookies\nna stronie głównej. Wycofanie zgody nie wpływa na legalność uprzedniego przetwarzania.\npolityka plików cookies\npolityka ochrony prywatności\nZgadzam się\nNie zgadzam się\nZmieniam zgody\nTylko ze Smart! masz darmowe ogłoszenie motoryzacyjne\nSprawdź\nTylko ze Smart! masz darmowe ogłoszenie motoryzacyjne\nSprawdź »\nElektronika\nTelefony i akcesoria\nSmartfony\nSmartwatche\nIphone\nSmartfony Samsung\nAkcesoria GSM\nKomputery\nLaptopy\nCzęści do laptopów\nKomputery stacjonarne\nPodzespoły komputerowe\nDrukarki i skanery\nFotografia\nAparaty cyfrowe\nObiektywy\nAkcesoria fotograficzne\nAparaty natychmiastowe (Instax, Polaroid)\nTelewizory i akcesoria\nTelewizory\nProjektory\nSłuchawki\nAudio dla domu\nKino domowe\nKonsole i automaty\nKonsole PlayStation 5\nKonsole Xbox Series X/S\nKonsole PlayStation 4\nKonsole Xbox One\nKonsole Nintendo Switch\nAGD małe\nEkspresy do kawy\nOdkurzacze\nDo kuchni\nMaszyny do szycia\nAGD\nLodówki\nPralki\nZmywarki\nKuchenki mikrofalowe\nAGD do zabudowy\nPiekarniki do zabudowy\nZmywarki do zabudowy\nOkapy\nPłyty grzewcze\nModa\nBiżuteria damska\nBransoletki\nKorale\nKoczyki\nNaszyjniki\nPierścionki, obrączki\nOdzież damska\nBluzki damskie\nGarsonki i kostiumy\nGolfy damskie\nJeansy damskie\nKoszule damskie\nLegginsy\nSpódnice i spódniczki\nSukienki\nSukienki wieczorowe\nSwetry damskie\nZestawy ubrań\nOdzież męska\nBluzy męskie\nGarnitury\nJeansy męskie\nKoszule męskie\nKoszulki polo\nMarynarki\nOkrycia wierzchnie\nSpodnie męskie\nT-shirty męskie\nZegarki\nZegarki damskie\nZegarki męskie\nBagaż\nTorby podróżne\nWalizki kabinowe\nWalizki duże\nObuwie\nButy damskie\nButy męskie\nDom i Ogród\nWyposażenie\nDekoracje i ozdoby\nOzdoby świąteczne i okolicznościowe\nKwiaty i wiązanki na cmentarz\nDywany i dywaniki\nPościele i koce\nZastawa stołowa\nPrzybory kuchenne\nŚwiece\nNarzędzia\nWkrętarki\nPiły i pilarki\nSzlifierki\nSpawarki\nMłotowiertarki\nOdkurzacze przemysłowe\nPrzyrządy miernicze\nOświetlenie\nLampy wiszące\nHalogeny i naświetlacze\nŹródła światła\nOprawy oświetleniowe\nMeble\nMeble do salonu\nMeble do sypialni\nMeble kuchenne\nMeble do łazienki i toalety\nBudownictwo\nOgrzewanie\nHydraulika i akcesoria\nElektryka i akcesoria\nŚciany i elewacje\nOgród\nNawozy i preparaty\nBaseny i akcesoria\nMeble ogrodowe\nKosiarki traktorki\nPergole i trejaże\nDrewutnie\nFontanny ogrodowe\nMotoryzacja\nCzęści samochodowe\nCzęści karoserii\nOświetlenie\nSilniki i osprzęt\nUkład elektryczny, zapłon\nUkład hamulcowy\nUkład zawieszenia\nUkład wydechowy\nUkład chłodzenia\nWyposażenie wnętrza\nCzęści do maszyn\nCzęści do maszyn rolniczych\nCzęści do maszyn budowlanych\nCzęści do przyczep i naczep\nSamochody\nSamochody osobowe\nSamochody dostawcze (do 3.5 t)\nSamochody ciężarowe (pow. 3.5 t)\nInne pojazdy i łodzie\nAkcesoria samochodowe\nBagażniki\nDywaniki\nElektronika samochodowa\nTuning wizualny\nOpony i felgi\nOpony do aut osobowych\nDo motocykli i skuterów\nFelgi aluminiowe\nWarsztat\nStoły warsztatowe\nKlucze\nNajazdy samochodowe\nPodnośniki warsztatowe\nMotocykle i quady\nCzęści motocyklowe\nKaski motocyklowe\nOdzież motocyklowa\nStelaże motocyklowe\nDziecko\nZabawki\nKlocki LEGO\nLalki\nZabawki dla niemowląt\nZabawki edukacyjne\nOkazje, przyjęcia\nBalony\nPrzebrania dla dzieci\nPiniaty\nZaproszenia\nAkcesoria dla mamy i dziecka\nLeżaczki i huśtawki\nBramki i barierki ochronne\nLaktatory i akcesoria\nNosidełka\nWózki dziecięce\nWózki wielofunkcyjne\nWózki spacerowe\nWózki bliźniacze\nAkcesoria do wózka\nArtykuły szkolne\nPlecaki szkolne\nPiórniki\nPlecaki przedszkolne\nPomoce naukowe\nZabawki ogrodowe\nDomki ogrodowe\nPlace zabaw\nTrampoliny i akcesoria\nZjeżdżalnie\nRowery i pojazdy\nGokarty\nOdzież dziecięca\nObuwie dla dzieci\nFoteliki samochodowe\nPokój dziecięcy\nPościel i kocyki\nMeble dziecięce\nLalki Rainbow High\nZdrowie i higiena\nSamochodziki\nZdrowie\nDermokosmetyki\nDermokosmetyki do opalania\nZestawy dermokosmetyków\nDomowa apteczka\nSuplementy diety\nŻywność medyczna\nErotyka\nAkcesoria i gadżety erotyczne\nBielizna erotyczna\nFilmy erotyczne\nLalki miłości\nHigiena jamy ustnej\nIrygatory do zębów\nNakładki na zęby\nSzczoteczki do zębów\nWybielanie zębów\nHigiena osobista\nArtykuły higieniczne\nHigiena intymna\nNietrzymanie moczu\nKorekcja wzroku\nOkulary\nSoczewki\nMedycyna naturalna\nKremy i maści\nOlejki eteryczne\nProdukty konopne\nSpirulina, chlorella, algi\nWaporyzatory\nSprzęt i wyposażenie medyczne\nAkupresura\nFotele masujące\nGlukometry\nInhalatory\nMasażery i urządzenia masujące\nTermometry\nKule ortopedyczne\nZdrowie, medycyna\nMateriały higieniczne i opatrunkowe\nUroda\nMakijaż\nBronzery\nCienie do powiek\nKonturówki do ust\nPodkłady do twarzy\nPomadki do ust\nSztuczne rzęsy\nManicure i pedicure\nLakiery hybrydowe\nTipsy\nZdobienie paznokci\nLampy UV i LED\nFrezarki do paznokci\nAkryle i żele\nOdżywki do paznokci\nPerfumy i wody\nZapachy dla kobiet\nZapachy dla mężczyzn\nWody toaletowe damskie\nWody toaletowe męskie\nPielęgnacja\nKremy do twarzy\nMaseczki do twarzy\nOczyszczanie i demakijaż\nKosmetyki do opalania\nSzampony\nKoloryzacja\nWyposażenie salonów\nSalony fryzjerskie\nSalony kosmetyczne\nSalony tatuażu\nSolaria\nKultura i Rozrywka\nKsiążki\nBiografie\nFantasy, science fiction, horror\nKryminał, sensacja, thriller\nKsiążki dla dzieci\nKomiksy\nNaukowe i popularnonaukowe\nPodręczniki szkolne\nPoradniki i albumy\nKsiążki obyczajowe\nGry\nGry na PC\nGry na konsole\nGry na PS5\nGry na Xbox Series X\nGry na PS4\nGry na Xbox One\nGry planszowe\nGry karciane\nGry strategiczne\nGry MMO (online)\nKody i doładowania\nKody do gier\nKody i doładowania na muzykę\nKarty podarunkowe\nPłatności internetowe\nInstrumenty\nGitary i akcesoria\nInstrumenty klawiszowe\nInstrumenty perkusyjne\nInstrumenty dęte\nMuzyka\nRap, hip-hop\nMetal\nRock\nPop\nFilmy\nFilmy sensacyjne\nFilmy dla dzieci\nDramaty\nKomedie\nSport i Turystyka\nRowery i akcesoria\nRowery\nCzęści rowerowe\nKaski\nOdzież rowerowa\nWędkarstwo\nAkcesoria wędkarskie\nWędki\nKołowrotki\nPrzynęty\nTurystyka\nLatarki\nWalizki turystyczne\nKuchnia turystyczna\nNamioty\nBieganie\nOdzież do biegania\nButy do biegania\nSłuchawki do biegania\nEtui i opaski na ramię do biegania\nMilitaria\nWiatrówki\nASG\nPlecaki taktyczne\nOptyka myśliwska\nSkating, slackline\nElektronika sportowa\nSporty walki\nSporty ekstremalne\nSporty wodne\nSporty drużynowe\nSporty towarzyskie\nTenis i pokrewne\nOdzież turystyczna\nKolekcje i Sztuka\nDesign i antyki\nMeble antyczne\nPorcelana antyczna\nCeramika antyczna\nSzkło\nSrebra\nBiżuteria\nZegary i zegarki\nZabytki techniki\nAntykwariat\nKolekcje\nNumizmatyka\nFilatelistyka\nMilitaria kolekcjonerskie\nModelarstwo\nPieniądz papierowy\nPamiątki PRL-u\nHobby i rękodzieło\nBiżuteria-półprodukty\nSzycie\nDziewiarstwo\nDecoupage\nScrapbooking\nMasy do modelowania\nKartki i zaproszenia\nSztuka\nMalarstwo\nRzeźba\nGrafika\nFotografia\nPlakat\nNieruchomości\nMieszkania\nMieszkania do wynajęcia\nMieszkania na sprzedaż\nPokoje\nPokoje do wynajęcia\nDziałki\nDziałki do wynajęcia\nDziałki na sprzedaż\nMagazyny\nMagazyny i hale do wynajęcia\nMagazyny i hale na sprzedaż\nDomy\nDomy do wynajęcia\nDomy na sprzedaż\nLokale i obiekty użytkowe\nLokale i obiekty użytkowe do wynajęcia\nLokale i obiekty użytkowe na sprzedaż\nGaraże\nGaraże i miejsca postojowe do wynajęcia\nGaraże na sprzedaż\nFirma i usługi\nBiuro i reklama\nŻywe zwierzęta\nGryzonie\nKonie i kuce\nKoty\nKróliki\nPsy\nPtaki\nDrób, Kury ozdobne\nPtaki egzotyczne\nGołębie\nGołębie ozdobne\nGołębie pocztowe\nPrzemysł\nArtykuły pogrzebowe\nBudownictwo przemysłowe\nGastronomia\nMagnesy neodymowe\nMaszyny i urządzenia\nMateriały i akcesoria\nOdzież robocza\nOferty hurtowe\nPielęgnacja zieleni miejskiej\nPoligrafia\nProfesjonalne urządzenia czyszczące\nPrzemysł energetyczny\nRecykling i wywóz śmieci\nSklep i magazyn\nSłużby bezpieczeństwa publicznego\nWyposażenie pomieszczeń\nRolnictwo\nAkcesoria i preparaty rolnicze\nHodowla\nUprawa\nUrządzenia rolnicze\nWyposażenie pomieszczeń\nFraza wyszukiwania\nszukaj\nMiasto\nszukaj\nZaloguj kontem Allegro\nWystaw\nUps, nic tu nie ma!\nStrona, której szukasz, nie istnieje (błąd 404)\nPrzejdź do strony głównej\nOferty z darmową dostawą Smart!\nAktualna cena:\n500\n,00\nzł\nNowoczesna kompozycja nagrobna.\nRodzaj oferty:\nKup teraz\nMiejscowość:\nPrzemyśl\nObserwuj ofertę \"Nowoczesna kompozycja nagrobna.\"\nAktualna cena:\n84\n,99\nzł\n2x Nowy akumulator PARKSIDE X 12 V Team / 2 Ah\nRodzaj oferty:\nKup teraz\nMiejscowość:\nSiemianowice Śląskie\nObserwuj ofertę \"2x Nowy akumulator PARKSIDE X 12 V Team / 2 Ah\"\nAktualna cena:\n200\n,00\nzł\nZlewozmywak stalowy\nRodzaj oferty:\nKup teraz\nMiejscowość:\nŚwidnica\nObserwuj ofertę \"Zlewozmywak stalowy\"\nAktualna cena:\n80\n,00\nzł\nIKEA SALLADSKAL metalowy stojak na doniczkę zewnętrzny szary\nRodzaj oferty:\nKup teraz\nMiejscowość:\nWrocław\nObserwuj ofertę \"IKEA SALLADSKAL metalowy stojak na doniczkę zewnętrzny szary\"\nAktualna cena:\n55\n,00\nzł\nElektryczny zwijacz taśmy do rolet Rademacher RolloTron 1200 (Basis\nRodzaj oferty:\nKup teraz\nMiejscowość:\nPoznań\nObserwuj ofertę \"Elektryczny zwijacz taśmy do rolet Rademacher RolloTron 1200 (Basis \"\nAktualna cena:\n189\n,00\nzł\nEkspedycyje plus pakiet naprawczy.\nRodzaj oferty:\nKup teraz\nMiejscowość:\nPiastów\nObserwuj ofertę \"Ekspedycyje plus pakiet naprawczy.\"\nAktualna cena:\n50\n,00\nzł\nWiedźmin - historia fenomenu - Adam Flamma\nRodzaj oferty:\nKup teraz\nMiejscowość:\nLegnica\nObserwuj ofertę \"Wiedźmin - historia fenomenu - Adam Flamma\"\nAktualna cena:\n49\n,99\nzł\nHellraiser 3 DVD / Piekło na ziemi\nRodzaj oferty:\nKup teraz\nMiejscowość:\nWyszków\nObserwuj ofertę \"Hellraiser 3 DVD / Piekło na ziemi \"\nAktualna cena:\n50\n,00\nzł\nSpołeczno-ideologiczne oblicze drobnomieszczaństwa w okresie przejściowym\nRodzaj oferty:\nLicytacja | 6 dni do końca\nMiejscowość:\nOstrzeszów\nObserwuj ofertę \"Społeczno-ideologiczne oblicze drobnomieszczaństwa w okresie przejściowym\"\nAktualna cena:\n45\n,00\nzł\nThe Settlers Dziedzictwo Królów Platynowa Kolekcja\nRodzaj oferty:\nKup teraz\nMiejscowość:\nŁódź\nObserwuj ofertę \"The Settlers Dziedzictwo Królów Platynowa Kolekcja\"\nAktualna cena:\n2 900\n,00\nzł\nKolumna aktywna - Audiophony ATOM 10A DSP | Dwie kolumny - 2 szt.\nRodzaj oferty:\nKup teraz\nMiejscowość:\nWrocław\nObserwuj ofertę \"Kolumna aktywna - Audiophony ATOM 10A DSP | Dwie kolumny - 2 szt.\"\nAktualna cena:\n64\n,99\nzł\nSamsung Galaxy A3 2017 (SM-A320FL) Używany| Sprawny telefon | Super bateria\nRodzaj oferty:\nKup teraz\nMiejscowość:\nŚwinoujście\nObserwuj ofertę \"Samsung Galaxy A3 2017 (SM-A320FL) Używany| Sprawny telefon | Super bateria\"\nAktualna cena:\n91\n,00\nzł\nChłodzenie z HP 15eh, ciepłowód/radiator M14817-001z płyty głównej hp 15eh\nRodzaj oferty:\nKup teraz\nMiejscowość:\nGliwice\nObserwuj ofertę \"Chłodzenie z HP 15eh, ciepłowód/radiator M14817-001z płyty głównej hp 15eh\"\nAktualna cena:\n140\n,00\nzł\nKieszeń na dyski HDD 3.5'' z dyskiem WD 1TB\nRodzaj oferty:\nKup teraz\nMiejscowość:\nHusów\nObserwuj ofertę \"Kieszeń na dyski HDD 3.5'' z dyskiem WD 1TB\"\nAktualna cena:\n2 200\n,00\nzł\nAF-S Nikkor 14-24 1-2,8G ED\nRodzaj oferty:\nLicytacja | 6 dni do końca\nMiejscowość:\nSosnowiec\nObserwuj ofertę \"AF-S Nikkor 14-24 1-2,8G ED\"\nNasze kategorie\nElektronika\nMotoryzacja\nModa\nDom i Ogród\nDziecko\nZdrowie\nUroda\nKultura i Rozrywka\nSport i Turystyka\nKolekcje i Sztuka\nNieruchomości\nFirma i usługi\nPrzydatne informacje\nJak to działa\nNapisz do nas\nAllegro Gadane dla sprzedających\nAllegro Gadane dla kupujących\nMapa miejscowości\nInformacje prawne\nRegulamin\nPolityka plików \"cookies\"\nUstawienia plików \"cookies\"\nUdostępnianie lokalizacji\nInformacje dla Aktu o Usługach Cyfrowych\nPobierz aplikację\nKorzystanie z serwisu oznacza akceptację\nregulaminu\n."
+  },
+  {
+    "url": "https://www.apple.com/pl/mac-studio/specs/",
+    "retrieved_at": "2026-10-18T11:37:32.218021+00:00",
+    "http": "200 https://www.apple.com/pl/mac-studio/specs/",
+    "exit_code": 0,
+    "error": "",
+    "title": "Mac Studio - Dane techniczne - Apple (PL)",
+    "products": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "@id": "https://www.apple.com/pl/mac-studio/specs/#product",
+        "manufacturer": {
+          "@id": "https://www.apple.com/#organization"
+        },
+        "brand": {
+          "@id": "https://www.apple.com/pl/mac/#brand"
+        },
+        "name": "Mac Studio",
+        "description": "Zobacz pełne dane techniczne Maca Studio z czipem M5 Max lub M5 Ultra.",
+        "url": "https://www.apple.com/pl/mac-studio/",
+        "mainEntityOfPage": "https://www.apple.com/pl/mac-studio/",
+        "image": "https://www.apple.com/v/mac-studio/specs/b/images/meta/mac-studio_specs__gj2gy6lb3rue_og.png",
+        "potentialAction": {
+          "@type": "BuyAction",
+          "seller": {
+            "@id": "https://www.apple.com/#organization"
+          },
+          "url": [
+            "https://www.apple.com/pl/shop/goto/buy_mac/mac_studio"
+          ]
+        }
+      }
+    ],
+    "parse_errors": [],
+    "text": "Mac Studio - Dane techniczne - Apple (PL)\nApple\nSklep\nMac\niPad\niPhone\nWatch\nAirPods\nDom\nRozrywka\nAkcesoria\nWsparcie\n0\n+\nMac Studio\nLokalna nawigacja: Otwórz menu\nLokalna nawigacja: Zamknij menu\nPrzegląd\nDane techniczne\nPorównaj\nPrzejdź z PC na Maca\nKup\nMac Studio\nMac Studio – Dane techniczne\nMac Studio, Model1\nMac Studio, Model2\nKolor\nSrebrny\nCena\nCzip\nCzip Apple M5 Max\n18‑rdzeniowe CPU z 6 super rdzeniami i 12 rdzeniami zapewniającymi wydajność\n32-rdzeniowe GPU\nAkceleratory Neural Accelerator\nSprzętowa akceleracja ray tracingu\n16‑rdzeniowy system Neural Engine\n460 GB/s przepustowości pamięci\nSilnik multimedialny\nSprzętowa akceleracja obsługi H.264, HEVC, ProRes i ProRes RAW\nSilnik dekodujący wideo\nDwa silniki kodujące wideo\nDwa silniki kodujące i dekodujące format ProRes\nDekoder AV1\nMożliwe konfiguracje:\nM5 Max z 18‑rdzeniowym CPU, 40‑rdzeniowym GPU i 16‑rdzeniowym systemem Neural Engine (614 GB/s przepustowości pamięci)\nCzip Apple M5 Ultra\n30‑rdzeniowe CPU\nz 10 super rdzeniami i 20 rdzeniami zapewniającymi wydajność\n64‑rdzeniowe GPU\nAkceleratory Neural Accelerator\nSprzętowa akceleracja ray tracingu\n32‑rdzeniowy system Neural Engine\n1,2 TB/s przepustowości pamięci\nSilnik multimedialny\nSprzętowa akceleracja obsługi H.264, HEVC, ProRes i ProRes RAW\nDwa silniki dekodujące wideo\nCztery silniki kodujące wideo\nCztery silniki kodujące i dekodujące format ProRes\nDekoder AV1\nMożliwe konfiguracje:\nM5 Ultra z 36‑rdzeniowym CPU, 80‑rdzeniowym GPU i 32‑rdzeniowym systemem Neural Engine (1,2 TB/s przepustowości pamięci)\nPamięć RAM\n36 GB\n36 GB zunifikowanej pamięci RAM\nMożliwe konfiguracje:\n48 GB, 64 GB lub 128 GB (M5 Max z 18‑rdzeniowym CPU i 40‑rdzeniowym GPU)\n96 GB\n96 GB zunifikowanej pamięci RAM\nMożliwe konfiguracje:\n256 GB lub 512 GB (M5 Ultra z 36‑rdzeniowym CPU i 80‑rdzeniowym GPU)\nPamięć masowa\n1\n512 GB\nSSD 512 GB\nMożliwe konfiguracje:\n1 TB, 2 TB, 4 TB lub 8 TB\n1 TB\nSSD 1 TB\nMożliwe konfiguracje:\n2 TB, 4 TB, 8 TB lub 16 TB\nObsługa wyświetlaczy\nM5 Max\nObsługa maksymalnie pięciu wyświetlaczy zewnętrznych podłączonych do dowolnej kombinacji portów Thunderbolt i HDMI:\nPięć wyświetlaczy: cztery wyświetlacze o natywnej rozdzielczości do 6K przy 60 Hz lub 4K przy 165 Hz oraz piąty wyświetlacz o natywnej rozdzielczości do 5K przy 60 Hz podłączony do portu HDMI\nMaksymalnie trzy wyświetlacze: dwa wyświetlacze o natywnej rozdzielczości do 8K przy 60 Hz, 5K przy 120 Hz lub 4K przy 240 Hz oraz trzeci wyświetlacz o rozdzielczości do 5K przy 60 Hz podłączony do portu HDMI\nObsługa maksymalnie czterech wyświetlaczy zewnętrznych przez jeden port Thunderbolt\nPorty Thunderbolt 5 (USB‑C) obsługują natywną szybkość DisplayPort 2.1\nObsługa zmiennej częstotliwości odświeżania (VRR), HDR i dźwięku wielokanałowego\nM5 Ultra\nObsługa maksymalnie ośmiu wyświetlaczy zewnętrznych podłączonych do dowolnej kombinacji portów Thunderbolt i HDMI:\nOsiem wyświetlaczy o natywnej rozdzielczości do 6K przy 60 Hz lub 4K przy maksymalnie 165 Hz\nMaksymalnie cztery wyświetlacze o natywnej rozdzielczości do 8K przy 60 Hz, 5K przy 120 Hz lub 4K przy 240 Hz\nObsługa maksymalnie czterech wyświetlaczy zewnętrznych przez jeden port Thunderbolt\nPorty Thunderbolt 5 (USB‑C) obsługują natywną szybkość DisplayPort 2.1\nObsługa zmiennej częstotliwości odświeżania (VRR), HDR i dźwięku wielokanałowego\nDowiedz się więcej o podłączaniu monitora do Maca\nDźwięk\nWbudowany głośnik\nGniazdo słuchawkowe 3,5 mm z zaawansowaną obsługą słuchawek o wysokiej impedancji\nPort HDMI z wyjściem dźwięku wielokanałowego\nPołączenia i rozbudowa\nThunderbolt 5\nEthernet\n10 Gb\nUSB‑A\nHDMI\n2.1\nGniazdo słuchawkowe 3,5 mm\nCztery porty Thunderbolt 5 (USB‑C) obsługujące:\nThunderbolt 5 (do 120 Gb/s)\nUSB 4 (do 120 Gb/s)\nUSB 3 (do 10 Gb/s)\nDisplayPort 2.1\nGenlock\n2\nDwa porty USB 3 (USB‑A) (do 5 Gb/s)\nPort HDMI 2.1\nEthernet 10 Gb\nGniazdo słuchawkowe 3,5 mm\nPrzód (M5 Max):\nDwa porty USB‑C (do 10 Gb/s)\nGniazdo na kartę SDXC (UHS‑II)\nPrzód (M5 Ultra):\nDwa porty Thunderbolt 5 (do 120 Gb/s)\nGniazdo na kartę SDXC (UHS‑II)\nKomunikacja\nBezprzewodowa\nCzip Apple N1 do łączności bezprzewodowej\nWi‑Fi 7 (802.11be)\n3\nBluetooth 6\nTechnologia łączności Thread\nEthernet\nPort Ethernet 10 Gb (interfejs Ethernet Nbase-T obsługujący sieć Ethernet 1 Gb, 2,5 Gb, 5 Gb i 10 Gb przez złącze RJ‑45)\nWymiary i masa\nWysokość:\n9,5 cm\nSzerokość:\n19,7 cm\nGłębokość:\n19,7 cm\nMasa (M5 Max):\n2,7 kg\n4\nMasa (M5 Ultra):\n3,6 kg\n4\nSzerokość:\n19,7 cm\nGłębokość:\n19,7 cm\nWysokość:\n9,5 cm\nWymagania elektryczne i środowiskowe\nNapięcie sieciowe:\n100–240 V AC\nCzęstotliwość:\nod 50 Hz do 60 Hz, jedna faza\nMaksymalny ciągły pobór mocy:\n480 W\nTemperatura eksploatacji:\nod 10°C do 35°C\nTemperatura przechowywania:\nod –40° do 47°C\nWilgotność względna:\nod 5% do 90% bez kondensacji\nWysokość eksploatacji:\nprzetestowano do 5000 m\nZawartość opakowania\nMac Studio\nPrzewód\nzasilający\nSystem operacyjny\nmacOS\nmacOS to zaawansowany system operacyjny, a Siri AI\n5\nto potężna i wszechstronna funkcja, która rozumie osobisty kontekst użytkownika, ma bogatą wiedzę o świecie i śledzi to, co dzieje się na ekranie. Możesz wyrażać siebie przez zdjęcia i obrazy, oszczędzać czas dzięki Safari i zdziałać więcej z systemem Apple Intelligence\n5\npłynnie zintegrowanym z codziennymi czynnościami i apkami. A narzędzia, takie jak dokowanie okien, Sidecar i inne, pomogą Ci działać efektywnie.\nAppl‍e\nIntelligence\ni Siri AI\n5\nNowa generacja Apple Intelligence powstała z myślą o Twoich potrzebach. Działa w apkach, których używasz, i chroni Twoją prywatność. Apple Intelligence napędza Siri AI – zupełnie nową, bardziej osobistą, rozmowną i potężniejszą wersję Siri, a do tego mnóstwo przydatnych funkcji działających w różnych aplikacjach.\nDowiedz się więcej\nDostępność\nDzięki ułatwieniom dostępu osoby z niepełnosprawnościami mogą w pełni korzystać z potencjału Maca Studio. Jeśli tylko zechcesz tworzyć i robić wspaniałe rzeczy, pomogą Ci nasze rozwiązania wspierające wzrok, słuch, motorykę i naukę.\nDowiedz się więcej\nDostępne funkcje:\nVoiceOver\nZoom\nZwiększ kontrast\nRedukuj ruch\nDyktowanie\nSterowanie przełącznikami\nWbudowane aplikacje\n6\nApp Store\nKsiążki\nKalendarz\nKontakty\nFaceTime\nZnajdź\nFreeform\nGarageBand\nDom\niMovie\nKeynote\nPoczta\nMapy\nWiadomości\nMuzyka\nNotatki\nNumbers\nPages\nHasła\nPhoto Booth\nZdjęcia\nPodcasty\nPodgląd\nQuickTime Player\nPrzypomnienia\nSafari\nSkróty\nGiełda\nTime Machine\nPorady\nTV\nDyktafon\nPogoda\nKonfiguracje na zamówienie\nSkonfiguruj dla siebie Maca Studio z następującymi opcjami na\napple.com\n:\nM5 Max z 18‑rdzeniowym CPU, 40‑rdzeniowym GPU i 16‑rdzeniowym systemem Neural Engine\n48 GB, 64 GB lub 128 GB zunifikowanej pamięci RAM (M5 Max z 18‑rdzeniowym CPU i 40‑rdzeniowym GPU)\n1 TB, 2 TB, 4 TB lub 8 TB pamięci masowej SSD\nM5 Ultra z 36‑rdzeniowym CPU, 80‑rdzeniowym GPU i 32‑rdzeniowym systemem Neural Engine\n256 GB zunifikowanej pamięci RAM\n512 GB zunifikowanej pamięci RAM (M5 Ultra z 36‑rdzeniowym CPU i 80‑rdzeniowym GPU)\n2 TB, 4 TB, 8 TB lub 16 TB pamięci masowej SSD\nMac Studio i środowisko\nZapoznaj się z raportem środowiskowym o Macu Studio (PDF)\nPostępy w realizacji planu Apple 2030\nPod nazwą Apple 2030 kryje się nasz cel osiągnięcia neutralności węglowej w całym łańcuchu wartości. Projektujemy produkty tak, żeby miały mniejszy ślad węglowy. Kładziemy nacisk na stosowanie materiałów z recyklingu i odnawialnych, a także niskoemisyjnych, jednocześnie koncentrując się na energooszczędności oprogramowania i sprzętu.\nZaangażowanie Apple\nMateriały\nMac Studio jest wykonany z materiałów pochodzących w 35% z recyklingu\n7\n. W tym:\n100% aluminium w płycie, ramce i mocowaniach obudowy i modułu termicznego pochodzi z recyklingu\n100% miedzi w podstawie modułu termicznego i wielu płytkach drukowanych pochodzi z recyklingu\n100% złocenia i cyny w lutach na wszystkich płytkach drukowanych projektowanych przez Apple pochodzi z recyklingu\n90% stali w wielu komponentach modułu termicznego pochodzi z recyklingu\nOpakowania\nOpakowanie wykonane w 100% z włókien\n8\nEnergia\nCertyfikat ENERGY STAR®\n9\nLepszy skład chemiczny\n10\nWszystkie materiały użyte w produktach, akcesoriach i opakowaniach Apple są objęte wytycznymi zawartymi w naszej Specyfikacji Apple\ndotyczącej substancji niebezpiecznych\n. Była ona jedną z pierwszych specyfikacji w branży ograniczających stosowanie kluczowych substancji budzących obawy. Zobacz najnowszy\nRaport na temat postępów w ochronie środowiska\n, żeby dowiedzieć się, jakie działania podejmuje obecnie Apple w celu wyeliminowania tych substancji chemicznych.\nStopka Apple\nBezpłatna dostawa\nI bezpłatne zwroty. Daty dostawy zostaną podane po przejściu do kasy.\nDowiedz się więcej\nPomoc w zakupach\nMasz pytanie? Specjaliści pomogą.\nZadzwoń: 800 702 322.\n1 GB = 1 miliard bajtów; 1 TB = 1 bilion bajtów; faktyczna pojemność sformatowanego nośnika jest mniejsza.\nPrzy użyciu zgodnego sprzętu i oprogramowania innych firm.\nDostępność łączności Wi‑Fi 7 zależy od kraju. Więcej informacji znajdziesz na stronie\nsupport.apple.com/pl-pl/148165\n.\nMasa zależy od konfiguracji i czynników występujących w procesie wytwarzania.\nSystem Apple Intelligence jest dostępny z Siri i językiem urządzenia ustawionym na angielski, chiński (tradycyjny), chiński (uproszczony), duński, francuski, hiszpański, japoński, koreański, niderlandzki, niemiecki, norweski, portugalski, szwedzki, turecki, wietnamski lub włoski. Niektóre funkcje mogą nie być dostępne we wszystkich regionach i językach. Niektóre urządzenia mogą nie być dostępne we wszystkich regionach. Funkcja Siri AI jest dostępna w wersji beta i wymaga urządzenia z obsługą Apple Intelligence ustawionego na obsługiwany język. Początkowo funkcja będzie dostępna w języku angielskim. Początkowo funkcja Siri AI nie będzie dostępna w UE dla systemów iOS, iPadOS i watchOS. Określone funkcje systemu Apple Intelligence oparte na modelach działających po stronie serwera podlegają limitom dziennego wykorzystania. Dotyczy to między innymi Siri AI, inteligentnych narzędzi do edycji zdjęć, funkcji Image Playground oraz modeli AFM 3 Cloud w Skrótach. Limity dzienne mogą się różnić w zależności od funkcji, złożoności żądania, obciążenia systemu, zasad systemu i innych czynników. Rozszerzony dostęp do takich funkcji będzie w przyszłości płatny. Korzystanie z tych funkcji podlega postanowieniom regulaminu korzystania z Apple Intelligence. Więcej informacji na stronie\napple.com/pl/apple-intelligence\n.\nAplikacje iMovie, GarageBand, Pages, Numbers i Keynote są dostępne w Mac App Store. Do pobierania aplikacji niezbędne jest konto Apple oraz urządzenie zgodne z wersją systemu operacyjnego wymaganą do korzystania z danej aplikacji.\nZawartość produktu, która pochodzi z recyklingu lub źródeł odnawialnych, stanowi stosunek masy certyfikowanych materiałów z odzysku do ogólnej masy urządzenia bez opakowania i zawartych w nim akcesoriów.\nWagowy podział składników opakowania dostarczanego w USA. W obliczeniach pominięto kleje, tusze i powłoki.\nENERGY STAR i znak ENERGY STAR są zastrzeżonymi znakami towarowymi Agencji Ochrony Środowiska (USA).\nSpecyfikacja Apple dotycząca substancji niebezpiecznych opisuje ograniczenia nałożone przez Apple na stosowanie określonych substancji chemicznych w materiałach wykorzystywanych w produktach, akcesoriach i procesach produkcyjnych Apple oraz w opakowaniach używanych do dostarczania produktów do klientów końcowych Apple. Ograniczenia wynikają z przepisów lub dyrektyw międzynarodowych, wytycznych organów kontrolnych, wymogów oznakowań ekologicznych, norm środowiskowych oraz zasad firmy Apple. Produkty Apple są wolne od PCW i ftalanów. Wyjątkiem są obecnie kable zasilające w Indiach, Tajlandii (w przypadku kabli z wtyczką dwubolcową) i Korei Południowej – w tych krajach wnioskujemy o zgodę administracyjną na stosowanie zamienników PCW i ftalanów. Produkty Apple są zgodne z dyrektywą Unii Europejskiej 2011/65/UE wraz ze zmianami, w tym z wyłączeniami dotyczącymi stosowania ołowiu np. w stopach lutowniczych o wysokiej temperaturze topnienia. Apple dąży do odstąpienia od stosowania tych substancji w nowych produktach, o ile jest to technicznie możliwe.\nZestaw oferowanych funkcji może ulec zmianie. Niektóre funkcje, aplikacje i usługi mogą nie być dostępne we wszystkich regionach i językach.\n\nApple\nMac\nMac Studio\nDane techniczne\nKupuj i poznawaj\nKupuj i poznawaj\nSklep\nMac\niPad\niPhone\nWatch\nAirPods\nDom\nAirTag\nAkcesoria\nKarty upominkowe\nPortfel Apple\nPortfel Apple\nApple Pay\nKonto\nKonto\nZarządzaj swoim kontem Apple\nKonto w Apple Store\niCloud.com\nRozrywka\nRozrywka\nApple One\nApple TV\nApple Music\nApple Arcade\nApple Fitness+\nApp Store\nApple Store\nApple Store\nAplikacja Apple Store\nOdnowione i certyfikowane\nStan zamówienia\nPomoc w zakupach\nDla biznesu\nDla biznesu\nApple i biznes\nKupuj do firmy\nDla edukacji\nDla edukacji\nApple i edukacja\nZakupy na uczelnię\nWartości Apple\nWartości Apple\nDostępność\nŚrodowisko\nPrywatność\nO firmie Apple\nO firmie Apple\nNewsroom\nApple Leadership\nPraca\nGwarancja\nInwestorzy\nEtyka i zgodność z prawem\nKontakt z Apple\nInne sposoby zakupu:\nznajdź sprzedawcę\nw pobliżu.\nLub zadzwoń pod numer\n800 702 322\n.\nPolska\nCopyright ©\n2026\nApple Inc. Wszelkie prawa zastrzeżone.\nPolityka prywatności\nWykorzystanie plików cookie\nWarunki korzystania\nSprzedaż i zwroty\nInformacje prawne\nMapa witryny\nPolska"
+  },
+  {
+    "url": "https://www.morele.net/dysk-ssd-samsung-9100-pro-4tb-m-2-2280-pci-e-x4-gen5-nvme-mz-vap4t0bw-14740719/",
+    "retrieved_at": "2026-10-18T11:37:32.362711+00:00",
+    "http": "200 https://www.morele.net/dysk-ssd-samsung-9100-pro-4tb-m-2-2280-pci-e-x4-gen5-nvme-mz-vap4t0bw-14740719/",
+    "exit_code": 0,
+    "error": "",
+    "title": "Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW) - Dysk SSD - Morele.net",
+    "products": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "productID": "14740719",
+        "name": "Dysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW)",
+        "description": "Dysk SSD M.2 Samsung 9100 PRO PCIe Gen5 NVMe Samsung 9100 PRO to nowoczesny dysk półprzewodnikowy (SSD) w formacie M.2, który charakteryzuje się wyjątkową wydajnością dzięki zastosowaniu interfejsu PCIe 5.0. Oferowane przez niego prędkości odczytu i zapisu danych są znacząco wyższe w porównaniu z poprzednimi generacjami, co czyni go idealnym rozwiązaniem dla entuzjastów gier komputerowych, użytkowników laptopów oraz konsol do gier. Dzięki udoskonalonemu systemowi zarządzania energią, dysk ten cechuje się lepszą efektywnością energetyczną oraz wydłużoną żywotnością. Jego szeroka kompatybilność umożliwia prostą instalację w wielu różnych urządzeniach. Dodatkowo, wsparcie dla oprogramowania Samsung Magician zapewnia wygodne zarządzanie dyskiem, ochronę danych oraz dostęp do najnowszych aktualizacji. Maksymalna sprawność dzięki PCIe 5.0 Dysk Samsung 9100 PRO o pojemności do 4 TB wykorzystuje interfejs PCIe 5.0, który oferuje dwukrotnie większą przepustowość w porównaniu do poprzedniej generacji standardu. Dysk osiąga maksymalną sekwencyjną prędkość odczytu na poziomie 14 700 MB/s oraz zapisu do 13 300 MB/s, co znacząco skraca czas uruchamiania systemu operacyjnego i aplikacji. Ponadto, zwiększone wartości losowych operacji odczytu i zapisu gwarantują płynną pracę nawet podczas wykonywania wielu zadań jednocześnie. Zoptymalizowana efektywność energetyczna przyczynia się do dłuższego czasu pracy laptopów na zasilaniu bateryjnym. Skuteczne chłodzenie i duża pojemność Model dysku Samsung 9100 PRO wyposażono w zaawansowane rozwiązania termiczne, które efektywnie zabezpieczają dysk przed przegrzaniem. Znaczna dostępna przestrzeń dyskowa umożliwia przechowywanie dużych ilości danych, w tym plików wideo oraz wymagających gier najnowszej generacji. Dzięki temu użytkownicy mogą komfortowo pracować nad rozbudowanymi projektami bez obaw o brak wolnego miejsca. Wszechstronna kontrola z Samsung Magician Aplikacja Samsung Magician umożliwia kompleksowe zarządzanie dyskiem Samsung 9100 PRO, zapewniając łatwą optymalizację i bezpieczeństwo przechowywanych danych. Program pozwala na bieżące monitorowanie kondycji i wydajności nośnika, co umożliwia szybką reakcję na potencjalne problemy. Aplikacja oferuje również automatyczne aktualizacje oprogramowania układowego, co zapewnia utrzymanie optymalnych parametrów pracy dysku. Dodatkowo, usprawnia proces migracji danych w przypadku wymiany dysków SSD, ułatwiając przenoszenie systemu operacyjnego i plików. Dzięki temu użytkownik ma pełną kontrolę nad funkcjonowaniem swojego dysku i może w pełni wykorzystać jego możliwości.",
+        "category": [
+          "Podzespoły komputerowe > Dyski SSD",
+          {
+            "@type": "CategoryCode",
+            "inCodeSet": "https://www.google.com/basepages/producttype/taxonomy-with-ids.en-US.txt",
+            "codeValue": "380"
+          }
+        ],
+        "sku": "14740719",
+        "gtin13": "8806095811703",
+        "brand": {
+          "@type": "Brand",
+          "name": "Samsung"
+        },
+        "url": "https://www.morele.net/dysk-ssd-samsung-9100-pro-4tb-m-2-2280-pci-e-x4-gen5-nvme-mz-vap4t0bw-14740719/",
+        "image": [
+          "https://images.morele.net/i1064/14740719_0_i1064.jpg",
+          "https://images.morele.net/i1064/14740719_1_i1064.jpg",
+          "https://images.morele.net/i1064/14740719_2_i1064.jpg",
+          "https://images.morele.net/i1064/14740719_3_i1064.jpg",
+          "https://images.morele.net/i1064/14740719_4_i1064.jpg",
+          "https://images.morele.net/i1064/14740719_5_i1064.jpg",
+          "https://images.morele.net/i1064/14740719_6_i1064.jpg",
+          "https://images.morele.net/i1064/14740719_7_i1064.jpg"
+        ],
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 4026.61,
+          "priceCurrency": "PLN",
+          "priceValidUntil": "2026-10-19",
+          "itemCondition": "https://schema.org/NewCondition",
+          "seller": {
+            "@type": "Organization",
+            "name": "Morele.net Sp. z o.o."
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "minValue": 0,
+              "maxValue": 25.99,
+              "currency": "PLN"
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "PL"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 0,
+                "maxValue": 1,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 1,
+                "maxValue": 2,
+                "unitCode": "DAY"
+              }
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "applicableCountry": "PL",
+            "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 14,
+            "returnMethod": "https://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnFeesCustomerResponsibility"
+          }
+        },
+        "model": "MZ-VAP4T0BW",
+        "mpn": "MZ-VAP4T0BW",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.94",
+          "reviewCount": 17,
+          "bestRating": "5",
+          "worstRating": "1"
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Tomasz"
+            },
+            "datePublished": "2025-04-29T11:46:44+02:00",
+            "reviewBody": "Zamontowałem ten dysk na płycie głównej pod radiatorem i pod obciążeniem radiator na dysku potrafi się mocno nagrzać ale w bezpiecznych granicach. Polecam",
+            "name": "Dysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW)",
+            "reviewRating": {
+              "@type": "Rating",
+              "bestRating": "5",
+              "ratingValue": "5",
+              "worstRating": "1"
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "."
+            },
+            "datePublished": "2025-08-03T14:41:19+02:00",
+            "reviewBody": "W zasadzie nie ma o czym pisać, dysk jest szybki wydajny i działa zgodnie z oczekiwaniami/przewidywaniami nabywcy. Używam od jakiegoś czasu bez problemów.",
+            "name": "Dysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW)",
+            "reviewRating": {
+              "@type": "Rating",
+              "bestRating": "5",
+              "ratingValue": "5",
+              "worstRating": "1"
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Paweł"
+            },
+            "datePublished": "2025-05-22T19:17:45+02:00",
+            "reviewBody": "Bardzo dobry dysk. Szybki, chwilowo nie grzeje się, ale jeszcze mu nie dałem popalić ;)",
+            "name": "Dysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW)",
+            "reviewRating": {
+              "@type": "Rating",
+              "bestRating": "5",
+              "ratingValue": "5",
+              "worstRating": "1"
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Tomasz"
+            },
+            "datePublished": "2025-10-06T05:43:00+02:00",
+            "reviewBody": "Moim zdaniem najszybszy i najlepszy dysk generacji 5 na świecie.",
+            "name": "Dysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW)",
+            "reviewRating": {
+              "@type": "Rating",
+              "bestRating": "5",
+              "ratingValue": "5",
+              "worstRating": "1"
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Cezar"
+            },
+            "datePublished": "2025-05-09T23:08:58+02:00",
+            "reviewBody": "Super szybki dysk w konkurencyjnej cenie, moim zdaniem nie ma lepszego wyboru",
+            "name": "Dysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW)",
+            "reviewRating": {
+              "@type": "Rating",
+              "bestRating": "5",
+              "ratingValue": "5",
+              "worstRating": "1"
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "grzecz1@gmail.com"
+            },
+            "datePublished": "2025-08-07T10:10:39+02:00",
+            "reviewBody": "Jest OK, szybkość się zgadza, nie rogrzewa się za bardzo.",
+            "name": "Dysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW)",
+            "reviewRating": {
+              "@type": "Rating",
+              "bestRating": "5",
+              "ratingValue": "5",
+              "worstRating": "1"
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Sławomir"
+            },
+            "datePublished": "2026-02-24T10:40:11+01:00",
+            "reviewBody": "Bardzo dobre parametry zapisu i odczytu",
+            "name": "Dysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW)",
+            "reviewRating": {
+              "@type": "Rating",
+              "bestRating": "5",
+              "ratingValue": "5",
+              "worstRating": "1"
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "anonim"
+            },
+            "datePublished": "2026-04-07T19:30:12+02:00",
+            "reviewBody": "dysk szybki bardzo dobry do gier",
+            "name": "Dysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW)",
+            "reviewRating": {
+              "@type": "Rating",
+              "bestRating": "5",
+              "ratingValue": "5",
+              "worstRating": "1"
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Mirosław"
+            },
+            "datePublished": "2025-12-16T17:59:30+01:00",
+            "reviewBody": "Rewelacja",
+            "name": "Dysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW)",
+            "reviewRating": {
+              "@type": "Rating",
+              "bestRating": "5",
+              "ratingValue": "5",
+              "worstRating": "1"
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Robert"
+            },
+            "datePublished": "2026-03-29T22:20:18+02:00",
+            "reviewBody": "Sztos",
+            "name": "Dysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW)",
+            "reviewRating": {
+              "@type": "Rating",
+              "bestRating": "5",
+              "ratingValue": "5",
+              "worstRating": "1"
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Rafał"
+            },
+            "datePublished": "2026-01-21T09:05:32+01:00",
+            "reviewBody": "Super",
+            "name": "Dysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW)",
+            "reviewRating": {
+              "@type": "Rating",
+              "bestRating": "5",
+              "ratingValue": "5",
+              "worstRating": "1"
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "luk"
+            },
+            "datePublished": "2025-07-17T14:36:42+02:00",
+            "reviewBody": "Super",
+            "name": "Dysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW)",
+            "reviewRating": {
+              "@type": "Rating",
+              "bestRating": "5",
+              "ratingValue": "5",
+              "worstRating": "1"
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Oleksandr"
+            },
+            "datePublished": "2025-07-23T10:09:36+02:00",
+            "reviewBody": "git",
+            "name": "Dysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW)",
+            "reviewRating": {
+              "@type": "Rating",
+              "bestRating": "5",
+              "ratingValue": "5",
+              "worstRating": "1"
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Adrian"
+            },
+            "datePublished": "2025-06-10T17:00:05+02:00",
+            "reviewBody": "Top",
+            "name": "Dysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW)",
+            "reviewRating": {
+              "@type": "Rating",
+              "bestRating": "5",
+              "ratingValue": "5",
+              "worstRating": "1"
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "TMK796"
+            },
+            "datePublished": "2026-03-19T09:18:58+01:00",
+            "reviewBody": "Ok",
+            "name": "Dysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW)",
+            "reviewRating": {
+              "@type": "Rating",
+              "bestRating": "5",
+              "ratingValue": "5",
+              "worstRating": "1"
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Tomasz Rutkowski"
+            },
+            "datePublished": "2026-03-10T05:12:39+01:00",
+            "reviewBody": "-",
+            "name": "Dysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW)",
+            "reviewRating": {
+              "@type": "Rating",
+              "bestRating": "5",
+              "ratingValue": "5",
+              "worstRating": "1"
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Krzysztof"
+            },
+            "datePublished": "2025-10-25T09:47:09+02:00",
+            "reviewBody": "Jeden z najszybszych dysków",
+            "name": "Dysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW)",
+            "reviewRating": {
+              "@type": "Rating",
+              "bestRating": "5",
+              "ratingValue": "4",
+              "worstRating": "1"
+            }
+          }
+        ],
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Model",
+            "value": "9100 Pro"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Format dysku",
+            "value": "M.2 2280"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Grubość",
+            "value": "2.38 mm"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Radiator",
+            "value": "Nie"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Pojemność dysku",
+            "value": "4TB"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Interfejs",
+            "value": "PCI-E x4 Gen5 NVMe"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Pamięć podręczna",
+            "value": "Brak danych"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Rodzaj kości pamięci",
+            "value": "TLC"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Szybkość odczytu",
+            "value": "14800 MB/s"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Szybkość zapisu",
+            "value": "13400 MB/s"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Nominalny czas pracy",
+            "value": "1.5 mln godzin"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "TBW (Total Bytes Written)",
+            "value": "2400 TB"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Szyfrowanie sprzętowe",
+            "value": "Tak"
+          }
+        ],
+        "isVariantOf": {
+          "@id": "https://www.morele.net/#product-group-172192"
+        },
+        "inProductGroupWithID": "172192"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "isVariantOf": {
+          "@id": "https://www.morele.net/#product-group-172192"
+        },
+        "url": "https://www.morele.net/dysk-ssd-samsung-9100-pro-2tb-m-2-2280-pci-e-x4-gen5-nvme-mz-vap2t0bw-14740716/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "isVariantOf": {
+          "@id": "https://www.morele.net/#product-group-172192"
+        },
+        "url": "https://www.morele.net/dysk-ssd-samsung-9100-pro-1tb-m-2-2280-pci-e-x4-gen5-nvme-mz-vap1t0bw-14740718/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "isVariantOf": {
+          "@id": "https://www.morele.net/#product-group-172192"
+        },
+        "url": "https://www.morele.net/dysk-ssd-samsung-9100-pro-1tb-m-2-2280-pci-e-x4-gen5-nvme-mz-vap1t0cw-14764983/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "isVariantOf": {
+          "@id": "https://www.morele.net/#product-group-172192"
+        },
+        "url": "https://www.morele.net/dysk-ssd-samsung-9100-pro-2tb-m-2-2280-pci-e-x4-gen5-nvme-mz-vap2t0cw-14764984/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "isVariantOf": {
+          "@id": "https://www.morele.net/#product-group-172192"
+        },
+        "url": "https://www.morele.net/dysk-ssd-samsung-9100-pro-4tb-m-2-2280-pci-e-x4-gen5-nvme-mz-vap4t0cw-14764985/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "isVariantOf": {
+          "@id": "https://www.morele.net/#product-group-172192"
+        },
+        "url": "https://www.morele.net/dysk-ssd-samsung-9100-pro-8tb-m-2-2280-pci-e-x4-gen5-nvme-mz-vap8t0bw-15516845/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "isVariantOf": {
+          "@id": "https://www.morele.net/#product-group-172192"
+        },
+        "url": "https://www.morele.net/dysk-ssd-samsung-9100-pro-8tb-m-2-2280-pci-e-x4-gen5-nvme-mz-vap8t0cw-15556656/"
+      }
+    ],
+    "parse_errors": [],
+    "text": "Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW) - Dysk SSD - Morele.net\nWszystkie działy\nKomputery\nTelewizory i audio\nFoto i kamery\nAGD\nSmartfony i smartwatche\nBiuro i firma\nGaming\nLaptopy\nSport i turystyka\nMałe AGD\nDom i ogród\nPodzespoły komputerowe\nZabawki i dziecko\nUroda i zdrowie\nSupermarket\nSzukaj w:\nWszystkie działy\nWszystkie działy\n, zaznaczone\nKomputery\nTelewizory i audio\nFoto i kamery\nAGD\nSmartfony i smartwatche\nBiuro i firma\nGaming\nLaptopy\nSport i turystyka\nMałe AGD\nDom i ogród\nPodzespoły komputerowe\nZabawki i dziecko\nUroda i zdrowie\nSupermarket\nWybierz\nkod pocztowy\nJeśli chcesz poznać czasy dostawy dopasowane do Twojej lokalizacji,\nwprowadź kod pocztowy\nklikając w ikonę lokalizacji.\nKontakt\nListy\nzakupowe\n0\nZaloguj się\nZałóż konto\n0\n0,00 zł\nKATEGORIE\nWszystkie działy\nKomputery\nTelewizory i audio\nFoto i kamery\nAGD\nSmartfony i smartwatche\nBiuro i firma\nGaming\nLaptopy\nSport i turystyka\nMałe AGD\nDom i ogród\nPodzespoły komputerowe\nZabawki i dziecko\nUroda i zdrowie\nSupermarket\nSzukaj w:\nWszystkie działy\nWszystkie działy\n, zaznaczone\nKomputery\nTelewizory i audio\nFoto i kamery\nAGD\nSmartfony i smartwatche\nBiuro i firma\nGaming\nLaptopy\nSport i turystyka\nMałe AGD\nDom i ogród\nPodzespoły komputerowe\nZabawki i dziecko\nUroda i zdrowie\nSupermarket\nElektronika i komputery\nmorele.net\nLaptopy\nLaptopy\nPokaż wszystko w Laptopy\nLaptopy i tablety\nLaptopy\nLaptopy 2w1\nLaptopy poleasingowe\nTablety\nTablety poleasingowe\nCzytniki e-book\nLaptopy - zastosowanie\nLaptopy biznesowe\nLaptopy multimedialne\nLaptopy gamingowe\nDla Twórców (stacje robocze)\nRTX STUDIO\nLaptopy - popularni producenci\nLaptopy Lenovo\nLaptopy Dell\nLaptopy HP\nLaptopy Asus\nLaptopy Acer\nLaptopy Gigabyte\nLaptopy Apple\nLaptopy MSI\nLaptopy - rozmiar\nLaptopy 13.3\"\nLaptopy 14\"\nLaptopy 15.6\"\nLaptopy 17.3\"\nAkcesoria do laptopów\nBaterie do laptopów\nDyski zewnętrzne SSD\nDyski przenośne 1TB\nEtui do laptopów\nFiltry na ekrany\nLampki USB\nLinki zabezpieczające\nPlecaki na laptopy\nPodstawki chłodzące\nPodstawki pod laptopa\nRysiki\nStacje dokujące i replikatory portów\nTorby na laptopy\nWentylatory USB\nZasilacze do laptopów\nPodzespoły do laptopów\nDyski SSD\nDyski HDD\nNapędy optyczne\nPamięci do laptopów\nAkcesoria do tabletów\nAkcesoria do czytników e-booków\nEtui na tablety\nFolie ochronne do tabletów\nKlawiatury do tabletów\nŁadowarki sieciowe\nPokrowce na czytniki e-booków\nRysiki\nStojaki do tabletów\nUchwyty do tabletów\nKomputery\nKomputery\nPokaż wszystko w Komputery\nKomputery PC\nKomputery stacjonarne\nKomputery All-In-One\nKomputery Mini PC i NUC\nKomputery poleasingowe\nSerwery\nDyski do serwerów\nSerwery\nSerwery plików\nSzafy Rack\nZasilacze awaryjne UPS\nUrządzenia sieciowe\nAccess Pointy\nRoutery\nSwitche\nKable teleinformatyczne\nKarty sieciowe Wi-Fi\nMonitory\nMonitory\nMonitory gamingowe\nUchwyty do monitorów\nFiltry na ekrany\nKlawiatury i myszki\nKlawiatury\nKlawiatury bezprzewodowe\nMyszki\nKlawiatury z myszą\nPodkładki pod myszy\nTablety graficzne\nDyski i nośniki danych\nDyski zewnętrzne SSD\nDyski przenośne 1TB\nDyski zewnętrzne HDD\nKieszenie na dyski\nPendrive\nPendrive 1TB\nKarty pamięci\nSłuchawki\nSłuchawki bezprzewodowe\nSłuchawki dokanałowe\nSłuchawki nauszne\nSłuchawki z mikrofonem\nGłośniki, mikrofony, kamerki\nGłośniki komputerowe\nGłośniki Bluetooth\nKamery internetowe\nMikrofony\nMikrofony krawatowe\nAkcesoria do mikrofonów\nKable i adaptery\nAdaptery AV\nHuby USB\nKable AV\nKable USB\nKable zasilające\nOprogramowanie\nMicrosoft Office\nMicrosoft Windows\nAntywirusy\nDrukarki i skanery\nDrukarki atramentowe\nDrukarki laserowe\nUrządzenia wielofunkcyjne atramentowe\nUrządzenia wielofunkcyjne laserowe\nDrukarki 3D\nMateriały eksploatacyjne do druku\nPapier biurowy\nTonery do drukarek\nTusze do drukarek\nAkcesoria i zasilanie\nBaterie i akumulatorki\nErgonomia pracy\nListwy zasilające\nPodzespoły komputerowe\nPodzespoły komputerowe\nPokaż wszystko w Podzespoły komputerowe\nPodzespoły komputerowe\nDyski SSD\nDyski HDD\nKarty dźwiękowe\nKarty graficzne\nNapędy optyczne\nObudowy\nPamięci RAM\nPłyty główne\nProcesory\nZasilacze\nKARTY GRAFICZNE - SERIE\nRTX 5090\nRTX 5080\nRTX 5070\nRTX 5070 Ti\nRTX 5060 Ti\nRX 9070\nRX 9070 XT\nChłodzenie komputerowe\nChłodzenie CPU\nChłodzenie wodne - zestawy\nPasty termoprzewodzące\nTermopady\nWentylatory komputerowe\nPodzespoły z demontażu\nDyski SSD z demontażu\nPamięci RAM z demontażu\nKable i akcesoria\nAkcesoria do obudów i podzespołów\nAkcesoria do streamingu\nOświetlenie gamingowe\nKable komputerowe i przejściówki\nNarzędzia serwisowe i sieciowe\nŚrodki czyszczące\nGaming\nGaming\nPokaż wszystko w Gaming\nKonsole\nPlaystation\nXbox\nNintendo Switch\nKonsole przenośne\nKonsole retro\nKomputery gamingowe\nLaptopy gamingowe\nHP\nAcer\nAsus\nGigabyte\nLenovo\nMSI\nGry\nGry PC (wersje pudełkowe)\nGry PC (wersje cyfrowe)\nGry Nintendo Switch\nGry na PlayStation 5\nGry na PlayStation 4\nGry na PlayStation 3\nGry Xbox Series X\nGry Xbox One\nGry na Xbox 360\nAbonamenty i doładowania\nGry bez prądu\nGry planszowe\nKarty i gry karciane\nSprzęt dla graczy\nBiurka gamingowe\nFotele gamingowe\nFotele Diablo\nPady\nGogle VR\nJoysticki\nKlawiatury gamingowe\nKlawiatury membranowe\nZestawy gamingowe\nMyszki gamingowe\nPodkładki gamingowe\nSłuchawki gamingowe\nSłuchawki gamingowe bezprzewodowe\nStojaki na słuchawki\nOświetlenie gamingowe\nAkcesoria do konsol\nAkcesoria do konsol\nPady do konsol\nJoysticki do konsol\nKierownice\nStojaki pod kierownice\nSmartfony i smartwatche\nSmartfony i smartwatche\nPokaż wszystko w Smartfony i smartwatche\nSmartfony\niOS\nAndroid\nSmartfony - popularni producenci\nSmartfony Samsung\nSmartfony Apple\nSmartfony Xiaomi\nSmartfony Huawei\nSmartfony poleasingowe\nTelefony z klawiaturą\nDla aktywnych\nDla seniora\nUniwersalne\nAkcesoria do smartfonów\nEtui na telefon\nFolie i szkła ochronne do telefonów\nGłośniki Bluetooth\nKarty pamięci\nŁadowarki samochodowe\nŁadowarki sieciowe\nPowerbanki\nRysiki\nSelfie stick\nSłuchawki bezprzewodowe\nUchwyty na telefon\nZestawy głośnomówiące GSM\nZestawy słuchawkowe GSM\nSmartwatche i zegarki\nSmartwatche\nSmartbandy\nZegarki sportowe\nPulsometry i krokomierze\nZegarki\nZegarki dla dzieci\nAkcesoria do smartwatchy\nAkcesoria do zegarków\nTelefony stacjonarne\nTelefony stacjonarne\nTelefony internetowe\nBramki VoIP\nAkcesoria do telefonów stacjonarnych\nTelewizory i audio\nTelewizory i audio\nPokaż wszystko w Telewizory i audio\nTelewizory\nTelewizory z DVB-T2\nTelewizory OLED\nTelewizory QLED\nTelewizory 4K (Ultra HD)\nTelewizory Full HD\nOdtwarzacze\nTunery TV\nOdtwarzacze Blu-ray\nOdtwarzacze DVD\nOdtwarzacze multimedialne\nOdtwarzacze przenośne\nProjektory\nProjektory\nEkrany do projektorów\nPiloty i wskaźniki do prezentacji\nTorby do projektorów i ekranów\nUchwyty do projektorów\nWizualizery\nAudio i HiFi\nGłośniki Bluetooth\nGłośniki komputerowe\nKolumny głośnikowe\nAmplitunery i wzmacniacze\nSoundbary\nWieże\nRadia\nSłuchawki i mikrofony\nAkcesoria do mikrofonów\nMikrofony\nSłuchawki bezprzewodowe\nSłuchawki dokanałowe\nSłuchawki nauszne\nSłuchawki z mikrofonem\nAkcesoria RTV\nKable AV\nListwy zasilające\nPiloty RTV\nŚrodki czyszczące do ekranów\nUchwyty do telewizorów\nCar Audio\nCB Anteny\nCB Radia\nGłośniki samochodowe\nRadia samochodowe\nTransmitery FM\nWideorejestratory\nFoto i kamery\nFoto i kamery\nPokaż wszystko w Foto i kamery\nAparaty cyfrowe\nLustrzanki\nAparaty kompaktowe\nAparaty bezlusterkowe\nKamery\nKamery sportowe\nKamery cyfrowe\nKamery profesjonalne\nDrony i akcesoria\nDrony\nAkcesoria do dronów\nTorby i futerały\nPlecaki fotograficzne\nTorby fotograficzne\nAlbumy i ramki na zdjęcia\nCyfrowe ramki foto\nAlbumy na zdjęcia\nAkcesoria do aparatów i kamer\nObiektywy\nGimbale\nStatywy\nAkcesoria foto-video\nAkcesoria do kamer sportowych\nLampy błyskowe\nZasilanie\nAkumulatory do aparatów i kamer\nŁadowarki do aparatów i kamer\nSprzęt optyczny\nLornetki\nMikroskopy\nWyposażenie studia\nLampy studyjne\nLampy pierścieniowe\nAGD duże\nAGD duże\nPokaż wszystko w AGD duże\nAGD do zabudowy\nLodówki do zabudowy\nZamrażarki do zabudowy\nZmywarki do zabudowy\nPłyty do zabudowy\nPiekarniki do zabudowy\nKuchenki mikrofalowe do zabudowy\nOkapy kuchenne\nSzuflady grzewcze\nEkspresy do zabudowy\nPralki do zabudowy\nAGD wolnostojące\nLodówki\nZamrażarki\nZmywarki\nPłyty wolnostojące\nKuchnie wolnostojące\nKuchenki mikrofalowe\nChłodziarki do wina\nPralki\nPralko-suszarki\nSuszarki do ubrań\nAkcesoria AGD\nAkcesoria do pralek i suszarek\nArtykuły do zmywarek\nAkcesoria do lodówek\nAkcesoria do płyt grzewczych\nAkcesoria do piekarników\nAkcesoria do mikrofalówek\nAkcesoria do okapów kuchennych\nAkcesoria do ekspresów\nZlewozmywaki i baterie\nBaterie kuchenne\nZlewozmywaki\nAkcesoria do zlewozmywaków\nSyfony do zlewozmywaków\nAGD małe\nAGD małe\nPokaż wszystko w AGD małe\nEkspresy i kawa\nEkspresy ciśnieniowe\nEkspresy przelewowe\nEkspresy na kapsułki\nMłynki do kawy\nSpieniacze do mleka\nKawa ziarnista\nKawa w kapsułkach\nAkcesoria do ekspresów\nUrządzenia kuchenne\nBlendery\nBlendery kielichowe\nCzajniki elektryczne\nGrille elektryczne\nMulticookery\nOpiekacze\nRoboty kuchenne\nRoboty planetarne\nWyciskarki wolnoobrotowe\nSprzątanie\nMopy parowe\nMyjki ciśnieniowe\nMyjki do okien\nOdkurzacze\nOdkurzacze pionowe\nOdkurzacze piorące\nOdkurzacze przemysłowe\nOdkurzacze ręczne\nRoboty sprzątające\nNaczynia i akcesoria kuchenne\nButelki na wodę\nDzbanki filtrujące\nFiltry do dzbanków i butelek\nFiltry do wody\nWkłady i akcesoria do filtrów wody\nGarnki\nPatelnie\nMłynki do przypraw\nNoże kuchenne\nPrasowanie i szycie\nDeski do prasowania\nGeneratory pary\nGolarki do ubrań\nMaszyny do szycia\nParownice do ubrań\nSuszarki na pranie\nSuszarki do butów\nŻelazka\nUzdatnianie powietrza\nOczyszczacze powietrza\nFiltry do oczyszczaczy i nawilżaczy\nOsuszacze powietrza\nNawilżacze powietrza\nNawilżacze ewaporacyjne\nKlimatyzatory\nKlimatory\nWentylatory\nWentylatory kolumnowe\nZdrowie i uroda\nDepilatory\nGolarki\nMaszynki do włosów\nTrymery\nIrygatory do zębów\nSzczoteczki elektryczne\nSuszarki do włosów\nWagi łazienkowe\nDla dziecka\nAspiratory do nosa\nNianie elektroniczne\nInhalatory i nebulizatory\nLaktatory\nPodgrzewacze i sterylizatory do butelek\nTermometry\nDom i ogród\nDom i ogród\nPokaż wszystko w Dom i ogród\nElektronarzędzia\nFrezarki\nKlucze udarowe i pneumatyczne\nLasery budowlane\nMłotowiertarki\nPilarki szablaste\nPilarki tarczowe\nPiły łańcuchowe\nStrugarki\nSzlifierki\nUkośnice\nWiertarki\nWiertarko-wkrętarki\nWkrętarki\nWyrzynarki\nZestawy elektronarzędzi\nOsprzęt do elektronarzędzi\nAkumulatory i ładowarki\nAkcesoria do pił i pilarek\nBity i końcówki do wkrętarek\nTarcze\nWiertła\nAkcesoria samochodowe\nŁadowarki do samochodów elektrycznych\nNarzędzia\nZestawy narzędzi\nAgregaty prądotwórcze\nSkrzynki narzędziowe\nWózki narzędziowe\nSprężarki\nMierniki i testery\nDetektory\nNarzędzia tnące i skrawające\nNarzędzia ogrodnicze\nNożyce do żywopłotu\nOdkurzacze i dmuchawy do liści\nKosiarki elektryczne\nKosiarki akumulatorowe\nKosiarki spalinowe\nKosy i podkaszarki\nRoboty koszące\nRozdrabniacze do gałęzi\nSekatory\nNarzędzia ręczne\nKlucze\nBudownictwo\nAparatura elektryczna i modułowa\nMeble ogrodowe\nKomplety mebli ogrodowych\nStoły i krzesła ogrodowe\nFotele wiszące\nHamaki\nLeżaki ogrodowe\nŁawki ogrodowe\nParasole\nSkrzynie ogrodowe\nRelaks w ogrodzie\nGrille ogrodowe\nBaseny ogrodowe\nTrampoliny\nTrampoliny Zipro\nAkcesoria ogrodnicze\nWęże\nAkcesoria do węży ogrodowych\nPompy i hydrofory\nSzklarnie\nOpryskiwacze\nOświetlenie\nLampy sufitowe\nŻarówki LED\nMeble\nKomody\nKrzesła\nMaterace\nWyposażenie i dekoracje\nArmatura i ceramika łazienkowa\nUmywalki z szafką\nBaterie umywalkowe\nZestawy prysznicowe\nZestawy podtynkowe WC\nMiski WC\nWyposażenie łazienki\nOgrzewanie\nBojlery\nPiece gazowe\nPrzepływowe podgrzewacze wody\nElektryka\nSmartdom\nCzujniki\nBiuro i firma\nBiuro i firma\nPokaż wszystko w Biuro i firma\nMeble biurowe\nBiurka\nKrzesła biurowe\nErgonomia pracy\nUrządzenia biurowe\nNiszczarki do papieru\nLaminatory\nKalkulatory naukowe\nMateriały eksploatacyjne do drukarek\nPapier biurowy\nTonery do drukarek\nTusze do drukarek\nAkcesoria biurowe\nMarkery i zakreślacze\nZszywacze\nŚrodki czystości do biura\nRęczniki papierowe\nŚrodki czystości\nŚrodki czyszczące do elektroniki\nArtykuły spożywcze do biura\nKawa ziarnista\nHerbata\nCukier i substancje słodzące\nHandel i magazynowanie\nCzytniki kodów kreskowych\nDrukarki etykiet\nDrukarki etykiet - eksploatacja\nSejfy i kasetki\nLiczarki banknotów\nRegały magazynowe\nWózki transportowe\nPakowanie i wysyłka\nKoperty\nTaśmy pakowe\nDyspensery\nMonitoring\nKamery IP\nRejestratory obrazu i CCTV\nAkcesoria do kamer przemysłowych\nBHP\nRękawice robocze\nOdzież robocza\nGastronomia i hotelarstwo\nWyposażenie gastronomii\nSport i turystyka\nSport i turystyka\nPokaż wszystko w Sport i turystyka\nSprzęt cardio\nBieżnie\nOrbitreki\nRowery stacjonarne\nSteppery\nWioślarze\nTrampoliny fitness\nMaty amortyzujące\nCzęści zamienne Zipro\nBieżnie do chodzenia\nSiłownia i fitness\nHantle\nŁawki do ćwiczeń\nObciążenie\nGryfy i zaciski\nKettlebell\nMaty i materace gimnastyczne\nEkspandery i gumy do ćwiczeń\nPiłki do ćwiczeń\nRollery i piłki do masażu\nSuplementy i odżywki\nAkcesoria i dodatki sportowe\nRowery i akcesoria\nRowery miejskie\nRowery górskie\nRowery dla dzieci\nRowery elektryczne\nKaski rowerowe\nFoteliki rowerowe\nAkcesoria rowerowe\nCzęści rowerowe\nSkating\nHulajnogi\nHulajnogi elektryczne\nRolki\nOchraniacze na rolki\nSporty drużynowe\nSporty rakietowe\nSporty walki\nSporty towarzyskie\nTurystyka\nNamioty turystyczne\nMaterace turystyczne\nLatarki czołowe\nNosidełka turystyczne\nKije trekkingowe\nStacje zasilania\nAkcesoria turystyczne\nImpregnaty\nBagaż\nPlecaki turystyczne\nPlecaki sportowe\nTorby sportowe\nWalizki\nWspinaczka\nPływanie i nurkowanie\nSporty zimowe\nAkcesoria i dodatki\nOdzież damska\nBluzy damskie\nKoszulki damskie\nKurtki i kamizelki sportowe damskie\nSpodnie sportowe damskie\nOdzież męska\nBluzy męskie\nKoszulki męskie\nKurtki męskie\nSpodnie sportowe męskie\nOdzież dziecięca\nButy damskie\nButy sportowe damskie\nButy trekkingowe damskie\nButy męskie\nButy sportowe męskie\nButy piłkarskie\nButy trekkingowe męskie\nButy dziecięce\nAkcesoria odzieżowe\nZabawki i dziecko\nZabawki i dziecko\nPokaż wszystko w Zabawki i dziecko\nZabawki\nLalki Barbie\nLalki\nDomki dla lalek\nAkcesoria dla lalek\nFigurki\nRoboty dla dzieci\nSamochody i pojazdy\nTory samochodowe\nJeździki\nZabawki interaktywne\nZabawki edukacyjne\nZabawki kreatywne\nZabawki militarne\nZabawki dla niemowląt\nKaruzele\nMaty edukacyjne\nLeżaczki i bujaczki\nKlocki i puzzle\nKlocki LEGO\nKlocki Playmobil\nKlocki Cobi\nKlocki Mega Bloks\nKlocki konstrukcyjne\nKlocki magnetyczne\nPuzzle\nPuzzle i układanki 3D\nGry\nGry planszowe\nGry zręcznościowe\nGry logiczne\nKarty i gry karciane\nGry edukacyjne\nSzachy i warcaby\nQuizy\nModelarstwo\nModele kolekcjonerskie\nModele do sklejania\nZabawki ogrodowe\nDomki dla dzieci\nPlace zabaw\nZjeżdżalnie\nPiaskownice\nRowerki biegowe\nRowerki trójkołowe\nSamochody na pedały\nSamochody na akumulator\nModele RC\nDrony\nSamochody zdalnie sterowane\nŁodzie zdalnie sterowane\nArtykuły szkolne\nTornistry\nPlecaki i torby szkolne\nPiórniki\nWózki i foteliki\nWózki dziecięce\nFoteliki samochodowe\nAkcesoria do fotelików\nPielęgnacja i zdrowie dziecka\nPieluchy\nKosze na pieluchy\nChusteczki nawilżane\nKarmienie dziecka\nKrzesełka do karmienia\nButelki dla niemowląt\nMleko modyfikowane\nPokój dziecka\nŁóżeczka i kojce\nŁóżka dla dzieci\nAkcesoria dla mamy\nUroda i zdrowie\nUroda i zdrowie\nPokaż wszystko w Uroda i zdrowie\nPerfumy\nPerfumy damskie\nPerfumy męskie\nPerfumy unisex\nZestawy perfum\nPerfumy dziecięce\nPielęgnacja twarzy i ciała\nKremy do twarzy\nSerum do twarzy\nKremy pod oczy\nDo oczyszczania i demakijażu\nMydła i żele pod prysznic\nBalsamy, masła, kremy i olejki do ciała\nDezodoranty i antyperspiranty\nMakijaż\nPodkłady do twarzy\nKorektory do twarzy\nTusze do rzęs\nCienie do powiek\nKosmetyki do brwi\nPielęgnacja i stylizacja włosów\nSzampony do włosów\nOdżywki i maski do włosów\nOlejki i serum do włosów\nDo farbowania włosów\nDo modelowania włosów\nSzczotki i grzebienie\nManicure i pedicure\nLakiery hybrydowe i żele\nLakiery do paznokci\nOdżywki do paznokci\nZmywacze do paznokci\nFrezarki do paznokci\nHigiena jamy ustnej\nPasty do zębów\nPłyny do płukania jamy ustnej\nNici dentystyczne\nSzczoteczki do zębów\nArtykuły higieniczne\nDla mężczyzn\nKosmetyki do golenia dla mężczyzn\nDo pielęgnacji twarzy\nDo pielęgnacji ciała\nDo pielęgnacji włosów i brody\nMaszynki do golenia\nZdrowie\nDomowa apteczka\nWitaminy, minerały, suplementy diety\nPłyny i żele antybakteryjne\nPrezerwatywy\nWyposażenie salonów\nSupermarket\nSupermarket\nPokaż wszystko w Supermarket\nArtykuły dla psów\nKarma sucha dla psa\nKarma mokra dla psa\nSmycze dla psa\nLegowiska dla psa\nTransportery i torby dla psa i kota\nArtykuły dla gryzoni\nKlatki dla gryzoni\nPokarm dla gryzoni\nWyposażenie klatki dla gryzoni\nPodłoża i żwirki\nInstrumenty\nInstrumenty klawiszowe\nGitary\nUkulele\nPrzyjęcia i okazje\nGadżety\nArtykuły dla kotów\nKarma sucha dla kota\nKarma mokra dla kota\nKuwety dla kota\nŻwirek dla kota\nDrapaki dla kota\nArtykuły dla ptaków\nAkwarystyka\nTerrarystyka\nUtrzymanie czystości\nArtykuły do zmywarek\nPłyny do naczyń\nPłyny i proszki do prania\nŚrodki czystości\nOdświeżacze powietrza\nŚcierki, gąbki, szczotki\nMiotły i zmiotki\nMopy\nRękawice robocze\nWorki na śmieci\nZnicze i wkłady\nArtykuły spożywcze\nKawa ziarnista\nKawa mielona\nKawa w kapsułkach\nKawa rozpuszczalna\nHerbata\nKuchnie świata\nSłodycze i przekąski\nStrefa marek\nStrefa marek\nPokaż wszystko w Strefa marek\nZIPRO\nRowery stacjonarne Zipro\nBieżnie Zipro\nTrampoliny Zipro\nOrbitreki Zipro\nWioślarze Zipro\nSteppery Zipro\nPREYON\nMyszki gamingowe PREYON\nKlawiatury gamingowe PREYON\nSłuchawki gamingowe PREYON\nMikrofony PREYON\nPodkładki gamingowe PREYON\nObudowy PREYON\nKomputery stacjonarne PREYON\nZOY\nMyszki ZOY\nKlawiatury ZOY\nKlawiatury z myszą ZOY\nSłuchawki z mikrofonem ZOY\nPodstawki pod laptopa ZOY\nKable AV ZOY\nSENSE7\nFotele gamingowe SENSE7\nBiurka gamingowe SENSE7\nLG\nMonitory LG\nTelewizory LG\nDell\nLaptopy Dell\nMonitory Dell\nSamsung\nMonitory Samsung\nDyski SSD Samsung\nApple\nSmartfony Apple\nSmartwatche Apple\nLaptopy Apple\nTablety Apple\nSłuchawki bezprzewodowe Apple\nKlawiatury Apple\nMyszki Apple\nBlackwheels\nRolki Blackwheels\nHulajnogi Blackwheels\nLenovo\nLaptopy Lenovo\nTablety Lenovo\nMonitory Lenovo\nPeme\nNamioty turystyczne Peme\nLodówki turystyczne Peme\nMSI\nLaptopy MSI\nKomputery stacjonarne MSI\nMonitory MSI\nPłyty główne MSI\nKarty graficzne MSI\nMyszki gamingowe MSI\n4Swiss\nFrytkownice beztłuszczowe 4Swiss\nWyciskarki wolnoobrotowe 4Swiss\nBlendery kielichowe 4Swiss\nHulajnogi elektryczne 4Swiss\nFiltry do wody 4Swiss\nSzczoteczki elektryczne 4Swiss\nAsus\nLaptopy Asus\nMonitory Asus\nRoutery Asus\nPłyty główne Asus\nKarty graficzne Asus\nKarcher\nMyjki ciśnieniowe Karcher\nParownice i myjki parowe Karcher\nOdkurzacze Karcher\nMyjki do okien Karcher\nAKTUALNE PROMOCJE\nODBIERZ KOD RABATOWY\nWYPRZEDAŻ\nKONFIGURATOR PC\nOUTLET\nRaty 10x0%\nPORADNIKI\nMorele.net\nPodzespoły komputerowe\nChłodzenie komputerowe\nKable i akcesoria\nPodzespoły z demontażu\nPodzespoły komputerowe\nChłodzenie CPU\nChłodzenie wodne - zestawy\nDyski HDD\nDyski HDD (z demontażu)\nDyski SSD (z demontażu)\nKarty dźwiękowe\nKarty graficzne\nKontrolery\nNapędy optyczne\nObudowy\nPamięci dedykowane\nPamięci RAM\nPamięci RAM (z demontażu)\nPłyty główne\nPodzespoły poleasingowe\nProcesory\nTunery TV, FM, karty video\nWentylatory komputerowe\nZasilacze komputerowe\nDyski SSD\nLenovo\nSanDisk\nHPE\nTranscend\nDell\nHP\nKioxia\nDysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW)\nWróć do poprzedniej strony\nDysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW)\nID produktu:\n14740719\nDysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW)\nID produktu:\n14740719\nZobacz podobne\ndodaj do porównania\nusuń z porównania\nZobacz podobne\nocena produktu 4.5/5 gwiazdki\nOcena produktu\n(17)\nZapytaj społeczności\n0 pytań\nKupiło\n27\nosób\nWybierz wariant:\nPojemność dysku:\n1TB\n2TB\n4TB\n, zaznaczone\n8TB\nRadiator:\nNie\n, zaznaczone\nZ radiatorem\nDodatkowe usługi:\nPierwsze uruchomienie i test dysku HDD i SSD\n55 zł\nUsługi mogą wydłużyć deklarowany czas realizacji zamówienia o 1 dzień lub więcej\nZobacz więcej\nDane techniczne:\nFormat dysku:\nM.2 2280\nInterfejs:\nPCI-E x4 Gen5 NVMe\nPojemność dysku:\n4TB\nSzybkość odczytu:\n14800 MB/s\nSzybkość zapisu:\n13400 MB/s\nZobacz pełną specyfikację\nOtrzymasz 400 zł\nrabatu na kolejne zakupy\nw strefie Brand Club!\nGwarancja Najniższej Ceny\nWróć do produktu\nocena produktu 4.5/5 gwiazdki\nOcena produktu\n(17)\nZapytaj społeczności\n0 pytań\nKupiło\n27\nosób\nJak wybieramy\nJak wybieramy sprzedawcę?\nMorele.net to Platforma Marketplace, dlatego ten sam produkt może być wystawiany przez wielu sprzedawców, z których każdy przedstawia własną propozycję zakupu.\nAby ułatwić Ci zakupy, jako pierwszą wyświetlamy\npropozycję główną\n– jest to\nnajlepsza propozycja\nwybrana spośród wszystkich sprzedawców na podstawie ceny, czasu dostawy oraz jakości obsługi.\nPrzy wyborze sprawdzamy:\nCałkowity koszt\nPorównujemy ceny produktów wraz z najniższym dostępnym dla tego produktu kosztem przesyłki.\nCzas dostawy\nPremiujemy najszybszą wysyłkę. Liczy się nie tylko deklarowany czas, ale też to, do której godziny możesz złożyć zamówienie, aby zostało wysłane jeszcze tego samego dnia.\nJakość obsługi i Twoje bezpieczeństwo\nPromujemy sprzedawców z wysoką oceną oraz tych, którzy uzyskali status Autoryzowanego sprzedawcy.\nPełną listę sprzedawców znajdziesz w sekcji Marketplace, klikając w:\nX propozycji\n– na liście produktów,\nWięcej propozycji (X)\n– na karcie produktu.\n4 026\n,61 zł\nOstatnia sztuka!\n1\n1\n1\n, zaznaczone\nDo koszyka\nSprzedaje i wysyła przedsiębiorca:\nMorele.net\n5\n/5 (5056)\nObowiązki Morele.net i Sprzedawcy Marketplace.\nWięcej propozycji\n(7)\nod\n4 026,61 zł\nA może już\njutro\n!\nSprawdź\nRata od\n103,35 zł\nLeasing i raty dla firm od\nWybierz wariant:\nPojemność dysku:\n1TB\n2TB\n4TB\n, zaznaczone\n8TB\nRadiator:\nNie\n, zaznaczone\nZ radiatorem\nDodatkowe usługi:\nPierwsze uruchomienie i test dysku HDD i SSD\n55 zł\nUsługi mogą wydłużyć deklarowany czas realizacji zamówienia o 1 dzień lub więcej\nZobacz więcej\nOstatnia sztuka!\n1\n1\n1\n, zaznaczone\nDo koszyka\nDane techniczne:\nFormat dysku:\nM.2 2280\nInterfejs:\nPCI-E x4 Gen5 NVMe\nPojemność dysku:\n4TB\nSzybkość odczytu:\n14800 MB/s\nSzybkość zapisu:\n13400 MB/s\nZobacz pełną specyfikację\nZapytaj ekspertów\nAkcesoria\nMateriały eksploatacyjne\nOpis\nBezpieczeństwo\nSpecyfikacja\nOpinie (17)\nInspiracje (9)\nPytania i odpowiedzi\nGwarancje i usługi\nRaty\nLeasing\nKup taniej w zestawie\nUsługi w morele.net\nOdbierz Office 2021 z rabatem 5%\nOdbierz Microsoft 365 z rabatem 5%\nWindows 11 Home\nWindows 11 Professional\nRabat zostanie naliczony po dodaniu do koszyka produktu Dysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW)\n55 zł\nPierwsze uruchomienie i test dysku HDD i SSD\nWybieram\nocena produktu 4.5/5 gwiazdki\nOcena produktu\n(235)\nKupiły\n73\nosoby\n339 zł\nMicrosoft 365 Personal ML (EP2-32306)\nWybieram\nocena produktu 4.5/5 gwiazdki\nOcena produktu\n(213)\nKupiły\n202\nosoby\n377,77 zł\nMicrosoft 365 Personal PL (EP2-32454)\nWybieram\nocena produktu 4.5/5 gwiazdki\nOcena produktu\n(52)\nKupiło\n80\nosób\n519 zł\nSystem operacyjny Microsoft Windows 11 Home PL 64 bit OEM (KW9-00648)\nWybieram\nocena produktu 4.5/5 gwiazdki\nOcena produktu\n(599)\nKupiło\n666\nosób\n699 zł\nSystem operacyjny Microsoft Windows 11 Pro PL 64 bit OEM (FQC-10544)\nWybieram\nocena produktu 4.5/5 gwiazdki\nOcena produktu\n(358)\nKupiło\n607\nosób\n59 zł\nInstalacja systemu operacyjnego\nWybieram\nocena produktu 4.5/5 gwiazdki\nOcena produktu\n(548)\nKupiły\n253\nosoby\n1 099 zł\nMicrosoft Office Home and Business 2024 ML (EP2-06606)\nWybieram\nocena produktu 4.5/5 gwiazdki\nOcena produktu\n(16)\nKupiło\n78\nosób\n469 zł\nMicrosoft 365 Family ML (EP2-36894)\nWybieram\nocena produktu 4.5/5 gwiazdki\nOcena produktu\n(194)\nKupiły\n203\nosoby\n1 169 zł\nMicrosoft Office Home & Business 2024 PL (EP2-06675)\nWybieram\nocena produktu 4.5/5 gwiazdki\nOcena produktu\n(76)\nKupiły\n474\nosoby\n483,04 zł\nMicrosoft 365 Family PL (EP2-32382)\nWybieram\nocena produktu 4.5/5 gwiazdki\nOcena produktu\n(56)\nKupiło\n35\nosób\n569 zł\nMicrosoft 365 Business Standard ML (KLQ-00211)\nWybieram\nocena produktu 4.5/5 gwiazdki\nOcena produktu\n(71)\nKupiło\n188\nosób\nRabat zostanie naliczony po dodaniu do koszyka produktu Dysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW)\n55 zł\nPierwsze uruchomienie i test dysku HDD i SSD\nWybieram\nocena produktu 4.5/5 gwiazdki\nOcena produktu\n(235)\nKupiły\n73\nosoby\n59 zł\nInstalacja systemu operacyjnego\nWybieram\nocena produktu 4.5/5 gwiazdki\nOcena produktu\n(548)\nKupiły\n253\nosoby\nRabat zostanie naliczony po dodaniu do koszyka produktu Dysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW)\n339 zł\nMicrosoft 365 Personal ML (EP2-32306)\nWybieram\nocena produktu 4.5/5 gwiazdki\nOcena produktu\n(213)\nKupiły\n202\nosoby\n1 099 zł\nMicrosoft Office Home and Business 2024 ML (EP2-06606)\nWybieram\nocena produktu 4.5/5 gwiazdki\nOcena produktu\n(16)\nKupiło\n78\nosób\n1 169 zł\nMicrosoft Office Home & Business 2024 PL (EP2-06675)\nWybieram\nocena produktu 4.5/5 gwiazdki\nOcena produktu\n(76)\nKupiły\n474\nosoby\nRabat zostanie naliczony po dodaniu do koszyka produktu Dysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW)\n377,77 zł\nMicrosoft 365 Personal PL (EP2-32454)\nWybieram\nocena produktu 4.5/5 gwiazdki\nOcena produktu\n(52)\nKupiło\n80\nosób\n469 zł\nMicrosoft 365 Family ML (EP2-36894)\nWybieram\nocena produktu 4.5/5 gwiazdki\nOcena produktu\n(194)\nKupiły\n203\nosoby\n483,04 zł\nMicrosoft 365 Family PL (EP2-32382)\nWybieram\nocena produktu 4.5/5 gwiazdki\nOcena produktu\n(56)\nKupiło\n35\nosób\n569 zł\nMicrosoft 365 Business Standard ML (KLQ-00211)\nWybieram\nocena produktu 4.5/5 gwiazdki\nOcena produktu\n(71)\nKupiło\n188\nosób\nRabat zostanie naliczony po dodaniu do koszyka produktu Dysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW)\n519 zł\nSystem operacyjny Microsoft Windows 11 Home PL 64 bit OEM (KW9-00648)\nWybieram\nocena produktu 4.5/5 gwiazdki\nOcena produktu\n(599)\nKupiło\n666\nosób\nRabat zostanie naliczony po dodaniu do koszyka produktu Dysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW)\n699 zł\nSystem operacyjny Microsoft Windows 11 Pro PL 64 bit OEM (FQC-10544)\nWybieram\nocena produktu 4.5/5 gwiazdki\nOcena produktu\n(358)\nKupiło\n607\nosób\nOpis produktu\nDysk SSD M.2 Samsung 9100 PRO PCIe Gen5 NVMe\nSamsung 9100 PRO to nowoczesny dysk półprzewodnikowy (SSD) w formacie M.2, który charakteryzuje się wyjątkową wydajnością dzięki zastosowaniu interfejsu PCIe 5.0. Oferowane przez niego prędkości odczytu i zapisu danych są znacząco wyższe w porównaniu z poprzednimi generacjami, co czyni go idealnym rozwiązaniem dla entuzjastów gier komputerowych, użytkowników laptopów oraz konsol do gier. Dzięki udoskonalonemu systemowi zarządzania energią, dysk ten cechuje się lepszą efektywnością energetyczną oraz wydłużoną żywotnością. Jego szeroka kompatybilność umożliwia prostą instalację w wielu różnych urządzeniach. Dodatkowo, wsparcie dla oprogramowania Samsung Magician zapewnia wygodne zarządzanie dyskiem, ochronę danych oraz dostęp do najnowszych aktualizacji.\nMaksymalna sprawność dzięki PCIe 5.0\nDysk Samsung 9100 PRO o pojemności do 4 TB wykorzystuje interfejs PCIe 5.0, który oferuje dwukrotnie większą przepustowość w porównaniu do poprzedniej generacji standardu. Dysk osiąga maksymalną sekwencyjną prędkość odczytu na poziomie 14 700 MB/s oraz zapisu do 13 300 MB/s, co znacząco skraca czas uruchamiania systemu operacyjnego i aplikacji. Ponadto, zwiększone wartości losowych operacji odczytu i zapisu gwarantują płynną pracę nawet podczas wykonywania wielu zadań jednocześnie. Zoptymalizowana efektywność energetyczna przyczynia się do dłuższego czasu pracy laptopów na zasilaniu bateryjnym.\nSkuteczne chłodzenie i duża pojemność\nModel dysku Samsung 9100 PRO wyposażono w zaawansowane rozwiązania termiczne, które efektywnie zabezpieczają dysk przed przegrzaniem. Znaczna dostępna przestrzeń dyskowa umożliwia przechowywanie dużych ilości danych, w tym plików wideo oraz wymagających gier najnowszej generacji. Dzięki temu użytkownicy mogą komfortowo pracować nad rozbudowanymi projektami bez obaw o brak wolnego miejsca.\nWszechstronna kontrola z Samsung Magician\nAplikacja Samsung Magician umożliwia kompleksowe zarządzanie dyskiem Samsung 9100 PRO, zapewniając łatwą optymalizację i bezpieczeństwo przechowywanych danych. Program pozwala na bieżące monitorowanie kondycji i wydajności nośnika, co umożliwia szybką reakcję na potencjalne problemy. Aplikacja oferuje również automatyczne aktualizacje oprogramowania układowego, co zapewnia utrzymanie optymalnych parametrów pracy dysku. Dodatkowo, usprawnia proces migracji danych w przypadku wymiany dysków SSD, ułatwiając przenoszenie systemu operacyjnego i plików. Dzięki temu użytkownik ma pełną kontrolę nad funkcjonowaniem swojego dysku i może w pełni wykorzystać jego możliwości.\nPytanie techniczne do producenta\nBłąd w opisie? Zgłoś!\nBezpieczeństwo\nPliki do pobrania:\nInstrukcja bezpieczeństwa\nSpecyfikacja\nWyróżnione przez eksperta\nFormat dysku\nM.2 2280\nInterfejs\nPCI-E x4 Gen5 NVMe\nPojemność dysku\n4TB\nSzybkość odczytu\n14800 MB/s\nSzybkość zapisu\n13400 MB/s\nProdukt\nMarka\nSamsung\nKod producenta\nMZ-VAP4T0BW\nEAN\n8806095811703\nInformacje podstawowe\nModel\n9100 Pro\nParametry fizyczne\nFormat dysku\nM.2 2280\nGrubość\n2.38 mm\nRadiator\nNie\nParametry techniczne\nPojemność dysku\n4TB\nInterfejs\nPCI-E x4 Gen5 NVMe\nPamięć podręczna\nBrak danych\nRodzaj kości pamięci\nTLC\nSzybkość odczytu\n14800 MB/s\nSzybkość zapisu\n13400 MB/s\nNominalny czas pracy\n1.5 mln godzin\nTBW (Total Bytes Written)\n2400 TB\nSzyfrowanie sprzętowe\nTak\nProducent\nNazwa producenta\nSamsung Electronics Co., Ltd.\nAdres\n129, Samsung-ro, Yeongtong-gu, Suwon-si,, 16677 Gyeonggi-do,, KR\nAdres e-mail\n[email protected]\nPodmiot odpowiedzialny\nNazwa podmiotu\nSamsung\nAdres\nSkr. pocztowa 12987, brak Dublin, IE\nAdres e-mail\n[email protected]\nPytanie techniczne do producenta\nDrukuj opis\nOpinie\n(17)\nocena produktu 4.5/5 gwiazdki\nOcena produktu\n(17)\n4.5/5\nocena produktu 4.5/5 gwiazdki\nOcena produktu\n(17)\n100% osób poleca\nten produkt\n5\n94%\n4\n6%\n3\n0%\n2\n0%\n1\n0%\nPoznaj wszystkie opinie\nocena produktu 5/5 gwiazdki\nOcena produktu\n5\nOpinia potwierdzona zakupem\nZamontowałem ten dysk na płycie głównej pod radiatorem i pod obciążeniem radiator na dysku potrafi się mocno nagrzać ale w bezpiecznych granicach. Polecam\nZALETY:\n+ Duża pojemność\n+ Nowy szybszy standart PCI-E x4 Gen5 NVME\nTomasz\n2025-04-29\nPosiadam ten produkt 1-3 tygodnie\nOdpowiedz\n0\n0\nZgłoś nadużycie\nTwój komentarz\nTwój podpis*\nAdres e-mail*\nAnuluj\nDodaj komentarz\nocena produktu 5/5 gwiazdki\nOcena produktu\n5\nOpinia potwierdzona zakupem\nW zasadzie nie ma o czym pisać, dysk jest szybki wydajny i działa zgodnie z oczekiwaniami/przewidywaniami nabywcy.\nUżywam od jakiegoś czasu bez problemów.\n.\n2025-08-03\nPosiadam ten produkt 3-6 miesięcy\nOdpowiedz\n0\n0\nZgłoś nadużycie\nTwój komentarz\nTwój podpis*\nAdres e-mail*\nAnuluj\nDodaj komentarz\nocena produktu 5/5 gwiazdki\nOcena produktu\n5\nOpinia potwierdzona zakupem\nBardzo dobry dysk. Szybki, chwilowo nie grzeje się, ale jeszcze mu nie dałem popalić ;)\nZALETY:\n+ Szybki\nPaweł\n2025-05-22\nPosiadam ten produkt 1-3 tygodnie\nOdpowiedz\n0\n0\nZgłoś nadużycie\nTwój komentarz\nTwój podpis*\nAdres e-mail*\nAnuluj\nDodaj komentarz\nocena produktu 5/5 gwiazdki\nOcena produktu\n5\nOpinia potwierdzona zakupem\nMoim zdaniem najszybszy i najlepszy dysk generacji 5 na świecie.\nZALETY:\n+ szybkość\n+ niezawodność\nWADY:\n- cena\nTomasz\n2025-10-06\nPosiadam ten produkt 1-3 tygodnie\nKomentarze (1)\nbrać go z radiatorem czy bez ??\n1\n0\nPatryk\n2025-10-12\nZgłoś nadużycie\nOdpowiedz\n0\n0\nZgłoś nadużycie\nTwój komentarz\nTwój podpis*\nAdres e-mail*\nAnuluj\nDodaj komentarz\nocena produktu 5/5 gwiazdki\nOcena produktu\n5\nOpinia potwierdzona zakupem\nSuper szybki dysk w konkurencyjnej cenie, moim zdaniem nie ma lepszego wyboru\nCezar\n2025-05-09\nPosiadam ten produkt Od kilku dni\nOdpowiedz\n0\n0\nZgłoś nadużycie\nTwój komentarz\nTwój podpis*\nAdres e-mail*\nAnuluj\nDodaj komentarz\nocena produktu 5/5 gwiazdki\nOcena produktu\n5\nOpinia potwierdzona zakupem\nJest OK, szybkość się zgadza, nie rogrzewa się za bardzo.\n[email protected]\n2025-08-07\nPosiadam ten produkt 3-6 miesięcy\nOdpowiedz\n0\n0\nZgłoś nadużycie\nTwój komentarz\nTwój podpis*\nAdres e-mail*\nAnuluj\nDodaj komentarz\nocena produktu 5/5 gwiazdki\nOcena produktu\n5\nOpinia potwierdzona zakupem\nBardzo dobre parametry zapisu i odczytu\nSławomir\n2026-02-24\nPosiadam ten produkt 1-3 tygodnie\nOdpowiedz\n0\n0\nZgłoś nadużycie\nTwój komentarz\nTwój podpis*\nAdres e-mail*\nAnuluj\nDodaj komentarz\nocena produktu 5/5 gwiazdki\nOcena produktu\n5\nOpinia potwierdzona zakupem\ndysk szybki bardzo dobry do gier\n---\n2026-04-07\nPosiadam ten produkt 3-6 miesięcy\nOdpowiedz\n0\n0\nZgłoś nadużycie\nTwój komentarz\nTwój podpis*\nAdres e-mail*\nAnuluj\nDodaj komentarz\nocena produktu 5/5 gwiazdki\nOcena produktu\n5\nOpinia potwierdzona zakupem\nRewelacja\nMirosław\n2025-12-16\nPosiadam ten produkt 1-2 miesiące\nOdpowiedz\n0\n0\nZgłoś nadużycie\nTwój komentarz\nTwój podpis*\nAdres e-mail*\nAnuluj\nDodaj komentarz\nocena produktu 5/5 gwiazdki\nOcena produktu\n5\nOpinia potwierdzona zakupem\nSztos\nRobert\n2026-03-29\nPosiadam ten produkt 1-2 miesiące\nOdpowiedz\n0\n0\nZgłoś nadużycie\nTwój komentarz\nTwój podpis*\nAdres e-mail*\nAnuluj\nDodaj komentarz\nocena produktu 5/5 gwiazdki\nOcena produktu\n5\nOpinia potwierdzona zakupem\nSuper\nRafał\n2026-01-21\nPosiadam ten produkt 1-3 tygodnie\nOdpowiedz\n0\n0\nZgłoś nadużycie\nTwój komentarz\nTwój podpis*\nAdres e-mail*\nAnuluj\nDodaj komentarz\nocena produktu 5/5 gwiazdki\nOcena produktu\n5\nOpinia potwierdzona zakupem\nSuper\nluk\n2025-07-17\nPosiadam ten produkt 3-6 miesięcy\nOdpowiedz\n0\n0\nZgłoś nadużycie\nTwój komentarz\nTwój podpis*\nAdres e-mail*\nAnuluj\nDodaj komentarz\nocena produktu 5/5 gwiazdki\nOcena produktu\n5\nOpinia potwierdzona zakupem\ngit\nOleksandr\n2025-07-23\nPosiadam ten produkt 1-2 miesiące\nOdpowiedz\n0\n0\nZgłoś nadużycie\nTwój komentarz\nTwój podpis*\nAdres e-mail*\nAnuluj\nDodaj komentarz\nocena produktu 5/5 gwiazdki\nOcena produktu\n5\nOpinia potwierdzona zakupem\nTop\nAdrian\n2025-06-10\nPosiadam ten produkt Od kilku dni\nOdpowiedz\n0\n0\nZgłoś nadużycie\nTwój komentarz\nTwój podpis*\nAdres e-mail*\nAnuluj\nDodaj komentarz\nocena produktu 5/5 gwiazdki\nOcena produktu\n5\nOpinia potwierdzona zakupem\nOk\nTMK796\n2026-03-19\nPosiadam ten produkt 1-3 tygodnie\nOdpowiedz\n0\n0\nZgłoś nadużycie\nTwój komentarz\nTwój podpis*\nAdres e-mail*\nAnuluj\nDodaj komentarz\nocena produktu 5/5 gwiazdki\nOcena produktu\n5\nOpinia potwierdzona zakupem\n-\nTomasz Rutkowski\n2026-03-10\nPosiadam ten produkt Od kilku dni\nOdpowiedz\n0\n0\nZgłoś nadużycie\nTwój komentarz\nTwój podpis*\nAdres e-mail*\nAnuluj\nDodaj komentarz\nocena produktu 4/5 gwiazdki\nOcena produktu\n4\nOpinia potwierdzona zakupem\nJeden z najszybszych dysków\nKrzysztof\n2025-10-25\nPosiadam ten produkt 1-3 tygodnie\nOdpowiedz\n0\n0\nZgłoś nadużycie\nTwój komentarz\nTwój podpis*\nAdres e-mail*\nAnuluj\nDodaj komentarz\nPOZNAJ WSZYSTKIE OPINIE\nInspiracje\n(9)\nPytania i odpowiedzi\n(0)\nZastanawiasz się, czy produkt spełni Twoje oczekiwania?\nZapytaj Ekspertów\nGwarancje i usługi\nWarunki gwarancji\nDługość\n60 miesięcy\nTyp gwarancji\nProducenta\nInformacje o gwarancji producenta\nTelefon:\n801172678\nwww:\nLink do pomocy technicznej\nZaznacz dodatkowe opcje\nZaznaczone opcje zostaną dodane do koszyka wraz z produktem\nDodatkowa gwarancja i ubezpieczenie\nBrak\nNatychmiastowa wymiana w przypadku awarii 1 rok od zakupu\nBESTSELLER!\nszczegóły\n403 zł\nUbezpieczenie na 3 lata\nszczegóły\n805 zł\nUbezpieczenie na 4 lata\nszczegóły\n1 007 zł\nUbezpieczenie na 5 lat\nszczegóły\n1 208 zł\nDodatkowa usługa\nBrak\nPierwsze uruchomienie i test dysku HDD i SSD\nSprawdzenie poprawnego działania dysku po jego podłączeniu do komputera\nOcena wydajności dysku\nPrzeprowadzenie odpowiednich testów diagnostycznych\nszczegóły\n55 zł\nInstalacja systemu operacyjnego\nProces instalacji systemu operacyjnego\nKonfiguracja systemu i ustawień\nPrzygotowanie komputera do pełnej gotowości do pracy\nszczegóły\n59 zł\nRaty\nLeasing\nRaty dla biznesu\nOblicz ratę\nSfinansuj wszystko w Ratach dla Firm w\n7 minut\n!\nNa cały asortyment sklepu wraz\nz usługami.\nUmowę zatwierdzasz online\n, a cały proces od A do Z to tylko kilka minut.\nJesteś właścicielem sprzętu od chwili zakupu\n, a faktura jest wystawiana na Twoją firmę.\nWprowadzasz w koszty firmy\njak przy zakupie za gotówkę.\nOferta dopasowana do każdego rodzaju firmy\n, niezależnie od formy prawnej!\nOpis produktu\nSpecyfikacja techniczna\nOpinie\n4.5\n(\n17\n)\nPytania i odpowiedzi\n(0)\nInspiracje\n(9)\nOutlet\n(0)\nMarket\nDysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW)\nDysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW)\nocena produktu 4.5/5 gwiazdki\nOcena produktu\n(17)\nStrona producenta\nLink do pomocy technicznej\nInfolinia\n801172678\nZAKUPY\nDodatkowa gwarancja\nMontaż komputera\nUsługi\nUbezpieczenie PZU\nOchrona telefonu, tabletu i smartwatcha\nKarta Podarunkowa\nBrand Club - program lojalnościowy\nMorele MAX\nPayPo\nRaty\nLeasing\nZakupy dla firmy\nPOMOCNE LINKI\nPomoc\nSposoby dostawy i płatności\nZwroty i reklamacje\nAktualne promocje\nPoradniki\nWszystkie kategorie produktowe\nPytanie o produkt i doradztwo produktowe\nOpinie o Morele.net\nCałodobowe wsparcie Klienta\nMORELE.NET\nO nas\nDane firmy i numer konta\nNewsletter\nNagrody i certyfikaty\nKariera\nDla prasy\nPolityka prywatności i cookies\nUstawienia cookies\nRegulamin sklepu\nKoszty gospodarowania odpadami\nBezpieczeństwo produktów\nDotacje i dofinansowania\nKody rabatowe\ne-procurement (PunchOut)\nTech\nHome\nMARKETPLACE\nO Marketplace\nZostań sprzedawcą\nObowiązki Morele.net i Sprzedawcy Marketplace\nSocial media\nZnajdziesz nas na:\nMASZ PYTANIA?\nKontakt\nWERSJA STRONY NA KOMPUTER\nSpecjalista Morele\n|\n13:37\nCześć!\nDysk SSD Samsung 9100 Pro 4TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP4T0BW) możemy dostarczyć\ndo Ciebie już\njutro!\nJeśli chcesz poznać dokładny czas dostawy, wprowadź kod pocztowy lub nazwę miejscowości.\nKod pocztowy możesz zmienić klikając w ikonę lokalizacji\nkod pocztowy lub miejscowość\nZapisz\nPoznaj czas dostawy\nJeśli chcesz poznać czasy dostawy dopasowane do Twojej lokalizacji, wprowadź kod pocztowy rozwijając menu “Więcej”.\n4 026\n,61 zł\nDo koszyka\nStart\nMenu\n0\nKoszyk\n0\nKonto\nWięcej\nPrzepraszamy, czat na żywo w tej chwili jest już nieczynny. Jeśli masz jakieś pytanie lub problem,\nnapisz do nas\nwiadomość lub odwiedź nasze\ncentrum pomocy\n.\nCzat na żywo jest do Twojej dyspozycji codziennie w godzinach:\nponiedziałek-piątek: 9:00-17:00"
+  },
+  {
+    "url": "https://proline.pl/zenpc-studio-amd-ryzen-9950x3d2-rtx-5090-2tb-128gb-dlss-4-p8392809",
+    "retrieved_at": "2026-10-18T11:37:32.841959+00:00",
+    "http": "200 https://proline.pl/zenpc-studio-amd-ryzen-9950x3d2-rtx-5090-2tb-128gb-dlss-4-p8392809",
+    "exit_code": 0,
+    "error": "",
+    "title": "Stacja robocza ZENPC Studio AMD Ryzen 9950X3D2 RTX 5090 2TB 128GB DLSS... - proline.pl - Internetowy sklep komputerowy",
+    "products": [
+      {
+        "@context": "https://schema.org/",
+        "@type": "Product",
+        "name": "ZENPC Studio AMD Ryzen 9950X3D2 RTX 5090 2TB 128GB DLSS 4",
+        "image": [
+          "https://static.proline.pl/i/p/8392809/0000013401_0.jpg"
+        ],
+        "offers": {
+          "@type": "Offer",
+          "url": "https://proline.pl/zenpc-studio-amd-ryzen-9950x3d2-rtx-5090-2tb-128gb-dlss-4-p8392809",
+          "priceCurrency": "PLN",
+          "price": 49499.0,
+          "itemCondition": "http://schema.org/NewCondition",
+          "availability": "https://schema.org/PreOrder",
+          "seller": {
+            "@type": "Organization",
+            "name": "ProLine S.A.",
+            "legalName": "ProLine S.A."
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "applicableCountry": "PL",
+            "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 14,
+            "returnMethod": "https://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnFeesCustomerResponsibility"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": 19.99,
+              "currency": "PLN"
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "PL"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 0,
+                "maxValue": 1,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 1,
+                "maxValue": 3,
+                "unitCode": "DAY"
+              }
+            }
+          }
+        },
+        "sku": "0000013401",
+        "mpn": "0000013401",
+        "gtin13": "",
+        "description": "Specyfikacja: Procesor: AMD Ryzen 9 9950X3D2 | Płyta główna: Gigabyte X870E AORUS ELITE WIFI7 | Karta graficzna: Gigabyte GeForce RTX 5090 Gaming OC 32GB GDDR7 | Pamięć: Kingston FURY Beast 128GB (2x64GB) 5600MHz CL36 | Dysk: Samsung SSD 990 PRO 2TB M.2 PCIe NVMe Gen4 | Obudowa: Fractal Design North XL Charcoal Black Mesh | Zasilacz: Seasonic FOCUS GX-1000 v4 ATX 3.1 PCIe 5.1 80Plus Gold 1000W | Chłodzenie procesora: EK Water Blocks EK-Nucleus AIO CR360",
+        "brand": {
+          "@type": "Brand",
+          "name": "ZENPC"
+        }
+      }
+    ],
+    "parse_errors": [],
+    "text": "Stacja robocza ZENPC Studio AMD Ryzen 9950X3D2 RTX 5090 2TB 128GB DLSS... - proline.pl - Internetowy sklep komputerowy\nWszędzie\nKomputery i laptopy\nPodzespoły komputerowe\nUrządzenia peryferyjne PC\nTelefony i akcesoria\nGaming i streaming\nMałe AGD\nTelewizory i audio\nFotografia i kamery\nBiuro i firma\nSport i hobby\nZdrowie i uroda\nDziecko i mama\nDom i ogród\nMotoryzacja\nUsługi i gwarancje\nKonfigurator\n0\n0,00 zł\nMój Proline\nWitaj w proline!\nMasz już konto?\nZaloguj się, by sprawdzić\nswoje zamówienia, listy i konfiguracje.\nZaloguj się\nalbo\nZałóż konto\nWygląd strony\nKategorie\nNowości\nBestsellery\npro\nmocje\nSprzęt gamingowy\nWyprzedaż\nKontakt\nKomputery i laptopy\nPodzespoły komputerowe\nUrządzenia peryferyjne PC\nTelefony i akcesoria\nGaming i streaming\nMałe AGD\nTelewizory i audio\nFotografia i kamery\nBiuro i firma\nSport i hobby\nZdrowie i uroda\nDziecko i mama\nDom i ogród\nMotoryzacja\nUsługi i gwarancje\nKomputery PC\nOprogramowanie\nAkcesoria do tabletów\nLaptopy, notebooki, ultrabooki\nTablety\nCzytniki e-book i akcesoria\nAkcesoria do laptopów\nSerwery i akcesoria\nTorby, plecaki i etui\nCzęści do laptopów\nStacje robocze\nKomputery gamingowe\nKomputery do domu i biura\nPakiety serwisowe\nStacja robocza ZENPC Studio AMD Ryzen 9950X3D2 RTX 5090 2TB 128GB DLSS 4\nDodaj pierwszą opinię\nSKU: 13401\nMPN: 0000013401\nStacja robocza ZENPC Studio AMD Ryzen 9950X3D2 RTX 5090 2TB 128GB DLSS 4\nNastępny\nPoprzedni\nKliknij, aby wyświetlić duże zdjęcia produktu\nNastępny\nPoprzedni\nNastępny\nPoprzedni\nNastępny\nPoprzedni\nDodaj pierwszą opinię\nPłyta główna:\nGigabyte X870E AORUS ELITE WIFI7\nProcesor:\nAMD Ryzen 9 9950X3D2\nPamięć:\n128 GB\nPamięć model:\nKingston FURY Beast 128GB (2x64GB) 5600MHz CL36\nKarta graficzna:\nRTX 5090\nKarta graficzna model:\nGigabyte GeForce RTX 5090 Gaming OC 32GB GDDR7\nDysk twardy:\n2000 GB\nZobacz więcej szczegółów\nPamięć\n64gb\n128gb\nPostaw na oryginalny system Microsoft!\nKup\nWindows 11 Home\nalbo\nWindows\n11\nPro\n.\nWysyłkowa:\n49 499,00 zł\nStacjonarna:\n50 490,00 zł\nDodaj do koszyka\nTransport gratis\nZobacz szczegóły\nNa zamówienie\nZapytaj o termin wysyłki\nZapytaj o produkt\nGwarancja producenta\n36 miesiące\nZwrot / wymiana towaru\nMasz na to 14 dni.\nZobacz regulamin i wyłączenia...\nZapłać za pomocą\nBLIK, BLIK Płacę Później, PayPo, Przelewy24, Raty, Kartą, Za pobraniem\nWysyłka za pomocą\nInPost, DPD, DHL\nUdostępnij\nDrukuj\nZgłoś błąd\nSKU: 13401\nMPN: 0000013401\nEAN:\nPłyta główna:\nGigabyte X870E AORUS ELITE WIFI7\nProcesor:\nAMD Ryzen 9 9950X3D2\nPamięć:\n128 GB\nPamięć model:\nKingston FURY Beast 128GB (2x64GB) 5600MHz CL36\nKarta graficzna:\nRTX 5090\nKarta graficzna model:\nGigabyte GeForce RTX 5090 Gaming OC 32GB GDDR7\nDysk twardy:\n2000 GB\nZobacz więcej szczegółów\nPamięć\n64gb\n128gb\nPostaw na oryginalny system Microsoft!\nKup\nWindows 11 Home\nalbo\nWindows\n11\nPro\n.\nOpis\nCechy\nOpinie\nTen produkt bierze udział w promocji\nZENPC Studio AMD Ryzen 9950X3D2 RTX 5090 2TB 128GB DLSS 4\nSpecyfikacja: Procesor: AMD Ryzen 9 9950X3D2 | Płyta główna: Gigabyte X870E AORUS ELITE WIFI7 | Karta graficzna: Gigabyte GeForce RTX 5090 Gaming OC 32GB GDDR7 | Pamięć: Kingston FURY Beast 128GB (2x64GB) 5600MHz CL36 | Dysk: Samsung SSD 990 PRO 2TB M.2 PCIe NVMe Gen4 | Obudowa: Fractal Design North XL Charcoal Black Mesh | Zasilacz: Seasonic FOCUS GX-1000 v4 ATX 3.1 PCIe 5.1 80Plus Gold 1000W | Chłodzenie procesora: EK Water Blocks EK-Nucleus AIO CR360\nNajważniejsze cechy\nMaksymalna moc NVIDIA RTX Studio - stworzone specjalnie dla profesjonalnych twórców\nProfesjonalne GPU z Ray Tracingiem i AI - fotorealistyczne renderowanie, akceleracja AI\nSterowniki NVIDIA Studio - stabilność i pełna kompatybilność z wiodącym oprogramowaniem\nRenderowanie i edycja w czasie rzeczywistym - płynna praca z grafiką 2D, 3D, wideo i projektami CAD\nWsparcie dla technologii AI i DLSS - przyspieszenie procesów twórczych\nWydajne procesory wielordzeniowe - gwarantujące moc obliczeniową\nUltraszybkie dyski SSD NVMe PCIe - błyskawiczny dostęp do danych i projektów\nGotowe do pracy po rozpakowaniu - zmontowane, przetestowane i gotowe do działania\nStworzone do pracy twórczej - Adobe Creative Cloud, Blender, Autodesk, DaVinci Resolve, Unreal Engine i wiele innych.\nDzięki przełomowej szybkości NVIDIA Studio usprawnia edycję wideo, renderowanie 3D i projektowanie. Ekskluzywne narzędzia oparte na RTX i AI akcelerują najbardziej wymagające przepływy pracy, natomiast sterowniki Studio zapewniają wyjątkową stabilność i aktualizują aplikacje kreatywne – uwalniając kreatywność bez ograniczeń.\nGeneratywna AI. W mgnieniu AI\nKarty graficzne GeForce RTX z serii 50 zostały stworzone z myślą o erze generatywnej AI. Obsługa FP4 zmniejsza zużycie VRAM o połowę, a jednocześnie podwaja wydajność, umożliwiając szybsze uruchamianie najnowszych modeli. Błyskawiczna wydajność najlepszych narzędzi, m.in. ComfyUI, ułatwia tworzenie, iteracje i udoskonalanie. Ponadto zapewnia gotowe wsparcie i optymalizację najlepszych modeli wizualnych generatywnej AI.\nEdycja wideo i animacja graficzna\nDzięki układom GPU GeForce RTX z serii 50 możesz płynnie pracować z wideo 4:2:2 – bez konieczności korzystania z proxy. Dekodery NVIDIA umożliwiają bezpośrednią edycję, rdzenie Tensor akcelerują efekty oparte na AI, a nawet trzy dedykowane enkodery zapewniają eksport z zawrotną prędkością. Narzędzia generatywnej AI są podkręcane przez RTX, dzięki czemu usprawniają m.in. rozszerzanie klipów, skalowanie nagrań i generowanie nowych treści.\nTransmitowanie. Strumieniowanie na żywo nowej generacji\nWyjątkowy enkoder NVIDIA (NVENC) zasila Twoje ulubione aplikacje do strumieniowania, zapewniając niezrównaną jakość i wydajność wideo. Dzięki takim efektom AI jak usuwanie szumu i wirtualne oświetlenie NVIDIA Broadcast zamienia dowolną przestrzeń w domowe studio. Natomiast RTX Video podnosi rozdzielczość każdej transmisji do oszałamiającej jakości 4K HDR.\nProjektowanie i animacja 3D. Renderowanie na zawołanie\nDedykowane rdzenie ray tracingu błyskawicznie renderują złożone sceny 3D, natomiast oparte na AI usuwanie szumów NVIDIA OptiX™ zapewnia realistyczne podglądy oświetlenia w czasie rzeczywistym. NVIDIA DLSS zapewnia płynną nawigację między scenami, a przyspieszona przez RTX generatywna AI umożliwia szybsze tworzenie modeli 3D, tekstur i map HDRi, przyspieszając tym samym realizację Twoich wizji.\nProjektowanie graficzne. Szybkość przede wszystkim\nAdobe Creative Cloud działa błyskawicznie dzięki NVIDIA Studio, pozwalając Ci tworzyć i ulepszać swoją pracę szybciej niż kiedykolwiek wcześniej, przy użyciu wydajnych narzędzi AI akcelerowanych przez karty GeForce RTX.\nFotografia. Edytuj migiem\nOd RAW do WOW: karty graficzne GeForce RTX błyskawicznie generują efekty i funkcje AI. Przetwarzaj masowo wszystkie obrazy dzięki opartej na układzie GPU edycji grupowej. Wykorzystaj przyspieszoną przez RTX generatywną AI, aby dokonać precyzyjnych edycji. Oszczędzisz w ten sposób wiele godzin pracy i przeniesiesz edycję zdjęć na kolejny poziom.\nRTX Video. Wideo ulepszone przez AI\nRTX Video Super Resolution i RTX Video HDR automatycznie poprawiają jakość nagrań wideo odtwarzanych w przeglądarkach Chrome, Firefox lub Edge. Wykorzystują do tego najnowocześniejsze algorytmy AI, dzięki którym wyostrzają obraz i usuwają bryłowate oraz rozpraszające efekty kompresji. Ciesz się krystalicznie czystym obrazem HDR w rozdzielczości nawet do 4K.\nNVIDIA Broadcast. Twoje domowe studio z technologią AI\nDzięki aplikacji NVIDIA Broadcast przekształcisz każdą przestrzeń w domowe studio transmisyjne, podnosząc wydajność kamerek internetowych, mikrofonów i głośników przy użyciu technologii AI. Prowadź transmisje na żywo, czaty głosowe i telekonferencje na jeszcze wyższym poziomie z pomocą takich efektów audio i wideo, jak usuwanie szumu czy tło wirtualne.\nNVIDIA RTX Remix. Zremasteruj klasykę\nOparta na NVIDIA Omniverse aplikacja RTX Remix umożliwia moderom łatwe przechwytywanie assetów gry, automatyczne ulepszenie materiałów za pomocą wydajnych narzędzi AI, a także błyskawiczne stosowanie olśniewających modyfikacji RTX z pełnym ray tracingiem i DLSS.\nDla kogo jest ta stacja robocza ZENPC Studio?\nStacja robocza ZENPC Studio z procesorem AMD Ryzen 9 9950X3D2, kartą graficzną RTX 5090, to idealne rozwiązanie dla profesjonalistów, którzy potrzebują maksymalnej mocy obliczeniowej w wymagających projektach.\nTwórcy grafiki 2D - idealna do pracy w Adobe Photoshop, Illustrator, CorelDRAW czy Affinity Designer. Duża ilość pamięci RAM pozwala na komfortową pracę z bardzo dużymi plikami i wieloma warstwami, co jest kluczowe przy projektach DTP, retuszu zdjęć czy tworzeniu zaawansowanych ilustracji.\nMontaż i postprodukcja wideo - wysoka moc obliczeniowa procesora i karta RTX 5090 zapewniają szybkie renderowanie materiału w Adobe Premiere Pro, DaVinci Resolve, Final Cut Pro czy Avid Media Composer. Taka konfiguracja gwarantuje płynny montaż w rozdzielczościach 4K i 8K oraz komfortową pracę z wieloma strumieniami wideo i efektami specjalnymi.\nGrafika i animacja 3D - uniwersalna stacja robocza do pracy z silnikami renderującymi i programami 3D, takimi jak Blender (Cycles, Eevee), Autodesk Maya, 3ds Max, Cinema 4D, V-Ray, Redshift, Octane Render czy Unreal Engine. Mocna karta graficzna i procesor klasy high-end umożliwiają szybki rendering, symulacje fizyczne i pracę nad złożonymi scenami 3D.\nPraca z AI i uczeniem maszynowym - konfiguracja z dużą ilością RAM i najnowszą kartą RTX 5090 doskonale sprawdzi się w obszarze trenowania modeli sztucznej inteligencji i pracy z big data. Obsłuży popularne frameworki, takie jak TensorFlow, PyTorch czy Keras, przyspieszając proces uczenia modeli deep learning.\nSpecyfikacja ZENPC Studio\nZakup każdego komputera powinien być świadomą decyzją opartą na pełnej wiedzy o tym, co znajduje się w środku. Brak dokładnej specyfikacji technicznej często oznacza, że sprzedawca może ukrywać tańsze, mniej trwałe podzespoły, co prowadzi do słabszej wydajności, głośniejszej pracy, przegrzewania się czy problemów z późniejszą modernizacją. W ZENPC Studio nie ma miejsca na takie praktyki - każdy komputer ma dokładnie podaną specyfikację: od modelu procesora i płyty głównej, po markowy zasilacz czy dysk SSD. Dzięki temu zawsze wiecie, jakie dokładnie podzespoły znajdą się w Waszej stacji roboczej. To najlepszy sposób, by uniknąć rozczarowań i cieszyć się sprzętem, który posłuży na lata. ZENPC Studio to gwarancja przejrzystości, rzetelności i solidnej jakości.\nDlaczego warto wybrać nasze gotowe stacje robocze ZENPC Studio?\nSzukasz niezawodnej i wydajnej stacji roboczej do pracy kreatywnej, grafiki, montażu wideo czy renderingu 3D? Gotowe stacje robocze ZENPC Studio to najlepszy wybór dla profesjonalistów i firm, które cenią czas, jakość i bezpieczeństwo pracy.\nPełna specyfikacja techniczna każdego zestawu - bez niedomówień\nOptymalnie dobrane, markowe podzespoły wysokiej jakości\nGotowe do pracy: wgrany Windows 11 Pro (bez licencji), sterowniki, NVIDIA Studio Driver, zaktualizowany BIOS\nDarmowa dostawa na terenie Polski - szybko i bez dodatkowych kosztów\n3-letnia gwarancja door-to-door czyli pełne bezpieczeństwo Twojej inwestycji\nProfesjonalne wsparcie serwisowe - szybko, fachowo i bez zbędnych formalności\nMożliwość rozbudowy stacji roboczej ZENPC Studio\nStacje robocze ZENPC Studio można łatwo rozbudować o dodatkowe dyski SSD oraz licencję systemu Windows 11 Pro. Dodając zestaw ZENPC Studio do koszyka,\nwybierz potrzebne dyski SSD\ni licencję\nWindows 11 Pro\n, a w uwagach do zamówienia zaznacz, że chcesz, aby dodatkowe dyski zostały zamontowane przed wysyłką. Oczywiście zrobimy to nieodpłatnie!\nProponowane dyski oraz system operacyjny do ZENPC Studio:\nSamsung 990 PRO 2TB M.2 NVMe (MZ-V9P2T0BW)\nSamsung 990 PRO 4TB M.2 NVMe (MZ-V9P4T0BW)\nKingston KC3000 2TB M.2 PCIe NVMe Gen4\nKingston KC3000 4TB M.2 PCIe NVMe Gen4\nMicrosoft Windows 11 Pro DVD OEM 64-bit PL\nMicrosoft Windows 11 Pro USB 64-bit PL\nPokaż cały opis\nCechy produktu\nProcesor\nAMD Ryzen 9 9950X3D2\nKarta graficzna\nRTX 5090\nKarta graficzna model\nGigabyte GeForce RTX 5090 Gaming OC 32GB GDDR7\nPamięć\n128 GB\nPamięć model\nKingston FURY Beast 128GB (2x64GB) 5600MHz CL36\nPłyta główna\nGigabyte X870E AORUS ELITE WIFI7\nDysk twardy\n2000 GB\nDysk twardy model\nSamsung SSD 990 PRO 2TB M.2 PCIe NVMe Gen4\nObudowa\nFractal Design North XL Charcoal\nChłodzenie procesora\nEK-Nucleus AIO CR360\nZasilacz moc\n1000 W\nZasilacz model\nSeasonic FOCUS GX-1000 v4 ATX 3.1 PCIe 5.1 80Plus Gold 1000W\nZłącza panelu przedniego\n1x USB 3.1 Gen 2 Type-C\n2x USB 3.0\nAudio\nZainstalowane wentylatory\n3x 140 mm\nSystem operacyjny\nWindows 11 Pro (bez licencji i aktywacji)\nWiFi\nTak\nWymiary szczegółowe\n509 x 503 x 240 mm\nSKU\n0000013401\nMPN\n0000013401\nGwarancja producenta\n36 miesięcy\nPokaż wszystkie cechy\nOsoba\nodpowiedzialna i bezpieczeństwo\nProline S.A.\nul. Brzozowa 5\n55-095, 167\npomoc@proline.pl\nProline S.A.\nul. Brzozowa 5\n55-095, 167\npomoc@proline.pl\nUniwersalna informacja o bezpieczeństwie\nOpinie Klientów\nPROLINE S.A. nie gwarantuje, że zamieszczone opinie pochodzą od\nosób,\nktóre zakupiły lub używały dany produkt.\nMasz ten produkt?\nDodaj pierwszą opinię: ZENPC Studio AMD Ryzen 9950X3D2 RTX 5090 2TB 128GB DLSS 4\nDodaj pierwszą opinię...\nWysyłkowa:\n49 499,00 zł\nStacjonarna:\n50 490,00 zł\nDodaj do koszyka\nTransport gratis\nZobacz szczegóły\nNa zamówienie\nZapytaj o termin wysyłki\nZapytaj o produkt\nGwarancja producenta\n36 miesiące\nZwrot / wymiana towaru\nMasz na to 14 dni.\nZobacz regulamin i wyłączenia...\nZapłać za pomocą\nBLIK, BLIK Płacę Później, PayPo, Przelewy24, Raty, Kartą, Za pobraniem\nWysyłka za pomocą\nInPost, DPD, DHL\nUdostępnij\nDrukuj\nZgłoś błąd\nOstatnio oglądane\nZENPC Studio AMD Ryzen 9950X3D2 RTX 5090 2TB 128GB DLSS 4\n49 499,00 zł\nNastępny\nPoprzedni\nZgłoś błąd w opisie produktu\nZENPC Studio AMD Ryzen 9950X3D2 RTX 5090 2TB 128GB DLSS 4\nEmail\nOpis błędu:\nZamknij\nWyślij\nProdukt dodany do koszyka\n,\n1 x ZENPC Studio AMD Ryzen 9950X3D2 RTX 5090 2TB 128GB DLSS 4\n49 499,00 zł\nza sztukę 49 499,00 zł\nRekomendowane\nakcesoria\nOchrona reklamacyjna\nAdapter Displayport [M] 1.2 do HDMI [F] 2.0 4K@60Hz na kablu 20cm Lanberg - srebrny (AD-DP-HD-02)\nAdaptery wideo z złączami HDMI i DisplayPort oferują obsługę rozdzielczości 4K przy 60Hz, zapewniając krystalicznie czysty obraz i płynne wrażenia wizualne.\nMinimalistyczny design i elegancka aluminiowa obudowa łączą nowoczesną estetykę z trwałością, idealnie wpisując się w każde środowisko pracy czy domowe centrum multimedialne.\n44,99 zł\nDodaj do koszyka\nWysyłka gratis\nbe quiet! Pure Rock Pro 3 Black (BK042) - chłodzenie procesora\nPure Rock Pro 3 to zaawansowany system chłodzenia CPU, oferujący doskonałą wydajność przy minimalnym hałasie. Kompatybilny z popularnymi gniazdami Intel i AMD (w tym AM5/AM4), zapewnia skuteczne chłodzenie dzięki dwóm wentylatorom Pure Wings 3 120mm PWM. Zbudowany z wysokiej jakości materiałów, takich jak miedź i aluminium, oraz wyposażony w sześć heatpipów, zapewnia optymalną temperaturę pracy procesora. Cichy, efektywny i łatwy w montażu.\n209,00 zł\nDodaj do koszyka\nKabel zasilający Maclean, kątowy, 3 pin, Wtyk EU, 5m, MCTV-804\nProfesjonalny kabel zasilający Maclean MCTV-804 o długości 5 metrów to idealne rozwiązanie dla osób poszukujących niezawodnego połączenia dla swoich urządzeń stacjonarnych i multimedialnych. Dzięki kątowej wtyczce 3-pinowej, przewód doskonale sprawdza się w ciasnych miejscach, minimalizując ryzyko zagięcia kabla. Obsługuje napięcie 220V-250V i jest w pełni zgodny z normami CE oraz RoHS. To wysokiej jakości akcesorium gwarantuje stabilne zasilanie dla komputerów, monitorów, projektorów oraz nowoczesnego sprzętu RTV i AGD, zapewniając bezpieczeństwo użytkowania.\n19,99 zł\nDodaj do koszyka\nOchrona reklamacyjna PROtect Smart\nZadbaj o swoje zakupy z dodatkowymi ubezpieczeniami od mechanicznych uszkodzeń w transporcie. Dzięki usłudze PROtect Smart, jeśli Twoje zamówienie dotrze uszkodzone, masz aż 7 dni na zgłoszenie problemu. Gdy zauważysz wadę fabryczną, możesz wymienić towar lub otrzymać zwrot pieniędzy w ciągu 14 dni. Co więcej, prawo do zwrotu towaru bez podania przyczyny zostało wydłużone do 30 dni. Nasza gwarancja door to door pokrywa koszty transportu, abyś mógł cieszyć się pełnym spokojem.\n599,00 zł\nDodaj do koszyka\nOchrona reklamacyjna PROtect Prestige\nZainwestuj w kompleksową ochronę swojego sprzętu z usługą \"Ochrona reklamacyjna PROtect Prestige\". Oprócz standardowych opcji zgłaszania uszkodzeń mechanicznych, oferujemy bezpłatne konsultacje z wykwalifikowanym serwisantem ProLine. Uzyskasz pomoc w rozwiązywaniu problemów technicznych, a także w doborze idealnych komponentów do Twojego komputera. Dodatkowo, pakiet obejmuje wsparcie w zakresie tuningu komputerowego oraz overclockingu, co pozwoli na zwiększenie wydajności Twojego sprzętu.\n799,00 zł\nDodaj do koszyka\nOchrona reklamacyjna PROtect Premium\nZainwestuj w pełną ochronę swojego sprzętu z usługą \"Ochrona reklamacyjna PROtect Premium\". Oprócz standardowych korzyści, takich jak możliwość zgłaszania uszkodzeń mechanicznych i fachowe konsultacje, ten pakiet oferuje dodatkowe przedłużenie gwarancji na 1 lub 3 lata. Dzięki PROtect Premium możesz mieć pewność, że Twój sprzęt jest chroniony przed awariami nawet po zakończeniu gwarancji producenta. Skorzystaj z tego kompleksowego wsparcia, aby cieszyć się spokojem i bezpieczeństwem.\n999,00 zł\nDodaj do koszyka\nKontynuuj zakupy\nPrzejdź do koszyka\nDostępność w salonach\nCentrala Mirków\nNa zamówienie (2 dni)\nul. Brzozowa 5\n55-095 Mirków\ntel.\n664999933\npomoc@proline.pl\nGodziny otwarcia:\nPon - Pt: 09:00 - 17:00\nSob - Niedz: Nieczynne\nOddział Gliwice\nNa zamówienie (2 dni)\nul. Zwycięstwa 47\n44-100 Gliwice\ntel.\n664999925\ngliwice@proline.pl\nGodziny otwarcia:\nPon - Pt: 10:00 - 18:00\nSob - Niedz: Nieczynne\nOddział Kalisz\nNa zamówienie (2 dni)\nul. Nowy Rynek 6\n62-800 Kalisz\ntel.\n664999915\nkalisz@proline.pl\nGodziny otwarcia:\nPon - Pt: 10:00 - 18:00\nSob - Niedz: Nieczynne\nOddział Katowice\nNa zamówienie (2 dni)\nul. al. Korfantego 78A\n40-156 Katowice\ntel.\n664999921\nkatowice@proline.pl\nGodziny otwarcia:\nPon - Pt: 10:00 - 18:00\nSob - Niedz: Nieczynne\nOddział Legnica\nNa zamówienie (2 dni)\nul. Pocztowa 5B\n59-220 Legnica\ntel.\n664999918\nlegnica@proline.pl\nGodziny otwarcia:\nPon - Pt: 10:00 - 18:00\nSob - Niedz: Nieczynne\nOddział Opole\nNa zamówienie (2 dni)\nul. Osmańczyka 19\n45-027 Opole\ntel.\n774536349\nbestitopole@gmail.com\nGodziny otwarcia:\nPon - Pt: 09:00 - 17:00\nSob - Niedz: Nieczynne\nOddział Poznań\nNa zamówienie (2 dni)\nul. Ratajczaka 23\n61-815 Poznań\ntel.\n664999912\npoznan@proline.pl\nGodziny otwarcia:\nPon - Pt: 10:00 - 18:00\nSob - Niedz: Nieczynne\nOddział Trzebnica\nNa zamówienie (2 dni)\nul. Rynek 18\n55-100 Trzebnica\ntel.\n508 177 295\ntrzebnica@proline.pl\nGodziny otwarcia:\nPon - Pt: 10:00 - 17:00\nSob - Niedz: Nieczynne\nZamknij\nDodaj opinię\nPodpis\nEmail - nie będzie widoczny w treści opinii\nOpinia\nZalety\nWady\nOświadczam, że akceptuję zasady moderacji opinii zgodnie z\nregulaminem sklepu\n. Administratorem Twoich danych osobowych jest Proline SA z siedzibą  przy ul. Brzozowej 5, 55-095 Mirków. Twoje dane przetwarzamy w celu publikacji opinii o produkcie. Więcej informacji na ten temat znajdziesz w\nPolityce prywatności\n.\nWróć do zakupów\nDodaj opinię\nDostępność: ZENPC Studio AMD Ryzen 9950X3D2 RTX 5090 2TB 128GB DLSS 4\nNa zamówienie\nZapytaj o termin wysyłki\nPo złożeniu zamówienia nasz dział zaopatrzenia sprawdzi dostępność brakujących produktów u dostawców. Po otrzymaniu informacji niezwłocznie skontaktujemy się z Tobą, aby poinformować Cię o przewidywanym terminie realizacji zamówienia i wszelkich dalszych krokach, które mogą być wymagane.\nJeśli chcesz kupić ten produkt, możesz też zapytać nas o przewidywaną datę wysyłki za pomocą\ntego formularza\n.\nZamknij\nDarmowy transport\nDHL\ngratis\nOdbiór osobisty\ngratis\nOdroczona wysyłka\ngratis\nZamknij\nTermin dostawy\nZENPC Studio AMD Ryzen 9950X3D2 RTX 5090 2TB 128GB DLSS 4\nZamknij\nMam pytanie do produktu\nZENPC Studio AMD Ryzen 9950X3D2 RTX 5090 2TB 128GB DLSS 4\nEmail\nTreść pytania:\nZamknij\nWyślij pytanie\nZapisz się na mega proMOCJE\nNie strać żadnej informacji o promocji ani kodu rabatowego dostępnego tylko dla subskrybentów. Dołącz teraz do grona odbiorców newslettera ProLine!\nWięcej informacji\nEmail\nZapisz się\nOświadczam, że mam ukończone 16 lat. Wyrażam zgodę na zapisanie mnie do Newslettera Proline i przetwarzanie mojego adresu e-mail w celu wysyłki wiadomości. Zapoznałem się i wyrażam zgodę na postanowienia\nregulaminu newslettera\n.\nZakupy\nKonfigurator zestawów komputerowych\nDobór zestawu komputerowego\nPolecane zestawy gamingowe\nKody promocyjne\nKarty podarunkowe\nZakupy na raty\nLicencja esd\nUsługi i rozszerzenia gwarancji\nWspółpraca hurtowa i MŚP\nSprzedaż hurtowa\nOferta dla firm i instytucji\nPrzetargi i zamówienia publiczne\nOtwórz sklep Proline\nOkazja i promocja\nPromocje\nBestsellery\nNowości\nNewsletter\nWyprzedaż\nproMOCNI\nStruktura strony\nWszystkie kategorie\nLista producentów\nWsparcie klienta i serwis\nKontakt z ProLine\nCzęste pytania, czyli FAQ\nSposoby i koszty dostawy\nKalkulator mocy zasilacza\nZwrot lub wymiana towaru\nZgłoszenie uszkodzenia towaru\nWarunki gwarancji\nTerminy reklamacji dostawy\nInstrukcja odbioru paczki\nPunkty zbiorki odpadów PSZOK\nZgłoś niebezpieczny produkt, GPSR\nZużyty sprzęt elektryczny\nDeklaracja dostępności\nInformacje o firmie\nDane firmy i numer konta\nDlaczego Proline\nCertyfikaty i wyróżnienia\nKariera w Proline\nInstrukcja obsługi sklepu\nRegulaminy i regulacje\nRegulamin sklepu\nRegulamin opinii\nRegulamin newslettera\nPolityka prywatności i cookies\nKoszty gosp. odpadami\nSzybki kontakt\n664 999 933\npon. - pt.\n9:00 - 17:00\nsob. - niedz.\nnieczynne\npomoc@proline.pl\nDołącz do nas\nZgłoś błąd na stronie\nZakupy\nKonfigurator zestawów komputerowych\nDobór zestawu komputerowego\nPolecane zestawy gamingowe\nKody promocyjne\nKarty podarunkowe\nZakupy na raty\nWszystkie kategorie\nLista producentów\nLicencja esd\nUsługi i rozszerzenia gwarancji\nWspółpraca hurtowa i MŚP\nSprzedaż hurtowa\nOferta dla firm i instytucji\nPrzetargi i zamówienia publiczne\nOtwórz sklep Proline\nOkazja i promocja\nPromocje\nBestsellery\nNowości\nNewsletter\nWyprzedaż\nproMOCNI\nStruktura strony\nWszystkie kategorie\nLista producentów\nSklepy marek\nADATA\nAerocool\nArctic\nGigabyte\nKingston\nMSI\nnoblechairs\nMontech\nValkyrie\nSalicru\nNeoTEC\nSeasonic\nZenPC\nWsparcie klienta i serwis\nKontakt z ProLine\nCzęste pytania, czyli FAQ\nSposoby i koszty dostawy\nKalkulator mocy zasilacza\nZwrot lub wymiana towaru\nZgłoszenie uszkodzenia towaru\nWarunki gwarancji\nTerminy reklamacji dostawy\nInstrukcja odbioru paczki\nPunkty zbiorki odpadów PSZOK\nZgłoś niebezpieczny produkt, GPSR\nZużyty sprzęt elektryczny\nInformacje o firmie\nDane firmy i numer konta\nDlaczego Proline\nCertyfikaty i wyróżnienia\nKariera w Proline\nInstrukcja obsługi sklepu\nZaufane opinie ProLine na Ceneo\nRegulaminy i regulacje\nRegulamin sklepu\nRegulamin opinii\nRegulamin newslettera\nPolityka prywatności i cookies\nKoszty gospodarowania odpadami\nSzybki kontakt\n664 999 933\npon. - pt.\n9:00 - 17:00\nsob. - niedz.\nnieczynne\npomoc@proline.pl\nDołącz do nas\nZgłoś błąd na stronie\nProline SA z siedzibą w Mirkowie (55-095),\nprzy ul. Brzozowej 5, wpisana do rejestru przedsiębiorców Krajowego Rejestru Sądowego przez\nSąd Rejonowy dla Wrocławia-Fabrycznej we Wrocławiu, VI Wydział Gospodarczy Krajowego\nRejestru Sądowego pod nr KRS: 0000282071, NIP: 8951898022, REGON: 020482041, BDO: 000437899.\nKapitał zakładowy Spółki wynosi 500000,00 zł i został on opłacony w całości.\n© proline 1996 - 2026. Wszelkie\nprawa zastrzeżone.\nZgłoś błąd na stronie\nWybierz\nBłąd techniczny strony\nBłąd w informacjach o produkcie\nBłąd w treści strony\nBłąd w opiniach\nBłąd w ratach\nProblemy z realizacją zamówienia\nNaruszenie treści\nInny rodzaj błędu\nTemat\nEmail\nWiadomość\nWyślij\nZamknij\nWybierz wygląd strony\nJasny\nCiemny\nWysoki kontrast\nSystemowy\nZamknij"
+  }
+]

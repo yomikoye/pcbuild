@@ -1,0 +1,424 @@
+{
+  "date": "2026-11-01",
+  "baseline_commit": "8e6a3aa208109bcfab71dd0a16e8829ff33c12ad",
+  "fx": {
+    "eur_pln": "4.3955",
+    "effective": "2026-10-30",
+    "url": "https://api.nbp.pl/api/exchangerates/rates/a/eur/2026-10-30/?format=json"
+  },
+  "status": "conditional, product-only references; every delivered A/B/C total unknown",
+  "A_quantities": {
+    "cpuA": 1,
+    "boardA": 1,
+    "ramA": 1,
+    "gpu": 1,
+    "coolA": 1,
+    "caseA": 1,
+    "psu": 1,
+    "ssdA": 2,
+    "fan140": 6,
+    "fan120": 6
+  },
+  "B1_quantities": {
+    "cpuB": 1,
+    "boardB": 1,
+    "ramB": 1,
+    "gpu": 1,
+    "coolB": 1,
+    "caseB": 1,
+    "fan140": 8,
+    "ssdB": 1,
+    "ssdB2": 1,
+    "psu": 1
+  },
+  "A_amounts_pln": {
+    "cpuA": "6683.25",
+    "boardA": "4365.47",
+    "ramA": "26650.69",
+    "gpu": "41105.00",
+    "coolA": "1895.23",
+    "caseA": "2197.53",
+    "psu": "2499.00",
+    "ssdA": "9908.32",
+    "fan140": "1019.94",
+    "fan120": "1157.10"
+  },
+  "B1_amounts_pln": {
+    "cpuB": "3349.81",
+    "boardB": "2334.82",
+    "ramB": "11706.14",
+    "gpu": "41105.00",
+    "coolB": "1499.15",
+    "caseB": "1312.62",
+    "fan140": "1359.92",
+    "ssdB": "4398.12",
+    "ssdB2": "3330.03",
+    "psu": "2499.00"
+  },
+  "B2_psu_amount_pln": "1053.95",
+  "ram_A_german_gross_pln": "25784.00",
+  "ram_A_illustrative_polish_vat_pln": "26650.69",
+  "results_pln": {
+    "A": "97481.53",
+    "A_two": "138586.53",
+    "C_non_gpu": "56376.53",
+    "C_unqualified_stickers_no_loop": "69426.53",
+    "B1": "72894.61",
+    "B2": "71449.56",
+    "B1_two": "113999.61",
+    "platform_A_C": "41792.17",
+    "platform_B": "20202.54",
+    "platform_premium": "21589.63",
+    "platform_premium_pct": "106.87",
+    "A_over_B1": "24586.92",
+    "A_over_B1_pct": "33.73",
+    "A_over_B2": "26031.97",
+    "A_over_B2_pct": "36.43",
+    "cpu_alternative_premium": "601.93",
+    "cpu_alternative_premium_pct": "17.97",
+    "marketplace_gpu_surcharge": "1233.15",
+    "marketplace_gpu_surcharge_pct": "3.00",
+    "C_unqualified_gpu_sticker_difference_A1": "28055.00",
+    "C_unqualified_gpu_sticker_difference_A2": "69160.00",
+    "A_value_ram_scenario": "74366.82",
+    "A_value_ram_potential_difference": "23114.71",
+    "AW420_stack_mm": "52.00",
+    "AW420_stack_nominal_margin_mm": "13.00",
+    "AW420_three_fan_current_A": "1.08",
+    "gpu_heat_C_nominal_W": "700.00",
+    "gpu_heat_A2_reference_W": "1150.00"
+  },
+  "C_current": "incomplete",
+  "C_fit_validated": "incomplete",
+  "C_qualified_savings_A1_A2": "undefined",
+  "delivered_totals": "unknown",
+  "history": {
+    "A": {
+      "series": [
+        {
+          "date": "2026-08-09",
+          "reference_pln": "70348.67",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-08-16",
+          "reference_pln": "70545.48",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-08-23",
+          "reference_pln": "69881.19",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-08-30",
+          "reference_pln": "70312.19",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-09-20",
+          "reference_pln": "80026.53",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-09-27",
+          "reference_pln": "83611.84",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-10-04",
+          "reference_pln": "83834.04",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-10-11",
+          "reference_pln": "87907.57",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-10-18",
+          "reference_pln": "88358.50",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": false
+        },
+        {
+          "date": "2026-10-25",
+          "reference_pln": "88705.37",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": false
+        },
+        {
+          "date": "2026-11-01",
+          "reference_pln": "97481.53",
+          "class": "conditional reference; unavailable RAM/board or unapproved seller; not delivered",
+          "originally_published": false
+        }
+      ],
+      "first": "70348.67",
+      "previous": "88705.37",
+      "minimum_reference": "69881.19",
+      "maximum_reference": "97481.53",
+      "weekly_reference_change": "8776.16",
+      "weekly_reference_pct": "9.89",
+      "first_to_current_reference_change": "27132.86",
+      "first_to_current_reference_pct": "38.57",
+      "qualified_delivered_min_max_and_changes": "undefined; no complete qualified delivered basket",
+      "windows": {
+        "30": {
+          "start": "2026-10-02",
+          "observations": 5,
+          "first_available": "2026-10-04",
+          "minimum_reference_pln": "83834.04",
+          "maximum_reference_pln": "97481.53",
+          "change_from_first_available_pln": "13647.49"
+        },
+        "90": {
+          "start": "2026-08-03",
+          "observations": 11,
+          "first_available": "2026-08-09",
+          "minimum_reference_pln": "69881.19",
+          "maximum_reference_pln": "97481.53",
+          "change_from_first_available_pln": "27132.86"
+        }
+      }
+    },
+    "B1": {
+      "series": [
+        {
+          "date": "2026-08-09",
+          "reference_pln": "47196.41",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-08-16",
+          "reference_pln": "48340.64",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-08-23",
+          "reference_pln": "48002.29",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-08-30",
+          "reference_pln": "48316.17",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-09-20",
+          "reference_pln": "56621.60",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-09-27",
+          "reference_pln": "58846.81",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-10-04",
+          "reference_pln": "60359.79",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-10-11",
+          "reference_pln": "63612.08",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-10-18",
+          "reference_pln": "65749.01",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": false
+        },
+        {
+          "date": "2026-10-25",
+          "reference_pln": "65957.39",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": false
+        },
+        {
+          "date": "2026-11-01",
+          "reference_pln": "72894.61",
+          "class": "conditional reference; unavailable RAM/board or unapproved seller; not delivered",
+          "originally_published": false
+        }
+      ],
+      "first": "47196.41",
+      "previous": "65957.39",
+      "minimum_reference": "47196.41",
+      "maximum_reference": "72894.61",
+      "weekly_reference_change": "6937.22",
+      "weekly_reference_pct": "10.52",
+      "first_to_current_reference_change": "25698.20",
+      "first_to_current_reference_pct": "54.45",
+      "qualified_delivered_min_max_and_changes": "undefined; no complete qualified delivered basket",
+      "windows": {
+        "30": {
+          "start": "2026-10-02",
+          "observations": 5,
+          "first_available": "2026-10-04",
+          "minimum_reference_pln": "60359.79",
+          "maximum_reference_pln": "72894.61",
+          "change_from_first_available_pln": "12534.82"
+        },
+        "90": {
+          "start": "2026-08-03",
+          "observations": 11,
+          "first_available": "2026-08-09",
+          "minimum_reference_pln": "47196.41",
+          "maximum_reference_pln": "72894.61",
+          "change_from_first_available_pln": "25698.20"
+        }
+      }
+    },
+    "B2": {
+      "series": [
+        {
+          "date": "2026-08-09",
+          "reference_pln": "46025.26",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-08-16",
+          "reference_pln": "47184.06",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-08-23",
+          "reference_pln": "46855.99",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-08-30",
+          "reference_pln": "47100.84",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-09-20",
+          "reference_pln": "55119.32",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-09-27",
+          "reference_pln": "57539.14",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-10-04",
+          "reference_pln": "58829.43",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-10-11",
+          "reference_pln": "62383.41",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-10-18",
+          "reference_pln": "64303.96",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": false
+        },
+        {
+          "date": "2026-10-25",
+          "reference_pln": "64512.34",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": false
+        },
+        {
+          "date": "2026-11-01",
+          "reference_pln": "71449.56",
+          "class": "conditional reference; unavailable RAM/board or unapproved seller; not delivered",
+          "originally_published": false
+        }
+      ],
+      "first": "46025.26",
+      "previous": "64512.34",
+      "minimum_reference": "46025.26",
+      "maximum_reference": "71449.56",
+      "weekly_reference_change": "6937.22",
+      "weekly_reference_pct": "10.75",
+      "first_to_current_reference_change": "25424.30",
+      "first_to_current_reference_pct": "55.24",
+      "qualified_delivered_min_max_and_changes": "undefined; no complete qualified delivered basket",
+      "windows": {
+        "30": {
+          "start": "2026-10-02",
+          "observations": 5,
+          "first_available": "2026-10-04",
+          "minimum_reference_pln": "58829.43",
+          "maximum_reference_pln": "71449.56",
+          "change_from_first_available_pln": "12620.13"
+        },
+        "90": {
+          "start": "2026-08-03",
+          "observations": 11,
+          "first_available": "2026-08-09",
+          "minimum_reference_pln": "46025.26",
+          "maximum_reference_pln": "71449.56",
+          "change_from_first_available_pln": "25424.30"
+        }
+      }
+    },
+    "C": {
+      "first_date": "2026-08-23",
+      "first_unqualified_reference": "56282.19",
+      "previous_qualified_total": null,
+      "current_qualified_total": null,
+      "fit_validated_total": null,
+      "qualified_minimum": null,
+      "qualified_maximum": null,
+      "weekly_qualified_change": null,
+      "total_qualified_change": null,
+      "previous_unqualified_hardware_no_loop": "67809.53",
+      "current_unqualified_hardware_no_loop": "69426.53",
+      "same_listing_asking_series": [
+        {
+          "date": "2026-09-27",
+          "pln": "13150.00"
+        },
+        {
+          "date": "2026-10-18",
+          "pln": "13050.00"
+        },
+        {
+          "date": "2026-10-25",
+          "pln": "13050.00"
+        },
+        {
+          "date": "2026-11-01",
+          "pln": "13050.00"
+        }
+      ],
+      "weekly_same_listing_ask_change": "0.00",
+      "first_same_listing_ask_change": "-100.00",
+      "30_day": "same water-block listing 13050 in Oct 18/25 and Nov 1; Oct 4/11 not independently live-priced; no qualifying pair",
+      "90_day": "Aug 23 air-pair lead 7400 stale; water bundle is different condition/cooling, not a market price rise; all complete qualified totals missing"
+    }
+  },
+  "observation_count": 32
+}

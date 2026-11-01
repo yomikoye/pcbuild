@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-01",
+  "evidence_class": "Selected native-search discovery anchors; not a transcript of all search responses and not live offer verification. Opened source results and failures are in the HTTP captures.",
+  "paths": [
+    {"path":"exact SKU retail and EAN/MPN", "queries":["\"KF560R32RBEK4-128\" \"F5-6000R3036G32GQ4-G5N\"", "\"PRIME-PX-2200-ATX30\" \"4711173878414\"", "\"PROART-RTX5090-O32G\" sklep", "\"HVN-CA-HS420-07\" \"L-P360N-DS3M-G1W\""], "verification":"Primary capture and manually reviewed offers ledger; search-only values are not totals."},
+    {"path":"manufacturer and QVL/configurator", "queries":["\"TRX50 AI TOP\" \"9960X\" PCIe", "\"M5 Ultra\" \"Mac Studio\" Polska 256GB", "\"PH-ES916E_BK02\" \"AW420\"", "\"F5-6400R3239G32GQ4-G5N\""], "verification":"Manufacturer direct capture where successful; direct blocks and indexed-only topology are explicitly labelled."},
+    {"path":"workstation specialists and distribution", "queries":["\"KF560R32RBEK4-128\" Poland", "Micron Samsung RAM \"TRX50 AI TOP\"", "Micron 4x32GB RDIMM kit", "Samsung \"TRX50\" RDIMM"], "verification":"PHS module and ED SYSTEM exact kit opened; MemoryCow/Memory.NET attempts recorded; wrong boards and generic modules rejected."},
+    {"path":"independent used marketplaces and refurbishers", "queries":["\"RTX 3090\" \"2 szt\" używane", "RTX 3090 pair Allegro Lokalnie", "Siedo Bennekom RTX 3090 warranty", "\"24G-P5-3975-KR\" used"], "verification":"Opened two-card Allegro Lokalnie water bundle; OLX/Allegro blocked; Pixel2Point missing; Dutch listing expired. No matching pair qualified."}
+  ],
+  "selected_results": [
+    {"url":"https://www.gigabyte.com/Motherboard/TRX50-AI-TOP/sp", "class":"manufacturer indexed technical reference; direct request blocked", "finding":"9000-series CPU-fed PCIe topology and M2D restrictions require manual confirmation; not a fresh rendered manual audit."},
+    {"url":"https://www.apple.com/legal/sales-support/sales-policies/education_pl.html", "class":"discovered then directly captured", "finding":"Poland education eligibility policy verified separately from configured unit price and personal eligibility."},
+    {"url":"https://edshop.edsystem.pl/kingston-dimm-ddr5-128gb-kit-of-4-6000mt-s-ecc-reg-fury-renegade-pro-expo/product-1720013", "class":"exact distributor listing directly captured", "finding":"Zazwyczaj 14 dni; price hidden; not confirmed immediate consumer stock."},
+    {"url":"https://www.marktplaats.nl/v/computers-en-software/videokaarten/m2445073120-garantie-gigabyte-geforce-rtx-3090-vision-oc-24gb", "class":"indexed lead disproved as current by direct capture", "finding":"Expired HTTP 410. Warranty language excludes AI/mining; no simultaneous matching pair established."},
+    {"anchor":"MTC20F2085S1RC48BA1", "class":"discovery-only generic module-family search anchor; no direct exact module offer verified", "finding":"Does not establish four identical TRX50 AI TOP validated modules from one reputable EU seller."},
+    {"url":"https://www.gskill.com/qvl/400/446/1747204820/F5-6000R3036G32GQ4-G5N-QVL", "class":"exact QVL attempted; directly blocked", "finding":"Do not claim selected-board QVL validation from search snippets."}
+  ]
+}

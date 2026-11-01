@@ -61,7 +61,7 @@
             "product": "Kingston FURY Renegade Pro 128GB 4x32GB DDR5-6000 CL32 ECC RDIMM EXPO",
             "sku": "KF560R32RBEK4-128",
             "ean": "0740617340327",
-            "status": "Polish exact listing found at 3535.98 PLN but out of stock; exact TRX50 AI TOP validation and restock required before substitution",
+            "status": "2026-11-01: Morele exact 3535.98 PLN catalogue remains out of stock; ED SYSTEM exact distributor listing says usually 14 days with price hidden; exact TRX50 AI TOP validation and purchasable stock required before substitution",
             "official_url": "https://www.kingston.com/pl/memory/search?partid=KF560R32RBEK4-128",
             "retailer_url": "https://www.morele.net/pamiec-kingston-fury-renegade-pro-ddr5-128-gb-6000mhz-cl32-kf560r32rbek4-128-13263643/"
           }
@@ -267,7 +267,7 @@
         {
           "category": "Power and cooling",
           "nominal_gpu_power_watts": 700,
-          "psu_rule": "PRIME PX-2200 is sufficient; verify four independent 8-pin GPU leads and never daisy-chain high-power card connectors",
+          "psu_rule": "PRIME PX-2200 is nominally sufficient; verify four independent 8-pin GPU leads for two two-socket cards or six suitable independent leads for two three-socket cards, plus any motherboard auxiliary power; never daisy-chain high-power card connectors",
           "cooling_rule": "Card thickness is conditional, not a primary preference. Accept thick open-air cards when chosen TRX50 slots leave a meaningful intake gap and direct side airflow; otherwise use blower, slimmer, riser or water-cooled designs. Mechanically support both cards, validate sustained CUDA hotspot/memory-junction temperatures and prefer validated undervolting."
         }
       ],
@@ -331,7 +331,27 @@
     "education_url": "https://www.apple.com/pl-edu/shop/buy-mac/mac-studio",
     "specifications_url": "https://www.apple.com/pl/mac-studio/specs/",
     "pricing_rule": "Record standard and Education Poland prices for exact 36/80/256GB configuration separately; starting prices for 36/80 do not include the 256GB upgrade. If exact configured checkout price cannot be verified, mark unknown, never substitute base price.",
-    "comparison_rule": "Integrated unified memory is not NVIDIA CUDA VRAM. Compare model fit, MLX/Metal support, GPU throughput and software availability separately; do not insert Mac into A/B/C parts totals or call 256GB all GPU-usable."
+    "comparison_rule": "Integrated unified memory is not NVIDIA CUDA VRAM. Compare model fit, MLX/Metal support, GPU throughput and software availability separately; do not insert Mac into A/B/C parts totals or call 256GB all GPU-usable.",
+    "latest_check": {
+      "date": "2026-11-01",
+      "apple_standard_96gb_configured_pln": "unknown",
+      "apple_education_96gb_configured_pln": "unknown",
+      "apple_standard_256gb_configured_pln": "unknown",
+      "apple_education_256gb_configured_pln": "unknown",
+      "retailer_256gb_reference": {
+        "seller": "iSpot; legal seller not independently verified",
+        "sku": "MHL64ZE/A/P3/R5/D1",
+        "configuration": "M5 Ultra 36 CPU / 80 GPU / 256GB / 1TB",
+        "gross_pln": "54499.00",
+        "stock": "visible dispatch 2-8 weeks, despite InStock structured data",
+        "shipping": "free above 179 PLN advertised; checkout not submitted",
+        "delivered_pln": "unknown",
+        "url": "https://ispot.pl/apple-mac-studio-36-rdzeniowy-procesor-apple-m5-ultra-gpu-80-rdzeni-ram-256gb-dysk-1-tb",
+        "evidence": "research/2026-11-01-http.json index 49; retailer quote, not Apple standard or education configured checkout"
+      },
+      "education_eligibility": "Apple Poland education sales policy retrieved; buyer eligibility unknown",
+      "education_policy_url": "https://www.apple.com/legal/sales-support/sales-policies/education_pl.html"
+    }
   },
   "optional_gpu_watch": [
     "AMD Radeon AI PRO R9700 32GB",
