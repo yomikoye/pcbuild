@@ -61,7 +61,7 @@
             "product": "Kingston FURY Renegade Pro 128GB 4x32GB DDR5-6000 CL32 ECC RDIMM EXPO",
             "sku": "KF560R32RBEK4-128",
             "ean": "0740617340327",
-            "status": "2026-11-01: Morele exact 3535.98 PLN catalogue remains out of stock; ED SYSTEM exact distributor listing says usually 14 days with price hidden; exact TRX50 AI TOP validation and purchasable stock required before substitution",
+            "status": "2026-11-08: Morele exact 3535.98 PLN still OutOfStock; ED SYSTEM usually 14 days/public price hidden; Lieske B2B made-to-order and IBFusion different 6400 factory-kit lead do not establish qualifying immediate Poland stock or exact-board validation. No substitution.",
             "official_url": "https://www.kingston.com/pl/memory/search?partid=KF560R32RBEK4-128",
             "retailer_url": "https://www.morele.net/pamiec-kingston-fury-renegade-pro-ddr5-128-gb-6000mhz-cl32-kf560r32rbek4-128-13263643/"
           }
@@ -333,7 +333,7 @@
     "pricing_rule": "Record standard and Education Poland prices for exact 36/80/256GB configuration separately; starting prices for 36/80 do not include the 256GB upgrade. If exact configured checkout price cannot be verified, mark unknown, never substitute base price.",
     "comparison_rule": "Integrated unified memory is not NVIDIA CUDA VRAM. Compare model fit, MLX/Metal support, GPU throughput and software availability separately; do not insert Mac into A/B/C parts totals or call 256GB all GPU-usable.",
     "latest_check": {
-      "date": "2026-11-01",
+      "date": "2026-11-08",
       "apple_standard_96gb_configured_pln": "unknown",
       "apple_education_96gb_configured_pln": "unknown",
       "apple_standard_256gb_configured_pln": "unknown",
@@ -347,11 +347,26 @@
         "shipping": "free above 179 PLN advertised; checkout not submitted",
         "delivered_pln": "unknown",
         "url": "https://ispot.pl/apple-mac-studio-36-rdzeniowy-procesor-apple-m5-ultra-gpu-80-rdzeni-ram-256gb-dysk-1-tb",
-        "evidence": "research/2026-11-01-http.json index 49; retailer quote, not Apple standard or education configured checkout"
+        "evidence": "research/2026-11-08-http.json index 56; unchanged exact configured retailer quote, visible on-order 2-8 weeks, not Apple standard or education checkout"
       },
       "education_eligibility": "Apple Poland education sales policy retrieved; buyer eligibility unknown",
       "education_policy_url": "https://www.apple.com/legal/sales-support/sales-policies/education_pl.html"
     }
+  },
+  "latest_monitor": {
+    "date": "2026-11-08",
+    "report": "reports/2026-11-08.md",
+    "offers": "research/2026-11-08-offers.json",
+    "recommendation_classes": {"A": "WAIT", "C": "WAIT", "B1": "WAIT", "B2": "WAIT"},
+    "complete_delivered_totals": "unknown/incomplete for all tracks",
+    "meaningful_findings": [
+      "TRX50 AI TOP and ProArt RTX 5090 restored visible Morele-direct seller/stock",
+      "9950X3D Morele-direct primary offer returned; distinct 9950X3D2 new recorded asking-price low, no automatic substitution",
+      "PRIME main Morele seller changed to Madman Gaming; previous direct price only historical reference",
+      "A/C 120mm fans only two selectable versus six required",
+      "Prior Zotac water-bundle availability wording corrected: sold/ended notice already in previous capture, not a newly proven stock loss",
+      "ProLine near-match prebuilt changed BOM; current exact-page 36-month door-to-door terms captured"
+    ]
   },
   "optional_gpu_watch": [
     "AMD Radeon AI PRO R9700 32GB",

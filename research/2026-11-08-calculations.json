@@ -1,0 +1,425 @@
+{
+  "date": "2026-11-08",
+  "baseline_commit": "1fff24e4881cea531c10cacea9b49e60679d6f85",
+  "fx": {
+    "eur_pln": "4.3925",
+    "effective": "2026-11-06",
+    "url": "https://api.nbp.pl/api/exchangerates/rates/a/eur/2026-11-06/?format=json"
+  },
+  "A_quantities": {
+    "cpuA": 1,
+    "boardA": 1,
+    "ramA": 1,
+    "gpu": 1,
+    "coolA": 1,
+    "caseA": 1,
+    "psu": 1,
+    "ssd": 2,
+    "fan140": 6,
+    "fan120": 6
+  },
+  "B1_quantities": {
+    "cpuB": 1,
+    "boardB": 1,
+    "ramB": 1,
+    "gpu": 1,
+    "coolB": 1,
+    "caseB": 1,
+    "fan140": 8,
+    "ssd": 1,
+    "ssdB2": 1,
+    "psu": 1
+  },
+  "A_amounts_pln": {
+    "cpuA": "6685.75",
+    "boardA": "4369.00",
+    "ramA": "27240.88",
+    "gpu": "41405.90",
+    "coolA": "1879.03",
+    "caseA": "2196.03",
+    "psu": "2499.00",
+    "ssd": "8899.44",
+    "fan140": "1036.50",
+    "fan120": "1020.36"
+  },
+  "B1_amounts_pln": {
+    "cpuB": "2691.55",
+    "boardB": "2321.63",
+    "ramB": "13183.18",
+    "gpu": "41405.90",
+    "coolB": "1523.59",
+    "caseB": "1312.62",
+    "fan140": "1382.00",
+    "ssd": "4449.72",
+    "ssdB2": "3356.06",
+    "psu": "2499.00"
+  },
+  "results_pln": {
+    "A": "97231.89",
+    "A_two": "138637.79",
+    "C_non_gpu": "55825.99",
+    "B1": "74125.25",
+    "B2": "72680.20",
+    "B1_two": "115531.15",
+    "platform_A_C": "42370.69",
+    "platform_B": "21032.57",
+    "platform_premium": "21338.12",
+    "platform_premium_pct": "101.45",
+    "A_over_B1": "23106.64",
+    "A_over_B1_pct": "31.17",
+    "A_over_B2": "24551.69",
+    "A_over_B2_pct": "33.78",
+    "cpu_alternative_premium": "1028.45",
+    "cpu_alternative_premium_pct": "38.21",
+    "cpuAlt_same_seller_weekly_change": "-231.74",
+    "cpuAlt_same_seller_weekly_pct": "-5.86",
+    "A_value_ram_scenario": "73526.99",
+    "A_value_ram_difference": "23704.90",
+    "A_fan120_group_reference": "1020.36",
+    "C_nominal_GPU_heat_W": "700.00",
+    "A2_reference_GPU_heat_W": "1150.00",
+    "AW420_stack_mm": "52.00",
+    "AW420_nominal_margin_mm": "13.00",
+    "AW420_group_current_A": "1.08"
+  },
+  "RAM_A_german_gross_pln": "26355.00",
+  "RAM_A_polish_vat_illustration": "27240.88",
+  "delivered_totals": "unknown",
+  "C_current": "incomplete",
+  "C_fit_validated": "incomplete",
+  "C_savings_A1_A2": "undefined; no qualifying installed matching pair",
+  "status": "incomplete product-only references, not purchasing recommendations",
+  "history": {
+    "A": {
+      "series": [
+        {
+          "date": "2026-08-09",
+          "reference_pln": "70348.67",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-08-16",
+          "reference_pln": "70545.48",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-08-23",
+          "reference_pln": "69881.19",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-08-30",
+          "reference_pln": "70312.19",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-09-20",
+          "reference_pln": "80026.53",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-09-27",
+          "reference_pln": "83611.84",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-10-04",
+          "reference_pln": "83834.04",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-10-11",
+          "reference_pln": "87907.57",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-10-18",
+          "reference_pln": "88358.50",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": false
+        },
+        {
+          "date": "2026-10-25",
+          "reference_pln": "88705.37",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": false
+        },
+        {
+          "date": "2026-11-01",
+          "reference_pln": "97481.53",
+          "class": "conditional reference; unavailable RAM/board or unapproved seller; not delivered",
+          "originally_published": true
+        },
+        {
+          "date": "2026-11-08",
+          "reference_pln": "97231.89",
+          "class": "incomplete heterogeneous product-only reference; PSU historical; never delivered",
+          "originally_published": false
+        }
+      ],
+      "first": "70348.67",
+      "previous": "97481.53",
+      "current": "97231.89",
+      "minimum": "69881.19",
+      "maximum": "97481.53",
+      "weekly_change": "-249.64",
+      "weekly_pct": "-0.26",
+      "total_change": "26883.22",
+      "total_pct": "38.21",
+      "windows": {
+        "30": {
+          "start": "2026-10-09",
+          "observations": 5,
+          "first_available": "2026-10-11",
+          "minimum": "87907.57",
+          "maximum": "97481.53",
+          "change_from_first_available": "9324.32"
+        },
+        "90": {
+          "start": "2026-08-10",
+          "observations": 11,
+          "first_available": "2026-08-16",
+          "minimum": "69881.19",
+          "maximum": "97481.53",
+          "change_from_first_available": "26686.41"
+        }
+      },
+      "delivered_qualified_history": "undefined: no complete qualified delivered basket"
+    },
+    "B1": {
+      "series": [
+        {
+          "date": "2026-08-09",
+          "reference_pln": "47196.41",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-08-16",
+          "reference_pln": "48340.64",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-08-23",
+          "reference_pln": "48002.29",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-08-30",
+          "reference_pln": "48316.17",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-09-20",
+          "reference_pln": "56621.60",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-09-27",
+          "reference_pln": "58846.81",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-10-04",
+          "reference_pln": "60359.79",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-10-11",
+          "reference_pln": "63612.08",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-10-18",
+          "reference_pln": "65749.01",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": false
+        },
+        {
+          "date": "2026-10-25",
+          "reference_pln": "65957.39",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": false
+        },
+        {
+          "date": "2026-11-01",
+          "reference_pln": "72894.61",
+          "class": "conditional reference; unavailable RAM/board or unapproved seller; not delivered",
+          "originally_published": true
+        },
+        {
+          "date": "2026-11-08",
+          "reference_pln": "74125.25",
+          "class": "incomplete heterogeneous product-only reference; PSU historical; never delivered",
+          "originally_published": false
+        }
+      ],
+      "first": "47196.41",
+      "previous": "72894.61",
+      "current": "74125.25",
+      "minimum": "47196.41",
+      "maximum": "74125.25",
+      "weekly_change": "1230.64",
+      "weekly_pct": "1.69",
+      "total_change": "26928.84",
+      "total_pct": "57.06",
+      "windows": {
+        "30": {
+          "start": "2026-10-09",
+          "observations": 5,
+          "first_available": "2026-10-11",
+          "minimum": "63612.08",
+          "maximum": "74125.25",
+          "change_from_first_available": "10513.17"
+        },
+        "90": {
+          "start": "2026-08-10",
+          "observations": 11,
+          "first_available": "2026-08-16",
+          "minimum": "48002.29",
+          "maximum": "74125.25",
+          "change_from_first_available": "25784.61"
+        }
+      },
+      "delivered_qualified_history": "undefined: no complete qualified delivered basket"
+    },
+    "B2": {
+      "series": [
+        {
+          "date": "2026-08-09",
+          "reference_pln": "46025.26",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-08-16",
+          "reference_pln": "47184.06",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-08-23",
+          "reference_pln": "46855.99",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-08-30",
+          "reference_pln": "47100.84",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-09-20",
+          "reference_pln": "55119.32",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-09-27",
+          "reference_pln": "57539.14",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-10-04",
+          "reference_pln": "58829.43",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-10-11",
+          "reference_pln": "62383.41",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": true
+        },
+        {
+          "date": "2026-10-18",
+          "reference_pln": "64303.96",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": false
+        },
+        {
+          "date": "2026-10-25",
+          "reference_pln": "64512.34",
+          "class": "historical heterogeneous incomplete reference",
+          "originally_published": false
+        },
+        {
+          "date": "2026-11-01",
+          "reference_pln": "71449.56",
+          "class": "conditional reference; unavailable RAM/board or unapproved seller; not delivered",
+          "originally_published": true
+        },
+        {
+          "date": "2026-11-08",
+          "reference_pln": "72680.20",
+          "class": "incomplete heterogeneous product-only reference; PSU historical; never delivered",
+          "originally_published": false
+        }
+      ],
+      "first": "46025.26",
+      "previous": "71449.56",
+      "current": "72680.20",
+      "minimum": "46025.26",
+      "maximum": "72680.20",
+      "weekly_change": "1230.64",
+      "weekly_pct": "1.72",
+      "total_change": "26654.94",
+      "total_pct": "57.91",
+      "windows": {
+        "30": {
+          "start": "2026-10-09",
+          "observations": 5,
+          "first_available": "2026-10-11",
+          "minimum": "62383.41",
+          "maximum": "72680.20",
+          "change_from_first_available": "10296.79"
+        },
+        "90": {
+          "start": "2026-08-10",
+          "observations": 11,
+          "first_available": "2026-08-16",
+          "minimum": "46855.99",
+          "maximum": "72680.20",
+          "change_from_first_available": "25496.14"
+        }
+      },
+      "delivered_qualified_history": "undefined: no complete qualified delivered basket"
+    },
+    "C": {
+      "first_observed": "2026-08-23",
+      "first_unqualified_reference": "56282.19",
+      "previous_current_qualified_total": null,
+      "current_qualified_total": null,
+      "fit_validated_total": null,
+      "minimum_qualified_total": null,
+      "maximum_qualified_total": null,
+      "weekly_qualified_change": null,
+      "total_qualified_change": null,
+      "previous_non_gpu_reference": "56376.53",
+      "current_non_gpu_reference": "55825.99",
+      "same_water_listing_reference_ask": "13050.00",
+      "weekly_reference_ask_change": "0.00",
+      "current_pair_ask": "unknown; sold/ended notice conflicts with surviving page",
+      "30_day": "No qualifying current or fit-validated pair; Oct18/25 and Nov1 water sticker 13050; availability wording corrected, not a new verified stock loss.",
+      "90_day": "Starts Aug23 air pair 7400 then stale; later water bundle is different cooling/condition, never same-offer inflation; no delivered extrema."
+    }
+  },
+  "current_observation_count": 36
+}

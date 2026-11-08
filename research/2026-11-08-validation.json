@@ -1,0 +1,690 @@
+{
+  "date": "2026-11-08",
+  "state": "passed",
+  "checks": 1973,
+  "json_files": 60,
+  "observations": 323,
+  "appended_rows": 36,
+  "historical_prefix_sha256": "d11231e73bb1faf5e212d23b30380b00361f9919993c307e3224bffec1194055",
+  "captures": 80,
+  "http_status_counts": {
+    "200": 56,
+    "403": 20,
+    "000": 1,
+    "404": 1,
+    "429": 2
+  },
+  "local_links_checked": 132,
+  "distinct_external_links": 62,
+  "reference_totals": {
+    "A": "97231.89",
+    "A_two": "138637.79",
+    "B1": "74125.25",
+    "B2": "72680.20",
+    "B1_two": "115531.15",
+    "platform_A_C": "42370.69",
+    "platform_B": "21032.57"
+  },
+  "weekly_reference_deltas": {
+    "A": "-249.64",
+    "B1": "1230.64",
+    "B2": "1230.64"
+  },
+  "CPU_alternative_prior_min_PLN": "3913.51",
+  "CPU_alternative_current_PLN": "3720.00",
+  "C_current": "incomplete",
+  "C_fit_validated": "incomplete",
+  "delivered_totals": "unknown",
+  "source_states": [
+    {
+      "url": "https://www.alternate.de/G-Skill/RIMM-128-GB-DDR5-6400-4x-32-GB-Quad-Kit-ECC-Arbeitsspeicher/html/product/100142743",
+      "http": "200 https://www.alternate.de/G-Skill/RIMM-128-GB-DDR5-6400-4x-32-GB-Quad-Kit-ECC-Arbeitsspeicher/html/product/100142743",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.alternate.de/G-Skill/RIMM-128-GB-DDR5-6000-4x-32-GB-Quad-Kit-ECC-Arbeitsspeicher/html/product/100130582",
+      "http": "200 https://www.alternate.de/G-Skill/RIMM-128-GB-DDR5-6000-4x-32-GB-Quad-Kit-ECC-Arbeitsspeicher/html/product/100130582",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.ldlc.com/en/product/PB00684890.html",
+      "http": "200 https://www.ldlc.com/en/product/PB00684890.html",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.morele.net/procesor-amd-ryzen-threadripper-9960x-4-2-ghz-128-mb-box-100-100001595wof-15415332/",
+      "http": "200 https://www.morele.net/procesor-amd-ryzen-threadripper-9960x-4-2-ghz-128-mb-box-100-100001595wof-15415332/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.kingston.com/pl/memory/search?partid=KF560R32RBEK4-128",
+      "http": "403 https://www.kingston.com/pl/memory/search?partid=KF560R32RBEK4-128",
+      "state": "failed_or_blocked"
+    },
+    {
+      "url": "https://www.morele.net/plyta-glowna-gigabyte-trx50-ai-top-13812451/",
+      "http": "200 https://www.morele.net/plyta-glowna-gigabyte-trx50-ai-top-13812451/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.morele.net/pamiec-kingston-fury-renegade-pro-ddr5-128-gb-6000mhz-cl32-kf560r32rbek4-128-13263643/",
+      "http": "200 https://www.morele.net/pamiec-kingston-fury-renegade-pro-ddr5-128-gb-6000mhz-cl32-kf560r32rbek4-128-13263643/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://geizhals.eu/g-skill-zeta-r5-neo-rdimm-kit-128gb-f5-6000r3036g32gq4-g5n-a3480111.html",
+      "http": "200 https://geizhals.eu/g-skill-zeta-r5-neo-rdimm-kit-128gb-f5-6000r3036g32gq4-g5n-a3480111.html",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.phs-memory.com/computer-memory-32gb-ddr5-gigabyte-trx50-ai-top-ram-rdimm-sp598864.html",
+      "http": "200 https://www.phs-memory.com/computer-memory-32gb-ddr5-gigabyte-trx50-ai-top-ram-rdimm-sp598864.html",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.gskill.com/specification/400/446/1747204820/F5-6000R3036G32GQ4-G5N-Specification",
+      "http": "403 https://www.gskill.com/specification/400/446/1747204820/F5-6000R3036G32GQ4-G5N-Specification",
+      "state": "failed_or_blocked"
+    },
+    {
+      "url": "https://www.komputronik.pl/product/1013522/asus-geforce-rtx-5090-proart-oc-32gb-dlss-4.html",
+      "http": "200 https://www.komputronik.pl/product/1013522/asus-geforce-rtx-5090-proart-oc-32gb-dlss-4.html",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.morele.net/karta-graficzna-asus-proart-geforce-rtx-5090-oc-32gb-gddr7-dlss4-proart-rtx5090-o32g-600147680/",
+      "http": "200 https://www.morele.net/karta-graficzna-asus-proart-geforce-rtx-5090-oc-32gb-gddr7-dlss4-proart-rtx5090-o32g-600147680/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.ldlc.com/en/product/PB00740291.html",
+      "http": "200 https://www.ldlc.com/en/product/PB00740291.html",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.euro.com.pl/karty-graficzne/asus-karta-graf-asus-proart-rtx5090-o-32g.bhtml",
+      "http": "403 https://www.euro.com.pl/karty-graficzne/asus-karta-graf-asus-proart-rtx5090-o-32g.bhtml",
+      "state": "failed_or_blocked"
+    },
+    {
+      "url": "https://edshop.edsystem.pl/kingston-dimm-ddr5-128gb-kit-of-4-6000mt-s-ecc-reg-fury-renegade-pro-expo/product-1720013",
+      "http": "200 https://edshop.edsystem.pl/kingston-dimm-ddr5-128gb-kit-of-4-6000mt-s-ecc-reg-fury-renegade-pro-expo/product-1720013",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://marketplace.nvidia.com/pl-pl/consumer/graphics-cards/?locale=pl-pl&gpu=RTX%205090&manufacturer=NVIDIA",
+      "http": "000 https://marketplace.nvidia.com/pl-pl/consumer/graphics-cards/?locale=pl-pl&gpu=RTX%205090&manufacturer=NVIDIA",
+      "state": "failed_or_blocked"
+    },
+    {
+      "url": "https://www.nvidia.com/pl-pl/geforce/graphics-cards/50-series/rtx-5090/",
+      "http": "200 https://www.nvidia.com/pl-pl/geforce/graphics-cards/50-series/rtx-5090/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.primepc.pl/karty-graficzne-nvidia/28976-asus-proart-rtx5090-o32g-nvidia-geforce-rtx-5090-32-gb-gddr7.html",
+      "http": "200 https://www.primepc.pl/karty-graficzne-nvidia/28976-asus-proart-rtx5090-o32g-nvidia-geforce-rtx-5090-32-gb-gddr7.html",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.caseking.de/en/phanteks-enthoo-elite-server-pc-case-big-tower-ssi-eeb-and-multi-gpu-black/GEPH-222.html",
+      "http": "403 https://www.caseking.de/en/phanteks-enthoo-elite-server-pc-case-big-tower-ssi-eeb-and-multi-gpu-black/GEPH-222.html",
+      "state": "failed_or_blocked"
+    },
+    {
+      "url": "https://www.ldlc.com/en/product/PB00756899.html",
+      "http": "200 https://www.ldlc.com/en/product/PB00756899.html",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://seasonic.com/atx3-1-prime-px/",
+      "http": "403 https://seasonic.com/atx3-1-prime-px/",
+      "state": "failed_or_blocked"
+    },
+    {
+      "url": "https://www.senetic.pl/product/MZ-VAP4T0BW",
+      "http": "200 https://www.senetic.pl/product/MZ-VAP4T0BW",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.morele.net/chlodzenie-wodne-thermaltake-aio-aw420-cl-w445-pl14bl-a-15342140/",
+      "http": "200 https://www.morele.net/chlodzenie-wodne-thermaltake-aio-aw420-cl-w445-pl14bl-a-15342140/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.morele.net/zasilacz-seasonic-prime-px-atx-3-2200w-prime-px-2200-atx30-14499536/",
+      "http": "200 https://www.morele.net/zasilacz-seasonic-prime-px-atx-3-2200w-prime-px-2200-atx30-14499536/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.morele.net/wentylator-noctua-nf-a12x25-g2-pwm-chromax-black-600144884/",
+      "http": "200 https://www.morele.net/wentylator-noctua-nf-a12x25-g2-pwm-chromax-black-600144884/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.morele.net/dysk-ssd-samsung-9100-pro-4tb-m-2-2280-pci-e-x4-gen5-nvme-mz-vap4t0bw-14740719/",
+      "http": "200 https://www.morele.net/dysk-ssd-samsung-9100-pro-4tb-m-2-2280-pci-e-x4-gen5-nvme-mz-vap4t0bw-14740719/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.morele.net/wentylator-noctua-nf-a14x25-g2-pwm-chromax-black-15645657/",
+      "http": "200 https://www.morele.net/wentylator-noctua-nf-a14x25-g2-pwm-chromax-black-15645657/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.x-kom.pl/p/1321669-procesor-amd-ryzen-9-amd-ryzen-9-9950x3d.html",
+      "http": "403 https://www.x-kom.pl/p/1321669-procesor-amd-ryzen-9-amd-ryzen-9-9950x3d.html",
+      "state": "failed_or_blocked"
+    },
+    {
+      "url": "https://www.senetic.pl/product/100-100000719WOF",
+      "http": "200 https://www.senetic.pl/product/100-100000719WOF",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.morele.net/procesor-amd-ryzen-9-9950x3d-4-3-ghz-128-mb-box-100-100000719wof-14743984/",
+      "http": "200 https://www.morele.net/procesor-amd-ryzen-9-9950x3d-4-3-ghz-128-mb-box-100-100000719wof-14743984/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.kingston.com/pl/memory/search?partid=KF556C40BBK2-128",
+      "http": "403 https://www.kingston.com/pl/memory/search?partid=KF556C40BBK2-128",
+      "state": "failed_or_blocked"
+    },
+    {
+      "url": "https://www.gigabyte.com/Motherboard/X870E-AORUS-MASTER-X3D-ICE/support#support-memsup",
+      "http": "403 https://www.gigabyte.com/Motherboard/X870E-AORUS-MASTER-X3D-ICE/support#support-memsup",
+      "state": "failed_or_blocked"
+    },
+    {
+      "url": "https://www.gigabyte.com/Motherboard/TRX50-AI-TOP/support#support-memsup",
+      "http": "403 https://www.gigabyte.com/Motherboard/TRX50-AI-TOP/support#support-memsup",
+      "state": "failed_or_blocked"
+    },
+    {
+      "url": "https://www.morele.net/pamiec-kingston-fury-beast-ddr5-128gb-5600mt-s-cl40-czarny-kf556c40bbk2-128-15245805/",
+      "http": "200 https://www.morele.net/pamiec-kingston-beast-ddr5-128-gb-5600mhz-cl40-kf556c40bbk2-128-15245805/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.morele.net/procesor-amd-ryzen-9-9950x3d2-4-3-ghz-192-mb-box-100-100001978wof-15920184/",
+      "http": "200 https://www.morele.net/procesor-amd-ryzen-9-9950x3d2-4-3-ghz-192-mb-box-100-100001978wof-15920184/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.morele.net/chlodzenie-wodne-jetworld-tryx-panorama-360-aio-l-p360n-ds3m-g1w-14962229/",
+      "http": "200 https://www.morele.net/chlodzenie-wodne-jetworld-panorama-360-l-p360n-ds3m-g1w-14962229/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.morele.net/obudowa-havn-hs-420-vgpu-biala-hvn-ca-hs420-07-14454524/",
+      "http": "200 https://www.morele.net/obudowa-havn-hs-420-vgpu-biala-hvn-ca-hs420-07-14454524/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.morele.net/zasilacz-seasonic-vertex-gx-1200w-vertex-gx-1200-13040437/",
+      "http": "200 https://www.morele.net/zasilacz-seasonic-vertex-gx-1200w-vertex-gx-1200-13040437/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.krsystem.pl/samsung_dysk_ssd_990pro_gen4.0x4_nvme_4tb_mzv9p4t0bw-item-73006.html",
+      "http": "200 https://www.krsystem.pl/samsung_dysk_ssd_990pro_gen4.0x4_nvme_4tb_mzv9p4t0bw-item-73006.html",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://pl-store.msi.com/products/mag-a1200pls-pcie5",
+      "http": "200 https://pl-store.msi.com/products/mag-a1200pls-pcie5",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.olx.pl/elektronika/komputery/q-2x-rtx-3090/",
+      "http": "403 https://www.olx.pl/elektronika/komputery/q-2x-rtx-3090/",
+      "state": "failed_or_blocked"
+    },
+    {
+      "url": "https://allegro.pl/kategoria/podzespoly-komputerowe-karty-graficzne-260019?string=rtx%203090",
+      "http": "403 https://allegro.pl/kategoria/podzespoly-komputerowe-karty-graficzne-260019?string=rtx%203090",
+      "state": "failed_or_blocked"
+    },
+    {
+      "url": "https://pixel2point.de/products/zotac-rtx-3090-24gb-trinity-oc-mit-ovp-refurbished",
+      "http": "404 https://pixel2point.de/products/zotac-rtx-3090-24gb-trinity-oc-mit-ovp-refurbished",
+      "state": "failed_or_blocked"
+    },
+    {
+      "url": "https://www.x-kom.pl/p/1533478-desktop-nyxum-workstation-r9-9950x3d-128gb-4tb-rtx-5090-fe-w11px.html",
+      "http": "403 https://www.x-kom.pl/p/1533478-desktop-nyxum-workstation-r9-9950x3d-128gb-4tb-rtx-5090-fe-w11px.html",
+      "state": "failed_or_blocked"
+    },
+    {
+      "url": "https://www.morele.net/plyta-glowna-gigabyte-x870e-aorus-master-x3d-ice-15566741/",
+      "http": "200 https://www.morele.net/plyta-glowna-gigabyte-x870e-aorus-master-x3d-ice-15566741/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://allegrolokalnie.pl/oferta/zestaw-2x-rtx-3090-zotac-trinity-24gb-nvlink-wodne",
+      "http": "200 https://allegrolokalnie.pl/oferta/zestaw-2x-rtx-3090-zotac-trinity-24gb-nvlink-wodne",
+      "state": "sold_ended_notice_conflicts_with_retained_controls_not_live_offer"
+    },
+    {
+      "url": "https://www.apple.com/pl/shop/buy-mac/mac-studio",
+      "http": "200 https://www.apple.com/pl/shop/buy-mac/mac-studio",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://proline.pl/zenpc-studio-amd-ryzen-9950x3d2-rtx-5090-2tb-128gb-dlss-4-p8392809",
+      "http": "200 https://proline.pl/zenpc-studio-amd-ryzen-9950x3d2-rtx-5090-2tb-128gb-dlss-4-p8392809",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.apple.com/pl/mac-studio/specs/",
+      "http": "200 https://www.apple.com/pl/mac-studio/specs/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://api.nbp.pl/api/exchangerates/rates/a/eur/2026-11-06/?format=json",
+      "http": "200 https://api.nbp.pl/api/exchangerates/rates/a/eur/2026-11-06/?format=json",
+      "state": "empty_or_JS_shell_not_product_evidence"
+    },
+    {
+      "url": "https://www.apple.com/legal/sales-support/sales-policies/education_pl.html",
+      "http": "200 https://www.apple.com/legal/sales-support/sales-policies/education_pl.html",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.apple.com/pl-edu/shop/buy-mac/mac-studio",
+      "http": "200 https://www.apple.com/pl-edu/shop/buy-mac/mac-studio",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://thermaltakeusa.com/products/aw420-aio-liquid-cooler-cl-w445-pl14bl-a",
+      "http": "200 https://thermaltakeusa.com/products/aw420-aio-liquid-cooler-cl-w445-pl14bl-a",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://havn.global/products/hs-420-vgpu",
+      "http": "200 https://havn.global/products/hs-420-vgpu",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.gigabyte.com/Motherboard/TRX50-AI-TOP/sp",
+      "http": "403 https://www.gigabyte.com/Motherboard/TRX50-AI-TOP/sp",
+      "state": "failed_or_blocked"
+    },
+    {
+      "url": "https://www.gigabyte.com/Motherboard/X870E-AORUS-MASTER-X3D-ICE/sp",
+      "http": "403 https://www.gigabyte.com/Motherboard/X870E-AORUS-MASTER-X3D-ICE/sp",
+      "state": "failed_or_blocked"
+    },
+    {
+      "url": "https://ispot.pl/apple-mac-studio-36-rdzeniowy-procesor-apple-m5-ultra-gpu-80-rdzeni-ram-256gb-dysk-1-tb",
+      "http": "200 https://ispot.pl/apple-mac-studio-36-rdzeniowy-procesor-apple-m5-ultra-gpu-80-rdzeni-ram-256gb-dysk-1-tb",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.asus.com/pl/motherboards-components/graphics-cards/proart/proart-rtx5090-o32g/techspec/",
+      "http": "200 https://www.asus.com/pl/motherboards-components/graphics-cards/proart/proart-rtx5090-o32g/techspec/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://phanteks.com/product/enthoo-elite-server-black/",
+      "http": "200 https://phanteks.com/product/enthoo-elite-server-black/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://industry-electronics.com/kingston/kf560r32rbek4-128-128gb-6000mt-ddr5-ecc-reg-cl32-dimm-kit-fury-renegade-pro-expo-lieske_1211705.htm",
+      "http": "200 https://industry-electronics.com/kingston/kf560r32rbek4-128-128gb-6000mt-ddr5-ecc-reg-cl32-dimm-kit-fury-renegade-pro-expo-lieske_1211705.htm",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.gigaserwer.pl/128gb-g-skill-rimm-6400--4x-32-gb--quad-kit--ecc--schwarz--f5-6400r3239g32gq4-g5n--zeta-r5-neo--regi,t2780002",
+      "http": "200 https://www.gigaserwer.pl/128gb-g-skill-rimm-6400--4x-32-gb--quad-kit--ecc--schwarz--f5-6400r3239g32gq4-g5n--zeta-r5-neo--regi,t2780002",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://storageisland.nl/kf560r32rbek4-128-128gb-6000mt-s-ddr5-ecc-reg-cl32-dimm-kit-of-4-fury-renegade-pro-expo/",
+      "http": "200 https://storageisland.nl/kf560r32rbek4-128-128gb-6000mt-s-ddr5-ecc-reg-cl32-dimm-kit-of-4-fury-renegade-pro-expo/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.alternate.de/G-Skill/RIMM-128-GB-DDR5-6400-4x-32-GB-Quad-Kit-ECC-Arbeitsspeicher/html/product/100130590",
+      "http": "200 https://www.alternate.de/G-Skill/RIMM-128-GB-DDR5-6400-4x-32-GB-Quad-Kit-ECC-Arbeitsspeicher/html/product/100130590",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://allegrolokalnie.pl/oferty/q/rtx%203090",
+      "http": "200 https://allegrolokalnie.pl/oferty/q/rtx%203090",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.olx.pl/elektronika/komputery/warminsko-mazurskie/q-rtx-3090-24gb/",
+      "http": "403 https://www.olx.pl/elektronika/komputery/warminsko-mazurskie/q-rtx-3090-24gb/",
+      "state": "failed_or_blocked"
+    },
+    {
+      "url": "https://allegrolokalnie.pl/oferta/2x-nvidia-rtx-3090-24gb",
+      "http": "200 https://allegrolokalnie.pl/oferta/2x-nvidia-rtx-3090-24gb",
+      "state": "sold_ended_notice_conflicts_with_retained_controls_not_live_offer"
+    },
+    {
+      "url": "https://www.scan.co.uk/products/open-box-zotac-geforce-rtx-3090-gaming-trinity-oc-24gb-gddr6x-ray-tracing-graphics-card-10496-core-1",
+      "http": "403 https://www.scan.co.uk/products/open-box-zotac-geforce-rtx-3090-gaming-trinity-oc-24gb-gddr6x-ray-tracing-graphics-card-10496-core-1",
+      "state": "failed_or_blocked"
+    },
+    {
+      "url": "https://www.gigadeal.pl/produkt/zasilacz-seasonic-prime-px-2200-80plus-platinum-atx-31-pcie-51-2024-2200w-1785646",
+      "http": "200 https://www.gigadeal.pl/produkt/zasilacz-seasonic-prime-px-2200-80plus-platinum-atx-31-pcie-51-2024-2200w-1785646",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://ibfusion.com/ram/kingston-fury-renegade-pro-128gb-4x32gb-ddr5-6400-2rx8-ecc-rdimm/",
+      "http": "200 https://ibfusion.com/ram/kingston-fury-renegade-pro-128gb-4x32gb-ddr5-6400-2rx8-ecc-rdimm/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://hard.rozetka.pl/seasonic-prime-px-2200-atx30/p539224114/",
+      "http": "200 https://hard.rozetka.pl/seasonic-prime-px-2200-atx30/p539224114/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://sklep.hard-pc.pl/p19300,zasilacz-seasonic-prime-px-2200-80plus-platinum-atx-3-1-pcie-5-1-2024-2200w.html",
+      "http": "200 https://sklep.hard-pc.pl/p19300,zasilacz-seasonic-prime-px-2200-80plus-platinum-atx-3-1-pcie-5-1-2024-2200w.html",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.noctua.at/en/products/nf-a14x25-g2-pwm-chromax-black/specifications",
+      "http": "429 https://www.noctua.at/en/products/nf-a14x25-g2-pwm-chromax-black/specifications",
+      "state": "failed_or_blocked"
+    },
+    {
+      "url": "https://www.noctua.at/en/products/nf-a12x25-g2-pwm-chromax-black/specifications",
+      "http": "429 https://www.noctua.at/en/products/nf-a12x25-g2-pwm-chromax-black/specifications",
+      "state": "failed_or_blocked"
+    },
+    {
+      "url": "https://www.corsair.com/pl/pl/p/memory/cma128gx5m4b5600c40/ws-ddr5-ecc-rdimm-128gb-4-x-32gb-ddr5-dram-5600mts-cl40-memory-kit-cma128gx5m4b5600c40",
+      "http": "200 https://www.corsair.com/pl/pl/p/memory/cma128gx5m4b5600c40/ws-ddr5-ecc-rdimm-128gb-4-x-32gb-ddr5-dram-5600mts-cl40-memory-kit-cma128gx5m4b5600c40",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.tryx.com/en/products/cooling/panorama/panorama/white-360",
+      "http": "200 https://www.tryx.com/en/products/cooling/panorama/panorama/white-360",
+      "state": "empty_or_JS_shell_not_product_evidence"
+    },
+    {
+      "url": "https://seasonic.com/vertex-gx/",
+      "http": "403 https://seasonic.com/vertex-gx/",
+      "state": "failed_or_blocked"
+    },
+    {
+      "url": "https://www.kingston.com/en/memory/search/model/109774/gigabyte-trx50-ai-top-motherboard",
+      "http": "403 https://www.kingston.com/en/memory/search/model/109774/gigabyte-trx50-ai-top-motherboard",
+      "state": "failed_or_blocked"
+    },
+    {
+      "url": "https://sklep.hard-pc.pl/i59,regulamin-newslettera.html",
+      "http": "200 https://sklep.hard-pc.pl/i59,regulamin-newslettera.html",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.x-kom.pl/p/1370891-karta-graficzna-amd-gigabyte-radeon-ai-pro-r9700-ai-top-32gb-gddr6.html",
+      "http": "403 https://www.x-kom.pl/p/1370891-karta-graficzna-amd-gigabyte-radeon-ai-pro-r9700-ai-top-32gb-gddr6.html",
+      "state": "failed_or_blocked"
+    },
+    {
+      "url": "https://www.msi.com/Power-Supply/MAG-A1200PLS-PCIE5/Specification",
+      "http": "403 https://www.msi.com/Power-Supply/MAG-A1200PLS-PCIE5/Specification",
+      "state": "failed_or_blocked"
+    }
+  ],
+  "external_link_states": [
+    {
+      "url": "https://allegro.pl/produkt/karta-graficzna-asus-turbo-rtx3090-24g-24-gb-979a4b37-0fd9-492f-a849-ab0deb545370",
+      "state": "historical_or_indexed_only_not_live_checked_this_run"
+    },
+    {
+      "url": "https://allegrolokalnie.pl/oferta/2x-nvidia-rtx-3090-24gb",
+      "state": "sold_ended_notice_conflicts_with_retained_controls_not_live_offer"
+    },
+    {
+      "url": "https://allegrolokalnie.pl/oferta/zestaw-2x-rtx-3090-zotac-trinity-24gb-nvlink-wodne",
+      "state": "sold_ended_notice_conflicts_with_retained_controls_not_live_offer"
+    },
+    {
+      "url": "https://allegrolokalnie.pl/oferty/q/rtx%203090",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://api.nbp.pl/api/exchangerates/rates/a/eur/2026-11-06/?format=json",
+      "state": "empty_or_JS_shell_not_product_evidence"
+    },
+    {
+      "url": "https://havn.global/products/hs-420-vgpu",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://ibfusion.com/ram/kingston-fury-renegade-pro-128gb-4x32gb-ddr5-6400-2rx8-ecc-rdimm/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://industry-electronics.com/kingston/kf560r32rbek4-128-128gb-6000mt-ddr5-ecc-reg-cl32-dimm-kit-fury-renegade-pro-expo-lieske_1211705.htm",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://ispot.pl/apple-mac-studio-36-rdzeniowy-procesor-apple-m5-ultra-gpu-80-rdzeni-ram-256gb-dysk-1-tb",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://phanteks.com/product/enthoo-elite-server-black/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://pl-store.msi.com/products/mag-a1200pls-pcie5",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://proline.pl/zenpc-studio-amd-ryzen-9950x3d2-rtx-5090-2tb-128gb-dlss-4-p8392809",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://sklep.hard-pc.pl/i59,regulamin-newslettera.html",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://sklep.hard-pc.pl/p19300,zasilacz-seasonic-prime-px-2200-80plus-platinum-atx-3-1-pcie-5-1-2024-2200w.html",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://storageisland.nl/kf560r32rbek4-128-128gb-6000mt-s-ddr5-ecc-reg-cl32-dimm-kit-of-4-fury-renegade-pro-expo/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://thermaltakeusa.com/products/aw420-aio-liquid-cooler-cl-w445-pl14bl-a",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.alternate.de/G-Skill/RIMM-128-GB-DDR5-6000-4x-32-GB-Quad-Kit-ECC-Arbeitsspeicher/html/product/100130582",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.alternate.de/GIGABYTE/X870E-AORUS-MASTER-X3D-ICE-Mainboard/html/product/100162099",
+      "state": "historical_or_indexed_only_not_live_checked_this_run"
+    },
+    {
+      "url": "https://www.amazon.pl/gp/product/B0FJ6KKCD5/?smid=A2R2221NX79QZP&psc=1",
+      "state": "historical_or_indexed_only_not_live_checked_this_run"
+    },
+    {
+      "url": "https://www.apple.com/legal/sales-support/sales-policies/education_pl.html",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.apple.com/pl-edu/shop/buy-mac/mac-studio",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.apple.com/pl/mac-studio/specs/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.apple.com/pl/shop/buy-mac/mac-studio",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.asus.com/pl/motherboards-components/graphics-cards/proart/proart-rtx5090-o32g/techspec/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.caseking.de/en/havn-hs-420-vgpu-pc-case-mid-tower-e-atx-tempered-glass-pcie-5.0-riser-cable-white/GEHV-003.html",
+      "state": "historical_or_indexed_only_not_live_checked_this_run"
+    },
+    {
+      "url": "https://www.caseking.de/en/phanteks-enthoo-elite-server-pc-case-big-tower-ssi-eeb-and-multi-gpu-black/GEPH-222.html",
+      "state": "failed_or_blocked"
+    },
+    {
+      "url": "https://www.ceneo.pl/91191409",
+      "state": "historical_or_indexed_only_not_live_checked_this_run"
+    },
+    {
+      "url": "https://www.corsair.com/pl/pl/p/memory/cma128gx5m4b5600c40/ws-ddr5-ecc-rdimm-128gb-4-x-32gb-ddr5-dram-5600mts-cl40-memory-kit-cma128gx5m4b5600c40",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.euro.com.pl/karty-graficzne/asus-karta-graf-asus-proart-rtx5090-o-32g.bhtml",
+      "state": "failed_or_blocked"
+    },
+    {
+      "url": "https://www.gigabyte.com/Graphics-Card/GV-N3090TURBO-24GD",
+      "state": "historical_or_indexed_only_not_live_checked_this_run"
+    },
+    {
+      "url": "https://www.gigaserwer.pl/128gb-g-skill-rimm-6400--4x-32-gb--quad-kit--ecc--schwarz--f5-6400r3239g32gq4-g5n--zeta-r5-neo--regi,t2780002",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.kingston.com/en/memory/search/model/109774/gigabyte-trx50-ai-top-motherboard",
+      "state": "failed_or_blocked"
+    },
+    {
+      "url": "https://www.komputronik.pl/product/1013522/asus-geforce-rtx-5090-proart-oc-32gb-dlss-4.html",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.krsystem.pl/karta_graficzna_asus_proart_geforce_rtx_5090_oc_32gb_gddr7_dls-item-80334.html",
+      "state": "historical_or_indexed_only_not_live_checked_this_run"
+    },
+    {
+      "url": "https://www.krsystem.pl/samsung_dysk_ssd_990pro_gen4.0x4_nvme_4tb_mzv9p4t0bw-item-73006.html",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.ldlc.com/en/product/PB00736322.html",
+      "state": "historical_or_indexed_only_not_live_checked_this_run"
+    },
+    {
+      "url": "https://www.ldlc.com/en/product/PB00740291.html",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.ldlc.com/en/product/PB00756899.html",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.morele.net/chlodzenie-wodne-jetworld-tryx-panorama-360-aio-l-p360n-ds3m-g1w-14962229/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.morele.net/chlodzenie-wodne-thermaltake-aio-aw420-cl-w445-pl14bl-a-15342140/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.morele.net/dysk-ssd-samsung-9100-pro-4tb-m-2-2280-pci-e-x4-gen5-nvme-mz-vap4t0bw-14740719/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.morele.net/karta-graficzna-asus-proart-geforce-rtx-5090-oc-32gb-gddr7-dlss4-proart-rtx5090-o32g-600147680/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.morele.net/obudowa-havn-hs-420-vgpu-biala-hvn-ca-hs420-07-14454524/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.morele.net/pamiec-kingston-fury-beast-ddr5-128gb-5600mt-s-cl40-czarny-kf556c40bbk2-128-15245805/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.morele.net/pamiec-kingston-fury-renegade-pro-ddr5-128-gb-6000mhz-cl32-kf560r32rbek4-128-13263643/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.morele.net/plyta-glowna-gigabyte-trx50-ai-top-13812451/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.morele.net/plyta-glowna-gigabyte-x870e-aorus-master-x3d-ice-15566741/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.morele.net/procesor-amd-ryzen-9-9950x3d-4-3-ghz-128-mb-box-100-100000719wof-14743984/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.morele.net/procesor-amd-ryzen-9-9950x3d2-4-3-ghz-192-mb-box-100-100001978wof-15920184/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.morele.net/procesor-amd-ryzen-threadripper-9960x-4-2-ghz-128-mb-box-100-100001595wof-15415332/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.morele.net/wentylator-noctua-nf-a12x25-g2-pwm-chromax-black-600144884/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.morele.net/wentylator-noctua-nf-a14x25-g2-pwm-chromax-black-15645657/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.morele.net/zasilacz-seasonic-prime-px-atx-3-2200w-prime-px-2200-atx30-14499536/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.morele.net/zasilacz-seasonic-vertex-gx-1200w-vertex-gx-1200-13040437/",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.newegg.com/evga-xc3-24g-p5-3975-kr-geforce-rtx-3090-24gb-graphics-card-triple-fans/p/N82E16814487524",
+      "state": "historical_or_indexed_only_not_live_checked_this_run"
+    },
+    {
+      "url": "https://www.olx.pl/d/oferta/2x-zotac-24gb-rtx3090-trinity-lokalne-ai-CID99-ID1bzdNK.html",
+      "state": "historical_or_indexed_only_not_live_checked_this_run"
+    },
+    {
+      "url": "https://www.primepc.pl/karty-graficzne-nvidia/28976-asus-proart-rtx5090-o32g-nvidia-geforce-rtx-5090-32-gb-gddr7.html",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.senetic.pl/product/100-100000719WOF",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.senetic.pl/product/MZ-VAP4T0BW",
+      "state": "fetched_public_HTML_not_order_verified"
+    },
+    {
+      "url": "https://www.x-kom.pl/p/1316393-plyta-glowna-socket-str5-gigabyte-trx50-ai-top.html",
+      "state": "historical_or_indexed_only_not_live_checked_this_run"
+    },
+    {
+      "url": "https://www.x-kom.pl/p/1321669-procesor-amd-ryzen-9-amd-ryzen-9-9950x3d.html",
+      "state": "failed_or_blocked"
+    },
+    {
+      "url": "https://www.x-kom.pl/p/1533478-desktop-nyxum-workstation-r9-9950x3d-128gb-4tb-rtx-5090-fe-w11px.html",
+      "state": "failed_or_blocked"
+    }
+  ]
+}

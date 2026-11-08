@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-08",
+  "use": "Discovery only. Summarized selected search results, never live inventory proof. Direct HTTP results and manual decisions are stored separately.",
+  "backend_note": "Native search reported ddgs package missing and served fallback exa/parallel results. No package/backend settings changed.",
+  "searches": [
+    {"query":"\"KF560R32RBEK4-128\" \"F5-6400R3239G32GQ4-G5N\"","finding":"US catalogue and unrelated Newegg kits; no qualifying PL stock."},
+    {"query":"\"128GB\" \"4x32\" \"RDIMM\" Micron Samsung TRX50 Europe","finding":"UK Micron import lead, DDR4 near-matches, IBFusion exact Kingston factory kit and Corsair WS discovered; direct follow-ups captured."},
+    {"query":"\"KF560R32RBEK4-128\" Polska dostępność","finding":"ED SYSTEM usually 14 days; exact Kingston part configurator; Industry-Electronics made-to-order; StorageIsland. Direct evidence supersedes snippets."},
+    {"query":"\"F5-6400R3239G32GQ4-G5N\" kaufen","finding":"ALTERNATE exact 100130590, Gigaserwer last-delivery-price page, UK catalogue, GPUTracker no offers. Exact direct pages captured."},
+    {"query":"\"M321R4GA0PB0-CWM\" \"TRX50\"","finding":"Memory.NET for different AERO D/SAGE board and US singles; not AI TOP factory quartet validation."},
+    {"query":"\"Micron\" \"32GB\" \"RDIMM\" \"TRX50 AI TOP\"","finding":"Kingston exact model 109774 configurator recovered as primary indexed technical reference; direct request 403. Lists non-PRO groups of four, PRO eight and specific enterprise parts. Not fresh selected-kit QVL proof."},
+    {"query":"\"KF556C40BBK2-128\" \"X870E AORUS MASTER X3D ICE\"","finding":"Unrelated system-builder results; no authoritative exact QVL row recovered."},
+    {"query":"\"RTX 3090\" \"2 szt\" używane gwarancja","finding":"OLX EVGA optional pair category lead; assorted singles and mixed three-card bundles. No live qualifying matching pair."},
+    {"query":"\"RTX 3090\" \"pair\" refurbished Europe warranty","finding":"SCAN UK end of life; HS Tech US-origin eBay offers on NL domain; not confirmed PL delivered quantity-two EU stock."},
+    {"query":"\"EVGA\" \"3090\" \"Paste Mod\" \"2 szt\"","finding":"Manufacturer XC3 exact geometry reference and unrelated singles; no purchase-qualified pair."},
+    {"query":"\"RTX 3090\" \"2x\" site:allegrolokalnie.pl","finding":"Existing Zotac water bundle and additional 2x Nvidia Łódź page; both direct pages include sold/ended notice. Category fetched to refresh leads; not pair evidence."},
+    {"query":"\"PRIME-PX-2200-ATX30\" Polska","finding":"Morele, Hard-PC, Gigadeal and Rozetka. Direct seller/stock/VAT checks retained; indexed prices not substituted."},
+    {"query":"\"Hard-PC\" \"regulamin\" firma","finding":"Hard-Pc.pl Sp. z o.o. website identity declaration, captured from newsletter terms; not independent legal registry verification."},
+    {"query":"\"Seasonic\" \"1200\" \"ATX 3.1\" \"12V-2x6\" morele","finding":"Current Seasonic VERTEX family changed cable revision; cannot validate old monitored EAN. Direct manufacturer blocked."},
+    {"query":"\"MAG A1200PLS\" Morele 1200","finding":"MSI exact specification and PL shop discovered; PL live visible Niedostępne contradicts InStock schema. Remains alternative lead."},
+    {"query":"\"NF-A12x25 G2 PWM chromax.black\" \"cena\" -site:noctua.at","finding":"Ropere unknown-seller EUR inventory and affiliate Alza comparison leads, no sufficiently validated Polish six-unit checkout. Current Morele quantity two is not doubled/tripled into live stock."}
+  ],
+  "paths": {
+    "primary_manifest":"research/2026-11-08-urls.json",
+    "followup_manifest":"research/2026-11-08-followup-urls.json",
+    "specs_manifest":"research/2026-11-08-specs-urls.json",
+    "source_review":"research/2026-11-08-findings.md"
+  },
+  "boundary":"No sellers contacted, authenticated pages opened, payment/cart actions or access-control bypass attempted. No screenshots. Unknown remains unknown."
+}

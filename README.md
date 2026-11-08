@@ -1,12 +1,42 @@
 # Three-track RTX 5090 / dual RTX 3090 workstation price monitor
 
-Weekly Poland/EU monitoring through Black Friday 2026. Locked **128GB** builds remain separate: A Threadripper/RTX 5090; C complete A non-GPU platform plus two matching used 3090; B AM5/5090 with separate B1/B2 PSUs.
+Weekly Poland/EU monitoring through Black Friday 2026. A/C remain Threadripper; B remains AM5. All locked current capacities **128GB**.
 
-Latest: **[2026-11-01 report](reports/2026-11-01.md)**; [Decimal/history ledger](research/2026-11-01-calculations.json), [seller ledger](research/2026-11-01-offers.json), [primary](research/2026-11-01-http.json), [follow-up](research/2026-11-01-followup-http.json), [specifications](research/2026-11-01-specs-http.json).
+Latest: **[2026-11-08 report](reports/2026-11-08.md)**; [Decimal/history](research/2026-11-08-calculations.json), [seller ledger](research/2026-11-08-offers.json), [capture evidence](research/2026-11-08-http.json).
 
-**THREADRIPPER TOTAL CURRENTLY DISTORTED BY RAM AVAILABILITY.** All tracks **WAIT**. Current delivered totals **unknown/incomplete**; reference-only A **[97,481.53 PLN](reports/2026-11-01.md)**, B1 **[72,894.61 PLN](reports/2026-11-01.md)**, B2 **[71,449.56 PLN](reports/2026-11-01.md)**. C installed/current and fit-validated matching-pair totals **[incomplete](reports/2026-11-01.md)**. Board stock lost again; factory 4×32 RDIMM unavailable; white HAVN now Morele direct. New ProArt PrimePC lead is conditional, not an approved purchase. HAVN VGPU omits the standard flat bottom bracket; horizontal-conversion hardware and airflow remain **unvalidated**.
+**THREADRIPPER TOTAL CURRENTLY DISTORTED BY RAM AVAILABILITY. All tracks WAIT.** Complete delivered totals unknown. A **[97,231.89 PLN incomplete reference](reports/2026-11-08.md)**; C **[current/fit-validated incomplete](reports/2026-11-08.md)**; B1 **[74,125.25 PLN incomplete reference](reports/2026-11-08.md)**; B2 **[72,680.20 PLN incomplete reference](reports/2026-11-08.md)**. TRX50 AI TOP / ProArt / primary CPU are Morele direct again; PRIME main offer is third-party; factory RDIMM and A/C six-fan group still block completion.
 
-## November 1 current evidence matrix — exact 128GB targets
+## November 8 current evidence matrix — exact 128GB tracks
+
+All amounts are product-only references, never selected delivered costs. Each component price links to its direct product page; totals link to the dated report. C inherits every A non-GPU row. B1/B2 are distinct PSU cases, never additive.
+
+| Component | Track A / C non-GPU | Track B |
+|---|---|---|
+| CPU | [6,685.75 PLN](https://www.morele.net/procesor-amd-ryzen-threadripper-9960x-4-2-ghz-128-mb-box-100-100001595wof-15415332/) | [2,691.55 PLN](https://www.morele.net/procesor-amd-ryzen-9-9950x3d-4-3-ghz-128-mb-box-100-100000719wof-14743984/) |
+| Motherboard | [4,369.00 PLN](https://www.morele.net/plyta-glowna-gigabyte-trx50-ai-top-13812451/) | [2,321.63 PLN](https://www.morele.net/plyta-glowna-gigabyte-x870e-aorus-master-x3d-ice-15566741/) |
+| Factory 128GB RAM | [27,240.88 PLN](https://www.alternate.de/G-Skill/RIMM-128-GB-DDR5-6000-4x-32-GB-Quad-Kit-ECC-Arbeitsspeicher/html/product/100130582) **No exact stock**; PL-VAT illustration; exact factory 4×32 RDIMM | [13,183.18 PLN](https://www.morele.net/pamiec-kingston-fury-beast-ddr5-128gb-5600mt-s-cl40-czarny-kf556c40bbk2-128-15245805/); exact-board QVL pending |
+| Cooler | [1,879.03 PLN](https://www.morele.net/chlodzenie-wodne-thermaltake-aio-aw420-cl-w445-pl14bl-a-15342140/) | [1,523.59 PLN](https://www.morele.net/chlodzenie-wodne-jetworld-tryx-panorama-360-aio-l-p360n-ds3m-g1w-14962229/) |
+| Case | [2,196.03 PLN](https://www.ldlc.com/en/product/PB00756899.html) French gross conversion; Poland checkout unknown | [1,312.62 PLN](https://www.morele.net/obudowa-havn-hs-420-vgpu-biala-hvn-ca-hs420-07-14454524/) |
+| GPU | A [41,405.90 PLN](https://www.morele.net/karta-graficzna-asus-proart-geforce-rtx-5090-oc-32gb-gddr7-dlss4-proart-rtx5090-o32g-600147680/) Morele direct; C **no qualifying current pair** ([exact used targets](reports/2026-11-08.md#table-c--complete-inherited-threadripper--128gb--dual-used-rtx-3090)) | [41,405.90 PLN](https://www.morele.net/karta-graficzna-asus-proart-geforce-rtx-5090-oc-32gb-gddr7-dlss4-proart-rtx5090-o32g-600147680/) same ProArt |
+| PSU | [2,499.00 PLN](https://www.morele.net/zasilacz-seasonic-prime-px-atx-3-2200w-prime-px-2200-atx30-14499536/) **November 1 historical direct reference**, current Morele seller unqualified | B1 [2,499.00 PLN](https://www.morele.net/zasilacz-seasonic-prime-px-atx-3-2200w-prime-px-2200-atx30-14499536/) same historical PRIME; B2 [1,053.95 PLN](https://www.morele.net/zasilacz-seasonic-vertex-gx-1200w-vertex-gx-1200-13040437/) VERTEX ATX 3.0 reference, native lead pending |
+| Storage | [8,899.44 PLN](https://www.morele.net/dysk-ssd-samsung-9100-pro-4tb-m-2-2280-pci-e-x4-gen5-nvme-mz-vap4t0bw-14740719/) two 9100 PRO | [4,449.72 PLN](https://www.morele.net/dysk-ssd-samsung-9100-pro-4tb-m-2-2280-pci-e-x4-gen5-nvme-mz-vap4t0bw-14740719/) 9100 + [3,356.06 PLN](https://www.krsystem.pl/samsung_dysk_ssd_990pro_gen4.0x4_nvme_4tb_mzv9p4t0bw-item-73006.html) 990 PRO |
+| Fans | [1,036.50 PLN](https://www.morele.net/wentylator-noctua-nf-a14x25-g2-pwm-chromax-black-15645657/) six 140 + [1,020.36 PLN](https://www.morele.net/wentylator-noctua-nf-a12x25-g2-pwm-chromax-black-600144884/) six 120 reference; **only two 120 selectable** | [1,382.00 PLN](https://www.morele.net/wentylator-noctua-nf-a14x25-g2-pwm-chromax-black-15645657/) eight 140 |
+| Platform CPU+board+RAM+cooler+case | [42,370.69 PLN incomplete](reports/2026-11-08.md) A=C | [21,032.57 PLN incomplete](reports/2026-11-08.md) |
+| Current complete delivered total | A [unknown; 97,231.89 PLN reference](reports/2026-11-08.md); C [current/fit incomplete](reports/2026-11-08.md) | B1 [unknown; 74,125.25 PLN reference](reports/2026-11-08.md); B2 [unknown; 72,680.20 PLN reference](reports/2026-11-08.md) |
+| Theoretical two 5090 | [138,637.79 PLN unvalidated](reports/2026-11-08.md) | B1 [115,531.15 PLN unvalidated](reports/2026-11-08.md); stock VGPU not ready; B2 one GPU only |
+| Distinct CPU alternative | Not installed; architectures locked | 9950X3D2 [3,720.00 PLN](https://www.morele.net/procesor-amd-ryzen-9-9950x3d2-4-3-ghz-192-mb-box-100-100001978wof-15920184/), [1,028.45 PLN / 38.21% premium](reports/2026-11-08.md), no automatic substitution |
+
+C 48GB is aggregate physical VRAM across separate devices, not unified. B CPU-fed pair is **x8/x8**, not x16/x16; stock VGPU is one-card oriented and lacks the flat standard bottom bracket. C prior water bundle has a sold/ended notice already present November 1: **availability wording corrected**, not a newly verified stock loss. No stale pair is included in totals.
+
+## Current prebuilt reference — not like-for-like
+
+[ProLine ZENPC Studio 62,999.00 PLN](https://proline.pl/zenpc-studio-amd-ryzen-9950x3d2-rtx-5090-2tb-128gb-dlss-4-p8392809), **preorder/on request**, now discloses 9950X3D2 Tray, X870E AORUS ELITE WIFI7, exact Kingston 128GB `KF556C36BBEAK2-128`, AORUS MASTER ICE RTX 5090, Noctua LC1 360, FOCUS GX-1000 v4 and 990 PRO **2TB**. Current exact-page terms advertise **36-month door-to-door and free Poland delivery**; committed dispatch and cross-border collection unknown. GPU/cooler BOM changed since November 1; not a same-build price delta or a substitute for B. [Full comparison](reports/2026-11-08.md#comparable-prebuilt-and-whole-system-warranty).
+
+## Separate Mac Studio current comparison — outside A/B/C
+
+No 86GB option: **96GB probable intended RAM capacity, pending confirmation**. Exact M5 Ultra 30CPU/64GPU/96GB/1TB and 36CPU/80GPU/256GB/1TB Apple standard and Poland Education configured totals remain **unknown**. [iSpot exact 36/80/256GB/1TB 54,499.00 PLN](https://ispot.pl/apple-mac-studio-36-rdzeniowy-procesor-apple-m5-ultra-gpu-80-rdzeni-ram-256gb-dysk-1-tb) is unchanged, **2–8 weeks / on order**, not immediate stock. Education eligibility for this buyer unknown; unified RAM is not CUDA VRAM. [Current separate comparison](reports/2026-11-08.md#separate-mac-studio-comparison).
+
+## November 1 archived evidence matrix — NOT CURRENT
 
 All component amounts link directly to the corresponding seller product page. **Product-only references**, never delivered; no exact stock means no complete purchasable basket. C inherits every A non-GPU row. B1/B2 are alternatives, not additive.
 
@@ -27,7 +57,7 @@ All component amounts link directly to the corresponding seller product page. **
 
 C 48GB is aggregate physical VRAM across separate devices, never unified. B CPU-fed pair is **x8/x8**, never x16/x16. All warranty, seller, exact-fit, M.2 and 30/90-day independent history gates are in the [report](reports/2026-11-01.md). October 18/25 below were unpublished local drafts at this run's preflight, not previously pushed reports.
 
-## Separate Mac Studio current comparison — not A/B/C
+## Separate Mac Studio November 1 archived comparison — NOT CURRENT
 
 No 86GB RAM option; **96GB probable intended capacity, pending confirmation**. Exact M5 Ultra 30CPU/64GPU/96GB/1TB and 36CPU/80GPU/256GB/1TB Apple standard/Poland Education configured prices remain **unknown**, not derived from starting prices. A separately sourced [iSpot exact 36/80/256GB/1TB **54,499.00 PLN** retail quote](https://ispot.pl/apple-mac-studio-36-rdzeniowy-procesor-apple-m5-ultra-gpu-80-rdzeni-ram-256gb-dysk-1-tb) shows **2–8 weeks** dispatch, not immediate stock despite schema. Education price unknown, buyer eligibility unknown; [Apple eligibility policy](https://www.apple.com/legal/sales-support/sales-policies/education_pl.html) retrieved. Unified Mac RAM is not CUDA VRAM. See [current Mac evidence](reports/2026-11-01.md#separate-mac-studio-comparison).
 
